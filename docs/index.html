@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>myfinancial · Official Circulars — SEBI · NSE · BSE</title>
+<meta name="description" content="Official regulatory circulars, notices and press releases from SEBI, NSE and BSE — aggregated from official feeds and refreshed automatically. Maintained by myfinancial.">
+<meta property="og:title" content="myfinancial · Official Circulars">
+<meta property="og:description" content="SEBI · NSE · BSE regulatory circulars and notices, refreshed automatically from official feeds.">
+<meta property="og:type" content="website">
+<link rel="icon" href='data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="%230f2a43"/><text x="32" y="42" font-family="Georgia,serif" font-size="30" font-weight="bold" fill="%23f5b942" text-anchor="middle">mf</text></svg>'>
+<style>
+  :root{
+    --bg:#f6f7f9; --panel:#ffffff; --ink:#16222e; --muted:#5b6b7b; --line:#e3e8ee;
+    --brand:#0f2a43; --accent:#d97706; --accent-soft:#fef3c7;
+    --sebi:#6d28d9; --sebi-bg:#f1eafd; --nse:#be123c; --nse-bg:#fdeaef; --bse:#0369a1; --bse-bg:#e6f3fb;
+    --chip:#eef1f5; --chip-on:#0f2a43; --chip-on-ink:#ffffff; --shadow:0 1px 2px rgba(15,42,67,.06);
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg:#0e141b; --panel:#161e28; --ink:#e6edf4; --muted:#93a4b5; --line:#232e3b;
+      --brand:#e6edf4; --accent:#f5b942; --accent-soft:#3a2c10;
+      --sebi:#b79df1; --sebi-bg:#2a2140; --nse:#f39cb2; --nse-bg:#3d1a24; --bse:#8ecdf3; --bse-bg:#12293a;
+      --chip:#1f2937; --chip-on:#e6edf4; --chip-on-ink:#0e141b; --shadow:none;
+    }
+  }
+  *{box-sizing:border-box}
+  [hidden]{display:none!important}
+  html{scroll-behavior:smooth}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font:15px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;}
+  a{color:inherit}
+  .wrap{max-width:960px;margin:0 auto;padding:0 20px}
+
+  header{padding:34px 0 8px}
+  .wordmark{font-size:26px;font-weight:800;letter-spacing:-.02em;color:var(--brand)}
+  .wordmark span{color:var(--accent)}
+  h1{font-size:36px;line-height:1.15;letter-spacing:-.02em;margin:8px 0 6px;font-weight:800}
+  .tagline{color:var(--muted);margin:0 0 18px;font-size:15.5px}
+  .tagline b{color:var(--ink);font-weight:600}
+
+  .statbar{display:flex;flex-wrap:wrap;gap:10px;margin:4px 0 20px}
+  .stat{background:var(--panel);border:1px solid var(--line);border-radius:10px;
+    padding:8px 14px;font-size:13.5px;color:var(--muted);box-shadow:var(--shadow)}
+  .stat b{color:var(--ink);font-size:15px;font-variant-numeric:tabular-nums}
+  .dot{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px;vertical-align:1px}
+
+  .controls{position:sticky;top:0;z-index:5;background:var(--bg);padding:10px 0 12px;
+    border-bottom:1px solid var(--line);margin-bottom:6px}
+  .row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+  .row + .row{margin-top:8px}
+  input[type=search]{flex:1 1 240px;min-width:180px;background:var(--panel);color:var(--ink);
+    border:1px solid var(--line);border-radius:10px;padding:9px 13px;font-size:14.5px;outline:none}
+  input[type=search]:focus{border-color:var(--accent)}
+  select{background:var(--panel);color:var(--ink);border:1px solid var(--line);
+    border-radius:10px;padding:9px 10px;font-size:14px;outline:none;max-width:230px}
+  .seg{display:flex;border:1px solid var(--line);border-radius:10px;overflow:hidden;background:var(--panel)}
+  .seg button{border:0;background:transparent;color:var(--muted);padding:9px 12px;font-size:13.5px;cursor:pointer}
+  .seg button.on{background:var(--chip-on);color:var(--chip-on-ink);font-weight:600}
+  .chips{display:flex;flex-wrap:wrap;gap:8px}
+  .chip{border:1px solid var(--line);background:var(--chip);color:var(--ink);border-radius:999px;
+    padding:6px 13px;font-size:13.5px;cursor:pointer}
+  .chip b{font-variant-numeric:tabular-nums;font-weight:600;color:var(--muted)}
+  .chip.on{background:var(--chip-on);border-color:var(--chip-on);color:var(--chip-on-ink)}
+  .chip.on b{color:var(--chip-on-ink);opacity:.75}
+
+  .meta-line{color:var(--muted);font-size:13px;margin:14px 2px 4px}
+
+  .dayhead{font-size:13.5px;font-weight:700;color:var(--muted);text-transform:uppercase;
+    letter-spacing:.06em;margin:26px 2px 8px}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:12px;overflow:hidden;box-shadow:var(--shadow)}
+  .item{display:flex;gap:12px;padding:12px 14px;border-top:1px solid var(--line);align-items:flex-start}
+  .item:first-child{border-top:0}
+  .badge{flex:0 0 auto;font-size:11.5px;font-weight:700;letter-spacing:.04em;border-radius:6px;
+    padding:3px 8px;margin-top:2px}
+  .badge.SEBI{color:var(--sebi);background:var(--sebi-bg)}
+  .badge.NSE{color:var(--nse);background:var(--nse-bg)}
+  .badge.BSE{color:var(--bse);background:var(--bse-bg)}
+  .item .body{min-width:0}
+  .item a.title{display:block;font-weight:600;font-size:14.5px;line-height:1.4;text-decoration:none}
+  .item a.title:hover{color:var(--accent);text-decoration:underline}
+  .sub{color:var(--muted);font-size:12.5px;margin-top:3px}
+  .sub .cat{font-weight:600}
+  .ft{border:1px solid var(--line);border-radius:5px;padding:0 5px;font-size:10.5px;
+    text-transform:uppercase;letter-spacing:.05em;margin-left:6px}
+
+  .more{display:block;margin:18px auto 0;border:1px solid var(--line);background:var(--panel);
+    color:var(--ink);border-radius:10px;padding:10px 22px;font-size:14px;cursor:pointer}
+  .more:hover{border-color:var(--accent)}
+  .empty{padding:44px 20px;text-align:center;color:var(--muted)}
+
+  footer{margin:44px 0 30px;border-top:1px solid var(--line);padding-top:18px;
+    color:var(--muted);font-size:13px}
+  footer .fresh{display:flex;flex-wrap:wrap;gap:14px;margin-bottom:12px}
+  footer a{color:var(--muted)}
+  footer a:hover{color:var(--accent)}
+  .warn{color:#b45309;font-weight:600}
+  .note{background:var(--accent-soft);border-radius:10px;padding:12px 16px;margin:16px 0;font-size:13.5px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="wordmark">myfinancial<span>.</span></div>
+    <h1>Official Circulars</h1>
+    <p class="tagline"><b>SEBI · NSE · BSE</b> — regulatory circulars, notices, orders and press
+      releases, aggregated from the official public feeds and refreshed automatically.</p>
+    <div class="statbar" id="statbar" hidden>
+      <div class="stat"><b id="s-total">–</b> tracked</div>
+      <div class="stat"><span class="dot" style="background:var(--sebi)"></span>SEBI <b id="s-sebi">–</b></div>
+      <div class="stat"><span class="dot" style="background:var(--nse)"></span>NSE <b id="s-nse">–</b></div>
+      <div class="stat"><span class="dot" style="background:var(--bse)"></span>BSE <b id="s-bse">–</b></div>
+      <div class="stat" id="s-updated">updating…</div>
+    </div>
+  </header>
+
+  <div class="controls" id="controls" hidden>
+    <div class="row">
+      <input id="q" type="search" placeholder="Search circulars… (e.g. surveillance, margin, IPO, mutual fund)" aria-label="Search circulars">
+      <select id="cat" aria-label="Filter by category"><option value="">All categories</option></select>
+      <div class="seg" id="range" role="group" aria-label="Date range">
+        <button data-r="1">Today</button><button data-r="7">7d</button>
+        <button data-r="30" class="on">30d</button><button data-r="0">All</button>
+      </div>
+    </div>
+    <div class="row chips" id="srcchips" role="group" aria-label="Filter by source"></div>
+  </div>
+
+  <div class="meta-line" id="showing"></div>
+  <main id="list" aria-live="polite"><div class="empty">Loading latest circulars…</div></main>
+  <button class="more" id="more" hidden>Show more</button>
+
+  <footer>
+    <div class="fresh" id="fresh"></div>
+    <p>Every entry links to the original document on the official SEBI / NSE / BSE site — this page
+      is an index, not a republication. Data is aggregated from the exchanges’ and regulator’s own
+      public RSS feeds and refreshed twice daily via GitHub Actions.</p>
+    <p><b>Not investment advice.</b> This is an informational index maintained by
+      <b>myfinancial</b> for research and compliance-tracking convenience.</p>
+    <p>
+      <a href="https://github.com/myfinancialria/official-circulars">Source &amp; dataset on GitHub</a> ·
+      <a href="https://www.sebi.gov.in">sebi.gov.in</a> ·
+      <a href="https://www.nseindia.com">nseindia.com</a> ·
+      <a href="https://www.bseindia.com">bseindia.com</a> ·
+      inspired by <a href="https://github.com/rhnvrm/stock-market-circulars">stock-market-circulars</a>
+    </p>
+  </footer>
+</div>
+
+<script>
+"use strict";
+const $ = id => document.getElementById(id);
+const SRC = ["SEBI","NSE","BSE"];
+let DATA = null;
+let state = { q:"", src:"", cat:"", range:30, limit:250 };
+
+/* ---------- helpers ---------- */
+const esc = s => s.replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const istToday = (offsetDays=0) =>
+  new Date(Date.now() - offsetDays*864e5).toLocaleDateString("en-CA", {timeZone:"Asia/Kolkata"});
+const dayLabel = iso => {
+  const t = istToday(), y = istToday(1);
+  const label = new Date(iso + "T12:00:00").toLocaleDateString("en-IN",
+    {weekday:"long", day:"numeric", month:"long", year:"numeric"});
+  return iso === t ? "Today · " + label : iso === y ? "Yesterday · " + label : label;
+};
+const rel = iso => {
+  const mins = Math.max(0, Math.round((Date.now() - new Date(iso)) / 60000));
+  if (mins < 60) return mins + " min ago";
+  if (mins < 2880) return Math.round(mins/60) + " h ago";
+  return Math.round(mins/1440) + " d ago";
+};
+const fileType = url => { const m = url.match(/\.(pdf|zip|xlsx?|docx?)($|\?)/i); return m ? m[1].toUpperCase() : null; };
+
+/* ---------- filtering ---------- */
+function baseFilter(it){          // everything except the source chip
+  if (state.range && it.date < istToday(state.range - 1)) return false;
+  if (state.cat && it.category !== state.cat) return false;
+  if (state.q){
+    const hay = (it.title + " " + it.category + " " + (it.ref||"")).toLowerCase();
+    for (const w of state.q.toLowerCase().split(/\s+/)) if (w && !hay.includes(w)) return false;
+  }
+  return true;
+}
+const filtered = () => DATA.items.filter(it => baseFilter(it) && (!state.src || it.source === state.src));
+
+/* ---------- rendering ---------- */
+function renderChips(){
+  const base = DATA.items.filter(baseFilter);
+  const counts = Object.fromEntries(SRC.map(s => [s, base.filter(i => i.source===s).length]));
+  $("srcchips").innerHTML =
+    `<button class="chip${state.src===""?" on":""}" data-s="">All <b>${base.length}</b></button>` +
+    SRC.map(s => `<button class="chip${state.src===s?" on":""}" data-s="${s}">${s} <b>${counts[s]}</b></button>`).join("");
+  $("srcchips").querySelectorAll("button").forEach(b =>
+    b.onclick = () => { state.src = b.dataset.s; state.limit = 250; render(); });
+}
+
+function render(){
+  renderChips();
+  const rows = filtered();
+  const shown = rows.slice(0, state.limit);
+  $("showing").textContent = rows.length
+    ? `Showing ${shown.length} of ${rows.length} circular${rows.length>1?"s":""}`
+    : "";
+  let html = "", day = null;
+  for (const it of shown){
+    if (it.date !== day){
+      if (day !== null) html += "</div>";
+      html += `<div class="dayhead">${dayLabel(it.date)}</div><div class="card">`;
+      day = it.date;
+    }
+    const ft = fileType(it.url);
+    html += `<div class="item">
+      <span class="badge ${it.source}">${it.source}</span>
+      <div class="body">
+        <a class="title" href="${esc(it.url)}" target="_blank" rel="noopener noreferrer">${esc(it.title)}</a>
+        <div class="sub"><span class="cat">${esc(it.category)}</span>${
+          it.ref ? " · " + esc(it.ref) : ""}${it.time ? " · " + it.time + " IST" : ""}${
+          ft ? `<span class="ft">${ft}</span>` : ""}</div>
+      </div></div>`;
+  }
+  if (day !== null) html += "</div>";
+  $("list").innerHTML = html ||
+    `<div class="empty">No circulars match — try widening the date range or clearing the search.</div>`;
+  $("more").hidden = rows.length <= state.limit;
+  const p = new URLSearchParams();
+  if (state.q) p.set("q", state.q);
+  if (state.src) p.set("src", state.src);
+  if (state.cat) p.set("cat", state.cat);
+  if (state.range !== 30) p.set("range", state.range);
+  history.replaceState(null, "", p.toString() ? "?" + p : location.pathname);
+}
+
+/* ---------- boot ---------- */
+function boot(d){
+  DATA = d;
+  $("statbar").hidden = $("controls").hidden = false;
+  $("s-total").textContent = d.count.toLocaleString("en-IN");
+  for (const s of SRC)
+    $("s-" + s.toLowerCase()).textContent = d.items.filter(i => i.source===s).length.toLocaleString("en-IN");
+  $("s-updated").textContent = "updated " + rel(d.generated_at);
+  $("s-updated").title = new Date(d.generated_at).toLocaleString("en-IN", {timeZone:"Asia/Kolkata"}) + " IST";
+
+  const cats = [...new Set(d.items.map(i => i.category))].sort();
+  $("cat").innerHTML += cats.map(c => `<option>${esc(c)}</option>`).join("");
+
+  $("fresh").innerHTML = SRC.map(s => {
+    const m = d.sources[s]; if (!m) return "";
+    return m.ok
+      ? `<span><span class="dot" style="background:var(--${s.toLowerCase()})"></span>${s}: live, ${rel(m.last_success)}</span>`
+      : `<span class="warn">⚠ ${s}: feed unreachable${m.last_success ? ", last success " + rel(m.last_success) : ""}</span>`;
+  }).join("");
+
+  const p = new URLSearchParams(location.search);
+  state.q = p.get("q") || "";
+  state.src = SRC.includes(p.get("src")) ? p.get("src") : "";
+  if (p.has("range")) state.range = Math.max(0, parseInt(p.get("range"), 10) || 0);
+  $("q").value = state.q;
+
+  const catQ = p.get("cat");
+  if (catQ && cats.includes(catQ)) { state.cat = catQ; $("cat").value = catQ; }
+  $("range").querySelectorAll("button").forEach(b => {
+    b.classList.toggle("on", +b.dataset.r === state.range);
+    b.onclick = () => { state.range = +b.dataset.r; state.limit = 250;
+      $("range").querySelectorAll("button").forEach(x => x.classList.toggle("on", x===b)); render(); };
+  });
+  let t; $("q").oninput = () => { clearTimeout(t);
+    t = setTimeout(() => { state.q = $("q").value.trim(); state.limit = 250; render(); }, 150); };
+  $("cat").onchange = () => { state.cat = $("cat").value; state.limit = 250; render(); };
+  $("more").onclick = () => { state.limit += 250; render(); };
+  render();
+}
+
+fetch("data/circulars.json", {cache:"no-store"})
+  .then(r => { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+  .then(boot)
+  .catch(err => {
+    $("list").innerHTML = `<div class="empty">Could not load the dataset (${esc(String(err.message||err))}).<br>
+      If you opened this file directly, serve the folder instead:<br>
+      <code>python3 -m http.server -d docs</code></div>`;
+  });
+</script>
+</body>
+</html>
