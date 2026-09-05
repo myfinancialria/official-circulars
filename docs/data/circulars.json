@@ -1,11 +1,11 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-09-04T15:46:51+00:00",
+ "generated_at": "2026-09-05T08:21:46+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-09-04T15:46:51+00:00",
+   "last_success": "2026-09-05T08:21:46+00:00",
    "last_count": 30,
    "last_new": 0,
    "error": null
@@ -13,22 +13,55 @@
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-09-04T15:46:51+00:00",
-   "last_count": 36,
-   "last_new": 0,
+   "last_success": "2026-09-05T08:21:46+00:00",
+   "last_count": 38,
+   "last_new": 2,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-09-04T15:46:51+00:00",
-   "last_count": 34,
-   "last_new": 0,
+   "last_success": "2026-09-05T08:21:46+00:00",
+   "last_count": 37,
+   "last_new": 3,
    "error": null
   }
  },
- "count": 100,
+ "count": 105,
  "items": [
+  {
+   "id": "7f05c8859e7d",
+   "source": "BSE",
+   "title": "Scheme of Arrangement -Bonus Issue of Non Convertible Preference Shares by TVS Holdings Ltd.(Scrip Code: 520056)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260904-37/20260904-37.pdf",
+   "date": "2026-09-04",
+   "time": "23:52",
+   "category": "Listing",
+   "ref": "20260904-37",
+   "first_seen": "2026-09-05T08:21:46+00:00"
+  },
+  {
+   "id": "c88d27767e4b",
+   "source": "BSE",
+   "title": "Daily Bulletin",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260904-36/20260904-36.pdf",
+   "date": "2026-09-04",
+   "time": "23:38",
+   "category": "Notice",
+   "ref": "20260904-36",
+   "first_seen": "2026-09-05T08:21:46+00:00"
+  },
+  {
+   "id": "215ffb6c4cb8",
+   "source": "BSE",
+   "title": "Graded Surveillance Measure (GSM) – Updated list of companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260904-35/20260904-35.pdf",
+   "date": "2026-09-04",
+   "time": "21:43",
+   "category": "Surveillance",
+   "ref": "20260904-35",
+   "first_seen": "2026-09-05T08:21:46+00:00"
+  },
   {
    "id": "984c82753a95",
    "source": "BSE",
@@ -536,6 +569,17 @@
    "first_seen": "2026-09-04T15:43:03+00:00"
   },
   {
+   "id": "b7eae0714e5a",
+   "source": "NSE",
+   "title": "Graded Surveillance Measure (GSM) - Updated list of companies",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76204.zip",
+   "date": "2026-09-04",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76204",
+   "first_seen": "2026-09-05T08:21:46+00:00"
+  },
+  {
    "id": "abcdd49bfb9b",
    "source": "NSE",
    "title": "Temporary Suspension of fresh subscription under IDCW option in Certain Schemes of UTI Mutual Fund on NSE MF Invest Platform",
@@ -666,6 +710,17 @@
    "category": "Listing",
    "ref": "CML76176",
    "first_seen": "2026-09-04T15:43:03+00:00"
+  },
+  {
+   "id": "6542af953596",
+   "source": "NSE",
+   "title": "Availability of UTI Annual Interval Fund- I on NSE MF Invest Platform",
+   "url": "https://nsearchives.nseindia.com/content/circulars/NMF76196.pdf",
+   "date": "2026-09-04",
+   "time": null,
+   "category": "Mutual Funds",
+   "ref": "NMF76196",
+   "first_seen": "2026-09-05T08:21:46+00:00"
   },
   {
    "id": "5cfc6c8ee4eb",
