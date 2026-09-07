@@ -1,11 +1,11 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-09-06T16:18:12+00:00",
+ "generated_at": "2026-09-07T09:21:50+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-09-06T16:18:12+00:00",
+   "last_success": "2026-09-07T09:21:50+00:00",
    "last_count": 30,
    "last_new": 0,
    "error": null
@@ -13,22 +13,154 @@
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-09-06T16:18:12+00:00",
-   "last_count": 38,
-   "last_new": 0,
+   "last_success": "2026-09-07T09:21:50+00:00",
+   "last_count": 5,
+   "last_new": 5,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-09-06T16:18:12+00:00",
-   "last_count": 37,
-   "last_new": 0,
+   "last_success": "2026-09-07T09:21:50+00:00",
+   "last_count": 7,
+   "last_new": 7,
    "error": null
   }
  },
- "count": 105,
+ "count": 117,
  "items": [
+  {
+   "id": "d7eef4b6445c",
+   "source": "BSE",
+   "title": "Part Redemption of The Debenture of the Companies.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-7/20260907-7.pdf",
+   "date": "2026-09-07",
+   "time": "14:23",
+   "category": "Debt",
+   "ref": "20260907-7",
+   "first_seen": "2026-09-07T09:21:50+00:00"
+  },
+  {
+   "id": "9d74b9ca0c31",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Farm Peace Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-6/20260907-6.pdf",
+   "date": "2026-09-07",
+   "time": "14:19",
+   "category": "Listing",
+   "ref": "20260907-6",
+   "first_seen": "2026-09-07T09:21:50+00:00"
+  },
+  {
+   "id": "ae1060eb87fb",
+   "source": "BSE",
+   "title": "Demat Auction 709",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-5/20260907-5.pdf",
+   "date": "2026-09-07",
+   "time": "13:28",
+   "category": "Clearing & Settlement",
+   "ref": "20260907-5",
+   "first_seen": "2026-09-07T09:21:50+00:00"
+  },
+  {
+   "id": "f7cf6fb1ec56",
+   "source": "BSE",
+   "title": "SMEIPO- Draft Offer Document",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-3/20260907-3.pdf",
+   "date": "2026-09-07",
+   "time": "13:25",
+   "category": "Notice",
+   "ref": "20260907-3",
+   "first_seen": "2026-09-07T09:21:50+00:00"
+  },
+  {
+   "id": "a13d13920031",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Deepa Jewellers Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-4/20260907-4.pdf",
+   "date": "2026-09-07",
+   "time": "13:25",
+   "category": "Listing",
+   "ref": "20260907-4",
+   "first_seen": "2026-09-07T09:21:50+00:00"
+  },
+  {
+   "id": "6e0664a11c27",
+   "source": "BSE",
+   "title": "Suspension of trading in T-bills/Government Securities",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-2/20260907-2.pdf",
+   "date": "2026-09-07",
+   "time": "12:55",
+   "category": "Trading",
+   "ref": "20260907-2",
+   "first_seen": "2026-09-07T09:21:50+00:00"
+  },
+  {
+   "id": "96112d626c56",
+   "source": "BSE",
+   "title": "Change in Group of Equity Shares of PHYCHEM TECHNOLOGIES LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260907-1/20260907-1.pdf",
+   "date": "2026-09-07",
+   "time": "12:10",
+   "category": "Notice",
+   "ref": "20260907-1",
+   "first_seen": "2026-09-07T09:21:50+00:00"
+  },
+  {
+   "id": "d54389cb090c",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Deepa Jewellers Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76213.pdf",
+   "date": "2026-09-07",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76213",
+   "first_seen": "2026-09-07T09:21:50+00:00"
+  },
+  {
+   "id": "d5410a48dec2",
+   "source": "NSE",
+   "title": "NCMS-OTP based Two Factor Authentication and upgradation of NCMS version",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CD76211.zip",
+   "date": "2026-09-07",
+   "time": null,
+   "category": "Currency Derivatives",
+   "ref": "CD76211",
+   "first_seen": "2026-09-07T09:21:50+00:00"
+  },
+  {
+   "id": "97578957baa9",
+   "source": "NSE",
+   "title": "NCMS- OTP based Two Factor Authentication and upgradation of NCMS version",
+   "url": "https://nsearchives.nseindia.com/content/circulars/COM76209.zip",
+   "date": "2026-09-07",
+   "time": null,
+   "category": "Commodity Derivatives",
+   "ref": "COM76209",
+   "first_seen": "2026-09-07T09:21:50+00:00"
+  },
+  {
+   "id": "867314a25088",
+   "source": "NSE",
+   "title": "NCMS-OTP based Two Factor Authentication and upgradation of NCMS Version",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT76210.zip",
+   "date": "2026-09-07",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT76210",
+   "first_seen": "2026-09-07T09:21:50+00:00"
+  },
+  {
+   "id": "6c7e3ec18989",
+   "source": "NSE",
+   "title": "Upgradation of NCMS version in CM Segment",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT76212.pdf",
+   "date": "2026-09-07",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT76212",
+   "first_seen": "2026-09-07T09:21:50+00:00"
+  },
   {
    "id": "7f05c8859e7d",
    "source": "BSE",
