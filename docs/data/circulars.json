@@ -1,34 +1,199 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-09-07T18:15:43+00:00",
+ "generated_at": "2026-09-08T08:52:26+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-09-07T18:15:43+00:00",
+   "last_success": "2026-09-08T08:52:26+00:00",
    "last_count": 30,
-   "last_new": 14,
+   "last_new": 0,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-09-07T18:15:43+00:00",
-   "last_count": 21,
-   "last_new": 16,
+   "last_success": "2026-09-08T08:52:26+00:00",
+   "last_count": 1,
+   "last_new": 1,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-09-07T18:15:43+00:00",
-   "last_count": 39,
-   "last_new": 32,
+   "last_success": "2026-09-08T08:52:26+00:00",
+   "last_count": 14,
+   "last_new": 14,
    "error": null
   }
  },
- "count": 179,
+ "count": 194,
  "items": [
+  {
+   "id": "1c132eab0d12",
+   "source": "BSE",
+   "title": "Part Redemption of Debenture of Companies.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260908-14/20260908-14.pdf",
+   "date": "2026-09-08",
+   "time": "13:54",
+   "category": "Debt",
+   "ref": "20260908-14",
+   "first_seen": "2026-09-08T08:52:26+00:00"
+  },
+  {
+   "id": "09714f2c9ca8",
+   "source": "BSE",
+   "title": "Part Redemption of Debentures of Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260908-13/20260908-13.pdf",
+   "date": "2026-09-08",
+   "time": "13:52",
+   "category": "Debt",
+   "ref": "20260908-13",
+   "first_seen": "2026-09-08T08:52:26+00:00"
+  },
+  {
+   "id": "6a99e4df7ff0",
+   "source": "BSE",
+   "title": "Sub-Division of the Equity Shares of TAAL Tech Ltd (Scrip Code: 539956).",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260908-12/20260908-12.pdf",
+   "date": "2026-09-08",
+   "time": "13:37",
+   "category": "Corporate Action",
+   "ref": "20260908-12",
+   "first_seen": "2026-09-08T08:52:26+00:00"
+  },
+  {
+   "id": "75d783c98076",
+   "source": "BSE",
+   "title": "Suspension Of Trading in Commercial Paper",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260908-11/20260908-11.pdf",
+   "date": "2026-09-08",
+   "time": "13:35",
+   "category": "Debt",
+   "ref": "20260908-11",
+   "first_seen": "2026-09-08T08:52:26+00:00"
+  },
+  {
+   "id": "a452362bf337",
+   "source": "BSE",
+   "title": "Suspension of Trading in Debentures and Bonds of Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260908-10/20260908-10.pdf",
+   "date": "2026-09-08",
+   "time": "13:33",
+   "category": "Debt",
+   "ref": "20260908-10",
+   "first_seen": "2026-09-08T08:52:26+00:00"
+  },
+  {
+   "id": "6e46935e2d36",
+   "source": "BSE",
+   "title": "Demat Auction 710",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260908-9/20260908-9.pdf",
+   "date": "2026-09-08",
+   "time": "13:25",
+   "category": "Clearing & Settlement",
+   "ref": "20260908-9",
+   "first_seen": "2026-09-08T08:52:26+00:00"
+  },
+  {
+   "id": "229b9853bc38",
+   "source": "BSE",
+   "title": "Listing of privately placed securities on the debt market segment of the Exchange",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260908-8/20260908-8.pdf",
+   "date": "2026-09-08",
+   "time": "13:24",
+   "category": "Listing",
+   "ref": "20260908-8",
+   "first_seen": "2026-09-08T08:52:26+00:00"
+  },
+  {
+   "id": "f6239568703e",
+   "source": "BSE",
+   "title": "Suspension of Trading in Debt Securities of Navi Finserv Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260908-7/20260908-7.pdf",
+   "date": "2026-09-08",
+   "time": "13:16",
+   "category": "Debt",
+   "ref": "20260908-7",
+   "first_seen": "2026-09-08T08:52:26+00:00"
+  },
+  {
+   "id": "9e3eba61188b",
+   "source": "BSE",
+   "title": "Suspension of trading in T-bills/Government Securities",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260908-6/20260908-6.pdf",
+   "date": "2026-09-08",
+   "time": "13:15",
+   "category": "Trading",
+   "ref": "20260908-6",
+   "first_seen": "2026-09-08T08:52:26+00:00"
+  },
+  {
+   "id": "7ccc7c7a4d01",
+   "source": "BSE",
+   "title": "Change in Group of Equity Shares of Farm Peace Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260908-5/20260908-5.pdf",
+   "date": "2026-09-08",
+   "time": "13:02",
+   "category": "Notice",
+   "ref": "20260908-5",
+   "first_seen": "2026-09-08T08:52:26+00:00"
+  },
+  {
+   "id": "dbbe213b2a67",
+   "source": "BSE",
+   "title": "Change in Group of Equity Shares of FLY-HI MARITIME TRAVELS LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260908-4/20260908-4.pdf",
+   "date": "2026-09-08",
+   "time": "10:41",
+   "category": "Notice",
+   "ref": "20260908-4",
+   "first_seen": "2026-09-08T08:52:26+00:00"
+  },
+  {
+   "id": "fef2501306f5",
+   "source": "BSE",
+   "title": "Non-Competitive Bidding Facility for Auction of Treasury Bills (T-Bills) on September 02, 2026",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260908-2/20260908-2.pdf",
+   "date": "2026-09-08",
+   "time": "08:58",
+   "category": "Clearing & Settlement",
+   "ref": "20260908-2",
+   "first_seen": "2026-09-08T08:52:26+00:00"
+  },
+  {
+   "id": "fa44c5aea706",
+   "source": "BSE",
+   "title": "Non-Competitive Bidding for Auction of State Government Securities (SDL) on September 08, 2026",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260908-1/20260908-1.pdf",
+   "date": "2026-09-08",
+   "time": "08:58",
+   "category": "Clearing & Settlement",
+   "ref": "20260908-1",
+   "first_seen": "2026-09-08T08:52:26+00:00"
+  },
+  {
+   "id": "d03bfbab968f",
+   "source": "BSE",
+   "title": "Non-Competitive Bidding for Auction of GoI dated Securities (G-secs) on September 11, 2026",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260908-3/20260908-3.pdf",
+   "date": "2026-09-08",
+   "time": "08:58",
+   "category": "Clearing & Settlement",
+   "ref": "20260908-3",
+   "first_seen": "2026-09-08T08:52:26+00:00"
+  },
+  {
+   "id": "668c9dd2ce0f",
+   "source": "NSE",
+   "title": "Review of Margin Framework for Commodity Derivatives Segment",
+   "url": "https://nsearchives.nseindia.com/content/circulars/COM76230.pdf",
+   "date": "2026-09-08",
+   "time": null,
+   "category": "Commodity Derivatives",
+   "ref": "COM76230",
+   "first_seen": "2026-09-08T08:52:26+00:00"
+  },
   {
    "id": "fd1fc9e4622e",
    "source": "BSE",
