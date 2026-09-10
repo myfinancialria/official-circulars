@@ -1,34 +1,221 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-09-09T17:10:04+00:00",
+ "generated_at": "2026-09-10T08:57:28+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-09-09T17:10:04+00:00",
+   "last_success": "2026-09-10T08:57:28+00:00",
    "last_count": 30,
-   "last_new": 25,
+   "last_new": 0,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-09-09T17:10:04+00:00",
-   "last_count": 19,
-   "last_new": 19,
+   "last_success": "2026-09-10T08:57:28+00:00",
+   "last_count": 2,
+   "last_new": 2,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-09-09T17:10:04+00:00",
-   "last_count": 51,
-   "last_new": 43,
+   "last_success": "2026-09-10T08:57:28+00:00",
+   "last_count": 15,
+   "last_new": 15,
    "error": null
   }
  },
- "count": 340,
+ "count": 357,
  "items": [
+  {
+   "id": "51d45c36a881",
+   "source": "BSE",
+   "title": "Part Redemption of Debentures and Bonds of Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260910-15/20260910-15.pdf",
+   "date": "2026-09-10",
+   "time": "14:04",
+   "category": "Debt",
+   "ref": "20260910-15",
+   "first_seen": "2026-09-10T08:57:28+00:00"
+  },
+  {
+   "id": "ed6c0577c1ac",
+   "source": "BSE",
+   "title": "Rights Issue of CENTURY EXTRUSIONS LTD (Scrip Code- 500083)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260910-14/20260910-14.pdf",
+   "date": "2026-09-10",
+   "time": "13:59",
+   "category": "Listing",
+   "ref": "20260910-14",
+   "first_seen": "2026-09-10T08:57:28+00:00"
+  },
+  {
+   "id": "4f164da039d8",
+   "source": "BSE",
+   "title": "Part Redemption of Debt Securities of the Companies.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260910-13/20260910-13.pdf",
+   "date": "2026-09-10",
+   "time": "13:51",
+   "category": "Debt",
+   "ref": "20260910-13",
+   "first_seen": "2026-09-10T08:57:28+00:00"
+  },
+  {
+   "id": "fca9fb7e3399",
+   "source": "BSE",
+   "title": "Part Redemption of Debentures of Companies.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260910-12/20260910-12.pdf",
+   "date": "2026-09-10",
+   "time": "13:45",
+   "category": "Debt",
+   "ref": "20260910-12",
+   "first_seen": "2026-09-10T08:57:28+00:00"
+  },
+  {
+   "id": "3e5faf8ec989",
+   "source": "BSE",
+   "title": "Change in Name of Company - Pritish Nandy Communications Ltd",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260910-11/20260910-11.pdf",
+   "date": "2026-09-10",
+   "time": "13:35",
+   "category": "Notice",
+   "ref": "20260910-11",
+   "first_seen": "2026-09-10T08:57:28+00:00"
+  },
+  {
+   "id": "9e5f0c93e51b",
+   "source": "BSE",
+   "title": "Part Redemption of Debenture/Bonds of Companies.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260910-10/20260910-10.pdf",
+   "date": "2026-09-10",
+   "time": "13:33",
+   "category": "Debt",
+   "ref": "20260910-10",
+   "first_seen": "2026-09-10T08:57:28+00:00"
+  },
+  {
+   "id": "45eb8ac0a174",
+   "source": "BSE",
+   "title": "Suspension of Trading in Debentures and Bonds of Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260910-9/20260910-9.pdf",
+   "date": "2026-09-10",
+   "time": "13:28",
+   "category": "Debt",
+   "ref": "20260910-9",
+   "first_seen": "2026-09-10T08:57:28+00:00"
+  },
+  {
+   "id": "3aa659b3a556",
+   "source": "BSE",
+   "title": "Demat Auction 712",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260910-8/20260910-8.pdf",
+   "date": "2026-09-10",
+   "time": "13:24",
+   "category": "Clearing & Settlement",
+   "ref": "20260910-8",
+   "first_seen": "2026-09-10T08:57:28+00:00"
+  },
+  {
+   "id": "b31468556cd6",
+   "source": "BSE",
+   "title": "Suspension of Trading in Commercial Paper of Mindspace Business Parks REIT",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260910-7/20260910-7.pdf",
+   "date": "2026-09-10",
+   "time": "13:17",
+   "category": "Debt",
+   "ref": "20260910-7",
+   "first_seen": "2026-09-10T08:57:28+00:00"
+  },
+  {
+   "id": "4aa6bf7a95e6",
+   "source": "BSE",
+   "title": "Suspension of Trading in Debentures of VIVRITI ASSET MANAGEMENT PRIVATE LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260910-6/20260910-6.pdf",
+   "date": "2026-09-10",
+   "time": "13:13",
+   "category": "Debt",
+   "ref": "20260910-6",
+   "first_seen": "2026-09-10T08:57:28+00:00"
+  },
+  {
+   "id": "b86f7713498b",
+   "source": "BSE",
+   "title": "SME IPO - Draft Offer Document",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260910-4/20260910-4.pdf",
+   "date": "2026-09-10",
+   "time": "13:07",
+   "category": "Listing",
+   "ref": "20260910-4",
+   "first_seen": "2026-09-10T08:57:28+00:00"
+  },
+  {
+   "id": "152519d5501d",
+   "source": "BSE",
+   "title": "Suspension of Trading in Debentures and Bonds of Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260910-5/20260910-5.pdf",
+   "date": "2026-09-10",
+   "time": "13:07",
+   "category": "Debt",
+   "ref": "20260910-5",
+   "first_seen": "2026-09-10T08:57:28+00:00"
+  },
+  {
+   "id": "4c09c2466000",
+   "source": "BSE",
+   "title": "Suspension of Trading in Commercial Paper",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260910-3/20260910-3.pdf",
+   "date": "2026-09-10",
+   "time": "13:04",
+   "category": "Debt",
+   "ref": "20260910-3",
+   "first_seen": "2026-09-10T08:57:28+00:00"
+  },
+  {
+   "id": "08d7887abf14",
+   "source": "BSE",
+   "title": "Early Redemption of Debentures of Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260910-2/20260910-2.pdf",
+   "date": "2026-09-10",
+   "time": "13:01",
+   "category": "Debt",
+   "ref": "20260910-2",
+   "first_seen": "2026-09-10T08:57:28+00:00"
+  },
+  {
+   "id": "3aa505c5a1d7",
+   "source": "BSE",
+   "title": "Suspension of Trading in Debentures and Bonds of Companies (Correction in Ex-dates)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260910-1/20260910-1.pdf",
+   "date": "2026-09-10",
+   "time": "12:57",
+   "category": "Debt",
+   "ref": "20260910-1",
+   "first_seen": "2026-09-10T08:57:28+00:00"
+  },
+  {
+   "id": "c4cae23dd6a4",
+   "source": "NSE",
+   "title": "Availability of ITI Multi Asset Allocation Fund on NSE MF Invest Platform",
+   "url": "https://nsearchives.nseindia.com/content/circulars/NMF76260.pdf",
+   "date": "2026-09-10",
+   "time": null,
+   "category": "Mutual Funds",
+   "ref": "NMF76260",
+   "first_seen": "2026-09-10T08:57:28+00:00"
+  },
+  {
+   "id": "6739f7ddccff",
+   "source": "NSE",
+   "title": "Review of Position Limits for Clients and Penalty Provisions for Violation / Breach of Position Limits for Commodity Derivatives Segment",
+   "url": "https://nsearchives.nseindia.com/content/circulars/COM76267.zip",
+   "date": "2026-09-10",
+   "time": null,
+   "category": "Commodity Derivatives",
+   "ref": "COM76267",
+   "first_seen": "2026-09-10T08:57:28+00:00"
+  },
   {
    "id": "0ce2cd345ed9",
    "source": "BSE",
