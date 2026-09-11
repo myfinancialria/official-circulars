@@ -1,34 +1,474 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-09-11T08:55:40+00:00",
+ "generated_at": "2026-09-11T17:02:07+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-09-11T08:55:40+00:00",
+   "last_success": "2026-09-11T17:02:07+00:00",
    "last_count": 30,
-   "last_new": 0,
+   "last_new": 19,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-09-11T08:55:40+00:00",
-   "last_count": 8,
-   "last_new": 8,
+   "last_success": "2026-09-11T17:02:07+00:00",
+   "last_count": 35,
+   "last_new": 27,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-09-11T08:55:40+00:00",
-   "last_count": 7,
-   "last_new": 7,
+   "last_success": "2026-09-11T17:02:07+00:00",
+   "last_count": 47,
+   "last_new": 40,
    "error": null
   }
  },
- "count": 447,
+ "count": 533,
  "items": [
+  {
+   "id": "27aa085c2359",
+   "source": "BSE",
+   "title": "SME IPO - Draft Offer Document",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-47/20260911-47.pdf",
+   "date": "2026-09-11",
+   "time": "20:48",
+   "category": "Listing",
+   "ref": "20260911-47",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "3bd9dd07600b",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Apana Logistics Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-46/20260911-46.pdf",
+   "date": "2026-09-11",
+   "time": "20:07",
+   "category": "Listing",
+   "ref": "20260911-46",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "a1c3f54c6f2d",
+   "source": "BSE",
+   "title": "Introduction of Monthly IDCW option in HELIOS MUTUAL FUND on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-45/20260911-45.pdf",
+   "date": "2026-09-11",
+   "time": "19:38",
+   "category": "Mutual Funds",
+   "ref": "20260911-45",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "e347c125fbe9",
+   "source": "BSE",
+   "title": "CHANGES IN PRICE BAND",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-44/20260911-44.pdf",
+   "date": "2026-09-11",
+   "time": "19:32",
+   "category": "Surveillance",
+   "ref": "20260911-44",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "f0665780e63e",
+   "source": "BSE",
+   "title": "Surveillance Measure for securities under IBC",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-42/20260911-42.pdf",
+   "date": "2026-09-11",
+   "time": "19:31",
+   "category": "Surveillance",
+   "ref": "20260911-42",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "e8428bc48b58",
+   "source": "BSE",
+   "title": "Launch of INVESCO Mutual Fund New Fund Offers (NFOs) with SIP Facility on BSE StAR MF Platform.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-39/20260911-39.pdf",
+   "date": "2026-09-11",
+   "time": "19:31",
+   "category": "Mutual Funds",
+   "ref": "20260911-39",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "b06ce7f9e021",
+   "source": "BSE",
+   "title": "Applicability of Long Term Additional Surveillance Measure (LT-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-37/20260911-37.pdf",
+   "date": "2026-09-11",
+   "time": "19:31",
+   "category": "Surveillance",
+   "ref": "20260911-37",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "9f5791efb782",
+   "source": "BSE",
+   "title": "Graded Surveillance Measure (GSM) - Lower Revision of Stages",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-41/20260911-41.pdf",
+   "date": "2026-09-11",
+   "time": "19:31",
+   "category": "Surveillance",
+   "ref": "20260911-41",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "65333bf27c20",
+   "source": "BSE",
+   "title": "Enhanced Surveillance Measure (ESM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-38/20260911-38.pdf",
+   "date": "2026-09-11",
+   "time": "19:31",
+   "category": "Surveillance",
+   "ref": "20260911-38",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "3bb32555bb3b",
+   "source": "BSE",
+   "title": "Graded Surveillance Measure (GSM) - List of securities moving into their respective GSM Stages",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-43/20260911-43.pdf",
+   "date": "2026-09-11",
+   "time": "19:31",
+   "category": "Surveillance",
+   "ref": "20260911-43",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "309598ce4de1",
+   "source": "BSE",
+   "title": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-40/20260911-40.pdf",
+   "date": "2026-09-11",
+   "time": "19:31",
+   "category": "Surveillance",
+   "ref": "20260911-40",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "fdd0e93f8e9d",
+   "source": "BSE",
+   "title": "Launch of New Fund Offer (NFO) with SIP Facility of TATA Mutual Fund on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-36/20260911-36.pdf",
+   "date": "2026-09-11",
+   "time": "19:30",
+   "category": "Mutual Funds",
+   "ref": "20260911-36",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "c8d36e3f2cc4",
+   "source": "BSE",
+   "title": "Launch of New Fund Offer (NFO) with SIP Facility of HDFC Mutual Fund on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-35/20260911-35.pdf",
+   "date": "2026-09-11",
+   "time": "19:23",
+   "category": "Mutual Funds",
+   "ref": "20260911-35",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "e49a31462ccf",
+   "source": "BSE",
+   "title": "Clarification Received from the Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-34/20260911-34.pdf",
+   "date": "2026-09-11",
+   "time": "19:18",
+   "category": "Notice",
+   "ref": "20260911-34",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "b80bc700d168",
+   "source": "BSE",
+   "title": "Launch of New Fund Offer (NFO) with SIP Facility of KOTAK MAHINDRA Mutual Fund on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-33/20260911-33.pdf",
+   "date": "2026-09-11",
+   "time": "19:17",
+   "category": "Mutual Funds",
+   "ref": "20260911-33",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "cd03554577d5",
+   "source": "BSE",
+   "title": "Launch of NFO of LAKSHYA OVERNIGHT FUND on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-32/20260911-32.pdf",
+   "date": "2026-09-11",
+   "time": "19:13",
+   "category": "Mutual Funds",
+   "ref": "20260911-32",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "a1c2184ab622",
+   "source": "BSE",
+   "title": "Suspension of trading in securities of companies for non-compliances with provisions of certain Regulations of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 and (Depositories & Participants) Regulations, 2018.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-31/20260911-31.pdf",
+   "date": "2026-09-11",
+   "time": "19:11",
+   "category": "Listing",
+   "ref": "20260911-31",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "a63d7f346ff6",
+   "source": "BSE",
+   "title": "TRADING AND SETTLEMENT PROGRAMME FOR MUTUAL FUND SEGMENT FOR THE PERIOD 01.10.2026 to 31.10.2026",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-30/20260911-30.pdf",
+   "date": "2026-09-11",
+   "time": "19:09",
+   "category": "Mutual Funds",
+   "ref": "20260911-30",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "e0064c78734c",
+   "source": "BSE",
+   "title": "Discontinuation of weekly trading in securities of companies suspended for non-compliances of certain Regulation of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-29/20260911-29.pdf",
+   "date": "2026-09-11",
+   "time": "19:08",
+   "category": "Listing",
+   "ref": "20260911-29",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "cca4b1bbb78a",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of PRANAV CONSTRUCTIONS LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-28/20260911-28.pdf",
+   "date": "2026-09-11",
+   "time": "19:03",
+   "category": "Listing",
+   "ref": "20260911-28",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "ca2c8f6be27e",
+   "source": "BSE",
+   "title": "Reminder to reaffirm whitelisting of exchange Gateway IPs in Equity Segment",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-27/20260911-27.pdf",
+   "date": "2026-09-11",
+   "time": "18:57",
+   "category": "Listing",
+   "ref": "20260911-27",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "ab1e8ac7f0d5",
+   "source": "BSE",
+   "title": "SME IPO Draft Offer Document",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-26/20260911-26.pdf",
+   "date": "2026-09-11",
+   "time": "18:54",
+   "category": "Listing",
+   "ref": "20260911-26",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "9d6b24bdd895",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Apana Logistics Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-25/20260911-25.pdf",
+   "date": "2026-09-11",
+   "time": "18:24",
+   "category": "Listing",
+   "ref": "20260911-25",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "a83ee55f315d",
+   "source": "BSE",
+   "title": "Listing of New Securities of NOVELIX PHARMACEUTICALS LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-24/20260911-24.pdf",
+   "date": "2026-09-11",
+   "time": "18:00",
+   "category": "Listing",
+   "ref": "20260911-24",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "1f985da5248b",
+   "source": "BSE",
+   "title": "Non-Competitive Bidding for Auction of GoI dated Securities (G-secs) on September 18, 2026",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-23/20260911-23.pdf",
+   "date": "2026-09-11",
+   "time": "17:54",
+   "category": "Clearing & Settlement",
+   "ref": "20260911-23",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "d4b787571991",
+   "source": "BSE",
+   "title": "Non-Competitive Bidding for Auction of State Government Securities (SDL) on September 14, 2026",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-22/20260911-22.pdf",
+   "date": "2026-09-11",
+   "time": "17:53",
+   "category": "Clearing & Settlement",
+   "ref": "20260911-22",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "25d2bcaaaa3d",
+   "source": "BSE",
+   "title": "Listing of Securities MIDWEST ENERGY LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-21/20260911-21.pdf",
+   "date": "2026-09-11",
+   "time": "17:50",
+   "category": "Listing",
+   "ref": "20260911-21",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "9077e2ef0871",
+   "source": "BSE",
+   "title": "Listing of New Securities of Yash Highvoltage Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-20/20260911-20.pdf",
+   "date": "2026-09-11",
+   "time": "17:36",
+   "category": "Listing",
+   "ref": "20260911-20",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "afd41048d4f4",
+   "source": "BSE",
+   "title": "Listing of new securities of SI Capital & Financial Services Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-18/20260911-18.pdf",
+   "date": "2026-09-11",
+   "time": "17:35",
+   "category": "Listing",
+   "ref": "20260911-18",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "30287d836d7e",
+   "source": "BSE",
+   "title": "Listing of Rights Equity Shares kept in abeyance of State Bank of India",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-19/20260911-19.pdf",
+   "date": "2026-09-11",
+   "time": "17:35",
+   "category": "Listing",
+   "ref": "20260911-19",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "d6d33ca25d60",
+   "source": "BSE",
+   "title": "Public Issue of SHAKTI POLYTARP LIMITED Allocation to Anchor Investors",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-17/20260911-17.pdf",
+   "date": "2026-09-11",
+   "time": "17:25",
+   "category": "Listing",
+   "ref": "20260911-17",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "b4aec619374a",
+   "source": "BSE",
+   "title": "Listing of New Securities of Bhagyanagar India Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-16/20260911-16.pdf",
+   "date": "2026-09-11",
+   "time": "17:15",
+   "category": "Listing",
+   "ref": "20260911-16",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "1e5e6da0d608",
+   "source": "BSE",
+   "title": "Listing of further securities issued by the companies under ESOP / ESOS",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-15/20260911-15.pdf",
+   "date": "2026-09-11",
+   "time": "17:09",
+   "category": "Listing",
+   "ref": "20260911-15",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "3b3b26b60321",
+   "source": "BSE",
+   "title": "Rights Entitlements of INDRAYANI BIOTECH LIMITED.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-14/20260911-14.pdf",
+   "date": "2026-09-11",
+   "time": "16:17",
+   "category": "Listing",
+   "ref": "20260911-14",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "a74f45180cf3",
+   "source": "BSE",
+   "title": "Rights Entitlements of SALEM ERODE INVESTMENTS LIMITED.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-13/20260911-13.pdf",
+   "date": "2026-09-11",
+   "time": "16:15",
+   "category": "Listing",
+   "ref": "20260911-13",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "6bc399c964ce",
+   "source": "BSE",
+   "title": "Listing of new Securities of Texel Industries Ltd.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-12/20260911-12.pdf",
+   "date": "2026-09-11",
+   "time": "15:53",
+   "category": "Listing",
+   "ref": "20260911-12",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "6488add93ea5",
+   "source": "BSE",
+   "title": "Suspension of trading in T-bills/Government Securities",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-10/20260911-10.pdf",
+   "date": "2026-09-11",
+   "time": "15:15",
+   "category": "Trading",
+   "ref": "20260911-10",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "22131be32eff",
+   "source": "BSE",
+   "title": "Part Redemption of Debentures of Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-11/20260911-11.pdf",
+   "date": "2026-09-11",
+   "time": "15:15",
+   "category": "Debt",
+   "ref": "20260911-11",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "09a4c740b968",
+   "source": "BSE",
+   "title": "CORPORATE ACTION IN SLB SECURITIES",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-9/20260911-9.pdf",
+   "date": "2026-09-11",
+   "time": "14:34",
+   "category": "Notice",
+   "ref": "20260911-9",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "800e9a28aaaf",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of PRANAV CONSTRUCTIONS LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260911-8/20260911-8.pdf",
+   "date": "2026-09-11",
+   "time": "14:33",
+   "category": "Listing",
+   "ref": "20260911-8",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
   {
    "id": "78288bb0b9d5",
    "source": "BSE",
@@ -107,6 +547,160 @@
    "first_seen": "2026-09-11T08:55:40+00:00"
   },
   {
+   "id": "fc36ccc2d456",
+   "source": "NSE",
+   "title": "Applicability of Additional Surveillance Measure (ASM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76322.zip",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76322",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "faf6f3110dfe",
+   "source": "SEBI",
+   "title": "Appeal No. 7050 of 2026 filed by Mahima Chandra",
+   "url": "https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7050-of-2026-filed-by-mahima-chandra_104455.html",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "fad0f587fc2b",
+   "source": "NSE",
+   "title": "Enhancement of Validations in Unique Client Code Fields",
+   "url": "https://nsearchives.nseindia.com/content/circulars/ISC76299.zip",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "ISC",
+   "ref": "ISC76299",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "f2e30e8c82a8",
+   "source": "SEBI",
+   "title": "Release Order in respect of Keynote Enterprises Private Limited (PAN: AADCK7471R) in the matter of TV Vision Limited under Certificate No. 7430 of 2023",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/release-order-in-respect-of-keynote-enterprises-private-limited-pan-aadck7471r-in-the-matter-of-tv-vision-limited-under-certificate-no-7430-of-2023_104446.html",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "f28db5470c8f",
+   "source": "NSE",
+   "title": "listing of further issue of Kshitij Polyline Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76330.pdf",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76330",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "ece2ee8e0b2f",
+   "source": "SEBI",
+   "title": "Appeal No. 7047 of 2026 filed by Sachin Yadav",
+   "url": "https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7047-of-2026-filed-by-sachin-yadav_104451.html",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "eb3d2a7cf11b",
+   "source": "NSE",
+   "title": "Settlement Calendar for Takeover Offer under Tender Offer scheme of Ahimsa Industries Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT76314.pdf",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT76314",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "e4c5a9a924e1",
+   "source": "NSE",
+   "title": "Trade for Trade - Qualiance International Limited (SME IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76320.pdf",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76320",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "d78fb3f19726",
+   "source": "NSE",
+   "title": "Merger of certain schemes of HDFC Mutual Fund on NSE MF Invest Platform",
+   "url": "https://nsearchives.nseindia.com/content/circulars/NMF76304.zip",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Mutual Funds",
+   "ref": "NMF76304",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "d76eb7fcccfc",
+   "source": "NSE",
+   "title": "Graded Surveillance Measure (GSM) - Periodic relaxation of Surveillance action",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76324.zip",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76324",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "d5b85b824e08",
+   "source": "NSE",
+   "title": "Launch of Invesco India Nifty Chemical Index Fund NFO on NSE MF Invest Platform",
+   "url": "https://nsearchives.nseindia.com/content/circulars/NMF76305.pdf",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Mutual Funds",
+   "ref": "NMF76305",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "d25a09b17321",
+   "source": "NSE",
+   "title": "Revised list of privately issued Corporate Bonds made eligible under DVP-3 settlement on Institutional Platform of Debt Segment",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76326.zip",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76326",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "d0f1e6ae276f",
+   "source": "NSE",
+   "title": "List of Securities Moving to Stage I of Graded Surveillance Measure (GSM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76312.pdf",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76312",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "c84b68f40b23",
+   "source": "NSE",
+   "title": "Launch of Tata Crisil-IBX Financial Services 3-6 Months Debt Index Fund NFO on NSE MF Invest Platform",
+   "url": "https://nsearchives.nseindia.com/content/circulars/NMF76310.pdf",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Mutual Funds",
+   "ref": "NMF76310",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
    "id": "bea3db700c75",
    "source": "NSE",
    "title": "Listing of Equity Shares of Pranav Constructions Limited (IPO)",
@@ -118,6 +712,17 @@
    "first_seen": "2026-09-11T08:55:40+00:00"
   },
   {
+   "id": "bd4747b9c95d",
+   "source": "NSE",
+   "title": "Commodity Derivatives Segment - Settlement Calendar (Compulsory Delivery) & GST details reporting calendar for October 2026.",
+   "url": "https://nsearchives.nseindia.com/content/circulars/COM76325.zip",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Commodity Derivatives",
+   "ref": "COM76325",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
    "id": "bc95a1e80ae4",
    "source": "NSE",
    "title": "Mock trading on Saturday, September 12, 2026 - No new version release",
@@ -127,6 +732,50 @@
    "category": "Securities Lending",
    "ref": "SLBS76273",
    "first_seen": "2026-09-11T08:55:40+00:00"
+  },
+  {
+   "id": "ba56355c211d",
+   "source": "NSE",
+   "title": "Introduction of Monthly Income Distribution cum withdrawal (IDCW) option in Helios Mutual Fund on NSE MF Invest Platform",
+   "url": "https://nsearchives.nseindia.com/content/circulars/NMF76311.zip",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Mutual Funds",
+   "ref": "NMF76311",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "b7f6b26133a2",
+   "source": "NSE",
+   "title": "Applicability of Enhanced Surveillance Measure (ESM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76321.zip",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76321",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "ac8db46a7b25",
+   "source": "NSE",
+   "title": "Applicability of Short-Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76323.zip",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76323",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "ac232efaed6f",
+   "source": "NSE",
+   "title": "Suspension of trading in Non-Convertible Securities (Privately Placed)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76319.pdf",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76319",
+   "first_seen": "2026-09-11T17:02:07+00:00"
   },
   {
    "id": "aba37ce3b303",
@@ -162,6 +811,17 @@
    "first_seen": "2026-09-11T08:55:40+00:00"
   },
   {
+   "id": "93b18a8327c7",
+   "source": "SEBI",
+   "title": "Appeal No. 7052 of 2026 filed by Kamal Kumar",
+   "url": "https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7052-of-2026-filed-by-kamal-kumar_104459.html",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
    "id": "889b46a33246",
    "source": "NSE",
    "title": "Mock session on Saturday, September 12, 2026 - No new version release",
@@ -171,6 +831,127 @@
    "category": "Commodity Derivatives",
    "ref": "COM76297",
    "first_seen": "2026-09-11T08:55:40+00:00"
+  },
+  {
+   "id": "81fea3e9984e",
+   "source": "NSE",
+   "title": "Revised MWPL, Participant, Institutional and Non Institutional Client Limits for PGIL",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT76332.pdf",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT76332",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "7edc1e9f8e01",
+   "source": "NSE",
+   "title": "Revision in frequency of real time Index dissemination",
+   "url": "https://nsearchives.nseindia.com/content/circulars/MSD76333.zip",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "MSD",
+   "ref": "MSD76333",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "7b389f68dd54",
+   "source": "SEBI",
+   "title": "Order in the matter of certain Investment Advisers",
+   "url": "https://www.sebi.gov.in/enforcement/orders/sep-2026/order-in-the-matter-of-certain-investment-advisers_104447.html",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "79e7ed1c0d0a",
+   "source": "NSE",
+   "title": "Launch of Kotak Nifty Capital Markets Index Fund NFO on NSE MF Invest Platform",
+   "url": "https://nsearchives.nseindia.com/content/circulars/NMF76308.pdf",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Mutual Funds",
+   "ref": "NMF76308",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "65b9e9a5f35e",
+   "source": "NSE",
+   "title": "FAQ on Segregation and Monitoring of collateral at client level",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPL76318.pdf",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "CMPL",
+   "ref": "CMPL76318",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "61f9ebd9f47f",
+   "source": "NSE",
+   "title": "Launch of Lakshya Overnight Fund NFO on NSE MF Invest Platform",
+   "url": "https://nsearchives.nseindia.com/content/circulars/NMF76309.pdf",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Mutual Funds",
+   "ref": "NMF76309",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "5582fe365749",
+   "source": "NSE",
+   "title": "Listing of privately placed securities on the debt market segment of the Exchange",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76316.pdf",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76316",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "4cea9a1c42e4",
+   "source": "SEBI",
+   "title": "Final Enquiry Order in respect of Modex International Securities Ltd",
+   "url": "https://www.sebi.gov.in/enforcement/orders/sep-2026/final-enquiry-order-in-respect-of-modex-international-securities-ltd_104462.html",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "4b8878a818d5",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Pranav Constructions Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76313.zip",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76313",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "4a722f2483b2",
+   "source": "SEBI",
+   "title": "Appeal No. 7054 of 2026 filed by Richa Kohli",
+   "url": "https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7054-of-2026-filed-by-richa-kohli_104461.html",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "4920a3af5343",
+   "source": "SEBI",
+   "title": "Appeal No. 7049 of 2026 filed by Jeba Mathew J",
+   "url": "https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7049-of-2026-filed-by-jeba-mathew-j_104454.html",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-09-11T17:02:07+00:00"
   },
   {
    "id": "41cce38eaeaf",
@@ -184,6 +965,17 @@
    "first_seen": "2026-09-11T08:55:40+00:00"
   },
   {
+   "id": "3fb6e33683b2",
+   "source": "NSE",
+   "title": "Launch of Invesco India Nifty India Defence Index Fund NFO on NSE MF Invest Platform",
+   "url": "https://nsearchives.nseindia.com/content/circulars/NMF76306.pdf",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Mutual Funds",
+   "ref": "NMF76306",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
    "id": "39ba1413ac0c",
    "source": "NSE",
    "title": "Mock trading on Saturday, September 12, 2026 - No new version release",
@@ -193,6 +985,105 @@
    "category": "Electronic Gold Receipts",
    "ref": "EGR76301",
    "first_seen": "2026-09-11T08:55:40+00:00"
+  },
+  {
+   "id": "38a4a00a2b20",
+   "source": "NSE",
+   "title": "Trade for Trade - India Glycols Limited (INDIAGLYCO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76327.pdf",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76327",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "373c47322010",
+   "source": "SEBI",
+   "title": "Appeal No. 7051 of 2026 filed by Anonymous",
+   "url": "https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7051-of-2026-filed-by-anonymous_104457.html",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "346d1bdb90f8",
+   "source": "SEBI",
+   "title": "Adjudication Order in the matter of Emami Realty Limited",
+   "url": "https://www.sebi.gov.in/enforcement/orders/sep-2026/adjudication-order-in-the-matter-of-emami-realty-limited_104440.html",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "32a70f8254eb",
+   "source": "NSE",
+   "title": "Listing of further issues of securities",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76328.pdf",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76328",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "293fdfa1799c",
+   "source": "SEBI",
+   "title": "Cancellation of RC 7430 of 2023 issued against Keynote Enterprises Private Limited (PAN: AADCK7471R) in the matter of TV Vision Limited",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/cancellation-of-rc-7430-of-2023-issued-against-keynote-enterprises-private-limited-pan-aadck7471r-in-the-matter-of-tv-vision-limited_104444.html",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "22d5676dae4a",
+   "source": "NSE",
+   "title": "Launch of HDFC BSE REITS and Commercial Real Estate Index Fund NFO on NSE MF Invest Platform",
+   "url": "https://nsearchives.nseindia.com/content/circulars/NMF76307.pdf",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Mutual Funds",
+   "ref": "NMF76307",
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "16755b37b3b1",
+   "source": "SEBI",
+   "title": "Felicitation of Winners of Securities Market TechSprint at Global Fintech Fest 2026",
+   "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/sep-2026/felicitation-of-winners-of-securities-market-techsprint-at-global-fintech-fest-2026_104463.html",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Press Release",
+   "ref": null,
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "12d84a97ee1e",
+   "source": "SEBI",
+   "title": "Adjudication Order in the matter of Investowryght Research Analytics Private Limited",
+   "url": "https://www.sebi.gov.in/enforcement/orders/sep-2026/adjudication-order-in-the-matter-of-investowryght-research-analytics-private-limited_104449.html",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
+   "id": "0f3ba5fedcf0",
+   "source": "SEBI",
+   "title": "Appeal No. 7048 of 2026 filed by Shashidhar",
+   "url": "https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7048-of-2026-filed-by-shashidhar_104453.html",
+   "date": "2026-09-11",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-09-11T17:02:07+00:00"
   },
   {
    "id": "c44b37696d0a",
@@ -877,6 +1768,17 @@
    "first_seen": "2026-09-10T17:01:08+00:00"
   },
   {
+   "id": "d89dd5c1a406",
+   "source": "SEBI",
+   "title": "completion of Recovery Certificate No. RC799 of 2016 against Softrak Venture Investment Ltd.in the matter of Softrak Venture Investment Ltd.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/completion-of-recovery-certificate-no-rc799-of-2016-against-softrak-venture-investment-ltd-in-the-matter-of-softrak-venture-investment-ltd-_104442.html",
+   "date": "2026-09-10",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
    "id": "c8b14e8aa2e7",
    "source": "NSE",
    "title": "BONUS: Adjustment of Market Lot for Security IDEALTECHO in SME Platform",
@@ -919,6 +1821,17 @@
    "category": "Mutual Funds",
    "ref": "NMF76260",
    "first_seen": "2026-09-10T08:57:28+00:00"
+  },
+  {
+   "id": "c128d96c55de",
+   "source": "SEBI",
+   "title": "Order in the matter of certain Investment Advisers",
+   "url": "https://www.sebi.gov.in/enforcement/orders/sep-2026/order-in-the-matter-of-certain-investment-advisers_104435.html",
+   "date": "2026-09-10",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-09-11T17:02:07+00:00"
   },
   {
    "id": "b9f900cadc82",
@@ -1757,6 +2670,17 @@
    "first_seen": "2026-09-09T17:10:04+00:00"
   },
   {
+   "id": "fcf3fd105570",
+   "source": "SEBI",
+   "title": "Notice of Attachment of Bank and Post Office Accounts 15795 of 2026 dated September 09, 2026, against VIKRAM ANAND HUF [Defaulter] PAN: AAJHV0926R in the matter of dealings in Illiquid Stock Options on BSE -VIKRAM ANAND HUF: under Recovery Certificate No. 9285 of 2026.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/notice-of-attachment-of-bank-and-post-office-accounts-15795-of-2026-dated-september-09-2026-against-vikram-anand-huf-defaulter-pan-aajhv0926r-in-the-matter-of-dealings-in-illiquid-stock-options-o-_104436.html",
+   "date": "2026-09-09",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-09-11T17:02:07+00:00"
+  },
+  {
    "id": "ed5623c1f2de",
    "source": "SEBI",
    "title": "Appeal No. 7043 of 2026 filed by Aniket Singh",
@@ -1766,6 +2690,17 @@
    "category": "Order",
    "ref": null,
    "first_seen": "2026-09-09T17:10:04+00:00"
+  },
+  {
+   "id": "e42efb731b53",
+   "source": "SEBI",
+   "title": "Settlement Order in respect of settlement applications filed under the National Spot Exchange Limited (NSEL) Settlement Scheme, 2025",
+   "url": "https://www.sebi.gov.in/enforcement/orders/sep-2026/settlement-order-in-respect-of-settlement-applications-filed-under-the-national-spot-exchange-limited-nsel-settlement-scheme-2025_104431.html",
+   "date": "2026-09-09",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-09-11T17:02:07+00:00"
   },
   {
    "id": "d9435b43bf08",
@@ -1854,6 +2789,17 @@
    "category": "Mutual Funds",
    "ref": "NMF76249",
    "first_seen": "2026-09-09T17:10:04+00:00"
+  },
+  {
+   "id": "a4b2c2566fd0",
+   "source": "SEBI",
+   "title": "Notice of Attachment of Demat Account and Mutual Fund Folio(s) 15796 of 2026 dated September 09, 2026, against VIKRAM ANAND HUF [Defaulter] PAN: AAJHV0926R in the matter of dealings in Illiquid Stock Options on BSE -VIKRAM ANAND HUF: under Recovery Certificate No. 9285 of 2026.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/notice-of-attachment-of-demat-account-and-mutual-fund-folio-s-15796-of-2026-dated-september-09-2026-against-vikram-anand-huf-defaulter-pan-aajhv0926r-in-the-matter-of-dealings-in-illiquid-stock-_104438.html",
+   "date": "2026-09-09",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-09-11T17:02:07+00:00"
   },
   {
    "id": "98671865339b",
