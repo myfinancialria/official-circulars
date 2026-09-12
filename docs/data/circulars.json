@@ -1,34 +1,45 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-09-11T17:02:07+00:00",
+ "generated_at": "2026-09-12T08:38:54+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-09-11T17:02:07+00:00",
+   "last_success": "2026-09-12T08:38:54+00:00",
    "last_count": 30,
-   "last_new": 19,
+   "last_new": 0,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-09-11T17:02:07+00:00",
+   "last_success": "2026-09-12T08:38:54+00:00",
    "last_count": 35,
-   "last_new": 27,
+   "last_new": 0,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-09-11T17:02:07+00:00",
-   "last_count": 47,
-   "last_new": 40,
+   "last_success": "2026-09-12T08:38:54+00:00",
+   "last_count": 1,
+   "last_new": 1,
    "error": null
   }
  },
- "count": 533,
+ "count": 534,
  "items": [
+  {
+   "id": "30e094eb8d2c",
+   "source": "BSE",
+   "title": "Markets schedule (Mock) after switchover from PR to DR on 12th September 2026.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260912-1/20260912-1.pdf",
+   "date": "2026-09-12",
+   "time": "12:08",
+   "category": "Notice",
+   "ref": "20260912-1",
+   "first_seen": "2026-09-12T08:38:54+00:00"
+  },
   {
    "id": "27aa085c2359",
    "source": "BSE",
