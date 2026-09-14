@@ -1,19 +1,19 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-09-14T09:52:59+00:00",
+ "generated_at": "2026-09-14T18:39:18+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-09-14T09:52:59+00:00",
+   "last_success": "2026-09-14T18:39:18+00:00",
    "last_count": 30,
-   "last_new": 0,
+   "last_new": 4,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-09-14T09:52:59+00:00",
+   "last_success": "2026-09-14T18:39:18+00:00",
    "last_count": 35,
    "last_new": 0,
    "error": null
@@ -21,14 +21,58 @@
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-09-14T09:52:59+00:00",
+   "last_success": "2026-09-14T18:39:18+00:00",
    "last_count": 1,
    "last_new": 0,
    "error": null
   }
  },
- "count": 534,
+ "count": 538,
  "items": [
+  {
+   "id": "fb761aa81352",
+   "source": "SEBI",
+   "title": "Cancellation Of Recovery Certificate No. 8362 of 2024 dated November 21, 2024 issued to Sanbun Investments and Proprietor Mr. Nishaan Singh [Defaulter] (PAN: HCCPS6377H) in the matter of Sanbun Investments and Proprietor Mr. Nishaan Singh.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/cancellation-of-recovery-certificate-no-8362-of-2024-dated-november-21-2024-issued-to-sanbun-investments-and-proprietor-mr-nishaan-singh-defaulter-pan-hccps6377h-in-the-matter-of-sanbun-invest-_104465.html",
+   "date": "2026-09-14",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-09-14T18:39:18+00:00"
+  },
+  {
+   "id": "9d396f8575ce",
+   "source": "SEBI",
+   "title": "Release Order - Certificate No. RC7376 of 2023 in respect of Padam Prabhu Vanijya Pvt Ltd (PAN: AAECP9720F) in the matter of Illiquid Stock Options",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/release-order-certificate-no-rc7376-of-2023-in-respect-of-padam-prabhu-vanijya-pvt-ltd-pan-aaecp9720f-in-the-matter-of-illiquid-stock-options_104478.html",
+   "date": "2026-09-14",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-09-14T18:39:18+00:00"
+  },
+  {
+   "id": "36e5b679cec6",
+   "source": "SEBI",
+   "title": "Release Order – Sanbun Investments and Proprietor Mr. Nishaan Singh [Defaulter] (PAN: HCCPS6377H) in the matter of Sanbun Investments and Proprietor Mr. Nishaan Singh: under Certificate No. 8362 of 2024.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/release-order-sanbun-investments-and-proprietor-mr-nishaan-singh-defaulter-pan-hccps6377h-in-the-matter-of-sanbun-investments-and-proprietor-mr-nishaan-singh-under-certificate-no-8362-of-20-_104467.html",
+   "date": "2026-09-14",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-09-14T18:39:18+00:00"
+  },
+  {
+   "id": "0d47e04aadc7",
+   "source": "SEBI",
+   "title": "Completion of Recovery Certificate No RC7376 of 2023 in respect of Padam Prabhu Vanijya Pvt Ltd (PAN: AAECP9720F) in the matter of Illiquid Stock Options",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/completion-of-recovery-certificate-no-rc7376-of-2023-in-respect-of-padam-prabhu-vanijya-pvt-ltd-pan-aaecp9720f-in-the-matter-of-illiquid-stock-options_104476.html",
+   "date": "2026-09-14",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-09-14T18:39:18+00:00"
+  },
   {
    "id": "30e094eb8d2c",
    "source": "BSE",
