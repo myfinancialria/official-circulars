@@ -1,34 +1,210 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-09-14T18:39:18+00:00",
+ "generated_at": "2026-09-15T09:29:20+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-09-14T18:39:18+00:00",
+   "last_success": "2026-09-15T09:29:20+00:00",
    "last_count": 30,
-   "last_new": 4,
+   "last_new": 1,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-09-14T18:39:18+00:00",
-   "last_count": 35,
-   "last_new": 0,
+   "last_success": "2026-09-15T09:29:20+00:00",
+   "last_count": 4,
+   "last_new": 4,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-09-14T18:39:18+00:00",
-   "last_count": 1,
-   "last_new": 0,
+   "last_success": "2026-09-15T09:29:20+00:00",
+   "last_count": 12,
+   "last_new": 12,
    "error": null
   }
  },
- "count": 538,
+ "count": 555,
  "items": [
+  {
+   "id": "21f21d887180",
+   "source": "BSE",
+   "title": "Demat Auction 714",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-12/20260915-12.pdf",
+   "date": "2026-09-15",
+   "time": "13:51",
+   "category": "Clearing & Settlement",
+   "ref": "20260915-12",
+   "first_seen": "2026-09-15T09:29:20+00:00"
+  },
+  {
+   "id": "5275b01021d4",
+   "source": "BSE",
+   "title": "Suspension of Trading in T-bills/Government Securities",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-11/20260915-11.pdf",
+   "date": "2026-09-15",
+   "time": "13:32",
+   "category": "Trading",
+   "ref": "20260915-11",
+   "first_seen": "2026-09-15T09:29:20+00:00"
+  },
+  {
+   "id": "1004835ddb46",
+   "source": "BSE",
+   "title": "Suspension of trading in Commercial Paper",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-10/20260915-10.pdf",
+   "date": "2026-09-15",
+   "time": "13:30",
+   "category": "Debt",
+   "ref": "20260915-10",
+   "first_seen": "2026-09-15T09:29:20+00:00"
+  },
+  {
+   "id": "df9fed2a2366",
+   "source": "BSE",
+   "title": "New ISIN Number on Stock Split of KAIROSOFT AI SOLUTIONS LTD (Scrip Code: 506122)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-9/20260915-9.pdf",
+   "date": "2026-09-15",
+   "time": "13:26",
+   "category": "Corporate Action",
+   "ref": "20260915-9",
+   "first_seen": "2026-09-15T09:29:20+00:00"
+  },
+  {
+   "id": "d0839e6cdcca",
+   "source": "BSE",
+   "title": "Listing of privately placed securities on the debt market segment of the Exchange",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-8/20260915-8.pdf",
+   "date": "2026-09-15",
+   "time": "13:09",
+   "category": "Listing",
+   "ref": "20260915-8",
+   "first_seen": "2026-09-15T09:29:20+00:00"
+  },
+  {
+   "id": "dac5a88e0719",
+   "source": "BSE",
+   "title": "Change in the Name of Company - Sarda Proteins Ltd",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-7/20260915-7.pdf",
+   "date": "2026-09-15",
+   "time": "12:56",
+   "category": "Notice",
+   "ref": "20260915-7",
+   "first_seen": "2026-09-15T09:29:20+00:00"
+  },
+  {
+   "id": "d60ae46264a2",
+   "source": "BSE",
+   "title": "Suspension of Trading in Commercial Paper of Kotak Mahindra Investments Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-6/20260915-6.pdf",
+   "date": "2026-09-15",
+   "time": "12:51",
+   "category": "Debt",
+   "ref": "20260915-6",
+   "first_seen": "2026-09-15T09:29:20+00:00"
+  },
+  {
+   "id": "19be8aedd4ec",
+   "source": "BSE",
+   "title": "Rights Issue of Equity Shares of TUNI TEXTILE MILLS LTD. (Scrip code- 531411)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-5/20260915-5.pdf",
+   "date": "2026-09-15",
+   "time": "12:48",
+   "category": "Listing",
+   "ref": "20260915-5",
+   "first_seen": "2026-09-15T09:29:20+00:00"
+  },
+  {
+   "id": "ce614dee5b79",
+   "source": "BSE",
+   "title": "Listing of New Securities of Deccan Health Care Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-4/20260915-4.pdf",
+   "date": "2026-09-15",
+   "time": "12:45",
+   "category": "Listing",
+   "ref": "20260915-4",
+   "first_seen": "2026-09-15T09:29:20+00:00"
+  },
+  {
+   "id": "c828326879bc",
+   "source": "BSE",
+   "title": "SME IPO - Draft offer document",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-3/20260915-3.pdf",
+   "date": "2026-09-15",
+   "time": "12:03",
+   "category": "Listing",
+   "ref": "20260915-3",
+   "first_seen": "2026-09-15T09:29:20+00:00"
+  },
+  {
+   "id": "f53579e8a2bb",
+   "source": "BSE",
+   "title": "Change in Group of Equity Shares of Apana Logistics Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-2/20260915-2.pdf",
+   "date": "2026-09-15",
+   "time": "10:39",
+   "category": "Notice",
+   "ref": "20260915-2",
+   "first_seen": "2026-09-15T09:29:20+00:00"
+  },
+  {
+   "id": "2f0a2b51da19",
+   "source": "BSE",
+   "title": "Non-Competitive Bidding Facility for Auction of Treasury Bills (T-Bills) on September 02, 2026",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-1/20260915-1.pdf",
+   "date": "2026-09-15",
+   "time": "10:13",
+   "category": "Clearing & Settlement",
+   "ref": "20260915-1",
+   "first_seen": "2026-09-15T09:29:20+00:00"
+  },
+  {
+   "id": "83123d1d0dcb",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Kanohar Electricals Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76329.pdf",
+   "date": "2026-09-15",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76329",
+   "first_seen": "2026-09-15T09:29:20+00:00"
+  },
+  {
+   "id": "57d4d3f4cc04",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Glass Wall Systems (India) Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76331.pdf",
+   "date": "2026-09-15",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76331",
+   "first_seen": "2026-09-15T09:29:20+00:00"
+  },
+  {
+   "id": "37a10d03d5bf",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Prasol Chemicals Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76317.pdf",
+   "date": "2026-09-15",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76317",
+   "first_seen": "2026-09-15T09:29:20+00:00"
+  },
+  {
+   "id": "3165df6af74b",
+   "source": "NSE",
+   "title": "EGR - Multiple Settlement scheduled on September 15, 2026",
+   "url": "https://nsearchives.nseindia.com/content/circulars/EGR76315.pdf",
+   "date": "2026-09-15",
+   "time": null,
+   "category": "Electronic Gold Receipts",
+   "ref": "EGR76315",
+   "first_seen": "2026-09-15T09:29:20+00:00"
+  },
   {
    "id": "fb761aa81352",
    "source": "SEBI",
@@ -2151,6 +2327,17 @@
    "category": "Listing",
    "ref": "CML76285",
    "first_seen": "2026-09-10T17:01:08+00:00"
+  },
+  {
+   "id": "00280339a3d6",
+   "source": "SEBI",
+   "title": "Completion of Recovery Certificate No. RC 722 of 2015 against Softrak Venture Investment Ltd in the matter of Softrak Venture Investment Ltd.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/completion-of-recovery-certificate-no-rc-722-of-2015-against-softrak-venture-investment-ltd-in-the-matter-of-softrak-venture-investment-ltd-_104442.html",
+   "date": "2026-09-10",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-09-15T09:29:20+00:00"
   },
   {
    "id": "0ce2cd345ed9",
