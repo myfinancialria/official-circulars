@@ -1,34 +1,408 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-09-15T09:29:20+00:00",
+ "generated_at": "2026-09-15T17:40:45+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-09-15T09:29:20+00:00",
+   "last_success": "2026-09-15T17:40:45+00:00",
    "last_count": 30,
-   "last_new": 1,
+   "last_new": 0,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-09-15T09:29:20+00:00",
-   "last_count": 4,
-   "last_new": 4,
+   "last_success": "2026-09-15T17:40:45+00:00",
+   "last_count": 20,
+   "last_new": 16,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-09-15T09:29:20+00:00",
-   "last_count": 12,
-   "last_new": 12,
+   "last_success": "2026-09-15T17:40:45+00:00",
+   "last_count": 46,
+   "last_new": 34,
    "error": null
   }
  },
- "count": 555,
+ "count": 605,
  "items": [
+  {
+   "id": "1cdd4cc84a78",
+   "source": "BSE",
+   "title": "Daily Bulletin",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-46/20260915-46.pdf",
+   "date": "2026-09-15",
+   "time": "21:40",
+   "category": "Notice",
+   "ref": "20260915-46",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "f9ffc2d18238",
+   "source": "BSE",
+   "title": "Public Issue of SS Retail Limited -Allocation to Anchor Investors",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-45/20260915-45.pdf",
+   "date": "2026-09-15",
+   "time": "20:43",
+   "category": "Listing",
+   "ref": "20260915-45",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "e64899053301",
+   "source": "BSE",
+   "title": "Public Issue of Hero Motors Limited -Allocation to Anchor Investors",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-44/20260915-44.pdf",
+   "date": "2026-09-15",
+   "time": "20:29",
+   "category": "Listing",
+   "ref": "20260915-44",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "3da6e92423b4",
+   "source": "BSE",
+   "title": "Graded Surveillance Measure (GSM) - List of securities moving into their respective GSM Stages",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-43/20260915-43.pdf",
+   "date": "2026-09-15",
+   "time": "19:41",
+   "category": "Surveillance",
+   "ref": "20260915-43",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "7df19f24345b",
+   "source": "BSE",
+   "title": "CHANGES IN PRICE BAND",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-42/20260915-42.pdf",
+   "date": "2026-09-15",
+   "time": "19:39",
+   "category": "Surveillance",
+   "ref": "20260915-42",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "dbdd3b30746d",
+   "source": "BSE",
+   "title": "REVISION OF SCRIPS IN TRADE TO TRADE SEGMENT",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-41/20260915-41.pdf",
+   "date": "2026-09-15",
+   "time": "19:28",
+   "category": "Trading",
+   "ref": "20260915-41",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "27172e29cd05",
+   "source": "BSE",
+   "title": "Enhanced Surveillance Measure (ESM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-40/20260915-40.pdf",
+   "date": "2026-09-15",
+   "time": "19:26",
+   "category": "Surveillance",
+   "ref": "20260915-40",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "61f8770450e0",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of GLASS WALL SYSTEMS (INDIA) LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-38/20260915-38.pdf",
+   "date": "2026-09-15",
+   "time": "19:25",
+   "category": "Listing",
+   "ref": "20260915-38",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "1a43a85a58b8",
+   "source": "BSE",
+   "title": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-39/20260915-39.pdf",
+   "date": "2026-09-15",
+   "time": "19:25",
+   "category": "Surveillance",
+   "ref": "20260915-39",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "69868aa0fccc",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Kanohar Electricals Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-37/20260915-37.pdf",
+   "date": "2026-09-15",
+   "time": "19:24",
+   "category": "Listing",
+   "ref": "20260915-37",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "f72daf5330e2",
+   "source": "BSE",
+   "title": "Opening of Offer to Buy – Acquisition Window (Takeover) of ECS BIZTECH LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-36/20260915-36.pdf",
+   "date": "2026-09-15",
+   "time": "19:23",
+   "category": "Notice",
+   "ref": "20260915-36",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "a393597ee1df",
+   "source": "BSE",
+   "title": "Surveillance Measure for securities under IBC",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-35/20260915-35.pdf",
+   "date": "2026-09-15",
+   "time": "19:23",
+   "category": "Surveillance",
+   "ref": "20260915-35",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "6c00e044a991",
+   "source": "BSE",
+   "title": "Applicability of Long Term Additional Surveillance Measure (LT-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-34/20260915-34.pdf",
+   "date": "2026-09-15",
+   "time": "19:23",
+   "category": "Surveillance",
+   "ref": "20260915-34",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "36e4a66e214d",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Prasol Chemicals Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-33/20260915-33.pdf",
+   "date": "2026-09-15",
+   "time": "19:07",
+   "category": "Listing",
+   "ref": "20260915-33",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "abf86cccad31",
+   "source": "BSE",
+   "title": "Additions to the BSE Indices",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-32/20260915-32.pdf",
+   "date": "2026-09-15",
+   "time": "18:21",
+   "category": "Notice",
+   "ref": "20260915-32",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "259d838224f3",
+   "source": "BSE",
+   "title": "Migration of Equity Shares of CFF Fluid Controls Limited from BSE SME Platform to BSE Mainboard Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-31/20260915-31.pdf",
+   "date": "2026-09-15",
+   "time": "18:19",
+   "category": "Notice",
+   "ref": "20260915-31",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "0bcd164e23e7",
+   "source": "BSE",
+   "title": "Discontinuation of fresh subscription and Systematic Registration under UTI CHILDRENS HYBRID FUND on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-30/20260915-30.pdf",
+   "date": "2026-09-15",
+   "time": "18:15",
+   "category": "Mutual Funds",
+   "ref": "20260915-30",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "c50003db8202",
+   "source": "BSE",
+   "title": "Part Redemption of Debentures of Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-29/20260915-29.pdf",
+   "date": "2026-09-15",
+   "time": "17:58",
+   "category": "Debt",
+   "ref": "20260915-29",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "5dc6fc467b05",
+   "source": "BSE",
+   "title": "Suspension of Trading in Commercial Paper",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-28/20260915-28.pdf",
+   "date": "2026-09-15",
+   "time": "17:55",
+   "category": "Debt",
+   "ref": "20260915-28",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "906d586944c4",
+   "source": "BSE",
+   "title": "Part Redemption of Debentures of SI CREVA CAPITAL SERVICES PRIVATE LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-27/20260915-27.pdf",
+   "date": "2026-09-15",
+   "time": "17:52",
+   "category": "Debt",
+   "ref": "20260915-27",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "af2a552ae9c1",
+   "source": "BSE",
+   "title": "Clarification Received from the Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-26/20260915-26.pdf",
+   "date": "2026-09-15",
+   "time": "17:45",
+   "category": "Notice",
+   "ref": "20260915-26",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "b71cf35007bd",
+   "source": "BSE",
+   "title": "Listing of new securities of STELLANT SECURITIES (INDIA) LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-25/20260915-25.pdf",
+   "date": "2026-09-15",
+   "time": "17:13",
+   "category": "Listing",
+   "ref": "20260915-25",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "035aef94328b",
+   "source": "BSE",
+   "title": "Final Order in respect of Priyanka Yadav - Proprietor of Trade Money Research - INH000010991",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-24/20260915-24.pdf",
+   "date": "2026-09-15",
+   "time": "17:12",
+   "category": "Trading",
+   "ref": "20260915-24",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "38c6b5c3bc3f",
+   "source": "BSE",
+   "title": "Adjudication Order in the matter of Investowryght Research Analytics Private Limited - INH000012157",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-22/20260915-22.pdf",
+   "date": "2026-09-15",
+   "time": "17:11",
+   "category": "Notice",
+   "ref": "20260915-22",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "070c00129a14",
+   "source": "BSE",
+   "title": "Final Order in the matter of Prerna Sharma Research Analyst - INH000006819",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-23/20260915-23.pdf",
+   "date": "2026-09-15",
+   "time": "17:11",
+   "category": "Notice",
+   "ref": "20260915-23",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "c4897ed24fb5",
+   "source": "BSE",
+   "title": "Listing of New Securities of Ratnaveer Precision Engineering Ltd",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-21/20260915-21.pdf",
+   "date": "2026-09-15",
+   "time": "17:09",
+   "category": "Listing",
+   "ref": "20260915-21",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "1662c11c32e9",
+   "source": "BSE",
+   "title": "Listing of further securities issued by the companies under ESOP / ESOS",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-20/20260915-20.pdf",
+   "date": "2026-09-15",
+   "time": "16:46",
+   "category": "Listing",
+   "ref": "20260915-20",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "78568dfe1f72",
+   "source": "BSE",
+   "title": "Admission of Trading Member",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-19/20260915-19.pdf",
+   "date": "2026-09-15",
+   "time": "16:43",
+   "category": "Trading",
+   "ref": "20260915-19",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "e31f747d005d",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Kanohar Electricals Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-16/20260915-16.pdf",
+   "date": "2026-09-15",
+   "time": "16:19",
+   "category": "Listing",
+   "ref": "20260915-16",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "bfdce14b1b32",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Prasol Chemicals Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-18/20260915-18.pdf",
+   "date": "2026-09-15",
+   "time": "16:19",
+   "category": "Listing",
+   "ref": "20260915-18",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "9a935d612df8",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Glass Wall Systems (India) Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-17/20260915-17.pdf",
+   "date": "2026-09-15",
+   "time": "16:19",
+   "category": "Listing",
+   "ref": "20260915-17",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "79bbb7feb039",
+   "source": "BSE",
+   "title": "SME IPO- Draft offer document",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-15/20260915-15.pdf",
+   "date": "2026-09-15",
+   "time": "16:19",
+   "category": "Listing",
+   "ref": "20260915-15",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "7cfc5ec9e05f",
+   "source": "BSE",
+   "title": "Public Issue of JINDAL SUPREME INDIA LIMITED -Allocation to Anchor Investors",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-14/20260915-14.pdf",
+   "date": "2026-09-15",
+   "time": "16:13",
+   "category": "Listing",
+   "ref": "20260915-14",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "ec0f752cd8d9",
+   "source": "BSE",
+   "title": "Continuation of trading in Securities in ‘Z’ group",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260915-13/20260915-13.pdf",
+   "date": "2026-09-15",
+   "time": "15:46",
+   "category": "Trading",
+   "ref": "20260915-13",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
   {
    "id": "21f21d887180",
    "source": "BSE",
@@ -162,6 +536,127 @@
    "first_seen": "2026-09-15T09:29:20+00:00"
   },
   {
+   "id": "e9081077530a",
+   "source": "NSE",
+   "title": "Applicability of Short-Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76347.zip",
+   "date": "2026-09-15",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76347",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "da8302a416b2",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Glass Wall Systems (India) Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76337.zip",
+   "date": "2026-09-15",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76337",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "d477f019cd4d",
+   "source": "NSE",
+   "title": "Trade for Trade",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76344.zip",
+   "date": "2026-09-15",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76344",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "d15c8f92c556",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Prasol Chemicals Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76336.zip",
+   "date": "2026-09-15",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76336",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "cefd2c1a55fb",
+   "source": "NSE",
+   "title": "List of Securities Moving to Stage II of Graded Surveillance Measure (GSM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76342.pdf",
+   "date": "2026-09-15",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76342",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "ce810c1e65d4",
+   "source": "NSE",
+   "title": "Listing of Government Securities on Capital Market Segment",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76343.pdf",
+   "date": "2026-09-15",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76343",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "ca8752160e12",
+   "source": "NSE",
+   "title": "Suspension of trading in Non-Convertible Securities (Privately Placed)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76338.pdf",
+   "date": "2026-09-15",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76338",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "c43ed8fc8c81",
+   "source": "NSE",
+   "title": "Applicability of Additional Surveillance Measure (ASM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76346.zip",
+   "date": "2026-09-15",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76346",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "a1377eaf6917",
+   "source": "NSE",
+   "title": "Listing of privately placed securities on capital market segment",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76341.pdf",
+   "date": "2026-09-15",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76341",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "9fc21ff187dd",
+   "source": "NSE",
+   "title": "Applicability of Additional Surveillance Measure under IBC",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76349.zip",
+   "date": "2026-09-15",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76349",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "8390c1a16bd7",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Kanohar Electricals Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76340.zip",
+   "date": "2026-09-15",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76340",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
    "id": "83123d1d0dcb",
    "source": "NSE",
    "title": "Listing of Equity Shares of Kanohar Electricals Limited (IPO)",
@@ -184,6 +679,39 @@
    "first_seen": "2026-09-15T09:29:20+00:00"
   },
   {
+   "id": "4685e0ce5a10",
+   "source": "NSE",
+   "title": "Listing of further issues of securities",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76350.pdf",
+   "date": "2026-09-15",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76350",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "44172fa9c3ec",
+   "source": "NSE",
+   "title": "Applicability of Enhanced Surveillance Measure (ESM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76345.zip",
+   "date": "2026-09-15",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76345",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
+   "id": "39bc8619e83b",
+   "source": "NSE",
+   "title": "Continuation of trading in Securities in Z Category",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76335.pdf",
+   "date": "2026-09-15",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76335",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
    "id": "37a10d03d5bf",
    "source": "NSE",
    "title": "Listing of Equity Shares of Prasol Chemicals Limited (IPO)",
@@ -195,6 +723,17 @@
    "first_seen": "2026-09-15T09:29:20+00:00"
   },
   {
+   "id": "34751e50c5af",
+   "source": "NSE",
+   "title": "Review of Volatility Scan Range (VSR) for option Contracts in Commodity Derivatives Segment for option",
+   "url": "https://nsearchives.nseindia.com/content/circulars/COM76334.pdf",
+   "date": "2026-09-15",
+   "time": null,
+   "category": "Commodity Derivatives",
+   "ref": "COM76334",
+   "first_seen": "2026-09-15T17:40:45+00:00"
+  },
+  {
    "id": "3165df6af74b",
    "source": "NSE",
    "title": "EGR - Multiple Settlement scheduled on September 15, 2026",
@@ -204,6 +743,17 @@
    "category": "Electronic Gold Receipts",
    "ref": "EGR76315",
    "first_seen": "2026-09-15T09:29:20+00:00"
+  },
+  {
+   "id": "095fc01a9bfe",
+   "source": "NSE",
+   "title": "Listing of privately placed securities on the debt market segment of the Exchange",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76339.pdf",
+   "date": "2026-09-15",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76339",
+   "first_seen": "2026-09-15T17:40:45+00:00"
   },
   {
    "id": "fb761aa81352",
