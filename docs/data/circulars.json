@@ -1,11 +1,11 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-09-15T17:40:45+00:00",
+ "generated_at": "2026-09-16T09:18:23+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-09-15T17:40:45+00:00",
+   "last_success": "2026-09-16T09:18:23+00:00",
    "last_count": 30,
    "last_new": 0,
    "error": null
@@ -13,22 +13,220 @@
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-09-15T17:40:45+00:00",
-   "last_count": 20,
-   "last_new": 16,
+   "last_success": "2026-09-16T09:18:23+00:00",
+   "last_count": 6,
+   "last_new": 6,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-09-15T17:40:45+00:00",
-   "last_count": 46,
-   "last_new": 34,
+   "last_success": "2026-09-16T09:18:23+00:00",
+   "last_count": 12,
+   "last_new": 12,
    "error": null
   }
  },
- "count": 605,
+ "count": 623,
  "items": [
+  {
+   "id": "86516f75f06e",
+   "source": "BSE",
+   "title": "Name Change of Company - HEG Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260916-12/20260916-12.pdf",
+   "date": "2026-09-16",
+   "time": "13:53",
+   "category": "Notice",
+   "ref": "20260916-12",
+   "first_seen": "2026-09-16T09:18:23+00:00"
+  },
+  {
+   "id": "bb764cc99822",
+   "source": "BSE",
+   "title": "Suspension of Trading in Commercial Paper",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260916-10/20260916-10.pdf",
+   "date": "2026-09-16",
+   "time": "13:48",
+   "category": "Debt",
+   "ref": "20260916-10",
+   "first_seen": "2026-09-16T09:18:23+00:00"
+  },
+  {
+   "id": "3a565b27e527",
+   "source": "BSE",
+   "title": "Part Redemption of Debentures of Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260916-11/20260916-11.pdf",
+   "date": "2026-09-16",
+   "time": "13:48",
+   "category": "Debt",
+   "ref": "20260916-11",
+   "first_seen": "2026-09-16T09:18:23+00:00"
+  },
+  {
+   "id": "5832584cff78",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of INFRAX RENEWABLE LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260916-9/20260916-9.pdf",
+   "date": "2026-09-16",
+   "time": "13:42",
+   "category": "Listing",
+   "ref": "20260916-9",
+   "first_seen": "2026-09-16T09:18:23+00:00"
+  },
+  {
+   "id": "c614e2d3b612",
+   "source": "BSE",
+   "title": "Demat Auction 715",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260916-8/20260916-8.pdf",
+   "date": "2026-09-16",
+   "time": "13:37",
+   "category": "Clearing & Settlement",
+   "ref": "20260916-8",
+   "first_seen": "2026-09-16T09:18:23+00:00"
+  },
+  {
+   "id": "8efe3dcddaa2",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Rentomojo Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260916-7/20260916-7.pdf",
+   "date": "2026-09-16",
+   "time": "13:16",
+   "category": "Listing",
+   "ref": "20260916-7",
+   "first_seen": "2026-09-16T09:18:23+00:00"
+  },
+  {
+   "id": "193ccbc0e18f",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Steamhouse India Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260916-6/20260916-6.pdf",
+   "date": "2026-09-16",
+   "time": "13:16",
+   "category": "Listing",
+   "ref": "20260916-6",
+   "first_seen": "2026-09-16T09:18:23+00:00"
+  },
+  {
+   "id": "09f51e8f67cc",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of KARAMTARA ENGINEERING LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260916-5/20260916-5.pdf",
+   "date": "2026-09-16",
+   "time": "13:16",
+   "category": "Listing",
+   "ref": "20260916-5",
+   "first_seen": "2026-09-16T09:18:23+00:00"
+  },
+  {
+   "id": "ca7de750ac15",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of LCC PROJECTS LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260916-4/20260916-4.pdf",
+   "date": "2026-09-16",
+   "time": "13:15",
+   "category": "Listing",
+   "ref": "20260916-4",
+   "first_seen": "2026-09-16T09:18:23+00:00"
+  },
+  {
+   "id": "1e42e68e5c8e",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Manipal Payment and Identity Solutions Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260916-3/20260916-3.pdf",
+   "date": "2026-09-16",
+   "time": "13:15",
+   "category": "Listing",
+   "ref": "20260916-3",
+   "first_seen": "2026-09-16T09:18:23+00:00"
+  },
+  {
+   "id": "846b099b8f11",
+   "source": "BSE",
+   "title": "Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for ECS BIZTECH LIMITED.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260916-2/20260916-2.pdf",
+   "date": "2026-09-16",
+   "time": "12:40",
+   "category": "Clearing & Settlement",
+   "ref": "20260916-2",
+   "first_seen": "2026-09-16T09:18:23+00:00"
+  },
+  {
+   "id": "88f1f3bc8698",
+   "source": "BSE",
+   "title": "Opening of Offer to Buy – Acquisition Window (Takeover) of CUBICAL FINANCIAL SERVICES LIMITED.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260916-1/20260916-1.pdf",
+   "date": "2026-09-16",
+   "time": "12:31",
+   "category": "Notice",
+   "ref": "20260916-1",
+   "first_seen": "2026-09-16T09:18:23+00:00"
+  },
+  {
+   "id": "d20fbd7b5580",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Rentomojo Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76348.pdf",
+   "date": "2026-09-16",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76348",
+   "first_seen": "2026-09-16T09:18:23+00:00"
+  },
+  {
+   "id": "bba9067043e8",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Karamtara Engineering Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76354.pdf",
+   "date": "2026-09-16",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76354",
+   "first_seen": "2026-09-16T09:18:23+00:00"
+  },
+  {
+   "id": "9eb741146a7f",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of LCC Projects Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76351.pdf",
+   "date": "2026-09-16",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76351",
+   "first_seen": "2026-09-16T09:18:23+00:00"
+  },
+  {
+   "id": "1eecff9a28d6",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Asset Reconstruction Company (India) Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76296.pdf",
+   "date": "2026-09-16",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76296",
+   "first_seen": "2026-09-16T09:18:23+00:00"
+  },
+  {
+   "id": "037cfc98c483",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Manipal Payment and Identity Solutions Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76353.pdf",
+   "date": "2026-09-16",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76353",
+   "first_seen": "2026-09-16T09:18:23+00:00"
+  },
+  {
+   "id": "02365d229587",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Steamhouse India Limited (IPO))",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76352.pdf",
+   "date": "2026-09-16",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76352",
+   "first_seen": "2026-09-16T09:18:23+00:00"
+  },
   {
    "id": "1cdd4cc84a78",
    "source": "BSE",
