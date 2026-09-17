@@ -1,34 +1,155 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-09-16T17:38:12+00:00",
+ "generated_at": "2026-09-17T09:27:21+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-09-16T17:38:12+00:00",
+   "last_success": "2026-09-17T09:27:21+00:00",
    "last_count": 30,
-   "last_new": 9,
+   "last_new": 0,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-09-16T17:38:12+00:00",
-   "last_count": 33,
-   "last_new": 27,
+   "last_success": "2026-09-17T09:27:21+00:00",
+   "last_count": 2,
+   "last_new": 2,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-09-16T17:38:12+00:00",
-   "last_count": 53,
-   "last_new": 41,
+   "last_success": "2026-09-17T09:27:21+00:00",
+   "last_count": 9,
+   "last_new": 9,
    "error": null
   }
  },
- "count": 700,
+ "count": 711,
  "items": [
+  {
+   "id": "ffc003fc7f0e",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of OM GALAXY LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260917-9/20260917-9.pdf",
+   "date": "2026-09-17",
+   "time": "14:03",
+   "category": "Listing",
+   "ref": "20260917-9",
+   "first_seen": "2026-09-17T09:27:21+00:00"
+  },
+  {
+   "id": "25938d86d67e",
+   "source": "BSE",
+   "title": "Change in Group of Equity shares of Infrax Renewable Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260917-7/20260917-7.pdf",
+   "date": "2026-09-17",
+   "time": "14:03",
+   "category": "Notice",
+   "ref": "20260917-7",
+   "first_seen": "2026-09-17T09:27:21+00:00"
+  },
+  {
+   "id": "07b0063085e9",
+   "source": "BSE",
+   "title": "Change in Group of Equity Shares of Amtech Esters Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260917-8/20260917-8.pdf",
+   "date": "2026-09-17",
+   "time": "14:03",
+   "category": "Notice",
+   "ref": "20260917-8",
+   "first_seen": "2026-09-17T09:27:21+00:00"
+  },
+  {
+   "id": "5c3524c5e303",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Veegaland Developers Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260917-6/20260917-6.pdf",
+   "date": "2026-09-17",
+   "time": "14:01",
+   "category": "Listing",
+   "ref": "20260917-6",
+   "first_seen": "2026-09-17T09:27:21+00:00"
+  },
+  {
+   "id": "034fdb68b53e",
+   "source": "BSE",
+   "title": "Part Redemption of Debentures of Company",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260917-5/20260917-5.pdf",
+   "date": "2026-09-17",
+   "time": "13:18",
+   "category": "Debt",
+   "ref": "20260917-5",
+   "first_seen": "2026-09-17T09:27:21+00:00"
+  },
+  {
+   "id": "83745c394833",
+   "source": "BSE",
+   "title": "Sub-Division of Equity Shares of Shankara Buildpro Ltd (Scrip Code: 544517).",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260917-4/20260917-4.pdf",
+   "date": "2026-09-17",
+   "time": "13:12",
+   "category": "Corporate Action",
+   "ref": "20260917-4",
+   "first_seen": "2026-09-17T09:27:21+00:00"
+  },
+  {
+   "id": "a519e87c0b64",
+   "source": "BSE",
+   "title": "Sub-Division of Equity Shares of Naturite Agro Products Ltd (Scrip Code: 538926).",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260917-3/20260917-3.pdf",
+   "date": "2026-09-17",
+   "time": "13:11",
+   "category": "Corporate Action",
+   "ref": "20260917-3",
+   "first_seen": "2026-09-17T09:27:21+00:00"
+  },
+  {
+   "id": "2512eab54880",
+   "source": "BSE",
+   "title": "Demat Auction 716",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260917-2/20260917-2.pdf",
+   "date": "2026-09-17",
+   "time": "13:02",
+   "category": "Clearing & Settlement",
+   "ref": "20260917-2",
+   "first_seen": "2026-09-17T09:27:21+00:00"
+  },
+  {
+   "id": "ad7b471d9f4a",
+   "source": "BSE",
+   "title": "Suspension of Trading in Debentures of Mahua Bharatpur Expressways Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260917-1/20260917-1.pdf",
+   "date": "2026-09-17",
+   "time": "12:25",
+   "category": "Debt",
+   "ref": "20260917-1",
+   "first_seen": "2026-09-17T09:27:21+00:00"
+  },
+  {
+   "id": "7bbec18b2419",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Veegaland Developers Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76389.pdf",
+   "date": "2026-09-17",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76389",
+   "first_seen": "2026-09-17T09:27:21+00:00"
+  },
+  {
+   "id": "2e9c415734b4",
+   "source": "NSE",
+   "title": "Early Pay-in of Securities for Oriana Power Limited (ORIANA)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT76366.pdf",
+   "date": "2026-09-17",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT76366",
+   "first_seen": "2026-09-17T09:27:21+00:00"
+  },
   {
    "id": "7ff57457822e",
    "source": "BSE",
