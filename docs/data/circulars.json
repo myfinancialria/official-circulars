@@ -1,34 +1,232 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-09-17T17:38:20+00:00",
+ "generated_at": "2026-09-18T09:00:46+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-09-17T17:38:20+00:00",
+   "last_success": "2026-09-18T09:00:46+00:00",
    "last_count": 30,
-   "last_new": 15,
+   "last_new": 0,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-09-17T17:38:20+00:00",
-   "last_count": 22,
-   "last_new": 20,
+   "last_success": "2026-09-18T09:00:46+00:00",
+   "last_count": 6,
+   "last_new": 6,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-09-17T17:38:20+00:00",
-   "last_count": 51,
-   "last_new": 42,
+   "last_success": "2026-09-18T09:00:46+00:00",
+   "last_count": 12,
+   "last_new": 12,
    "error": null
   }
  },
- "count": 788,
+ "count": 806,
  "items": [
+  {
+   "id": "be903155f98f",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Century Business Media Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260918-12/20260918-12.pdf",
+   "date": "2026-09-18",
+   "time": "13:53",
+   "category": "Listing",
+   "ref": "20260918-12",
+   "first_seen": "2026-09-18T09:00:46+00:00"
+  },
+  {
+   "id": "ac5fcaaa8a1f",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of MANIKA PLASTECH LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260918-11/20260918-11.pdf",
+   "date": "2026-09-18",
+   "time": "13:53",
+   "category": "Listing",
+   "ref": "20260918-11",
+   "first_seen": "2026-09-18T09:00:46+00:00"
+  },
+  {
+   "id": "f8beeb62e7b6",
+   "source": "BSE",
+   "title": "CORPORATE ACTION IN SLB SECURITIES",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260918-10/20260918-10.pdf",
+   "date": "2026-09-18",
+   "time": "13:51",
+   "category": "Notice",
+   "ref": "20260918-10",
+   "first_seen": "2026-09-18T09:00:46+00:00"
+  },
+  {
+   "id": "e483ff478e9c",
+   "source": "BSE",
+   "title": "Listing of New Securities of Prabhatam Infra Venture Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260918-9/20260918-9.pdf",
+   "date": "2026-09-18",
+   "time": "13:24",
+   "category": "Listing",
+   "ref": "20260918-9",
+   "first_seen": "2026-09-18T09:00:46+00:00"
+  },
+  {
+   "id": "d716569ffdd6",
+   "source": "BSE",
+   "title": "Demat Auction 717",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260918-8/20260918-8.pdf",
+   "date": "2026-09-18",
+   "time": "13:19",
+   "category": "Clearing & Settlement",
+   "ref": "20260918-8",
+   "first_seen": "2026-09-18T09:00:46+00:00"
+  },
+  {
+   "id": "ed691c9708d1",
+   "source": "BSE",
+   "title": "Suspension of Trading in Commercial Paper",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260918-7/20260918-7.pdf",
+   "date": "2026-09-18",
+   "time": "12:53",
+   "category": "Debt",
+   "ref": "20260918-7",
+   "first_seen": "2026-09-18T09:00:46+00:00"
+  },
+  {
+   "id": "0e093d3f12fa",
+   "source": "BSE",
+   "title": "Change in Group of Maharaja & Speedex India Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260918-6/20260918-6.pdf",
+   "date": "2026-09-18",
+   "time": "11:44",
+   "category": "Notice",
+   "ref": "20260918-6",
+   "first_seen": "2026-09-18T09:00:46+00:00"
+  },
+  {
+   "id": "05f7fb6b6a10",
+   "source": "BSE",
+   "title": "Change in Group of Equity shares of Panchatv Bharat Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260918-5/20260918-5.pdf",
+   "date": "2026-09-18",
+   "time": "11:44",
+   "category": "Notice",
+   "ref": "20260918-5",
+   "first_seen": "2026-09-18T09:00:46+00:00"
+  },
+  {
+   "id": "ad5c6136c9a6",
+   "source": "BSE",
+   "title": "Change in Group of Equity shares of OM GALAXY LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260918-3/20260918-3.pdf",
+   "date": "2026-09-18",
+   "time": "11:43",
+   "category": "Notice",
+   "ref": "20260918-3",
+   "first_seen": "2026-09-18T09:00:46+00:00"
+  },
+  {
+   "id": "6f13671e4b6c",
+   "source": "BSE",
+   "title": "Change in Group of Equity Shares of RAKSAN TRANSFORMERS LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260918-4/20260918-4.pdf",
+   "date": "2026-09-18",
+   "time": "11:43",
+   "category": "Notice",
+   "ref": "20260918-4",
+   "first_seen": "2026-09-18T09:00:46+00:00"
+  },
+  {
+   "id": "e30ef565e30f",
+   "source": "BSE",
+   "title": "Change in Group of Equity Shares of Veegaland Developers Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260918-2/20260918-2.pdf",
+   "date": "2026-09-18",
+   "time": "11:33",
+   "category": "Notice",
+   "ref": "20260918-2",
+   "first_seen": "2026-09-18T09:00:46+00:00"
+  },
+  {
+   "id": "21ceec9dd53a",
+   "source": "BSE",
+   "title": "Compliance with TRAI directions and guidelines",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260918-1/20260918-1.pdf",
+   "date": "2026-09-18",
+   "time": "11:13",
+   "category": "Compliance",
+   "ref": "20260918-1",
+   "first_seen": "2026-09-18T09:00:46+00:00"
+  },
+  {
+   "id": "f5a0d88c556d",
+   "source": "NSE",
+   "title": "Mock trading on Saturday, September 19, 2026 - No new version release",
+   "url": "https://nsearchives.nseindia.com/content/circulars/FAOP76410.pdf",
+   "date": "2026-09-18",
+   "time": null,
+   "category": "Futures & Options",
+   "ref": "FAOP76410",
+   "first_seen": "2026-09-18T09:00:46+00:00"
+  },
+  {
+   "id": "7b512a82acb0",
+   "source": "NSE",
+   "title": "Extension of allotment date for Lakshya Overnight Fund NFO on NSE MF Invest Platform",
+   "url": "https://nsearchives.nseindia.com/content/circulars/NMF76383.zip",
+   "date": "2026-09-18",
+   "time": null,
+   "category": "Mutual Funds",
+   "ref": "NMF76383",
+   "first_seen": "2026-09-18T09:00:46+00:00"
+  },
+  {
+   "id": "636cb2381ac3",
+   "source": "NSE",
+   "title": "Mock trading on Saturday, September 19, 2026 - No new version release",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CD76412.pdf",
+   "date": "2026-09-18",
+   "time": null,
+   "category": "Currency Derivatives",
+   "ref": "CD76412",
+   "first_seen": "2026-09-18T09:00:46+00:00"
+  },
+  {
+   "id": "5eb0fd26f9c9",
+   "source": "NSE",
+   "title": "Mock session on Saturday, September 19, 2026 - No new version release",
+   "url": "https://nsearchives.nseindia.com/content/circulars/COM76414.pdf",
+   "date": "2026-09-18",
+   "time": null,
+   "category": "Commodity Derivatives",
+   "ref": "COM76414",
+   "first_seen": "2026-09-18T09:00:46+00:00"
+  },
+  {
+   "id": "2e62d08ddd83",
+   "source": "NSE",
+   "title": "CBRICS - Settlement Calendar for October 2026",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT76415.pdf",
+   "date": "2026-09-18",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT76415",
+   "first_seen": "2026-09-18T09:00:46+00:00"
+  },
+  {
+   "id": "046f30222a2e",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Manika Plastech Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76413.pdf",
+   "date": "2026-09-18",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76413",
+   "first_seen": "2026-09-18T09:00:46+00:00"
+  },
   {
    "id": "eaca5c2bfab8",
    "source": "BSE",
