@@ -1,11 +1,11 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-09-18T17:05:41+00:00",
+ "generated_at": "2026-09-19T08:48:53+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-09-18T17:05:41+00:00",
+   "last_success": "2026-09-19T08:48:53+00:00",
    "last_count": 30,
    "last_new": 0,
    "error": null
@@ -13,22 +13,33 @@
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-09-18T17:05:41+00:00",
-   "last_count": 25,
-   "last_new": 19,
+   "last_success": "2026-09-19T08:48:53+00:00",
+   "last_count": 26,
+   "last_new": 1,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-09-18T17:05:41+00:00",
-   "last_count": 53,
-   "last_new": 41,
+   "last_success": "2026-09-19T08:48:53+00:00",
+   "last_count": 54,
+   "last_new": 1,
    "error": null
   }
  },
- "count": 866,
+ "count": 868,
  "items": [
+  {
+   "id": "dee188b16d9d",
+   "source": "BSE",
+   "title": "Samuhik Prativedan Manch - A Technology based sharing mechanism of common submissions extended to Members of Clearing Corporations",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260918-54/20260918-54.pdf",
+   "date": "2026-09-18",
+   "time": "23:21",
+   "category": "Membership",
+   "ref": "20260918-54",
+   "first_seen": "2026-09-19T08:48:53+00:00"
+  },
   {
    "id": "9859c97875f0",
    "source": "BSE",
@@ -644,6 +655,17 @@
    "category": "Listing",
    "ref": "CML76427",
    "first_seen": "2026-09-18T17:05:41+00:00"
+  },
+  {
+   "id": "ca7f9a17edb9",
+   "source": "NSE",
+   "title": "Samuhik Prativedan Manch- A Technology based sharing mechanism of common submissions extended to Members of Clearing Corporations",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPL76430.zip",
+   "date": "2026-09-18",
+   "time": null,
+   "category": "CMPL",
+   "ref": "CMPL76430",
+   "first_seen": "2026-09-19T08:48:53+00:00"
   },
   {
    "id": "c22e1e105589",
