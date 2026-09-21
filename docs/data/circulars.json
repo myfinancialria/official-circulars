@@ -1,34 +1,331 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-09-21T09:57:19+00:00",
+ "generated_at": "2026-09-21T18:43:57+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-09-21T09:57:19+00:00",
+   "last_success": "2026-09-21T18:43:57+00:00",
    "last_count": 30,
-   "last_new": 0,
+   "last_new": 9,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-09-21T09:57:19+00:00",
-   "last_count": 4,
-   "last_new": 4,
+   "last_success": "2026-09-21T18:43:57+00:00",
+   "last_count": 38,
+   "last_new": 34,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-09-21T09:57:19+00:00",
-   "last_count": 19,
-   "last_new": 19,
+   "last_success": "2026-09-21T18:43:57+00:00",
+   "last_count": 46,
+   "last_new": 27,
    "error": null
   }
  },
- "count": 891,
+ "count": 961,
  "items": [
+  {
+   "id": "7af2e7dae1dd",
+   "source": "BSE",
+   "title": "Daily Bulletin",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-46/20260921-46.pdf",
+   "date": "2026-09-21",
+   "time": "21:41",
+   "category": "Notice",
+   "ref": "20260921-46",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "d571fd1d0fc4",
+   "source": "BSE",
+   "title": "Rights Entitlements of CENTURY EXTRUSIONS LIMITED.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-45/20260921-45.pdf",
+   "date": "2026-09-21",
+   "time": "21:11",
+   "category": "Listing",
+   "ref": "20260921-45",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "1248280aa41e",
+   "source": "BSE",
+   "title": "Public Issue of VARMORA GRANITO LIMITED-Allocation to Anchor Investors",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-44/20260921-44.pdf",
+   "date": "2026-09-21",
+   "time": "20:40",
+   "category": "Listing",
+   "ref": "20260921-44",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "8635787ace74",
+   "source": "BSE",
+   "title": "Additions to the BSE Indices",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-43/20260921-43.pdf",
+   "date": "2026-09-21",
+   "time": "20:19",
+   "category": "Notice",
+   "ref": "20260921-43",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "8e267511001e",
+   "source": "BSE",
+   "title": "Buyback of the shares of EMAMI LIMITED from Open Market through Stock Exchange",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-42/20260921-42.pdf",
+   "date": "2026-09-21",
+   "time": "19:41",
+   "category": "Corporate Action",
+   "ref": "20260921-42",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "87e535f360ba",
+   "source": "BSE",
+   "title": "CHANGES IN PRICE BAND",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-41/20260921-41.pdf",
+   "date": "2026-09-21",
+   "time": "19:28",
+   "category": "Surveillance",
+   "ref": "20260921-41",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "b2040d874d7e",
+   "source": "BSE",
+   "title": "Merger of Schemes of Aditya Birla Sun Life Mutual Fund on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-40/20260921-40.pdf",
+   "date": "2026-09-21",
+   "time": "19:25",
+   "category": "Mutual Funds",
+   "ref": "20260921-40",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "fc07d8ca8a0b",
+   "source": "BSE",
+   "title": "Public Issue of HIMALAYA NUTRAVEDICS INDIA LIMITED - Allocation to Anchor Investors",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-39/20260921-39.pdf",
+   "date": "2026-09-21",
+   "time": "19:18",
+   "category": "Listing",
+   "ref": "20260921-39",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "be09abbcefca",
+   "source": "BSE",
+   "title": "Listing of New Securities of PC JEWELLER LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-38/20260921-38.pdf",
+   "date": "2026-09-21",
+   "time": "19:01",
+   "category": "Listing",
+   "ref": "20260921-38",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "1fdc795e7eea",
+   "source": "BSE",
+   "title": "Availability UTI BSE INDIA SECTOR LEADERS INDEX FUND for ongoing transactions on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-37/20260921-37.pdf",
+   "date": "2026-09-21",
+   "time": "18:56",
+   "category": "Mutual Funds",
+   "ref": "20260921-37",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "a08766a8664c",
+   "source": "BSE",
+   "title": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-35/20260921-35.pdf",
+   "date": "2026-09-21",
+   "time": "18:53",
+   "category": "Surveillance",
+   "ref": "20260921-35",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "5fe839012882",
+   "source": "BSE",
+   "title": "Availability of BANK OF INDIA VALUE FUND for ongoing transactions on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-36/20260921-36.pdf",
+   "date": "2026-09-21",
+   "time": "18:53",
+   "category": "Mutual Funds",
+   "ref": "20260921-36",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "ec689a6f1ef9",
+   "source": "BSE",
+   "title": "Enhanced Surveillance Measure (ESM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-34/20260921-34.pdf",
+   "date": "2026-09-21",
+   "time": "18:52",
+   "category": "Surveillance",
+   "ref": "20260921-34",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "e23c90574df2",
+   "source": "BSE",
+   "title": "Graded Surveillance Measure (GSM) - List of securities moving into their respective GSM Stages",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-32/20260921-32.pdf",
+   "date": "2026-09-21",
+   "time": "18:52",
+   "category": "Surveillance",
+   "ref": "20260921-32",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "b8f0541de5d0",
+   "source": "BSE",
+   "title": "Applicability of Long Term Additional Surveillance Measure (LT-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-33/20260921-33.pdf",
+   "date": "2026-09-21",
+   "time": "18:52",
+   "category": "Surveillance",
+   "ref": "20260921-33",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "96f07241c0f3",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of VAMA WOVENFAB LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-31/20260921-31.pdf",
+   "date": "2026-09-21",
+   "time": "18:38",
+   "category": "Listing",
+   "ref": "20260921-31",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "de139aa9e135",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of SHAKTI POLYTARP LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-30/20260921-30.pdf",
+   "date": "2026-09-21",
+   "time": "18:11",
+   "category": "Listing",
+   "ref": "20260921-30",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "13c18f2064c2",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Quanto Agroworld Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-29/20260921-29.pdf",
+   "date": "2026-09-21",
+   "time": "18:07",
+   "category": "Listing",
+   "ref": "20260921-29",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "97b51821e3e2",
+   "source": "BSE",
+   "title": "Clarification Received from the Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-28/20260921-28.pdf",
+   "date": "2026-09-21",
+   "time": "18:01",
+   "category": "Notice",
+   "ref": "20260921-28",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "981a93e66df6",
+   "source": "BSE",
+   "title": "Clarification Received from the Company on News Article",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-27/20260921-27.pdf",
+   "date": "2026-09-21",
+   "time": "17:58",
+   "category": "Notice",
+   "ref": "20260921-27",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "a7d5551409e5",
+   "source": "BSE",
+   "title": "Application for surrender of Membership - HTS Securities Pvt. Ltd. (Member no. 259)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-26/20260921-26.pdf",
+   "date": "2026-09-21",
+   "time": "17:39",
+   "category": "Membership",
+   "ref": "20260921-26",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "c86347736545",
+   "source": "BSE",
+   "title": "Part Redemption of Debentures of FUSION FINANCE Ltd",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-24/20260921-24.pdf",
+   "date": "2026-09-21",
+   "time": "17:28",
+   "category": "Debt",
+   "ref": "20260921-24",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "1661f81174e2",
+   "source": "BSE",
+   "title": "Listing of New Securities of DJ Mediaprint & Logistics Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-25/20260921-25.pdf",
+   "date": "2026-09-21",
+   "time": "17:28",
+   "category": "Listing",
+   "ref": "20260921-25",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "24cc219247a1",
+   "source": "BSE",
+   "title": "Listing of further securities issued by the companies under ESOP / ESOS",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-23/20260921-23.pdf",
+   "date": "2026-09-21",
+   "time": "16:59",
+   "category": "Listing",
+   "ref": "20260921-23",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "11560059b8ce",
+   "source": "BSE",
+   "title": "Shifting of scrips to ‘Z’/‘MT’ group",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-22/20260921-22.pdf",
+   "date": "2026-09-21",
+   "time": "16:58",
+   "category": "Notice",
+   "ref": "20260921-22",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "abf759bbab39",
+   "source": "BSE",
+   "title": "Change in Group of Equity Shares of HEG Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-21/20260921-21.pdf",
+   "date": "2026-09-21",
+   "time": "16:16",
+   "category": "Notice",
+   "ref": "20260921-21",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "0e6fa570c546",
+   "source": "BSE",
+   "title": "Part Redemption And Resumption of Trading in Debentures of FRIEZA 06 2025 (Scrip Code 976876)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-20/20260921-20.pdf",
+   "date": "2026-09-21",
+   "time": "15:50",
+   "category": "Debt",
+   "ref": "20260921-20",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
   {
    "id": "7933c6468381",
    "source": "BSE",
@@ -239,6 +536,72 @@
    "first_seen": "2026-09-21T09:57:19+00:00"
   },
   {
+   "id": "f56f627a5ce3",
+   "source": "NSE",
+   "title": "Trade for Trade - HEG Advanced Materials Limited (HEGAM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76439.pdf",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76439",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "f513ce28c379",
+   "source": "NSE",
+   "title": "Revised list of Approved Securities and Banks",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CD76468.zip",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Currency Derivatives",
+   "ref": "CD76468",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "e999543656a5",
+   "source": "NSE",
+   "title": "Applicability of Additional Surveillance Measure (ASM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76443.zip",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76443",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "e155387d7bc2",
+   "source": "NSE",
+   "title": "Change in Name and Symbol of HEG Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT76461.pdf",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT76461",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "db6b189959bf",
+   "source": "NSE",
+   "title": "Shifting of trading in Securities to Z Category",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76449.pdf",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76449",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "d127ae56fc7b",
+   "source": "NSE",
+   "title": "Revised list of Approved Securities and Banks",
+   "url": "https://nsearchives.nseindia.com/content/circulars/COM76467.zip",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Commodity Derivatives",
+   "ref": "COM76467",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
    "id": "ce27e011b879",
    "source": "NSE",
    "title": "Introduction of API Facility in NMASS-Margins-CM",
@@ -248,6 +611,28 @@
    "category": "Clearing & Settlement",
    "ref": "CMPT76432",
    "first_seen": "2026-09-21T09:57:19+00:00"
+  },
+  {
+   "id": "c8afe7ffdf17",
+   "source": "NSE",
+   "title": "Dissemination of End of Day Index Price Report",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMTR76452.pdf",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Trading",
+   "ref": "CMTR76452",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "c62a0bacbb6c",
+   "source": "SEBI",
+   "title": "General Remittance Advice against: Sapna (Proprietor of Stallion Trading Co.) [Defaulter] (PAN: DRUPS8079D) in the matter of trading activities of certain entities in the scrip of Delta Leasing and Finance Ltd.: under Recovery Certificate No. 9159 of 2026.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/general-remittance-advice-against-sapna-proprietor-of-stallion-trading-co-defaulter-pan-drups8079d-in-the-matter-of-trading-activities-of-certain-entities-in-the-scrip-of-delta-leasing-and-fi-_104605.html",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-09-21T18:43:57+00:00"
   },
   {
    "id": "c2cf8a8d26dd",
@@ -261,6 +646,149 @@
    "first_seen": "2026-09-21T09:57:19+00:00"
   },
   {
+   "id": "bcecdbf5921c",
+   "source": "NSE",
+   "title": "Availability of UTI BSE India Sector Leaders Index Fund on NSE MF Invest Platform",
+   "url": "https://nsearchives.nseindia.com/content/circulars/NMF76438.pdf",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Mutual Funds",
+   "ref": "NMF76438",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "bce37aaa649b",
+   "source": "NSE",
+   "title": "Revised list of Approved Securities and Banks",
+   "url": "https://nsearchives.nseindia.com/content/circulars/DS76470.zip",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "DS",
+   "ref": "DS76470",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "bc77c73e5ce1",
+   "source": "NSE",
+   "title": "Listing of further issues of securities",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76460.pdf",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76460",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "bb3f40e6f5fc",
+   "source": "SEBI",
+   "title": "Appeal No. 7067 of 2026 filed by Kailash Kumar",
+   "url": "https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7067-of-2026-filed-by-kailash-kumar_104611.html",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "b6f9f3f98fb7",
+   "source": "NSE",
+   "title": "Trading of Rights Entitlements pursuant to Rights Issue of Century Extrusions Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76437.pdf",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76437",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "b5a92ba9658b",
+   "source": "NSE",
+   "title": "Change in name and symbol of Sanginita Chemicals Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76448.pdf",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76448",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "ad4683310c0e",
+   "source": "NSE",
+   "title": "Listing & Trading of Equity Shares pursuant to Bonus Issue of Chavda Infra Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76455.pdf",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76455",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "a5877d027b1c",
+   "source": "NSE",
+   "title": "Early Pay-in of Securities for Taal Tech Limited (TAALTECH)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT76464.pdf",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT76464",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "a0e5bd52030e",
+   "source": "SEBI",
+   "title": "General Remittance Advice against: Gaurav Gupta [Defaulter] (PAN: AKHPG5185D) in the matter of Sadhna Broadcast Limited: under Recovery Certificate No. 9257 of 2026.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/general-remittance-advice-against-gaurav-gupta-defaulter-pan-akhpg5185d-in-the-matter-of-sadhna-broadcast-limited-under-recovery-certificate-no-9257-of-2026-_104615.html",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "9c86d35dc426",
+   "source": "NSE",
+   "title": "Trade for Trade - Manika Plastech Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76463.pdf",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76463",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "9077d7983afb",
+   "source": "NSE",
+   "title": "Applicability of Short-Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76444.zip",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76444",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "8f96d9f5448b",
+   "source": "NSE",
+   "title": "Listing of privately placed securities on the debt market segment of the Exchange",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76442.pdf",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76442",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "8f7e3b95c1c8",
+   "source": "NSE",
+   "title": "Revised list of Approved Securities and Banks",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT76469.zip",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT76469",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
    "id": "8d9d847d008d",
    "source": "NSE",
    "title": "Introduction of API Facility in NMASS-Margins-CO",
@@ -272,6 +800,50 @@
    "first_seen": "2026-09-21T09:57:19+00:00"
   },
   {
+   "id": "8a97f101660c",
+   "source": "NSE",
+   "title": "Revised list of Approved Securities and Banks",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT76466.zip",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT76466",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "85e5e74ff5b2",
+   "source": "SEBI",
+   "title": "Appeal No. 7068 of 2026 filed by Swarnali Basu",
+   "url": "https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7068-of-2026-filed-by-swarnali-basu_104613.html",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "84b1ad59a9b5",
+   "source": "NSE",
+   "title": "Applicable MWPL, TM, FII/FPI & MF Limits",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT76459.zip",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT76459",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "83a2ce690193",
+   "source": "SEBI",
+   "title": "Appeal No. 7065 of 2026 filed by Harish",
+   "url": "https://www.sebi.gov.in/enforcement/orders/sep-2026/appeal-no-7065-of-2026-filed-by-harish_104609.html",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
    "id": "7ec812c764cd",
    "source": "NSE",
    "title": "Introduction of API Facility in NMASS-Margins-FO",
@@ -281,6 +853,182 @@
    "category": "Clearing & Settlement",
    "ref": "CMPT76433",
    "first_seen": "2026-09-21T09:57:19+00:00"
+  },
+  {
+   "id": "7cd06e7975fb",
+   "source": "NSE",
+   "title": "Suspension of trading in units - on account of redemption",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76431.pdf",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76431",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "7a44083e0a56",
+   "source": "NSE",
+   "title": "Listing of privately placed securities on capital market segment",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76445.pdf",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76445",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "706a0efac5b6",
+   "source": "NSE",
+   "title": "Suspension of trading in Non-Convertible Securities (Privately Placed)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76450.pdf",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76450",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "63e21524b3c9",
+   "source": "NSE",
+   "title": "BONUS: Adjustment of Market Lot for Security CHAVDA in SME Platform",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMTR76453.pdf",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Trading",
+   "ref": "CMTR76453",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "626c6d7f907a",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of VTM Limited (New Listing)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76462.zip",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76462",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "61f7c1f4297b",
+   "source": "NSE",
+   "title": "Revision In Tick Size for Block Trading Session",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMTR76441.pdf",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Trading",
+   "ref": "CMTR76441",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "5fbe40d07ba3",
+   "source": "NSE",
+   "title": "Applicability of Enhanced Surveillance Measure (ESM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76451.zip",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76451",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "4f84a958561b",
+   "source": "NSE",
+   "title": "Algo Provider - Empanelment for providing Algorithmic Trading Solutions (Quantiply Technologies Private Limited - Black Box)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/INVG76458.pdf",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Investigation",
+   "ref": "INVG76458",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "4ae74ce40d9a",
+   "source": "NSE",
+   "title": "Face Value Split and Change in ISIN - Taal Tech Limited (TAALTECH)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76440.pdf",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76440",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "42506a44423c",
+   "source": "NSE",
+   "title": "Revision in Scheme of Strikes in Stock Options",
+   "url": "https://nsearchives.nseindia.com/content/circulars/FAOP76436.zip",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Futures & Options",
+   "ref": "FAOP76436",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "3f9aa2edda6f",
+   "source": "SEBI",
+   "title": "General Remittance Advice against: Peeyush Agarwal [Defaulter] (PAN: AKUPA6832C) in the matter of Sadhna Broadcast Limited: under Recovery Certificate No. 9256 of 2026.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/general-remittance-advice-against-peeyush-agarwal-defaulter-pan-akupa6832c-in-the-matter-of-sadhna-broadcast-limited-under-recovery-certificate-no-9256-of-2026-_104608.html",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "3ee4af00b3c4",
+   "source": "SEBI",
+   "title": "General Remittance Advice against: Rakesh Kumar Gupta [Defaulter] (PAN: AAEPG2752R) in the matter of Sadhna Broadcast Limited: under Recovery Certificate No. 9259 of 2026.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/general-remittance-advice-against-rakesh-kumar-gupta-defaulter-pan-aaepg2752r-in-the-matter-of-sadhna-broadcast-limited-under-recovery-certificate-no-9259-of-2026-_104617.html",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "28b4695a32ea",
+   "source": "NSE",
+   "title": "Availability of Bank of India Value Fund on NSE MF Invest Platform",
+   "url": "https://nsearchives.nseindia.com/content/circulars/NMF76411.pdf",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Mutual Funds",
+   "ref": "NMF76411",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "22ce10a9e8c5",
+   "source": "NSE",
+   "title": "Revised list of Approved Securities and Banks",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT76465.zip",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT76465",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "134635c9032f",
+   "source": "NSE",
+   "title": "Trading Hours for Commodity Derivatives Segment",
+   "url": "https://nsearchives.nseindia.com/content/circulars/COM76446.pdf",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Commodity Derivatives",
+   "ref": "COM76446",
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
+   "id": "0e6c583d22bc",
+   "source": "NSE",
+   "title": "Streamlining EOD information dissemination related to Bhavcopy - update",
+   "url": "https://nsearchives.nseindia.com/content/circulars/MSD76457.pdf",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "MSD",
+   "ref": "MSD76457",
+   "first_seen": "2026-09-21T18:43:57+00:00"
   },
   {
    "id": "dee188b16d9d",
@@ -1746,6 +2494,17 @@
    "first_seen": "2026-09-17T17:38:20+00:00"
   },
   {
+   "id": "e779c29af6b6",
+   "source": "SEBI",
+   "title": "Notice of Attachment of Bank accounts dated September 17, 2026 against Bhavin Natwarlal Panchal (PAN – AJMPP8429P)[Defaulter] in the matter of Gala Global Products Limited under Recovery Certificate No. 5697 of 2022",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/notice-of-attachment-of-bank-accounts-dated-september-17-2026-against-bhavin-natwarlal-panchal-pan-ajmpp8429p-defaulter-in-the-matter-of-gala-global-products-limited-under-recovery-certificate-n-_104602.html",
+   "date": "2026-09-17",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-09-21T18:43:57+00:00"
+  },
+  {
    "id": "e6ea6463fff8",
    "source": "NSE",
    "title": "SEBI directions pursuant to SAT Order in the matter of Goenka Business and Finance Limited",
@@ -1755,6 +2514,17 @@
    "category": "Investigation",
    "ref": "INVG76405",
    "first_seen": "2026-09-17T17:38:20+00:00"
+  },
+  {
+   "id": "df32feeff172",
+   "source": "SEBI",
+   "title": "Notice of Attachment of Demat Accounts and Mutual Fund Folios dated September 17, 2026 against Bhavin Natwarlal Panchal (PAN – AJMPP8429P)[Defaulter] in the matter of Gala Global Products Limited under Recovery Certificate No. 5697 of 2022",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/notice-of-attachment-of-demat-accounts-and-mutual-fund-folios-dated-september-17-2026-against-bhavin-natwarlal-panchal-pan-ajmpp8429p-defaulter-in-the-matter-of-gala-global-products-limited-unde-_104604.html",
+   "date": "2026-09-17",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-09-21T18:43:57+00:00"
   },
   {
    "id": "d7a3f29a7237",
