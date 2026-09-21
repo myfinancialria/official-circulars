@@ -1,11 +1,11 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-09-20T16:49:09+00:00",
+ "generated_at": "2026-09-21T09:57:19+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-09-20T16:49:09+00:00",
+   "last_success": "2026-09-21T09:57:19+00:00",
    "last_count": 30,
    "last_new": 0,
    "error": null
@@ -13,22 +13,275 @@
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-09-20T16:49:09+00:00",
-   "last_count": 26,
-   "last_new": 0,
+   "last_success": "2026-09-21T09:57:19+00:00",
+   "last_count": 4,
+   "last_new": 4,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-09-20T16:49:09+00:00",
-   "last_count": 54,
-   "last_new": 0,
+   "last_success": "2026-09-21T09:57:19+00:00",
+   "last_count": 19,
+   "last_new": 19,
    "error": null
   }
  },
- "count": 868,
+ "count": 891,
  "items": [
+  {
+   "id": "7933c6468381",
+   "source": "BSE",
+   "title": "Listing of privately placed securities on the debt market segment of the Exchange",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-19/20260921-19.pdf",
+   "date": "2026-09-21",
+   "time": "15:18",
+   "category": "Listing",
+   "ref": "20260921-19",
+   "first_seen": "2026-09-21T09:57:19+00:00"
+  },
+  {
+   "id": "f8efa8fdd298",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of VAMA WOVENFAB LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-18/20260921-18.pdf",
+   "date": "2026-09-21",
+   "time": "14:48",
+   "category": "Listing",
+   "ref": "20260921-18",
+   "first_seen": "2026-09-21T09:57:19+00:00"
+  },
+  {
+   "id": "d7b6af81ee47",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of SHAKTI POLYTARP LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-17/20260921-17.pdf",
+   "date": "2026-09-21",
+   "time": "14:29",
+   "category": "Listing",
+   "ref": "20260921-17",
+   "first_seen": "2026-09-21T09:57:19+00:00"
+  },
+  {
+   "id": "841ba2ea446e",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Quanto Agroworld Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-16/20260921-16.pdf",
+   "date": "2026-09-21",
+   "time": "14:29",
+   "category": "Listing",
+   "ref": "20260921-16",
+   "first_seen": "2026-09-21T09:57:19+00:00"
+  },
+  {
+   "id": "e02afb775447",
+   "source": "BSE",
+   "title": "Demat Auction 718",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-15/20260921-15.pdf",
+   "date": "2026-09-21",
+   "time": "13:41",
+   "category": "Clearing & Settlement",
+   "ref": "20260921-15",
+   "first_seen": "2026-09-21T09:57:19+00:00"
+  },
+  {
+   "id": "37fe5855a513",
+   "source": "BSE",
+   "title": "Suspension of Trading in Commercial Paper",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-14/20260921-14.pdf",
+   "date": "2026-09-21",
+   "time": "12:59",
+   "category": "Debt",
+   "ref": "20260921-14",
+   "first_seen": "2026-09-21T09:57:19+00:00"
+  },
+  {
+   "id": "115fd1e57df5",
+   "source": "BSE",
+   "title": "Part Redemption of Debentures of MONEYBOXX FINANCE LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-13/20260921-13.pdf",
+   "date": "2026-09-21",
+   "time": "12:58",
+   "category": "Debt",
+   "ref": "20260921-13",
+   "first_seen": "2026-09-21T09:57:19+00:00"
+  },
+  {
+   "id": "12ee99473ae9",
+   "source": "BSE",
+   "title": "Suspension of trading in T-bills/Government Securities",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-12/20260921-12.pdf",
+   "date": "2026-09-21",
+   "time": "12:57",
+   "category": "Trading",
+   "ref": "20260921-12",
+   "first_seen": "2026-09-21T09:57:19+00:00"
+  },
+  {
+   "id": "0296aa94783a",
+   "source": "BSE",
+   "title": "Ex-Parte Interim Order in the matter of Prrsaar Sampada Private Limited - Research Analyst - INH000020323",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-11/20260921-11.pdf",
+   "date": "2026-09-21",
+   "time": "12:29",
+   "category": "Notice",
+   "ref": "20260921-11",
+   "first_seen": "2026-09-21T09:57:19+00:00"
+  },
+  {
+   "id": "ffce2126e96e",
+   "source": "BSE",
+   "title": "Compliance with TRAI directions and guidelines",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-9/20260921-9.pdf",
+   "date": "2026-09-21",
+   "time": "12:23",
+   "category": "Compliance",
+   "ref": "20260921-9",
+   "first_seen": "2026-09-21T09:57:19+00:00"
+  },
+  {
+   "id": "55fedeb07eb3",
+   "source": "BSE",
+   "title": "Compliance with TRAI directions and guidelines",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-10/20260921-10.pdf",
+   "date": "2026-09-21",
+   "time": "12:23",
+   "category": "Compliance",
+   "ref": "20260921-10",
+   "first_seen": "2026-09-21T09:57:19+00:00"
+  },
+  {
+   "id": "6dcd8f218500",
+   "source": "BSE",
+   "title": "Change in Group of Equity Shares of Century Business Media Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-7/20260921-7.pdf",
+   "date": "2026-09-21",
+   "time": "12:05",
+   "category": "Notice",
+   "ref": "20260921-7",
+   "first_seen": "2026-09-21T09:57:19+00:00"
+  },
+  {
+   "id": "26523d94fa32",
+   "source": "BSE",
+   "title": "Change in Group of Equity Shares of INJECTO POLYMERS LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-8/20260921-8.pdf",
+   "date": "2026-09-21",
+   "time": "12:05",
+   "category": "Notice",
+   "ref": "20260921-8",
+   "first_seen": "2026-09-21T09:57:19+00:00"
+  },
+  {
+   "id": "2c39662a98f2",
+   "source": "BSE",
+   "title": "Change in Group of Equity shares of MANIKA PLASTECH LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-6/20260921-6.pdf",
+   "date": "2026-09-21",
+   "time": "11:37",
+   "category": "Notice",
+   "ref": "20260921-6",
+   "first_seen": "2026-09-21T09:57:19+00:00"
+  },
+  {
+   "id": "1e1d3bd61514",
+   "source": "BSE",
+   "title": "Update Regarding debt securities of Siddhivinayak Securitisation Trust",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-5/20260921-5.pdf",
+   "date": "2026-09-21",
+   "time": "10:44",
+   "category": "Debt",
+   "ref": "20260921-5",
+   "first_seen": "2026-09-21T09:57:19+00:00"
+  },
+  {
+   "id": "ab75615cf166",
+   "source": "BSE",
+   "title": "Update Regarding debt securities of Shivshakti Securitisation Trust",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-4/20260921-4.pdf",
+   "date": "2026-09-21",
+   "time": "10:40",
+   "category": "Debt",
+   "ref": "20260921-4",
+   "first_seen": "2026-09-21T09:57:19+00:00"
+  },
+  {
+   "id": "234f34462c37",
+   "source": "BSE",
+   "title": "Update Regarding debt securities of Radhakrishna Securitisation Trust",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-3/20260921-3.pdf",
+   "date": "2026-09-21",
+   "time": "10:35",
+   "category": "Debt",
+   "ref": "20260921-3",
+   "first_seen": "2026-09-21T09:57:19+00:00"
+  },
+  {
+   "id": "f139e499016b",
+   "source": "BSE",
+   "title": "Non-Competitive Bidding Facility for Auction of Treasury Bills (T-Bills) on September 02, 2026",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-2/20260921-2.pdf",
+   "date": "2026-09-21",
+   "time": "08:50",
+   "category": "Clearing & Settlement",
+   "ref": "20260921-2",
+   "first_seen": "2026-09-21T09:57:19+00:00"
+  },
+  {
+   "id": "ceceedf0bc4e",
+   "source": "BSE",
+   "title": "Non-Competitive Bidding for Auction of State Government Securities (SDL) on September 22, 2026",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260921-1/20260921-1.pdf",
+   "date": "2026-09-21",
+   "time": "08:50",
+   "category": "Clearing & Settlement",
+   "ref": "20260921-1",
+   "first_seen": "2026-09-21T09:57:19+00:00"
+  },
+  {
+   "id": "ce27e011b879",
+   "source": "NSE",
+   "title": "Introduction of API Facility in NMASS-Margins-CM",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT76432.zip",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT76432",
+   "first_seen": "2026-09-21T09:57:19+00:00"
+  },
+  {
+   "id": "c2cf8a8d26dd",
+   "source": "NSE",
+   "title": "Introduction of API Facility in NMASS-Margins-CD",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CD76434.zip",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Currency Derivatives",
+   "ref": "CD76434",
+   "first_seen": "2026-09-21T09:57:19+00:00"
+  },
+  {
+   "id": "8d9d847d008d",
+   "source": "NSE",
+   "title": "Introduction of API Facility in NMASS-Margins-CO",
+   "url": "https://nsearchives.nseindia.com/content/circulars/COM76435.zip",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Commodity Derivatives",
+   "ref": "COM76435",
+   "first_seen": "2026-09-21T09:57:19+00:00"
+  },
+  {
+   "id": "7ec812c764cd",
+   "source": "NSE",
+   "title": "Introduction of API Facility in NMASS-Margins-FO",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT76433.zip",
+   "date": "2026-09-21",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT76433",
+   "first_seen": "2026-09-21T09:57:19+00:00"
+  },
   {
    "id": "dee188b16d9d",
    "source": "BSE",
