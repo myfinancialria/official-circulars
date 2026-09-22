@@ -1,34 +1,243 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-09-21T18:43:57+00:00",
+ "generated_at": "2026-09-22T09:18:48+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-09-21T18:43:57+00:00",
+   "last_success": "2026-09-22T09:18:48+00:00",
    "last_count": 30,
-   "last_new": 9,
+   "last_new": 0,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-09-21T18:43:57+00:00",
-   "last_count": 38,
-   "last_new": 34,
+   "last_success": "2026-09-22T09:18:48+00:00",
+   "last_count": 3,
+   "last_new": 3,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-09-21T18:43:57+00:00",
-   "last_count": 46,
-   "last_new": 27,
+   "last_success": "2026-09-22T09:18:48+00:00",
+   "last_count": 16,
+   "last_new": 16,
    "error": null
   }
  },
- "count": 961,
+ "count": 980,
  "items": [
+  {
+   "id": "82037aace75e",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of HERO MOTORS LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260922-16/20260922-16.pdf",
+   "date": "2026-09-22",
+   "time": "13:37",
+   "category": "Listing",
+   "ref": "20260922-16",
+   "first_seen": "2026-09-22T09:18:48+00:00"
+  },
+  {
+   "id": "0baf5f654f27",
+   "source": "BSE",
+   "title": "Part Redemption of Debentures of the Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260922-15/20260922-15.pdf",
+   "date": "2026-09-22",
+   "time": "13:36",
+   "category": "Debt",
+   "ref": "20260922-15",
+   "first_seen": "2026-09-22T09:18:48+00:00"
+  },
+  {
+   "id": "099f3797ba71",
+   "source": "BSE",
+   "title": "Demat Auction 719",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260922-14/20260922-14.pdf",
+   "date": "2026-09-22",
+   "time": "13:32",
+   "category": "Clearing & Settlement",
+   "ref": "20260922-14",
+   "first_seen": "2026-09-22T09:18:48+00:00"
+  },
+  {
+   "id": "c80689bef6d7",
+   "source": "BSE",
+   "title": "TRADING AND SETTLEMENT PROGRAMME FOR EGR SEGMENT FOR THE PERIOD FROM 01.10.2026 TO 30.10.2026.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260922-13/20260922-13.pdf",
+   "date": "2026-09-22",
+   "time": "13:19",
+   "category": "Clearing & Settlement",
+   "ref": "20260922-13",
+   "first_seen": "2026-09-22T09:18:48+00:00"
+  },
+  {
+   "id": "423c3e3ddacf",
+   "source": "BSE",
+   "title": "Suspension of Trading in T-bills/Government Securities",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260922-12/20260922-12.pdf",
+   "date": "2026-09-22",
+   "time": "13:02",
+   "category": "Trading",
+   "ref": "20260922-12",
+   "first_seen": "2026-09-22T09:18:48+00:00"
+  },
+  {
+   "id": "81ce7b5a2c62",
+   "source": "BSE",
+   "title": "Part-redemption of PTCs of TRINITY TRUST Sep 2025.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260922-11/20260922-11.pdf",
+   "date": "2026-09-22",
+   "time": "13:00",
+   "category": "Notice",
+   "ref": "20260922-11",
+   "first_seen": "2026-09-22T09:18:48+00:00"
+  },
+  {
+   "id": "0db680f17710",
+   "source": "BSE",
+   "title": "Early Redemption of Debentures of HAMPI EXPRESSWAYS PRIVATE LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260922-10/20260922-10.pdf",
+   "date": "2026-09-22",
+   "time": "12:59",
+   "category": "Debt",
+   "ref": "20260922-10",
+   "first_seen": "2026-09-22T09:18:48+00:00"
+  },
+  {
+   "id": "2a7535149e43",
+   "source": "BSE",
+   "title": "Part Redemption of Debentures of MAGNITE DEVELOPERS PRIVATE LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260922-9/20260922-9.pdf",
+   "date": "2026-09-22",
+   "time": "12:58",
+   "category": "Debt",
+   "ref": "20260922-9",
+   "first_seen": "2026-09-22T09:18:48+00:00"
+  },
+  {
+   "id": "d29a58992b3f",
+   "source": "BSE",
+   "title": "SMEIPO- Draft Offer Document",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260922-7/20260922-7.pdf",
+   "date": "2026-09-22",
+   "time": "12:25",
+   "category": "Notice",
+   "ref": "20260922-7",
+   "first_seen": "2026-09-22T09:18:48+00:00"
+  },
+  {
+   "id": "3d8e594cb9f5",
+   "source": "BSE",
+   "title": "SME IPO- Draft Offer Document",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260922-8/20260922-8.pdf",
+   "date": "2026-09-22",
+   "time": "12:25",
+   "category": "Listing",
+   "ref": "20260922-8",
+   "first_seen": "2026-09-22T09:18:48+00:00"
+  },
+  {
+   "id": "3837f69d3236",
+   "source": "BSE",
+   "title": "SME IPO- Draft Offer Document",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260922-6/20260922-6.pdf",
+   "date": "2026-09-22",
+   "time": "12:25",
+   "category": "Listing",
+   "ref": "20260922-6",
+   "first_seen": "2026-09-22T09:18:48+00:00"
+  },
+  {
+   "id": "d2b13e03ebec",
+   "source": "BSE",
+   "title": "Change in Group of Equity shares of QUANTO AGROWORLD LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260922-4/20260922-4.pdf",
+   "date": "2026-09-22",
+   "time": "12:24",
+   "category": "Notice",
+   "ref": "20260922-4",
+   "first_seen": "2026-09-22T09:18:48+00:00"
+  },
+  {
+   "id": "77502d6af673",
+   "source": "BSE",
+   "title": "Change in Group of Equity shares of SHAKTI POLYTARP LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260922-5/20260922-5.pdf",
+   "date": "2026-09-22",
+   "time": "12:24",
+   "category": "Notice",
+   "ref": "20260922-5",
+   "first_seen": "2026-09-22T09:18:48+00:00"
+  },
+  {
+   "id": "04e977ef4896",
+   "source": "BSE",
+   "title": "Change in Group of Equity shares of VAMA WOVENFAB LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260922-3/20260922-3.pdf",
+   "date": "2026-09-22",
+   "time": "12:23",
+   "category": "Notice",
+   "ref": "20260922-3",
+   "first_seen": "2026-09-22T09:18:48+00:00"
+  },
+  {
+   "id": "43da68162167",
+   "source": "BSE",
+   "title": "Listing of privately placed securities on the debt market segment of the Exchange",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260922-2/20260922-2.pdf",
+   "date": "2026-09-22",
+   "time": "12:02",
+   "category": "Listing",
+   "ref": "20260922-2",
+   "first_seen": "2026-09-22T09:18:48+00:00"
+  },
+  {
+   "id": "cc33b8ce303a",
+   "source": "BSE",
+   "title": "Non-Competitive Bidding for Auction of GoI dated Securities (G-secs) on September 25, 2026",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260922-1/20260922-1.pdf",
+   "date": "2026-09-22",
+   "time": "10:16",
+   "category": "Clearing & Settlement",
+   "ref": "20260922-1",
+   "first_seen": "2026-09-22T09:18:48+00:00"
+  },
+  {
+   "id": "efc04ca12a24",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Hero Motors Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76471.pdf",
+   "date": "2026-09-22",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76471",
+   "first_seen": "2026-09-22T09:18:48+00:00"
+  },
+  {
+   "id": "5a529f0a4140",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Jindal Supreme (India) Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76456.pdf",
+   "date": "2026-09-22",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76456",
+   "first_seen": "2026-09-22T09:18:48+00:00"
+  },
+  {
+   "id": "5950535562ae",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of SS Retail Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76472.pdf",
+   "date": "2026-09-22",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76472",
+   "first_seen": "2026-09-22T09:18:48+00:00"
+  },
   {
    "id": "7af2e7dae1dd",
    "source": "BSE",
