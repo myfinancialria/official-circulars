@@ -1,34 +1,133 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-09-22T17:38:50+00:00",
+ "generated_at": "2026-09-23T09:19:18+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-09-22T17:38:50+00:00",
+   "last_success": "2026-09-23T09:19:18+00:00",
    "last_count": 30,
-   "last_new": 8,
+   "last_new": 0,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-09-22T17:38:50+00:00",
-   "last_count": 20,
-   "last_new": 17,
+   "last_success": "2026-09-23T09:19:18+00:00",
+   "last_count": 1,
+   "last_new": 1,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-09-22T17:38:50+00:00",
-   "last_count": 54,
-   "last_new": 38,
+   "last_success": "2026-09-23T09:19:18+00:00",
+   "last_count": 8,
+   "last_new": 8,
    "error": null
   }
  },
- "count": 1043,
+ "count": 1052,
  "items": [
+  {
+   "id": "85f91839837c",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of SonaSelection India Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260923-8/20260923-8.pdf",
+   "date": "2026-09-23",
+   "time": "14:41",
+   "category": "Listing",
+   "ref": "20260923-8",
+   "first_seen": "2026-09-23T09:19:18+00:00"
+  },
+  {
+   "id": "938ef39379e2",
+   "source": "BSE",
+   "title": "Suspension of Trading in Debt Securities of Inbrew Beverages Private Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260923-7/20260923-7.pdf",
+   "date": "2026-09-23",
+   "time": "14:29",
+   "category": "Debt",
+   "ref": "20260923-7",
+   "first_seen": "2026-09-23T09:19:18+00:00"
+  },
+  {
+   "id": "9110950cd7af",
+   "source": "BSE",
+   "title": "Suspension of trading in T-bills/Government Securities",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260923-6/20260923-6.pdf",
+   "date": "2026-09-23",
+   "time": "14:29",
+   "category": "Trading",
+   "ref": "20260923-6",
+   "first_seen": "2026-09-23T09:19:18+00:00"
+  },
+  {
+   "id": "1e484bf5835f",
+   "source": "BSE",
+   "title": "Change in Name of Company - Shentracon Chemicals Ltd",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260923-5/20260923-5.pdf",
+   "date": "2026-09-23",
+   "time": "14:25",
+   "category": "Notice",
+   "ref": "20260923-5",
+   "first_seen": "2026-09-23T09:19:18+00:00"
+  },
+  {
+   "id": "673bb6be8ee5",
+   "source": "BSE",
+   "title": "Demat Auction 720",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260923-4/20260923-4.pdf",
+   "date": "2026-09-23",
+   "time": "13:23",
+   "category": "Clearing & Settlement",
+   "ref": "20260923-4",
+   "first_seen": "2026-09-23T09:19:18+00:00"
+  },
+  {
+   "id": "61b48ddafd1e",
+   "source": "BSE",
+   "title": "Update Regarding debt securities of Haldia Petrochemicals Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260923-3/20260923-3.pdf",
+   "date": "2026-09-23",
+   "time": "12:49",
+   "category": "Debt",
+   "ref": "20260923-3",
+   "first_seen": "2026-09-23T09:19:18+00:00"
+  },
+  {
+   "id": "def56aa21065",
+   "source": "BSE",
+   "title": "Change in Group of Equity shares of JINDAL SUPREME (INDIA) LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260923-2/20260923-2.pdf",
+   "date": "2026-09-23",
+   "time": "12:09",
+   "category": "Notice",
+   "ref": "20260923-2",
+   "first_seen": "2026-09-23T09:19:18+00:00"
+  },
+  {
+   "id": "09da630945b3",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of National Stock Exchange of India Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260923-1/20260923-1.pdf",
+   "date": "2026-09-23",
+   "time": "12:06",
+   "category": "Listing",
+   "ref": "20260923-1",
+   "first_seen": "2026-09-23T09:19:18+00:00"
+  },
+  {
+   "id": "a79faf9a7b71",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Sonaselection India Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76490.pdf",
+   "date": "2026-09-23",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76490",
+   "first_seen": "2026-09-23T09:19:18+00:00"
+  },
   {
    "id": "d0c1cbc663f5",
    "source": "BSE",
