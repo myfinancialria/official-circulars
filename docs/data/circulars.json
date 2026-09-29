@@ -1,34 +1,551 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-09-29T10:41:53+00:00",
+ "generated_at": "2026-09-29T18:39:11+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-09-29T10:41:53+00:00",
+   "last_success": "2026-09-29T18:39:11+00:00",
    "last_count": 30,
-   "last_new": 0,
+   "last_new": 13,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-09-29T10:41:53+00:00",
-   "last_count": 5,
-   "last_new": 5,
+   "last_success": "2026-09-29T18:39:11+00:00",
+   "last_count": 33,
+   "last_new": 28,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-09-29T10:41:53+00:00",
-   "last_count": 18,
-   "last_new": 18,
+   "last_success": "2026-09-29T18:39:11+00:00",
+   "last_count": 65,
+   "last_new": 47,
    "error": null
   }
  },
- "count": 1425,
+ "count": 1513,
  "items": [
+  {
+   "id": "e8f71fd79c45",
+   "source": "BSE",
+   "title": "Daily Bulletin",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-65/20260929-65.pdf",
+   "date": "2026-09-29",
+   "time": "22:25",
+   "category": "Notice",
+   "ref": "20260929-65",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "acc47c973b42",
+   "source": "BSE",
+   "title": "Scheme of Arrangement (Demerger) of Veranda Learning Solutions Limited (Scrip code- 543514)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-64/20260929-64.pdf",
+   "date": "2026-09-29",
+   "time": "22:24",
+   "category": "Listing",
+   "ref": "20260929-64",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "3feac35ece90",
+   "source": "BSE",
+   "title": "Opening of Offer to Buy – Acquisition Window (Takeover) of PASUPATI FINCAP LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-63/20260929-63.pdf",
+   "date": "2026-09-29",
+   "time": "21:55",
+   "category": "Notice",
+   "ref": "20260929-63",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "cd1fd6927776",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Adroit Industries (India) Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-62/20260929-62.pdf",
+   "date": "2026-09-29",
+   "time": "21:03",
+   "category": "Listing",
+   "ref": "20260929-62",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "e4efda2aaacd",
+   "source": "BSE",
+   "title": "Market Wide Position Limits for newly introduced Scrips in Equity Derivatives Segment",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-61/20260929-61.pdf",
+   "date": "2026-09-29",
+   "time": "20:47",
+   "category": "Derivatives",
+   "ref": "20260929-61",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "bdcfda80a9f6",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of ARMEE INFOTECH LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-60/20260929-60.pdf",
+   "date": "2026-09-29",
+   "time": "20:01",
+   "category": "Listing",
+   "ref": "20260929-60",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "3c8a5d707abd",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of SWASTIKA INFRA LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-59/20260929-59.pdf",
+   "date": "2026-09-29",
+   "time": "19:48",
+   "category": "Listing",
+   "ref": "20260929-59",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "dc16e8c6971a",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of LIQVD DIGITAL INDIA LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-58/20260929-58.pdf",
+   "date": "2026-09-29",
+   "time": "19:35",
+   "category": "Listing",
+   "ref": "20260929-58",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "3965f452c474",
+   "source": "BSE",
+   "title": "Additions to the BSE Indices",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-56/20260929-56.pdf",
+   "date": "2026-09-29",
+   "time": "19:32",
+   "category": "Notice",
+   "ref": "20260929-56",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "2b3abee89cb9",
+   "source": "BSE",
+   "title": "Launch of New Fund Offer for Specialized Investment Funds (SIF) of MAHINDRA MANULIFE MUTUAL FUND on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-57/20260929-57.pdf",
+   "date": "2026-09-29",
+   "time": "19:32",
+   "category": "Mutual Funds",
+   "ref": "20260929-57",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "81159d199d5e",
+   "source": "BSE",
+   "title": "Listing of new securities of IRB InvIT Fund",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-55/20260929-55.pdf",
+   "date": "2026-09-29",
+   "time": "19:29",
+   "category": "Listing",
+   "ref": "20260929-55",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "1b4cb5410c4e",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of S.K. OFFSET LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-54/20260929-54.pdf",
+   "date": "2026-09-29",
+   "time": "19:10",
+   "category": "Listing",
+   "ref": "20260929-54",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "d0e8ff10cc43",
+   "source": "BSE",
+   "title": "Revision in NACH Mandate Form",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-53/20260929-53.pdf",
+   "date": "2026-09-29",
+   "time": "19:09",
+   "category": "Notice",
+   "ref": "20260929-53",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "280edd2e5259",
+   "source": "BSE",
+   "title": "Launch of ETF NFO of ADTYA BIRLA SUN LIFE Mutual Fund on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-52/20260929-52.pdf",
+   "date": "2026-09-29",
+   "time": "19:09",
+   "category": "Mutual Funds",
+   "ref": "20260929-52",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "b28bb61af362",
+   "source": "BSE",
+   "title": "Applicability of Short-Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-47/20260929-47.pdf",
+   "date": "2026-09-29",
+   "time": "19:08",
+   "category": "Surveillance",
+   "ref": "20260929-47",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "aac3fb2024fc",
+   "source": "BSE",
+   "title": "Enhanced Surveillance Measure (ESM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-48/20260929-48.pdf",
+   "date": "2026-09-29",
+   "time": "19:08",
+   "category": "Surveillance",
+   "ref": "20260929-48",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "a9f85a29f0f6",
+   "source": "BSE",
+   "title": "Surveillance Measure for securities under IBC",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-50/20260929-50.pdf",
+   "date": "2026-09-29",
+   "time": "19:08",
+   "category": "Surveillance",
+   "ref": "20260929-50",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "a66345ea21d7",
+   "source": "BSE",
+   "title": "Applicability of Long Term Additional Surveillance Measure (LT-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-49/20260929-49.pdf",
+   "date": "2026-09-29",
+   "time": "19:08",
+   "category": "Surveillance",
+   "ref": "20260929-49",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "86e1ed0f411b",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Elevate Campuses Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-51/20260929-51.pdf",
+   "date": "2026-09-29",
+   "time": "19:08",
+   "category": "Listing",
+   "ref": "20260929-51",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "82c8ed0a34ab",
+   "source": "BSE",
+   "title": "CHANGES IN PRICE BAND",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-45/20260929-45.pdf",
+   "date": "2026-09-29",
+   "time": "19:07",
+   "category": "Surveillance",
+   "ref": "20260929-45",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "7764bb182a48",
+   "source": "BSE",
+   "title": "Graded Surveillance Measure (GSM) - List of securities moving into their respective GSM Stages",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-46/20260929-46.pdf",
+   "date": "2026-09-29",
+   "time": "19:07",
+   "category": "Surveillance",
+   "ref": "20260929-46",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "4f36c2927a0a",
+   "source": "BSE",
+   "title": "Launch of New Fund Offer (NFO) with SIP Facility of ADITYA BIRLA SUN LIFE Mutual Fund on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-44/20260929-44.pdf",
+   "date": "2026-09-29",
+   "time": "19:07",
+   "category": "Mutual Funds",
+   "ref": "20260929-44",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "bb386d4395e2",
+   "source": "BSE",
+   "title": "Availability of SHRIRAM GOLD ETF PASSIVE FOF for ongoing transactions on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-43/20260929-43.pdf",
+   "date": "2026-09-29",
+   "time": "19:05",
+   "category": "Mutual Funds",
+   "ref": "20260929-43",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "9b05eeba69f2",
+   "source": "BSE",
+   "title": "Temporary Suspension of subscription in certain schemes of INVESCO Mutual Fund on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-42/20260929-42.pdf",
+   "date": "2026-09-29",
+   "time": "19:04",
+   "category": "Mutual Funds",
+   "ref": "20260929-42",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "2cedffcda3f1",
+   "source": "BSE",
+   "title": "Introduction of Specialized Investment Funds (SIF) of MAHINDRA MANULIFE MUTUAL FUND on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-41/20260929-41.pdf",
+   "date": "2026-09-29",
+   "time": "19:00",
+   "category": "Mutual Funds",
+   "ref": "20260929-41",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "69305c1ec632",
+   "source": "BSE",
+   "title": "SAT Order in the matter of Mauria Udyog Ltd. and 4 other scrips (Appeal No. 238 of 2026 and Appeal No. 239 of 2026) Noticee Vidhi Mehul Shah and Mehul Hasmukh Shah",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-40/20260929-40.pdf",
+   "date": "2026-09-29",
+   "time": "18:51",
+   "category": "Notice",
+   "ref": "20260929-40",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "81698592b951",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of UNITEC FIBRES LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-39/20260929-39.pdf",
+   "date": "2026-09-29",
+   "time": "18:46",
+   "category": "Listing",
+   "ref": "20260929-39",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "13624ef1a823",
+   "source": "BSE",
+   "title": "Public issue of TNA SOLUTIONS LIMITED - Allocation to Anchor Investor",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-38/20260929-38.pdf",
+   "date": "2026-09-29",
+   "time": "18:38",
+   "category": "Listing",
+   "ref": "20260929-38",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "255f02aa326e",
+   "source": "BSE",
+   "title": "Listing of New Securities of Yarn Syndicate Ltd",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-37/20260929-37.pdf",
+   "date": "2026-09-29",
+   "time": "18:24",
+   "category": "Listing",
+   "ref": "20260929-37",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "ca90de8225c4",
+   "source": "BSE",
+   "title": "Clarification Received from the Companies on News Articles",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-36/20260929-36.pdf",
+   "date": "2026-09-29",
+   "time": "18:22",
+   "category": "Notice",
+   "ref": "20260929-36",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "aaa35fd4bb49",
+   "source": "BSE",
+   "title": "Clarification Received from the Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-35/20260929-35.pdf",
+   "date": "2026-09-29",
+   "time": "18:18",
+   "category": "Notice",
+   "ref": "20260929-35",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "7dd0c7a0f559",
+   "source": "BSE",
+   "title": "Public issue of ACME INDIA INDUSTRIES LIMITED - Allocation to Anchor Investor",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-34/20260929-34.pdf",
+   "date": "2026-09-29",
+   "time": "18:18",
+   "category": "Listing",
+   "ref": "20260929-34",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "cc58b049f5ca",
+   "source": "BSE",
+   "title": "Listing of 15,457 Bonus Equity Shares kept in abeyance of ICICI Bank Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-33/20260929-33.pdf",
+   "date": "2026-09-29",
+   "time": "18:04",
+   "category": "Listing",
+   "ref": "20260929-33",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "ef39f4d1e102",
+   "source": "BSE",
+   "title": "Listing of New Securities of Almondz Global Securities Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-32/20260929-32.pdf",
+   "date": "2026-09-29",
+   "time": "17:53",
+   "category": "Listing",
+   "ref": "20260929-32",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "3d4ee6192c53",
+   "source": "BSE",
+   "title": "Listing of new Securities of Sancode Technologies Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-31/20260929-31.pdf",
+   "date": "2026-09-29",
+   "time": "17:51",
+   "category": "Listing",
+   "ref": "20260929-31",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "a30019856240",
+   "source": "BSE",
+   "title": "Part Redemption of Debentures of Provident Cedar Private Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-30/20260929-30.pdf",
+   "date": "2026-09-29",
+   "time": "17:18",
+   "category": "Debt",
+   "ref": "20260929-30",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "57c91579f77e",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of SWASTIKA INFRA LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-29/20260929-29.pdf",
+   "date": "2026-09-29",
+   "time": "17:04",
+   "category": "Listing",
+   "ref": "20260929-29",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "f32bab827d43",
+   "source": "BSE",
+   "title": "SME IPO - Draft Offer Document",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-28/20260929-28.pdf",
+   "date": "2026-09-29",
+   "time": "17:03",
+   "category": "Listing",
+   "ref": "20260929-28",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "b87d6da11c9f",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of ADROIT INDUSTRIES (INDIA) LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-26/20260929-26.pdf",
+   "date": "2026-09-29",
+   "time": "17:03",
+   "category": "Listing",
+   "ref": "20260929-26",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "6f2d5ea24e79",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Armee Infotech Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-27/20260929-27.pdf",
+   "date": "2026-09-29",
+   "time": "17:03",
+   "category": "Listing",
+   "ref": "20260929-27",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "08abbde2a152",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of LIQVD DIGITAL INDIA LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-25/20260929-25.pdf",
+   "date": "2026-09-29",
+   "time": "17:02",
+   "category": "Listing",
+   "ref": "20260929-25",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "a9590e8bfc87",
+   "source": "BSE",
+   "title": "Scrips not available for trading in T+0 rolling settlement cycle on September 30,2026",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-24/20260929-24.pdf",
+   "date": "2026-09-29",
+   "time": "17:00",
+   "category": "Clearing & Settlement",
+   "ref": "20260929-24",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "5dd480e37bd1",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Elevate Campuses Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-23/20260929-23.pdf",
+   "date": "2026-09-29",
+   "time": "16:59",
+   "category": "Listing",
+   "ref": "20260929-23",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "b4c65389ff0e",
+   "source": "BSE",
+   "title": "SME IPO- Draft Offer Document",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-22/20260929-22.pdf",
+   "date": "2026-09-29",
+   "time": "16:57",
+   "category": "Listing",
+   "ref": "20260929-22",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "88d0623cbce0",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of S.K. OFFSET LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-21/20260929-21.pdf",
+   "date": "2026-09-29",
+   "time": "16:57",
+   "category": "Listing",
+   "ref": "20260929-21",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "6c5e285455bb",
+   "source": "BSE",
+   "title": "Listing of new securities of Sun Pharma Advanced Research Company Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-20/20260929-20.pdf",
+   "date": "2026-09-29",
+   "time": "16:38",
+   "category": "Listing",
+   "ref": "20260929-20",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "58692fb95ed5",
+   "source": "BSE",
+   "title": "Listing of further securities issued by the companies under ESOP / ESOS",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20260929-19/20260929-19.pdf",
+   "date": "2026-09-29",
+   "time": "16:26",
+   "category": "Listing",
+   "ref": "20260929-19",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
   {
    "id": "6295fdb0fded",
    "source": "BSE",
@@ -228,6 +745,17 @@
    "first_seen": "2026-09-29T10:41:53+00:00"
   },
   {
+   "id": "ffc1132e8981",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Adroit Industries (India) Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76616.zip",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76616",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
    "id": "f09dcac84317",
    "source": "NSE",
    "title": "Listing of Equity Shares of Adroit Industries (India) Limited (IPO)",
@@ -237,6 +765,72 @@
    "category": "Listing",
    "ref": "CML76599",
    "first_seen": "2026-09-29T10:41:53+00:00"
+  },
+  {
+   "id": "eee1fe22fcae",
+   "source": "NSE",
+   "title": "Listing of further issues of securities",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76625.pdf",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76625",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "ede701b7d1bd",
+   "source": "SEBI",
+   "title": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 9252 of 2026 against Chiranggi Irish Shah (PAN: CACPS1824G) in the matter of Front Running by Navnit Gadoya, Chiranggi Irish Shah and Surbhi Aggarwal.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-9252-of-2026-against-chiranggi-irish-shah-pan-cacps1824g-in-the-matter-of-front-running-by-navnit-gadoya-chiranggi-irish-shah-_104808.html",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "eb9a0cb880c5",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Elevate Campuses Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76618.zip",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76618",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "eaa0b2fcab37",
+   "source": "NSE",
+   "title": "Commodity Derivatives Segment - Revised Settlement Calendar (Compulsory Delivery) & GST details reporting calendar for October 2026.",
+   "url": "https://nsearchives.nseindia.com/content/circulars/COM76608.zip",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Commodity Derivatives",
+   "ref": "COM76608",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "e97208959b70",
+   "source": "NSE",
+   "title": "Availability of Shriram Gold ETF Passive FOF on NSE MF Invest Platform",
+   "url": "https://nsearchives.nseindia.com/content/circulars/NMF76603.pdf",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Mutual Funds",
+   "ref": "NMF76603",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "dda595111e9f",
+   "source": "NSE",
+   "title": "Temporary Suspension of fresh subscription in Certain Schemes of Invesco Mutual fund on NSE MF Invest Platform",
+   "url": "https://nsearchives.nseindia.com/content/circulars/NMF76598.zip",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Mutual Funds",
+   "ref": "NMF76598",
+   "first_seen": "2026-09-29T18:39:11+00:00"
   },
   {
    "id": "d72819a79636",
@@ -250,6 +844,193 @@
    "first_seen": "2026-09-29T10:41:53+00:00"
   },
   {
+   "id": "d49a38f95da4",
+   "source": "NSE",
+   "title": "Applicability of Additional Surveillance Measure (ASM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76611.zip",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76611",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "c9d72f86d2e1",
+   "source": "SEBI",
+   "title": "Order for Remittance of Attached amount issued against Narayan Shivram Kotnis under RC No. 8927 of 2025 in the matter of Royal Twinkle Star Club Private Limited.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/order-for-remittance-of-attached-amount-issued-against-narayan-shivram-kotnis-under-rc-no-8927-of-2025-in-the-matter-of-royal-twinkle-star-club-private-limited-_104791.html",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "c5a690d380c8",
+   "source": "NSE",
+   "title": "Introduction of Futures & Options Contracts on Three Individual Securities",
+   "url": "https://nsearchives.nseindia.com/content/circulars/FAOP76606.zip",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Futures & Options",
+   "ref": "FAOP76606",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "c260fc1554b9",
+   "source": "SEBI",
+   "title": "General Remittance dated 29.09.2026 against Dheeraj Wadhawan (PAN: AAOPW4517G) [Defaulter] in the matter of trading activity in the scrip of Dewan Housing Finance Corporation Limited. under Recovery Certificate No. 9214 of 2026",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/general-remittance-dated-29-09-2026-against-dheeraj-wadhawan-pan-aaopw4517g-defaulter-in-the-matter-of-trading-activity-in-the-scrip-of-dewan-housing-finance-corporation-limited-under-recovery-c-_104793.html",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "bca00330ba59",
+   "source": "SEBI",
+   "title": "Corrigendum to the final order in the matter of Adani Group Companies for alleged MPS violation",
+   "url": "https://www.sebi.gov.in/enforcement/orders/sep-2026/corrigendum-to-the-final-order-in-the-matter-of-adani-group-companies-for-alleged-mps-violation_104795.html",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "b83375e6054c",
+   "source": "SEBI",
+   "title": "Adjudication Order in the matter of Shares Bazaar Pvt. Ltd. - Research Analyst",
+   "url": "https://www.sebi.gov.in/enforcement/orders/sep-2026/adjudication-order-in-the-matter-of-shares-bazaar-pvt-ltd-research-analyst_104810.html",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "b2a9cb79e3fc",
+   "source": "NSE",
+   "title": "Scrips not available for trading in T+0 rolling settlement cycle on September 30, 2026",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMTR76609.pdf",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Trading",
+   "ref": "CMTR76609",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "b104607f1eb3",
+   "source": "NSE",
+   "title": "Launch of Aditya Birla Sun Life BSE Total Market Index Fund & Aditya Birla Sun Life BSE Total Market ETF NFO on NSE MF Invest Platform",
+   "url": "https://nsearchives.nseindia.com/content/circulars/NMF76602.pdf",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Mutual Funds",
+   "ref": "NMF76602",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "aa1868034727",
+   "source": "SEBI",
+   "title": "Settlement Order in the matter of Lloyd Enterprises Limited",
+   "url": "https://www.sebi.gov.in/enforcement/orders/sep-2026/settlement-order-in-the-matter-of-lloyd-enterprises-limited_104811.html",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "9df6e54363e8",
+   "source": "NSE",
+   "title": "Applicability of Additional Surveillance Measure under IBC",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76613.zip",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76613",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "9a3c91af6be3",
+   "source": "NSE",
+   "title": "Applicability of Short-Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76612.zip",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76612",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "90ed2486a7a0",
+   "source": "NSE",
+   "title": "Trade for Trade - Veranda Learning Solutions Limited (VERANDA)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76617.pdf",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76617",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "892b7afc7ee4",
+   "source": "NSE",
+   "title": "Change in the Constituents of Indices",
+   "url": "https://nsearchives.nseindia.com/content/circulars/FAOP76610.pdf",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Futures & Options",
+   "ref": "FAOP76610",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "7ffc3b2ea8a5",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Coreintegra Consulting Services Limited (SME IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76623.zip",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76623",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "7fcf8afb1e72",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Swastika Infra Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76628.zip",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76628",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "75396dcbc1a6",
+   "source": "NSE",
+   "title": "Face Value Split - Shankara Buildpro Limited (BUILDPRO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76621.pdf",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76621",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "6ed3da74cc91",
+   "source": "NSE",
+   "title": "Suspension of trading in Non-Convertible Securities (Privately Placed)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76607.pdf",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76607",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
    "id": "6e47dcbfb6d5",
    "source": "NSE",
    "title": "Launch of Whiteoak Capital Diversified Equity Small Cap Active FOF on NSE MF Invest Platform",
@@ -259,6 +1040,83 @@
    "category": "Mutual Funds",
    "ref": "NMF76596",
    "first_seen": "2026-09-29T10:41:53+00:00"
+  },
+  {
+   "id": "6d67744b09cb",
+   "source": "SEBI",
+   "title": "Remittance Order dated September 29, 2026 issued under RC No. 9222 of 2026 drawn against Ankit Ajitbhai Panchal in the matter of Trading activities of certain entities in the scrip of DU Digital Technologies Limited (now DU Digital Global Limited)",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/remittance-order-dated-september-29-2026-issued-under-rc-no-9222-of-2026-drawn-against-ankit-ajitbhai-panchal-in-the-matter-of-trading-activities-of-certain-entities-in-the-scrip-of-du-digital-techn-_104807.html",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "559c73f249b6",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of ArMee Infotech Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76626.zip",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76626",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "4a9b26c4d8dd",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Pooja Logistics Limited (SME IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76620.zip",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76620",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "488c0bfc64da",
+   "source": "NSE",
+   "title": "Applicability of Enhanced Surveillance Measure (ESM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76605.zip",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76605",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "44958bf7a03b",
+   "source": "NSE",
+   "title": "Listing of privately placed securities on the debt market segment of the Exchange",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76614.pdf",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76614",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "3a30b8ab135f",
+   "source": "NSE",
+   "title": "SEBI Directions pursuant to SAT order in the matter of Vidhi Mehul Shah and Mehul Hasmukh Shah",
+   "url": "https://nsearchives.nseindia.com/content/circulars/INVG76622.zip",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Investigation",
+   "ref": "INVG76622",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "39e90e8ad8f1",
+   "source": "NSE",
+   "title": "Listing of privately placed securities on capital market segment",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76615.pdf",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76615",
+   "first_seen": "2026-09-29T18:39:11+00:00"
   },
   {
    "id": "33c10acfce2e",
@@ -272,6 +1130,39 @@
    "first_seen": "2026-09-29T10:41:53+00:00"
   },
   {
+   "id": "331a9fc864cc",
+   "source": "NSE",
+   "title": "Listing of further issues of securities",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76624.pdf",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76624",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "2d2c4ef0f993",
+   "source": "NSE",
+   "title": "Launch of MSIF Equity Long-Short Fund NFO under Specialized Investment Fund (SIF) on NSE MF Invest Platform",
+   "url": "https://nsearchives.nseindia.com/content/circulars/NMF76600.pdf",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Mutual Funds",
+   "ref": "NMF76600",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
+   "id": "290e9bf8ba3e",
+   "source": "NSE",
+   "title": "Listing of further issue of IRB InvIT Fund",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76627.pdf",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76627",
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
    "id": "1593a69a2729",
    "source": "NSE",
    "title": "Listing of Equity Shares of ArMee Infotech Limited (IPO)",
@@ -281,6 +1172,17 @@
    "category": "Listing",
    "ref": "CML76604",
    "first_seen": "2026-09-29T10:41:53+00:00"
+  },
+  {
+   "id": "01fb56675fa0",
+   "source": "NSE",
+   "title": "Applicable MWPL , TM , FII/FPI & MF limits for Introduction of 3 Individual Securities",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT76619.pdf",
+   "date": "2026-09-29",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT76619",
+   "first_seen": "2026-09-29T18:39:11+00:00"
   },
   {
    "id": "313a02678b87",
@@ -899,6 +1801,17 @@
    "first_seen": "2026-09-28T20:07:48+00:00"
   },
   {
+   "id": "e5789563f601",
+   "source": "SEBI",
+   "title": "Notice of Attachment of Demat account of Navnit Gadoya in RC No. 9286 of 2026.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/notice-of-attachment-of-demat-account-of-navnit-gadoya-in-rc-no-9286-of-2026-_104805.html",
+   "date": "2026-09-28",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
    "id": "e4b7d51e1324",
    "source": "NSE",
    "title": "Trade for Trade",
@@ -1040,6 +1953,17 @@
    "category": "Enforcement",
    "ref": null,
    "first_seen": "2026-09-28T20:07:48+00:00"
+  },
+  {
+   "id": "b2a2f2ba5674",
+   "source": "SEBI",
+   "title": "Notice of Demand under Recovery Certificate number 9299 of 2026 dated September 28, 2026, issued to Fingravy Wealth Creation Services Private Limited (PAN: AADCF2427Q), Dhiraj Gupta (PAN: CMVPG2518N), Sumit Kumar (PAN: CSIPK7343G), Hemanchal Singh (PAN: FPBPS3962E), Ravindra Singh (PAN: FOIPS5131B) and Ashutosh Sharma (PAN: CBVPS2287K), [Defaulters], jointly and severally, in the matter of Fingravy Wealth Creation Services Private Limited.: under Recovery Certificate No. 9299 of 2026.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/notice-of-demand-under-recovery-certificate-number-9299-of-2026-dated-september-28-2026-issued-to-fingravy-wealth-creation-services-private-limited-pan-aadcf2427q-dhiraj-gupta-pan-cmvpg2518n-_104789.html",
+   "date": "2026-09-28",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-09-29T18:39:11+00:00"
   },
   {
    "id": "ac24674f9864",
@@ -1185,6 +2109,17 @@
    "first_seen": "2026-09-28T20:07:48+00:00"
   },
   {
+   "id": "3e49426115a0",
+   "source": "SEBI",
+   "title": "Remittance Order dated 28.09.2026 issued in RC No. 9241 of 2026.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/remittance-order-dated-28-09-2026-issued-in-rc-no-9241-of-2026-_104797.html",
+   "date": "2026-09-28",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-09-29T18:39:11+00:00"
+  },
+  {
    "id": "3c4e34ca05b1",
    "source": "SEBI",
    "title": "Summary Settlement Order in the matter of Harbourfront India trust AIF",
@@ -1194,6 +2129,17 @@
    "category": "Order",
    "ref": null,
    "first_seen": "2026-09-28T20:07:48+00:00"
+  },
+  {
+   "id": "3a3dd903f2ed",
+   "source": "SEBI",
+   "title": "Remittance Order dated 28.09.2026 issued in RC No. 9248 of 2026.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/remittance-order-dated-28-09-2026-issued-in-rc-no-9248-of-2026-_104799.html",
+   "date": "2026-09-28",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-09-29T18:39:11+00:00"
   },
   {
    "id": "35c25a4ead00",
@@ -1238,6 +2184,17 @@
    "category": "Enforcement",
    "ref": null,
    "first_seen": "2026-09-28T20:07:48+00:00"
+  },
+  {
+   "id": "2e9ad437d020",
+   "source": "SEBI",
+   "title": "Notice of Attachment of Bank account of Navnit Gadoya in RC No. 9286 of 2026.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/notice-of-attachment-of-bank-account-of-navnit-gadoya-in-rc-no-9286-of-2026-_104803.html",
+   "date": "2026-09-28",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-09-29T18:39:11+00:00"
   },
   {
    "id": "240a251c8a4e",
@@ -1326,6 +2283,17 @@
    "category": "Surveillance",
    "ref": "SURV76585",
    "first_seen": "2026-09-28T20:07:48+00:00"
+  },
+  {
+   "id": "02fdd067eb00",
+   "source": "SEBI",
+   "title": "Remittance Order dated 28.09.2026 issued in RC No. 9249 of 2026.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/sep-2026/remittance-order-dated-28-09-2026-issued-in-rc-no-9249-of-2026-_104801.html",
+   "date": "2026-09-28",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-09-29T18:39:11+00:00"
   },
   {
    "id": "0062937b86bd",
