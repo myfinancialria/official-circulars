@@ -1,34 +1,232 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-09-30T18:27:21+00:00",
+ "generated_at": "2026-10-01T10:57:57+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-09-30T18:27:21+00:00",
+   "last_success": "2026-10-01T10:57:57+00:00",
    "last_count": 30,
-   "last_new": 7,
+   "last_new": 0,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-09-30T18:27:21+00:00",
-   "last_count": 29,
-   "last_new": 28,
+   "last_success": "2026-10-01T10:57:57+00:00",
+   "last_count": 9,
+   "last_new": 9,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-09-30T18:27:21+00:00",
-   "last_count": 66,
-   "last_new": 43,
+   "last_success": "2026-10-01T10:57:57+00:00",
+   "last_count": 9,
+   "last_new": 9,
    "error": null
   }
  },
- "count": 1615,
+ "count": 1633,
  "items": [
+  {
+   "id": "396d69090253",
+   "source": "BSE",
+   "title": "Listing of further securities issued by the companies under ESOP / ESOS",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261001-9/20261001-9.pdf",
+   "date": "2026-10-01",
+   "time": "16:23",
+   "category": "Listing",
+   "ref": "20261001-9",
+   "first_seen": "2026-10-01T10:57:57+00:00"
+  },
+  {
+   "id": "8d39152bafc2",
+   "source": "BSE",
+   "title": "Listing of new Securities of Inox Green Energy Services Ltd",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261001-8/20261001-8.pdf",
+   "date": "2026-10-01",
+   "time": "15:14",
+   "category": "Listing",
+   "ref": "20261001-8",
+   "first_seen": "2026-10-01T10:57:57+00:00"
+  },
+  {
+   "id": "bd7af21a8798",
+   "source": "BSE",
+   "title": "Change of Name on account of Transfer of Business",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261001-7/20261001-7.pdf",
+   "date": "2026-10-01",
+   "time": "14:17",
+   "category": "Listing",
+   "ref": "20261001-7",
+   "first_seen": "2026-10-01T10:57:57+00:00"
+  },
+  {
+   "id": "b48935959ce4",
+   "source": "BSE",
+   "title": "Part Redemption of Debentures of LODHA DEVELOPERS LTD",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261001-6/20261001-6.pdf",
+   "date": "2026-10-01",
+   "time": "13:56",
+   "category": "Debt",
+   "ref": "20261001-6",
+   "first_seen": "2026-10-01T10:57:57+00:00"
+  },
+  {
+   "id": "29668674adba",
+   "source": "BSE",
+   "title": "Demat Auction 726",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261001-5/20261001-5.pdf",
+   "date": "2026-10-01",
+   "time": "13:42",
+   "category": "Clearing & Settlement",
+   "ref": "20261001-5",
+   "first_seen": "2026-10-01T10:57:57+00:00"
+  },
+  {
+   "id": "a256d34ddc2e",
+   "source": "BSE",
+   "title": "Listing of privately placed securities on the debt market segment of the Exchange",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261001-4/20261001-4.pdf",
+   "date": "2026-10-01",
+   "time": "13:06",
+   "category": "Listing",
+   "ref": "20261001-4",
+   "first_seen": "2026-10-01T10:57:57+00:00"
+  },
+  {
+   "id": "e50295df9289",
+   "source": "BSE",
+   "title": "Change in Group of Equity Shares of PESHWA WHEAT LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261001-2/20261001-2.pdf",
+   "date": "2026-10-01",
+   "time": "12:26",
+   "category": "Notice",
+   "ref": "20261001-2",
+   "first_seen": "2026-10-01T10:57:57+00:00"
+  },
+  {
+   "id": "aaab76c96769",
+   "source": "BSE",
+   "title": "Change in the Group of the Equity Shares of ROOPA SCREEN LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261001-3/20261001-3.pdf",
+   "date": "2026-10-01",
+   "time": "12:26",
+   "category": "Notice",
+   "ref": "20261001-3",
+   "first_seen": "2026-10-01T10:57:57+00:00"
+  },
+  {
+   "id": "628654b6767a",
+   "source": "BSE",
+   "title": "Visit of Registrar & Transfer Agents at BSE Ltd. for October 2026",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261001-1/20261001-1.pdf",
+   "date": "2026-10-01",
+   "time": "11:34",
+   "category": "Notice",
+   "ref": "20261001-1",
+   "first_seen": "2026-10-01T10:57:57+00:00"
+  },
+  {
+   "id": "e9c25e956260",
+   "source": "NSE",
+   "title": "Mock trading on Saturday, October 03, 2026 - No new Version Release",
+   "url": "https://nsearchives.nseindia.com/content/circulars/FAOP76666.pdf",
+   "date": "2026-10-01",
+   "time": null,
+   "category": "Futures & Options",
+   "ref": "FAOP76666",
+   "first_seen": "2026-10-01T10:57:57+00:00"
+  },
+  {
+   "id": "dd9337f3a7c3",
+   "source": "NSE",
+   "title": "Mock trading on Saturday, October 03, 2026 - No new version release",
+   "url": "https://nsearchives.nseindia.com/content/circulars/EGR76662.pdf",
+   "date": "2026-10-01",
+   "time": null,
+   "category": "Electronic Gold Receipts",
+   "ref": "EGR76662",
+   "first_seen": "2026-10-01T10:57:57+00:00"
+  },
+  {
+   "id": "bb6879a9a390",
+   "source": "NSE",
+   "title": "Mock trading on Saturday, October 03, 2026 - No new version release",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CD76658.pdf",
+   "date": "2026-10-01",
+   "time": null,
+   "category": "Currency Derivatives",
+   "ref": "CD76658",
+   "first_seen": "2026-10-01T10:57:57+00:00"
+  },
+  {
+   "id": "6312d7b050ab",
+   "source": "NSE",
+   "title": "Mock trading on Saturday, October 03, 2026 - No new version release",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SLBS76660.pdf",
+   "date": "2026-10-01",
+   "time": null,
+   "category": "Securities Lending",
+   "ref": "SLBS76660",
+   "first_seen": "2026-10-01T10:57:57+00:00"
+  },
+  {
+   "id": "421a16433582",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of German Green Steel and Power Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76667.pdf",
+   "date": "2026-10-01",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76667",
+   "first_seen": "2026-10-01T10:57:57+00:00"
+  },
+  {
+   "id": "33b8e9ea7f4e",
+   "source": "NSE",
+   "title": "Delisting Offer under Tender Offer scheme by Hitech Corporation Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76677.pdf",
+   "date": "2026-10-01",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76677",
+   "first_seen": "2026-10-01T10:57:57+00:00"
+  },
+  {
+   "id": "2652f7935232",
+   "source": "NSE",
+   "title": "Mock session on Saturday, October 03, 2026 - No new version release",
+   "url": "https://nsearchives.nseindia.com/content/circulars/COM76659.pdf",
+   "date": "2026-10-01",
+   "time": null,
+   "category": "Commodity Derivatives",
+   "ref": "COM76659",
+   "first_seen": "2026-10-01T10:57:57+00:00"
+  },
+  {
+   "id": "1044380389fe",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of AceVector Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76676.pdf",
+   "date": "2026-10-01",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76676",
+   "first_seen": "2026-10-01T10:57:57+00:00"
+  },
+  {
+   "id": "0f85a5f1d90b",
+   "source": "NSE",
+   "title": "Mock trading on Saturday, October 03, 2026 - No new version release",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMTR76663.pdf",
+   "date": "2026-10-01",
+   "time": null,
+   "category": "Trading",
+   "ref": "CMTR76663",
+   "first_seen": "2026-10-01T10:57:57+00:00"
+  },
   {
    "id": "6411c6b126fd",
    "source": "BSE",
