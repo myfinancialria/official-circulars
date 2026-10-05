@@ -1,38 +1,368 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-10-05T11:30:18+00:00",
+ "generated_at": "2026-10-05T21:06:57+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-10-05T11:30:18+00:00",
+   "last_success": "2026-10-05T21:06:57+00:00",
    "last_count": 30,
-   "last_new": 0,
+   "last_new": 4,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-10-05T11:30:18+00:00",
-   "last_count": 6,
-   "last_new": 6,
+   "last_success": "2026-10-05T21:06:57+00:00",
+   "last_count": 24,
+   "last_new": 18,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-10-05T11:30:18+00:00",
-   "last_count": 17,
-   "last_new": 17,
+   "last_success": "2026-10-05T21:06:57+00:00",
+   "last_count": 47,
+   "last_new": 30,
    "error": null
   }
  },
- "count": 1776,
+ "count": 1828,
  "items": [
+  {
+   "id": "b19f2d70360e",
+   "source": "BSE",
+   "title": "Daily Bulletin",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-47/20261005-47.pdf",
+   "date": "2026-10-05",
+   "time": "22:02",
+   "category": "Notice",
+   "ref": "20261005-47",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "03620cd589c5",
+   "source": "BSE",
+   "title": "Suspension of Trading in Commercial Paper",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-46/20261005-46.pdf",
+   "date": "2026-10-05",
+   "time": "21:58",
+   "category": "Debt",
+   "ref": "20261005-46",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "92d54cb4298b",
+   "source": "BSE",
+   "title": "Tender Offer (Buyback) of Equity Shares TRANSPORT CORPORATION OF INDIA LTD",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-45/20261005-45.pdf",
+   "date": "2026-10-05",
+   "time": "21:56",
+   "category": "Corporate Action",
+   "ref": "20261005-45",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "a51712f8e4c7",
+   "source": "BSE",
+   "title": "Tender Offer (Buyback) of Equity Shares SHARDUL SECURITIES LTD.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-44/20261005-44.pdf",
+   "date": "2026-10-05",
+   "time": "21:55",
+   "category": "Corporate Action",
+   "ref": "20261005-44",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "e96fee188bc9",
+   "source": "BSE",
+   "title": "Bonus Issue of Equity Shares of P H CAPITAL LIMITED (Scrip Code- 500143)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-43/20261005-43.pdf",
+   "date": "2026-10-05",
+   "time": "21:53",
+   "category": "Listing",
+   "ref": "20261005-43",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "ac42dc0b0380",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of SRIT INDIA LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-42/20261005-42.pdf",
+   "date": "2026-10-05",
+   "time": "19:59",
+   "category": "Listing",
+   "ref": "20261005-42",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "18cf4b9a5bfc",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Shah Investor's Home Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-41/20261005-41.pdf",
+   "date": "2026-10-05",
+   "time": "19:57",
+   "category": "Listing",
+   "ref": "20261005-41",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "cf5564d8a048",
+   "source": "BSE",
+   "title": "Change in Group of Equity Shares of Dudani Retail Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-40/20261005-40.pdf",
+   "date": "2026-10-05",
+   "time": "19:43",
+   "category": "Notice",
+   "ref": "20261005-40",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "1a78081a89af",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Pind Hospitality Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-39/20261005-39.pdf",
+   "date": "2026-10-05",
+   "time": "19:40",
+   "category": "Listing",
+   "ref": "20261005-39",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "90cd73041f2f",
+   "source": "BSE",
+   "title": "Final Empanelment of Algo Providers currently empanelled on a provisional basis with the Exchange.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-38/20261005-38.pdf",
+   "date": "2026-10-05",
+   "time": "19:39",
+   "category": "Notice",
+   "ref": "20261005-38",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "21ca9697efc5",
+   "source": "BSE",
+   "title": "Display of “investor awareness message(s)” by Trading Members on their trading apps and websites, under Project Jagrook",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-37/20261005-37.pdf",
+   "date": "2026-10-05",
+   "time": "19:26",
+   "category": "Trading",
+   "ref": "20261005-37",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "5d0be3a5bcaf",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Acme Universal Safezone 9 Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-36/20261005-36.pdf",
+   "date": "2026-10-05",
+   "time": "19:17",
+   "category": "Listing",
+   "ref": "20261005-36",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "3b6c6891356b",
+   "source": "BSE",
+   "title": "Clarification Received from the Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-35/20261005-35.pdf",
+   "date": "2026-10-05",
+   "time": "19:16",
+   "category": "Notice",
+   "ref": "20261005-35",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "76cd42408435",
+   "source": "BSE",
+   "title": "CHANGES IN PRICE BAND",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-34/20261005-34.pdf",
+   "date": "2026-10-05",
+   "time": "19:15",
+   "category": "Surveillance",
+   "ref": "20261005-34",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "f1f1b442edfe",
+   "source": "BSE",
+   "title": "Enhanced Surveillance Measure (ESM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-33/20261005-33.pdf",
+   "date": "2026-10-05",
+   "time": "19:14",
+   "category": "Surveillance",
+   "ref": "20261005-33",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "969baa4f388d",
+   "source": "BSE",
+   "title": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-32/20261005-32.pdf",
+   "date": "2026-10-05",
+   "time": "19:14",
+   "category": "Surveillance",
+   "ref": "20261005-32",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "6c2c384a2d41",
+   "source": "BSE",
+   "title": "Applicability of Long Term Additional Surveillance Measure (LT-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-31/20261005-31.pdf",
+   "date": "2026-10-05",
+   "time": "19:14",
+   "category": "Surveillance",
+   "ref": "20261005-31",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "a7f657df3d3d",
+   "source": "BSE",
+   "title": "Surveillance measure in respect of companies with high promoter pledge",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-30/20261005-30.pdf",
+   "date": "2026-10-05",
+   "time": "19:13",
+   "category": "Surveillance",
+   "ref": "20261005-30",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "79abdf9c08a0",
+   "source": "BSE",
+   "title": "Corporate Action for Bhagyanagar India Ltd in the BSE Indices",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-29/20261005-29.pdf",
+   "date": "2026-10-05",
+   "time": "19:13",
+   "category": "Notice",
+   "ref": "20261005-29",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "ad0fe216c74f",
+   "source": "BSE",
+   "title": "Additions to the BSE Indices",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-28/20261005-28.pdf",
+   "date": "2026-10-05",
+   "time": "19:11",
+   "category": "Notice",
+   "ref": "20261005-28",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "a6e0a794ce13",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of SHIVCHEM AGRO LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-27/20261005-27.pdf",
+   "date": "2026-10-05",
+   "time": "19:00",
+   "category": "Listing",
+   "ref": "20261005-27",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "2468fc64c31a",
+   "source": "BSE",
+   "title": "Clarification Received from the Company on News Articles",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-26/20261005-26.pdf",
+   "date": "2026-10-05",
+   "time": "18:55",
+   "category": "Notice",
+   "ref": "20261005-26",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "deb076f15a23",
+   "source": "BSE",
+   "title": "Opening of Offer to Buy – Acquisition Window (Delisting) of Voluntary Delisting of Equity Shares of Hitech Corporation Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-24/20261005-24.pdf",
+   "date": "2026-10-05",
+   "time": "18:31",
+   "category": "Listing",
+   "ref": "20261005-24",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "0b6264ce368a",
+   "source": "BSE",
+   "title": "Listing of New Securities of Akme Fintrade (India) Limited.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-25/20261005-25.pdf",
+   "date": "2026-10-05",
+   "time": "18:31",
+   "category": "Listing",
+   "ref": "20261005-25",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "a46271896072",
+   "source": "BSE",
+   "title": "Listing of New Securities of AvenuesAI Ltd.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-23/20261005-23.pdf",
+   "date": "2026-10-05",
+   "time": "18:13",
+   "category": "Listing",
+   "ref": "20261005-23",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "b0718480a8bc",
+   "source": "BSE",
+   "title": "Listing of New Securities of Akme Fintrade (India) Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-22/20261005-22.pdf",
+   "date": "2026-10-05",
+   "time": "18:10",
+   "category": "Listing",
+   "ref": "20261005-22",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "85fb86ccfac4",
+   "source": "BSE",
+   "title": "Listing of New Securities of Afcom Holdings Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-21/20261005-21.pdf",
+   "date": "2026-10-05",
+   "time": "17:33",
+   "category": "Listing",
+   "ref": "20261005-21",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "c42a073d2670",
+   "source": "BSE",
+   "title": "Compulsory Delisting of Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-20/20261005-20.pdf",
+   "date": "2026-10-05",
+   "time": "17:22",
+   "category": "Listing",
+   "ref": "20261005-20",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "6f9192564388",
+   "source": "BSE",
+   "title": "Listing of New Securities of NOBLE POLYMERS LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-19/20261005-19.pdf",
+   "date": "2026-10-05",
+   "time": "17:16",
+   "category": "Listing",
+   "ref": "20261005-19",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "f4b97f6e1fa9",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Acme Universal Safezone 9 Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-18/20261005-18.pdf",
+   "date": "2026-10-05",
+   "time": "17:08",
+   "category": "Listing",
+   "ref": "20261005-18",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
   {
    "id": "e8295389d070",
    "source": "BSE",
-   "title": "Part Redemption of PTC companies",
+   "title": "Part Redemption of PTC of Companies",
    "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261005-17/20261005-17.pdf",
    "date": "2026-10-05",
    "time": "16:59",
@@ -217,6 +547,17 @@
    "first_seen": "2026-10-05T11:30:18+00:00"
   },
   {
+   "id": "f4190ca13948",
+   "source": "NSE",
+   "title": "Applicability of Enhanced Surveillance Measure (ESM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76709.zip",
+   "date": "2026-10-05",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76709",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
    "id": "effca48c834c",
    "source": "NSE",
    "title": "Listing of privately placed securities on the debt market segment of the Exchange",
@@ -226,6 +567,17 @@
    "category": "Listing",
    "ref": "CML76708",
    "first_seen": "2026-10-05T11:30:18+00:00"
+  },
+  {
+   "id": "dd72cec301d3",
+   "source": "NSE",
+   "title": "Submission of Half Yearly Networth Certificate as on September 30, 2026",
+   "url": "https://nsearchives.nseindia.com/content/circulars/COMP76716.zip",
+   "date": "2026-10-05",
+   "time": null,
+   "category": "COMP",
+   "ref": "COMP76716",
+   "first_seen": "2026-10-05T21:06:57+00:00"
   },
   {
    "id": "d3a9365038de",
@@ -239,6 +591,28 @@
    "first_seen": "2026-10-05T11:30:18+00:00"
   },
   {
+   "id": "c5530224a38a",
+   "source": "SEBI",
+   "title": "SEBI Releases “Samajh Se Investing Simple” Campaign under Project Jagrook, Rolls Out the MUST initiative, Announces Its Presence on WhatsApp and Other Initiatives for Investor Awareness and Education",
+   "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/sebi-releases-samajh-se-investing-simple-campaign-under-project-jagrook-rolls-out-the-must-initiative-announces-its-presence-on-whatsapp-and-other-initiatives-for-investor-awareness-and-education_105034.html",
+   "date": "2026-10-05",
+   "time": null,
+   "category": "Press Release",
+   "ref": null,
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "bf3048b8d95c",
+   "source": "NSE",
+   "title": "Applicability of Additional Surveillance Measure (ASM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76713.zip",
+   "date": "2026-10-05",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76713",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
    "id": "bd11fedc4ed5",
    "source": "NSE",
    "title": "Trade for Trade - Himalayan Solar Limited (SME IPO)",
@@ -248,6 +622,149 @@
    "category": "Listing",
    "ref": "CML76692",
    "first_seen": "2026-10-05T11:30:18+00:00"
+  },
+  {
+   "id": "b7bbe568c297",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of SRIT India Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76706.zip",
+   "date": "2026-10-05",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76706",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "b1d0193d13fb",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Rajgor Castor Derivatives Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76707.pdf",
+   "date": "2026-10-05",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76707",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "af5ebfeb367c",
+   "source": "NSE",
+   "title": "Listing of further issue of AvenuesAI Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76717.pdf",
+   "date": "2026-10-05",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76717",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "8166162aec62",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Shah Investor's Home Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76721.zip",
+   "date": "2026-10-05",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76721",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "7fd9c3c10034",
+   "source": "NSE",
+   "title": "Applicability of Surveillance Measure in respect of companies with high 'Encumbrance' as per Reg. 28(3) of SEBI (SAST) Regulation 2011",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76710.zip",
+   "date": "2026-10-05",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76710",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "7f7aa0604116",
+   "source": "NSE",
+   "title": "Display of \"investor awareness message(s)\" by Trading Members on their trading apps and websites, under Project Jagrook",
+   "url": "https://nsearchives.nseindia.com/content/circulars/COMP76720.pdf",
+   "date": "2026-10-05",
+   "time": null,
+   "category": "COMP",
+   "ref": "COMP76720",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "7f5b7c6b95ee",
+   "source": "NSE",
+   "title": "Suspension of trading in Non-Convertible Securities (Privately Placed)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76712.pdf",
+   "date": "2026-10-05",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76712",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "74f87b0c4948",
+   "source": "NSE",
+   "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC's 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Amendment of 01 Entry.",
+   "url": "https://nsearchives.nseindia.com/content/circulars/ISC76718.zip",
+   "date": "2026-10-05",
+   "time": null,
+   "category": "ISC",
+   "ref": "ISC76718",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "72235f429540",
+   "source": "NSE",
+   "title": "Applicability of Short-Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76714.zip",
+   "date": "2026-10-05",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76714",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "719aa97fb8f2",
+   "source": "NSE",
+   "title": "Listing of further issues of securities",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76719.pdf",
+   "date": "2026-10-05",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76719",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "6787b9e78197",
+   "source": "NSE",
+   "title": "Change in ISIN - Shankara Buildpro Limited (BUILDPRO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76711.pdf",
+   "date": "2026-10-05",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76711",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "5cab368a2c20",
+   "source": "SEBI",
+   "title": "General Remittance Advice against: Surbhi Aggarwal [Defaulter] (PAN: BNIPA1542D) in the matter of Front running by Navnit Gadoya, Surbhi Aggarwal and Chiranggi Irish Shah: under Recovery Certificate No. 9264 of 2026.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/general-remittance-advice-against-surbhi-aggarwal-defaulter-pan-bnipa1542d-in-the-matter-of-front-running-by-navnit-gadoya-surbhi-aggarwal-and-chiranggi-irish-shah-under-recovery-certificate-n-_105032.html",
+   "date": "2026-10-05",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "595dee8a190c",
+   "source": "SEBI",
+   "title": "Release of attachment on immovable property under RC No. 4722 of 2022 and 4723 of 2022-Veera Kumar Das Surapanani in the matter of Venus Power Ventures (India) Ltd",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-of-attachment-on-immovable-property-under-rc-no-4722-of-2022-and-4723-of-2022-veera-kumar-das-surapanani-in-the-matter-of-venus-power-ventures-india-ltd_105030.html",
+   "date": "2026-10-05",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-10-05T21:06:57+00:00"
   },
   {
    "id": "42d91a8fe8e1",
@@ -261,6 +778,39 @@
    "first_seen": "2026-10-05T11:30:18+00:00"
   },
   {
+   "id": "40b4980a6223",
+   "source": "NSE",
+   "title": "Early Pay-in of Securities for BLS E-Services Limited (BLSE)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT76715.pdf",
+   "date": "2026-10-05",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT76715",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "3eedfc769b91",
+   "source": "NSE",
+   "title": "EGR - Multiple Settlement scheduled on October 21, 2026",
+   "url": "https://nsearchives.nseindia.com/content/circulars/EGR76661.pdf",
+   "date": "2026-10-05",
+   "time": null,
+   "category": "Electronic Gold Receipts",
+   "ref": "EGR76661",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "3e8b93b584e2",
+   "source": "SEBI",
+   "title": "SEBI opens a Local Office in Chandigarh",
+   "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/oct-2026/sebi-opens-a-local-office-in-chandigarh_105035.html",
+   "date": "2026-10-05",
+   "time": null,
+   "category": "Press Release",
+   "ref": null,
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
    "id": "3b66cf7efdcc",
    "source": "NSE",
    "title": "Trade for Trade - Bench Mark Infotech Services Limited (SME IPO)",
@@ -270,6 +820,28 @@
    "category": "Listing",
    "ref": "CML76695",
    "first_seen": "2026-10-05T11:30:18+00:00"
+  },
+  {
+   "id": "3b30fb0bd1a3",
+   "source": "NSE",
+   "title": "Submission of Annual Returns for the Financial Year 2025-26",
+   "url": "https://nsearchives.nseindia.com/content/circulars/COMP76722.zip",
+   "date": "2026-10-05",
+   "time": null,
+   "category": "COMP",
+   "ref": "COMP76722",
+   "first_seen": "2026-10-05T21:06:57+00:00"
+  },
+  {
+   "id": "32e46324a775",
+   "source": "NSE",
+   "title": "MFSS- Settlement Calendar for November 2026",
+   "url": "https://nsearchives.nseindia.com/content/circulars/MFSS76723.zip",
+   "date": "2026-10-05",
+   "time": null,
+   "category": "Mutual Funds",
+   "ref": "MFSS76723",
+   "first_seen": "2026-10-05T21:06:57+00:00"
   },
   {
    "id": "0a57794ad189",
