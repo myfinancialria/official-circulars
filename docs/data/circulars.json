@@ -1,34 +1,210 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-10-11T18:05:59+00:00",
+ "generated_at": "2026-10-12T12:00:18+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-10-11T18:05:59+00:00",
+   "last_success": "2026-10-12T12:00:18+00:00",
    "last_count": 30,
-   "last_new": 0,
+   "last_new": 1,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-10-11T18:05:59+00:00",
-   "last_count": 39,
-   "last_new": 0,
+   "last_success": "2026-10-12T12:00:18+00:00",
+   "last_count": 7,
+   "last_new": 7,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-10-11T18:05:59+00:00",
-   "last_count": 3,
-   "last_new": 0,
+   "last_success": "2026-10-12T12:00:18+00:00",
+   "last_count": 8,
+   "last_new": 8,
    "error": null
   }
  },
- "count": 2185,
+ "count": 2201,
  "items": [
+  {
+   "id": "232897992381",
+   "source": "BSE",
+   "title": "Change in Group of Equity Shares of Triveni Power Transmission Ltd",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-8/20261012-8.pdf",
+   "date": "2026-10-12",
+   "time": "16:38",
+   "category": "Notice",
+   "ref": "20261012-8",
+   "first_seen": "2026-10-12T12:00:18+00:00"
+  },
+  {
+   "id": "4b4b1cadd09e",
+   "source": "BSE",
+   "title": "Listing of further securities issued by the companies under ESOP / ESOS",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-7/20261012-7.pdf",
+   "date": "2026-10-12",
+   "time": "16:09",
+   "category": "Listing",
+   "ref": "20261012-7",
+   "first_seen": "2026-10-12T12:00:18+00:00"
+  },
+  {
+   "id": "f2883e0c024b",
+   "source": "BSE",
+   "title": "Financial Disincentive (Charges) for not uploading the TWS/ETI/BOLTPLUS Location information for the month September 2026.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-6/20261012-6.pdf",
+   "date": "2026-10-12",
+   "time": "15:14",
+   "category": "Notice",
+   "ref": "20261012-6",
+   "first_seen": "2026-10-12T12:00:18+00:00"
+  },
+  {
+   "id": "206014ee852b",
+   "source": "BSE",
+   "title": "Download of Penalty Report for modification of Client Codes of non institutional trades (All Segments)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-5/20261012-5.pdf",
+   "date": "2026-10-12",
+   "time": "15:05",
+   "category": "Notice",
+   "ref": "20261012-5",
+   "first_seen": "2026-10-12T12:00:18+00:00"
+  },
+  {
+   "id": "2290a9439b6c",
+   "source": "BSE",
+   "title": "Demat Auction 732",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-4/20261012-4.pdf",
+   "date": "2026-10-12",
+   "time": "13:20",
+   "category": "Clearing & Settlement",
+   "ref": "20261012-4",
+   "first_seen": "2026-10-12T12:00:18+00:00"
+  },
+  {
+   "id": "ff8ee64d3001",
+   "source": "BSE",
+   "title": "Sub-Division of Equity Shares of Galaxy Agrico Exports Ltd (Scrip Code:-531911)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-3/20261012-3.pdf",
+   "date": "2026-10-12",
+   "time": "13:10",
+   "category": "Corporate Action",
+   "ref": "20261012-3",
+   "first_seen": "2026-10-12T12:00:18+00:00"
+  },
+  {
+   "id": "238d830c3bcc",
+   "source": "BSE",
+   "title": "Suspension of trading in T-bills/Government Securities",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-2/20261012-2.pdf",
+   "date": "2026-10-12",
+   "time": "12:34",
+   "category": "Trading",
+   "ref": "20261012-2",
+   "first_seen": "2026-10-12T12:00:18+00:00"
+  },
+  {
+   "id": "b0b930243824",
+   "source": "BSE",
+   "title": "Offer to Buy – Acquisition Window (Takeover) for RGF CAPITAL MARKETS LIMITED – Live Activities Schedule",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-1/20261012-1.pdf",
+   "date": "2026-10-12",
+   "time": "12:20",
+   "category": "Notice",
+   "ref": "20261012-1",
+   "first_seen": "2026-10-12T12:00:18+00:00"
+  },
+  {
+   "id": "dea589f6e7dc",
+   "source": "SEBI",
+   "title": "Securities and Exchange Board of India (Certification of Associated Persons in the Securities Markets) (Amendment) Regulations, 2026",
+   "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-certification-of-associated-persons-in-the-securities-markets-amendment-regulations-2026_105146.html",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Regulation",
+   "ref": null,
+   "first_seen": "2026-10-12T12:00:18+00:00"
+  },
+  {
+   "id": "a04c13d907f9",
+   "source": "NSE",
+   "title": "Listing of privately placed securities on the debt market segment of the Exchange",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76853.pdf",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76853",
+   "first_seen": "2026-10-12T12:00:18+00:00"
+  },
+  {
+   "id": "7d44a53d8d49",
+   "source": "NSE",
+   "title": "Trade for Trade - Triveni Power Transmission Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76851.pdf",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76851",
+   "first_seen": "2026-10-12T12:00:18+00:00"
+  },
+  {
+   "id": "651ed3b8157c",
+   "source": "NSE",
+   "title": "Launch of SBI BSE India Defence ETF NFO on NSE MF Invest Platform",
+   "url": "https://nsearchives.nseindia.com/content/circulars/NMF76850.pdf",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Mutual Funds",
+   "ref": "NMF76850",
+   "first_seen": "2026-10-12T12:00:18+00:00"
+  },
+  {
+   "id": "577df7813ad4",
+   "source": "NSE",
+   "title": "Listing of privately placed securities on capital market segment",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76854.pdf",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76854",
+   "first_seen": "2026-10-12T12:00:18+00:00"
+  },
+  {
+   "id": "3a63f791fbe9",
+   "source": "NSE",
+   "title": "Consolidation of Equity Shares - AvenuesAI Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76849.pdf",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76849",
+   "first_seen": "2026-10-12T12:00:18+00:00"
+  },
+  {
+   "id": "0fe35b1c9616",
+   "source": "NSE",
+   "title": "Trade for Trade - R.K. Fashion Accessories Limited (SME IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76852.pdf",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76852",
+   "first_seen": "2026-10-12T12:00:18+00:00"
+  },
+  {
+   "id": "094f4ada272a",
+   "source": "NSE",
+   "title": "RBI Announces Regulatory Measures for the Foreign Exchange Market",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CD76813.zip",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Currency Derivatives",
+   "ref": "CD76813",
+   "first_seen": "2026-10-12T12:00:18+00:00"
+  },
   {
    "id": "7f10e21609ba",
    "source": "BSE",
