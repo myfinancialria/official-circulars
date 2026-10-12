@@ -1,34 +1,342 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-10-12T12:00:18+00:00",
+ "generated_at": "2026-10-12T21:44:53+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-10-12T12:00:18+00:00",
+   "last_success": "2026-10-12T21:44:53+00:00",
    "last_count": 30,
-   "last_new": 1,
+   "last_new": 10,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-10-12T12:00:18+00:00",
-   "last_count": 7,
-   "last_new": 7,
+   "last_success": "2026-10-12T21:44:53+00:00",
+   "last_count": 21,
+   "last_new": 14,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-10-12T12:00:18+00:00",
-   "last_count": 8,
-   "last_new": 8,
+   "last_success": "2026-10-12T21:44:53+00:00",
+   "last_count": 36,
+   "last_new": 28,
    "error": null
   }
  },
- "count": 2201,
+ "count": 2253,
  "items": [
+  {
+   "id": "a4bf165c94b6",
+   "source": "BSE",
+   "title": "Daily Bulletin",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-36/20261012-36.pdf",
+   "date": "2026-10-12",
+   "time": "21:31",
+   "category": "Notice",
+   "ref": "20261012-36",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "95e219e3ea9e",
+   "source": "BSE",
+   "title": "Resumption of Trading in the Partly Paid-up Equity shares of Ace Software Exports Limited (890230)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-35/20261012-35.pdf",
+   "date": "2026-10-12",
+   "time": "21:30",
+   "category": "Trading",
+   "ref": "20261012-35",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "07d2851a3b96",
+   "source": "BSE",
+   "title": "Part Redemption of Debentures of Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-34/20261012-34.pdf",
+   "date": "2026-10-12",
+   "time": "21:18",
+   "category": "Debt",
+   "ref": "20261012-34",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "b0739406a697",
+   "source": "BSE",
+   "title": "Rights Issues of Equity Shares of SHIVAM AUTOTECH LIMITED (Scrip code- 532776)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-33/20261012-33.pdf",
+   "date": "2026-10-12",
+   "time": "21:16",
+   "category": "Listing",
+   "ref": "20261012-33",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "8b7285cdcab3",
+   "source": "BSE",
+   "title": "Rights Issue of Equity Shares of CONTINENTAL CONTROLS LTD. (Scrip Code- 531460)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-32/20261012-32.pdf",
+   "date": "2026-10-12",
+   "time": "21:15",
+   "category": "Listing",
+   "ref": "20261012-32",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "5c99f777a5a1",
+   "source": "BSE",
+   "title": "Public issue of HD Fire Protect Limited -Allocation to Anchor Investor",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-31/20261012-31.pdf",
+   "date": "2026-10-12",
+   "time": "20:35",
+   "category": "Listing",
+   "ref": "20261012-31",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "1babc86b5210",
+   "source": "BSE",
+   "title": "Exclusion of futures and options contracts in Polycab India Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-30/20261012-30.pdf",
+   "date": "2026-10-12",
+   "time": "20:18",
+   "category": "Derivatives",
+   "ref": "20261012-30",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "d3f06f3d673a",
+   "source": "BSE",
+   "title": "Opening of Offer to Buy – Acquisition Window (Buyback) For SHARDUL SECURITIES LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-29/20261012-29.pdf",
+   "date": "2026-10-12",
+   "time": "20:14",
+   "category": "Corporate Action",
+   "ref": "20261012-29",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "855968706e1c",
+   "source": "BSE",
+   "title": "SEBI Directions in the matter of cross segment price manipulation by Prrsaar Sampada Private Limited and Chaubara Eats Private Limited.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-28/20261012-28.pdf",
+   "date": "2026-10-12",
+   "time": "19:54",
+   "category": "Notice",
+   "ref": "20261012-28",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "11c6a656cdf6",
+   "source": "BSE",
+   "title": "Opening of Offer for Sale for SUPREME COMMERCIAL ENTERPRISES LIMITED Live Activities Schedule",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-27/20261012-27.pdf",
+   "date": "2026-10-12",
+   "time": "19:46",
+   "category": "Notice",
+   "ref": "20261012-27",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "04039394e77a",
+   "source": "BSE",
+   "title": "Introduction of Specialized Investment Funds (SIF) of ALPHAGREP MUTUAL FUND on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-26/20261012-26.pdf",
+   "date": "2026-10-12",
+   "time": "19:22",
+   "category": "Mutual Funds",
+   "ref": "20261012-26",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "91f65babf9c9",
+   "source": "BSE",
+   "title": "Applicability of Long Term Additional Surveillance Measure (LT-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-25/20261012-25.pdf",
+   "date": "2026-10-12",
+   "time": "19:16",
+   "category": "Surveillance",
+   "ref": "20261012-25",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "302fee637e9b",
+   "source": "BSE",
+   "title": "Listing of privately placed securities on the debt market segment of the Exchange",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-24/20261012-24.pdf",
+   "date": "2026-10-12",
+   "time": "19:16",
+   "category": "Listing",
+   "ref": "20261012-24",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "eff6af4110c7",
+   "source": "BSE",
+   "title": "Surveillance Measure for securities under IBC",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-19/20261012-19.pdf",
+   "date": "2026-10-12",
+   "time": "19:15",
+   "category": "Surveillance",
+   "ref": "20261012-19",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "7eaacdb0c629",
+   "source": "BSE",
+   "title": "CHANGES IN PRICE BAND",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-18/20261012-18.pdf",
+   "date": "2026-10-12",
+   "time": "19:15",
+   "category": "Surveillance",
+   "ref": "20261012-18",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "4daebffb9cfe",
+   "source": "BSE",
+   "title": "Graded Surveillance Measure (GSM) - List of securities moving into their respective GSM Stages",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-20/20261012-20.pdf",
+   "date": "2026-10-12",
+   "time": "19:15",
+   "category": "Surveillance",
+   "ref": "20261012-20",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "3f3f4d22f487",
+   "source": "BSE",
+   "title": "REVISION OF SCRIPS IN TRADE TO TRADE SEGMENT",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-21/20261012-21.pdf",
+   "date": "2026-10-12",
+   "time": "19:15",
+   "category": "Trading",
+   "ref": "20261012-21",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "21fb006b9108",
+   "source": "BSE",
+   "title": "Enhanced Surveillance Measure (ESM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-22/20261012-22.pdf",
+   "date": "2026-10-12",
+   "time": "19:15",
+   "category": "Surveillance",
+   "ref": "20261012-22",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "15ed83771b98",
+   "source": "BSE",
+   "title": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-23/20261012-23.pdf",
+   "date": "2026-10-12",
+   "time": "19:15",
+   "category": "Surveillance",
+   "ref": "20261012-23",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "9c268d6e6dfa",
+   "source": "BSE",
+   "title": "Listing of new securities of PTC Industries Ltd.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-17/20261012-17.pdf",
+   "date": "2026-10-12",
+   "time": "18:53",
+   "category": "Listing",
+   "ref": "20261012-17",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "4908f8e14962",
+   "source": "BSE",
+   "title": "Changes to the BSE Indices",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-16/20261012-16.pdf",
+   "date": "2026-10-12",
+   "time": "18:47",
+   "category": "Notice",
+   "ref": "20261012-16",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "593c5b5c558e",
+   "source": "BSE",
+   "title": "Clarification Received from the Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-15/20261012-15.pdf",
+   "date": "2026-10-12",
+   "time": "18:46",
+   "category": "Notice",
+   "ref": "20261012-15",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "ccc24474f715",
+   "source": "BSE",
+   "title": "Listing of New Securities of Religare Enterprises Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-14/20261012-14.pdf",
+   "date": "2026-10-12",
+   "time": "18:25",
+   "category": "Listing",
+   "ref": "20261012-14",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "e139c56f2a87",
+   "source": "BSE",
+   "title": "Launch of ETF NFO of SBI Mutual Fund on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-13/20261012-13.pdf",
+   "date": "2026-10-12",
+   "time": "18:19",
+   "category": "Mutual Funds",
+   "ref": "20261012-13",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "d3c37e321696",
+   "source": "BSE",
+   "title": "Shifting of scrips to ‘Z’ group",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-12/20261012-12.pdf",
+   "date": "2026-10-12",
+   "time": "18:17",
+   "category": "Notice",
+   "ref": "20261012-12",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "6ef8461be706",
+   "source": "BSE",
+   "title": "Listing of New Securities of Indo Thai Securities Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-11/20261012-11.pdf",
+   "date": "2026-10-12",
+   "time": "18:14",
+   "category": "Listing",
+   "ref": "20261012-11",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "aa82b063123b",
+   "source": "BSE",
+   "title": "Listing of new securities of Indo Thai Securities Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-10/20261012-10.pdf",
+   "date": "2026-10-12",
+   "time": "17:47",
+   "category": "Listing",
+   "ref": "20261012-10",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "c29fbe21c79a",
+   "source": "BSE",
+   "title": "Opening of Offer for Sale for Supreme Commercial Enterprises Limited.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261012-9/20261012-9.pdf",
+   "date": "2026-10-12",
+   "time": "17:43",
+   "category": "Notice",
+   "ref": "20261012-9",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
   {
    "id": "232897992381",
    "source": "BSE",
@@ -118,15 +426,103 @@
    "first_seen": "2026-10-12T12:00:18+00:00"
   },
   {
-   "id": "dea589f6e7dc",
+   "id": "fc26274dbcb6",
    "source": "SEBI",
-   "title": "Securities and Exchange Board of India (Certification of Associated Persons in the Securities Markets) (Amendment) Regulations, 2026",
-   "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-certification-of-associated-persons-in-the-securities-markets-amendment-regulations-2026_105146.html",
+   "title": "General Remittance Order dated 12.10.2026 in Recovery Certificate No. 8900 of 2025 issued against Clifford Capital Partners AG SA (Erstwhile Seazun Limited) [PAN: NA] in the matter of GDR issues of IKF Technologies Limited.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/general-remittance-order-dated-12-10-2026-in-recovery-certificate-no-8900-of-2025-issued-against-clifford-capital-partners-ag-sa-erstwhile-seazun-limited-pan-na-in-the-matter-of-gdr-issues-of-ik-_105164.html",
    "date": "2026-10-12",
    "time": null,
-   "category": "Regulation",
+   "category": "Enforcement",
    "ref": null,
-   "first_seen": "2026-10-12T12:00:18+00:00"
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "e6467648f352",
+   "source": "SEBI",
+   "title": "Exemption order in the matter of S Chand and Company Limited",
+   "url": "https://www.sebi.gov.in/https://www.sebi.gov.in/sebi_data/attachdocs/sep-2026/eo_schand_co.pdf",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Update",
+   "ref": null,
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "d8329214a022",
+   "source": "NSE",
+   "title": "Trade for Trade",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76856.zip",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76856",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "d05443d462d0",
+   "source": "SEBI",
+   "title": "Settlement Order in the matter of Singularity Growth Opportunities Fund",
+   "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/settlement-order-in-the-matter-of-singularity-growth-opportunities-fund_105158.html",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "cc7161f8275d",
+   "source": "NSE",
+   "title": "Applicability of Enhanced Surveillance Measure (ESM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76855.zip",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76855",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "c67ed4a813d4",
+   "source": "NSE",
+   "title": "Applicability of Additional Surveillance Measure under IBC",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76861.zip",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76861",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "b9c73697b57d",
+   "source": "NSE",
+   "title": "Settlement Calendar for Offer for Sale of shares of Supreme Commercial Enterprises Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT76866.pdf",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT76866",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "b0ba4769ce92",
+   "source": "NSE",
+   "title": "Shifting of trading in Securities to Z Category",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76857.pdf",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76857",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "a6287464036e",
+   "source": "NSE",
+   "title": "Listing of further issues of securities",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76864.pdf",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76864",
+   "first_seen": "2026-10-12T21:44:53+00:00"
   },
   {
    "id": "a04c13d907f9",
@@ -140,6 +536,28 @@
    "first_seen": "2026-10-12T12:00:18+00:00"
   },
   {
+   "id": "8fd1cf4dfa14",
+   "source": "NSE",
+   "title": "Applicability of Additional Surveillance Measure (ASM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76859.zip",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76859",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "8c20336759f8",
+   "source": "SEBI",
+   "title": "General remittance Order dated October 12, 2026 against Muse Traders (Proprietor - Baljit Singh) (PAN: BERPR1999P) Pure Traders Proprietor Bhavna Jethvani (PAN: BBOPJ6519H) and Taj Enterprises (Proprietor - Taj Khan) (PAN: BWRPK1312F) jointly and severally in the matter of Muse Traders, Pure Traders and Taj Enterprises under RC No. 7948 of 2024",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/general-remittance-order-dated-october-12-2026-against-muse-traders-proprietor-baljit-singh-pan-berpr1999p-pure-traders-proprietor-bhavna-jethvani-pan-bbopj6519h-and-taj-enterprises-propri-_105161.html",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
    "id": "7d44a53d8d49",
    "source": "NSE",
    "title": "Trade for Trade - Triveni Power Transmission Limited",
@@ -149,6 +567,28 @@
    "category": "Listing",
    "ref": "CML76851",
    "first_seen": "2026-10-12T12:00:18+00:00"
+  },
+  {
+   "id": "7b3bf82f7514",
+   "source": "NSE",
+   "title": "Securities of compulsory delisted companies made available on Dissemination Board of NSE",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76867.pdf",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76867",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "71c95e6c9818",
+   "source": "NSE",
+   "title": "Exclusion of Security - AvenuesAI Limited (CCAVENUE)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT76863.pdf",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT76863",
+   "first_seen": "2026-10-12T21:44:53+00:00"
   },
   {
    "id": "651ed3b8157c",
@@ -162,6 +602,17 @@
    "first_seen": "2026-10-12T12:00:18+00:00"
   },
   {
+   "id": "61d47af4a043",
+   "source": "NSE",
+   "title": "Exclusion of Futures and Options contract on POLYCAB",
+   "url": "https://nsearchives.nseindia.com/content/circulars/FAOP76865.pdf",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Futures & Options",
+   "ref": "FAOP76865",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
    "id": "577df7813ad4",
    "source": "NSE",
    "title": "Listing of privately placed securities on capital market segment",
@@ -173,6 +624,28 @@
    "first_seen": "2026-10-12T12:00:18+00:00"
   },
   {
+   "id": "4df8db96f85f",
+   "source": "NSE",
+   "title": "Exclusion of futures and options contracts in Polycab India Limited (POLYCAB)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76858.pdf",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76858",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "4bbebc0e654b",
+   "source": "SEBI",
+   "title": "Settlement Order in the matter of Singularity Equity Fund",
+   "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/settlement-order-in-the-matter-of-singularity-equity-fund_105156.html",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
    "id": "3a63f791fbe9",
    "source": "NSE",
    "title": "Consolidation of Equity Shares - AvenuesAI Limited",
@@ -182,6 +655,17 @@
    "category": "Listing",
    "ref": "CML76849",
    "first_seen": "2026-10-12T12:00:18+00:00"
+  },
+  {
+   "id": "11bee6c56cae",
+   "source": "SEBI",
+   "title": "Securities and Exchange Board of India (Portfolio Managers) Regulations, 2026 (With effect from April 1, 2027)\"",
+   "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-portfolio-managers-regulations-2026-with-effect-from-april-1-2027-_105159.html",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Regulation",
+   "ref": null,
+   "first_seen": "2026-10-12T21:44:53+00:00"
   },
   {
    "id": "0fe35b1c9616",
@@ -204,6 +688,39 @@
    "category": "Currency Derivatives",
    "ref": "CD76813",
    "first_seen": "2026-10-12T12:00:18+00:00"
+  },
+  {
+   "id": "01d8eb0a1b65",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Lancer Container Lines Limited (New Listing)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76830.zip",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76830",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "0045bb365c19",
+   "source": "NSE",
+   "title": "Change of Market Maker for PRIME CABLE INDUSTRIES LIMITED",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMTR76862.pdf",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Trading",
+   "ref": "CMTR76862",
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "003037413650",
+   "source": "NSE",
+   "title": "Applicability of Short-Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76860.zip",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76860",
+   "first_seen": "2026-10-12T21:44:53+00:00"
   },
   {
    "id": "7f10e21609ba",
@@ -237,6 +754,50 @@
    "category": "Notice",
    "ref": "20261010-1",
    "first_seen": "2026-10-10T10:37:11+00:00"
+  },
+  {
+   "id": "b5cb477f4520",
+   "source": "SEBI",
+   "title": "Securities and Exchange Board of India (Employees' Service) (Second Amendment) Regulations, 2026",
+   "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-employees-service-second-amendment-regulations-2026_105154.html",
+   "date": "2026-10-10",
+   "time": null,
+   "category": "Regulation",
+   "ref": null,
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "70a929f4893e",
+   "source": "SEBI",
+   "title": "Securities and Exchange Board of India (Intermediaries) (Second Amendment) Regulations, 2026",
+   "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-intermediaries-second-amendment-regulations-2026_105152.html",
+   "date": "2026-10-10",
+   "time": null,
+   "category": "Regulation",
+   "ref": null,
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "5ac2408e80ae",
+   "source": "SEBI",
+   "title": "Securities and Exchange Board of India (Mutual Funds) (Second Amendment) Regulations, 2026",
+   "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-mutual-funds-second-amendment-regulations-2026_105153.html",
+   "date": "2026-10-10",
+   "time": null,
+   "category": "Regulation",
+   "ref": null,
+   "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "25a0d4a789c0",
+   "source": "SEBI",
+   "title": "Securities and Exchange Board of India (Research Analysts) (Amendment) Regulations, 2026",
+   "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-research-analysts-amendment-regulations-2026_105155.html",
+   "date": "2026-10-10",
+   "time": null,
+   "category": "Regulation",
+   "ref": null,
+   "first_seen": "2026-10-12T21:44:53+00:00"
   },
   {
    "id": "dd1ba01d77f4",
@@ -886,6 +1447,17 @@
    "category": "Mutual Funds",
    "ref": "NMF76821",
    "first_seen": "2026-10-09T18:49:43+00:00"
+  },
+  {
+   "id": "dea589f6e7dc",
+   "source": "SEBI",
+   "title": "Securities and Exchange Board of India (Certification of Associated Persons in the Securities Markets) (Amendment) Regulations, 2026",
+   "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-certification-of-associated-persons-in-the-securities-markets-amendment-regulations-2026_105146.html",
+   "date": "2026-10-09",
+   "time": null,
+   "category": "Regulation",
+   "ref": null,
+   "first_seen": "2026-10-12T12:00:18+00:00"
   },
   {
    "id": "dd420f766ee8",
