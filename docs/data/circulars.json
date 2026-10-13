@@ -1,34 +1,320 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-10-13T11:49:12+00:00",
+ "generated_at": "2026-10-13T19:52:21+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-10-13T11:49:12+00:00",
+   "last_success": "2026-10-13T19:52:21+00:00",
    "last_count": 30,
-   "last_new": 0,
+   "last_new": 30,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-10-13T11:49:12+00:00",
-   "last_count": 3,
-   "last_new": 3,
+   "last_success": "2026-10-13T19:52:21+00:00",
+   "last_count": 19,
+   "last_new": 16,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-10-13T11:49:12+00:00",
-   "last_count": 14,
-   "last_new": 14,
+   "last_success": "2026-10-13T19:52:21+00:00",
+   "last_count": 40,
+   "last_new": 26,
    "error": null
   }
  },
- "count": 2270,
+ "count": 2342,
  "items": [
+  {
+   "id": "6cbade534716",
+   "source": "BSE",
+   "title": "Daily Bulletin",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261013-40/20261013-40.pdf",
+   "date": "2026-10-13",
+   "time": "22:07",
+   "category": "Notice",
+   "ref": "20261013-40",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "b3c16c70c40b",
+   "source": "BSE",
+   "title": "New ISIN Number on Stock Split of Samor Reality Ltd (Scrip Code: 543376)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261013-39/20261013-39.pdf",
+   "date": "2026-10-13",
+   "time": "22:04",
+   "category": "Corporate Action",
+   "ref": "20261013-39",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "51f377eb37af",
+   "source": "BSE",
+   "title": "Suspension of Trading in Commercial Paper",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261013-38/20261013-38.pdf",
+   "date": "2026-10-13",
+   "time": "22:03",
+   "category": "Debt",
+   "ref": "20261013-38",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "155e3f848331",
+   "source": "BSE",
+   "title": "No Dealings in Warrants of QUINT DIGITAL LIMITED (Scrip Code:961921)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261013-37/20261013-37.pdf",
+   "date": "2026-10-13",
+   "time": "22:01",
+   "category": "Notice",
+   "ref": "20261013-37",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "b4d93a82d0b0",
+   "source": "BSE",
+   "title": "Bonus Issue of Equity Shares of TITAN BIO-TECH LTD. (Scrip code- 524717)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261013-36/20261013-36.pdf",
+   "date": "2026-10-13",
+   "time": "22:00",
+   "category": "Listing",
+   "ref": "20261013-36",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "626155328dea",
+   "source": "BSE",
+   "title": "Public issue of FUSION CX LIMITED -Allocation to Anchor Investor",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261013-35/20261013-35.pdf",
+   "date": "2026-10-13",
+   "time": "21:46",
+   "category": "Listing",
+   "ref": "20261013-35",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "f19a29e61c38",
+   "source": "BSE",
+   "title": "Applicability of Long Term Additional Surveillance Measure (LT-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261013-33/20261013-33.pdf",
+   "date": "2026-10-13",
+   "time": "20:01",
+   "category": "Surveillance",
+   "ref": "20261013-33",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "b35eabf238e0",
+   "source": "BSE",
+   "title": "Enhanced Surveillance Measure (ESM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261013-34/20261013-34.pdf",
+   "date": "2026-10-13",
+   "time": "20:01",
+   "category": "Surveillance",
+   "ref": "20261013-34",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "8158b6aa9c53",
+   "source": "BSE",
+   "title": "Applicability of Short-Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261013-32/20261013-32.pdf",
+   "date": "2026-10-13",
+   "time": "20:01",
+   "category": "Surveillance",
+   "ref": "20261013-32",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "9729259eed6b",
+   "source": "BSE",
+   "title": "CHANGES IN PRICE BAND",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261013-30/20261013-30.pdf",
+   "date": "2026-10-13",
+   "time": "20:00",
+   "category": "Surveillance",
+   "ref": "20261013-30",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "6a7c29caf58c",
+   "source": "BSE",
+   "title": "Graded Surveillance Measure (GSM) - List of securities moving into their respective GSM Stages",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261013-31/20261013-31.pdf",
+   "date": "2026-10-13",
+   "time": "20:00",
+   "category": "Surveillance",
+   "ref": "20261013-31",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "cbf46a21ba87",
+   "source": "BSE",
+   "title": "Temporary Suspension of subscription in certain schemes of MIRAE ASSET Mutual Fund on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261013-29/20261013-29.pdf",
+   "date": "2026-10-13",
+   "time": "19:45",
+   "category": "Mutual Funds",
+   "ref": "20261013-29",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "8a3747c7d0e7",
+   "source": "BSE",
+   "title": "Listing of Secured Redeemable Non-Convertible Debentures of SMC Global Securities Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261013-28/20261013-28.pdf",
+   "date": "2026-10-13",
+   "time": "19:41",
+   "category": "Listing",
+   "ref": "20261013-28",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "f6f406fef97a",
+   "source": "BSE",
+   "title": "Launch of New Fund Offer for Specialized Investment Funds (SIF) of ALPHAGREP MUTUAL FUND on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261013-27/20261013-27.pdf",
+   "date": "2026-10-13",
+   "time": "19:39",
+   "category": "Mutual Funds",
+   "ref": "20261013-27",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "15688a6c6a49",
+   "source": "BSE",
+   "title": "Acceptance of transactions from NRI Clients Residing in USA and CANADA under Quant Mutual Fund Schemes and SIF on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261013-26/20261013-26.pdf",
+   "date": "2026-10-13",
+   "time": "19:36",
+   "category": "Mutual Funds",
+   "ref": "20261013-26",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "794dafc32bd8",
+   "source": "BSE",
+   "title": "Listing of privately placed securities on the debt market segment of the Exchange",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261013-25/20261013-25.pdf",
+   "date": "2026-10-13",
+   "time": "19:26",
+   "category": "Listing",
+   "ref": "20261013-25",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "45f741212ff5",
+   "source": "BSE",
+   "title": "SAT Order in the matter of Mauria Udyog Ltd. and 4 other scrips (Appeal No. 291 of 2026) Noticee Kanungo Financiers Limited.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261013-24/20261013-24.pdf",
+   "date": "2026-10-13",
+   "time": "19:15",
+   "category": "Notice",
+   "ref": "20261013-24",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "97828dc709cd",
+   "source": "BSE",
+   "title": "Outcome of Reverse Book Building Process under regulation 17(3) of the Delisting Regulations of Hitech Corporation Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261013-23/20261013-23.pdf",
+   "date": "2026-10-13",
+   "time": "19:00",
+   "category": "Listing",
+   "ref": "20261013-23",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "9b3eda57d754",
+   "source": "BSE",
+   "title": "Important Information Regarding GSPL Transmission Limited in certain BSE Indices",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261013-22/20261013-22.pdf",
+   "date": "2026-10-13",
+   "time": "18:28",
+   "category": "Notice",
+   "ref": "20261013-22",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "99988972dd56",
+   "source": "BSE",
+   "title": "Listing of new securities of TD Power Systems Ltd.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261013-21/20261013-21.pdf",
+   "date": "2026-10-13",
+   "time": "18:27",
+   "category": "Listing",
+   "ref": "20261013-21",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "a02293260f5c",
+   "source": "BSE",
+   "title": "Settlement Schedule Offer to Buy – Acquisition Window (Buyback) for SHARDUL SECURITIES LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261013-20/20261013-20.pdf",
+   "date": "2026-10-13",
+   "time": "18:24",
+   "category": "Corporate Action",
+   "ref": "20261013-20",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "47851ae24f02",
+   "source": "BSE",
+   "title": "Clarification Received from the Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261013-19/20261013-19.pdf",
+   "date": "2026-10-13",
+   "time": "18:00",
+   "category": "Notice",
+   "ref": "20261013-19",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "92b886b69b9a",
+   "source": "BSE",
+   "title": "Listing of new Securities of Kridhan Infra Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261013-18/20261013-18.pdf",
+   "date": "2026-10-13",
+   "time": "17:59",
+   "category": "Listing",
+   "ref": "20261013-18",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "84ed927b4497",
+   "source": "BSE",
+   "title": "Clarification Received from the Company on News Article",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261013-17/20261013-17.pdf",
+   "date": "2026-10-13",
+   "time": "17:56",
+   "category": "Notice",
+   "ref": "20261013-17",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "e41b7368d9ac",
+   "source": "BSE",
+   "title": "Listing of new securities of RAJ OIL MILLS LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261013-16/20261013-16.pdf",
+   "date": "2026-10-13",
+   "time": "17:40",
+   "category": "Listing",
+   "ref": "20261013-16",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "f93b8b04a4a7",
+   "source": "BSE",
+   "title": "Listing of New Securities of Kridhan Infra Ltd.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261013-15/20261013-15.pdf",
+   "date": "2026-10-13",
+   "time": "17:38",
+   "category": "Listing",
+   "ref": "20261013-15",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
   {
    "id": "c43b3d80f4bd",
    "source": "BSE",
@@ -184,6 +470,127 @@
    "first_seen": "2026-10-13T11:49:12+00:00"
   },
   {
+   "id": "fee6b666bafb",
+   "source": "SEBI",
+   "title": "Notice of attachment dated October 13,2026 issued against Sathish Kumar N under RC No. 7694 of 2024 in the matter of Arvind Remedies Ltd.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-sathish-kumar-n-under-rc-no-7694-of-2024-in-the-matter-of-arvind-remedies-ltd-_105208.html",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "f398a0b4bcba",
+   "source": "NSE",
+   "title": "List of Securities Moving to Stage IV of Graded Surveillance Measure (GSM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76873.pdf",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76873",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "f20f09272d03",
+   "source": "SEBI",
+   "title": "Notice of attachment dated October 13,2026 issued against Shreyanse Finance Ltd under RC No. 7708 of 2024 in the matter of Arvind Remedies Ltd.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-shreyanse-finance-ltd-under-rc-no-7708-of-2024-in-the-matter-of-arvind-remedies-ltd-_105224.html",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "f13049aa9036",
+   "source": "SEBI",
+   "title": "Notice of attachment dated October 13,2026 issued against M Sethujanani under RC No. 7709 of 2024 in the matter of Arvind Remedies Ltd.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-m-sethujanani-under-rc-no-7709-of-2024-in-the-matter-of-arvind-remedies-ltd-_105226.html",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "eecff52be83a",
+   "source": "SEBI",
+   "title": "Notice of attachment dated October 13,2026 issued against Solomon Y under RC No. 7706 of 2024 in the matter of Arvind Remedies Ltd.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-solomon-y-under-rc-no-7706-of-2024-in-the-matter-of-arvind-remedies-ltd-_105218.html",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "eccc187b67b9",
+   "source": "NSE",
+   "title": "Listing & Trading of Equity Shares pursuant to Bonus Issue of Oneclick Logistics India Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76869.pdf",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76869",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "ea0f224cc927",
+   "source": "NSE",
+   "title": "Listing of privately placed securities on the debt market segment of the Exchange",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76876.pdf",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76876",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "e85d4f1f12c5",
+   "source": "SEBI",
+   "title": "Notice of attachment dated October 13,2026 issued against K Manikandan under RC No. 7698 of 2024 in the matter of Arvind Remedies Ltd.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-k-manikandan-under-rc-no-7698-of-2024-in-the-matter-of-arvind-remedies-ltd-_105214.html",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "e073e8691086",
+   "source": "NSE",
+   "title": "Change in ISIN - Bansal Wire Industries Limited (BANSALWIRE)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76879.pdf",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76879",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "dd7535a5a087",
+   "source": "NSE",
+   "title": "Discontinuation of Existing Encrypted Mechanism of interactive Messages in CM, FO, CD and COM Segments",
+   "url": "https://nsearchives.nseindia.com/content/circulars/MSD76883.pdf",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "MSD",
+   "ref": "MSD76883",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "dbcee2c7fcf7",
+   "source": "SEBI",
+   "title": "Notice of attachment dated October 13,2026 issued against M Sasikala under RC No.7699 of 2024 in the matter of Arvind Remedies Ltd.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-m-sasikala-under-rc-no-7699-of-2024-in-the-matter-of-arvind-remedies-ltd-_105220.html",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
    "id": "d824271f64c0",
    "source": "NSE",
    "title": "Suspension of Trading on Non- Convertible Securities (Privately Placed)",
@@ -193,6 +600,72 @@
    "category": "Listing",
    "ref": "CML76871",
    "first_seen": "2026-10-13T11:49:12+00:00"
+  },
+  {
+   "id": "d373c51edc88",
+   "source": "SEBI",
+   "title": "Notice of attachment dated October 13,2026 issued against Murali Prakash Naidu under RC No. 7707 of 2024 in the matter of Arvind Remedies Ltd.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-murali-prakash-naidu-under-rc-no-7707-of-2024-in-the-matter-of-arvind-remedies-ltd-_105222.html",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "c021638cd136",
+   "source": "SEBI",
+   "title": "Notice of attachment dated October 13,2026 issued against Raja P under RC No. 7704 of 2024 in the matter of Arvind Remedies Ltd.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-raja-p-under-rc-no-7704-of-2024-in-the-matter-of-arvind-remedies-ltd-_105216.html",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "b755a0be623b",
+   "source": "SEBI",
+   "title": "Notice of attachment dated October 13,2026 issued against Subhalakshmi M S under RC No. 7712 of 2024 in the matter of Arvind Remedies Ltd.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-subhalakshmi-m-s-under-rc-no-7712-of-2024-in-the-matter-of-arvind-remedies-ltd-_105230.html",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "b5ff4a2ffd4e",
+   "source": "NSE",
+   "title": "Gazette Notification issued by SEBI titled \"Securities and Exchange Board of India (Intermediaries) (Second Amendment) Regulations, 2026",
+   "url": "https://nsearchives.nseindia.com/content/circulars/COMP76890.pdf",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "COMP",
+   "ref": "COMP76890",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "b5afb0a972ac",
+   "source": "NSE",
+   "title": "Revised Settlement Calendar for Delisting Offer under Tender Offer scheme by Hitech Corporation Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT76886.pdf",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT76886",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "b01cbade8bde",
+   "source": "NSE",
+   "title": "Applicability of Enhanced Surveillance Measure (ESM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76874.zip",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76874",
+   "first_seen": "2026-10-13T19:52:21+00:00"
   },
   {
    "id": "927952ad0c43",
@@ -206,6 +679,39 @@
    "first_seen": "2026-10-13T11:49:12+00:00"
   },
   {
+   "id": "7eceff4534c8",
+   "source": "SEBI",
+   "title": "Notice of Demand under Recovery Certificate number 9302 of 2026 dated October 13, 2026, issued to Arvind Shukla (PAN: ISZPS7481G) [Defaulter] in the matter of market manipulation using social media in the scrip of Moksh Ornaments Limited: under Recovery Certificate No. 9302 of 2026.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-under-recovery-certificate-number-9302-of-2026-dated-october-13-2026-issued-to-arvind-shukla-pan-iszps7481g-defaulter-in-the-matter-of-market-manipulation-using-social-media-in-_105202.html",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "6ec9679c3b7e",
+   "source": "NSE",
+   "title": "Launch of Eminence Hybrid Long-Short Fund NFO under Specialized Investment Fund (SIF) on NSE MF Invest Platform",
+   "url": "https://nsearchives.nseindia.com/content/circulars/NMF76872.pdf",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "Mutual Funds",
+   "ref": "NMF76872",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "68a396482bb0",
+   "source": "SEBI",
+   "title": "Adjudication Order in the matter of suspected insider trading in the scrip of Wipro Ltd",
+   "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/adjudication-order-in-the-matter-of-suspected-insider-trading-in-the-scrip-of-wipro-ltd_105200.html",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
    "id": "535531b7dd27",
    "source": "NSE",
    "title": "Revocation of suspension of trading in units - on account of Interval Scheme.",
@@ -215,6 +721,149 @@
    "category": "Listing",
    "ref": "CML76868",
    "first_seen": "2026-10-13T11:49:12+00:00"
+  },
+  {
+   "id": "4e49d43dd8e4",
+   "source": "SEBI",
+   "title": "Notice of Demand under Recovery Certificate number 9303 of 2026 dated October 13, 2026, issued to Mr. Aviral Saxena (PAN: KVYPS1652D) in the matter of Investigation in the matter of market manipulation using social media in the scrip of Moksh Ornaments Limited: under Recovery Certificate No. 9303 of 2026.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-under-recovery-certificate-number-9303-of-2026-dated-october-13-2026-issued-to-mr-aviral-saxena-pan-kvyps1652d-in-the-matter-of-investigation-in-the-matter-of-market-manipulatio-_105240.html",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "4898f3f95372",
+   "source": "SEBI",
+   "title": "Notice of attachment dated October 13,2026 issued against S Sengolancy Beaula under RC No. 7711 of 2024 in the matter of Arvind Remedies Ltd.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-s-sengolancy-beaula-under-rc-no-7711-of-2024-in-the-matter-of-arvind-remedies-ltd-_105228.html",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "3d3c4ea2be31",
+   "source": "NSE",
+   "title": "Listing of further issues of securities",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76884.pdf",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76884",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "38328940404e",
+   "source": "NSE",
+   "title": "Revised MWPL, Participant, Institutional and Non Institutional Client Limits for OLAELEC",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT76888.pdf",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT76888",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "2cafa329e3e6",
+   "source": "NSE",
+   "title": "Applicability of Short-Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76882.zip",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76882",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "263bc9a2fa99",
+   "source": "SEBI",
+   "title": "Adjudication Order in the matter of inspection of IIFL Capital Services Limited",
+   "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/adjudication-order-in-the-matter-of-inspection-of-iifl-capital-services-limited_105198.html",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "24491f37e20d",
+   "source": "NSE",
+   "title": "List of Securities Moving to Stage III of Graded Surveillance Measure (GSM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76875.pdf",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76875",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "231c10050ecc",
+   "source": "NSE",
+   "title": "Listing of units issued by Zerodha CASE Asset Management Private Limited (formerly known as Zerodha Asset Management Private Limited) (Zerodha Nifty Next 100 ETF)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76880.pdf",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76880",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "2165f1cb4eb1",
+   "source": "NSE",
+   "title": "SEBI directions pursuant to SAT Order in the matter of Mauria Udyog Ltd. and 4 other scrips",
+   "url": "https://nsearchives.nseindia.com/content/circulars/INVG76885.zip",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "Investigation",
+   "ref": "INVG76885",
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "20eca17c7a2b",
+   "source": "SEBI",
+   "title": "Notice of attachment dated October 13,2026 issued against S Nagarajan under RC No. 7696 of 2024 in the matter of Arvind Remedies Ltd.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-s-nagarajan-under-rc-no-7696-of-2024-in-the-matter-of-arvind-remedies-ltd-_105212.html",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "1d8f99f0ae6e",
+   "source": "SEBI",
+   "title": "Notice of attachment dated October 13,2026 issued against Varalakshmi P under RC No. 7695 of 2024 in the matter of Arvind Remedies Ltd.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-issued-against-varalakshmi-p-under-rc-no-7695-of-2024-in-the-matter-of-arvind-remedies-ltd-_105210.html",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "1c595c2b92f4",
+   "source": "SEBI",
+   "title": "Notice of attachment dated October 13,2026-RC No. 7568 of 2024 issued against Shreyanse Finance Ltd in the matter of Arvind Remedies Ltd",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-attachment-dated-october-13-2026-rc-no-7568-of-2024-issued-against-shreyanse-finance-ltd-in-the-matter-of-arvind-remedies-ltd_105206.html",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "03571ca020f8",
+   "source": "NSE",
+   "title": "Applicability of Additional Surveillance Measure (ASM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV76881.zip",
+   "date": "2026-10-13",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV76881",
+   "first_seen": "2026-10-13T19:52:21+00:00"
   },
   {
    "id": "a4bf165c94b6",
@@ -624,6 +1273,17 @@
    "first_seen": "2026-10-12T21:44:53+00:00"
   },
   {
+   "id": "fae33966f676",
+   "source": "SEBI",
+   "title": "Appeal No. 7109 of 2026 filed by Suneeta Devi Sachan",
+   "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7109-of-2026-filed-by-suneeta-devi-sachan_105192.html",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
    "id": "e6467648f352",
    "source": "SEBI",
    "title": "Exemption order in the matter of S Chand and Company Limited",
@@ -633,6 +1293,17 @@
    "category": "Update",
    "ref": null,
    "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "e40f8504b989",
+   "source": "SEBI",
+   "title": "Appeal No. 7108 of 2026 filed by Meera Devi",
+   "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7108-of-2026-filed-by-meera-devi_105191.html",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-10-13T19:52:21+00:00"
   },
   {
    "id": "d8329214a022",
@@ -701,6 +1372,28 @@
    "first_seen": "2026-10-12T21:44:53+00:00"
   },
   {
+   "id": "a9a6afa7dd14",
+   "source": "SEBI",
+   "title": "Appeal No. 7098 of 2026 filed by Bhupal",
+   "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7098-of-2026-filed-by-bhupal_105181.html",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "a76c4618edf0",
+   "source": "SEBI",
+   "title": "Notice of Demand dated 12.10.2026 issued under RC No. 9301 of 2026 against Amesh Surajlal Jaiswal [PAN: AFZPJ0067Q] in the matter Market Manipulation using social media in the scrip of Moksh Ornaments Limited.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notice-of-demand-dated-12-10-2026-issued-under-rc-no-9301-of-2026-against-amesh-surajlal-jaiswal-pan-afzpj0067q-in-the-matter-market-manipulation-using-social-media-in-the-scrip-of-moksh-ornaments-_105205.html",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
    "id": "a6287464036e",
    "source": "NSE",
    "title": "Listing of further issues of securities",
@@ -721,6 +1414,17 @@
    "category": "Listing",
    "ref": "CML76853",
    "first_seen": "2026-10-12T12:00:18+00:00"
+  },
+  {
+   "id": "962a82acbcea",
+   "source": "SEBI",
+   "title": "Appeal No. 7095 of 2026 filed by Eshwar Singh",
+   "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7095-of-2026-filed-by-eshwar-singh_105179.html",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-10-13T19:52:21+00:00"
   },
   {
    "id": "8fd1cf4dfa14",
@@ -745,6 +1449,17 @@
    "first_seen": "2026-10-12T21:44:53+00:00"
   },
   {
+   "id": "81ee0d4fc37c",
+   "source": "SEBI",
+   "title": "Appeal No. 7100 of 2026 filed by Abhishek Gautam",
+   "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7100-of-2026-filed-by-abhishek-gautam_105183.html",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
    "id": "7d44a53d8d49",
    "source": "NSE",
    "title": "Trade for Trade - Triveni Power Transmission Limited",
@@ -767,6 +1482,17 @@
    "first_seen": "2026-10-12T21:44:53+00:00"
   },
   {
+   "id": "78465e27aaad",
+   "source": "SEBI",
+   "title": "Appeal No. 7094 of 2026 filed by Anand Sharma",
+   "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7094-of-2026-filed-by-anand-sharma_105177.html",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
    "id": "71c95e6c9818",
    "source": "NSE",
    "title": "Exclusion of Security - AvenuesAI Limited (CCAVENUE)",
@@ -776,6 +1502,17 @@
    "category": "Clearing & Settlement",
    "ref": "CMPT76863",
    "first_seen": "2026-10-12T21:44:53+00:00"
+  },
+  {
+   "id": "67011a0e7b4d",
+   "source": "SEBI",
+   "title": "Appeal No. 7096 of 2026 filed by Mukesh Rajendra Parikh",
+   "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7096-of-2026-filed-by-mukesh-rajendra-parikh_105180.html",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-10-13T19:52:21+00:00"
   },
   {
    "id": "651ed3b8157c",
@@ -833,6 +1570,28 @@
    "first_seen": "2026-10-12T21:44:53+00:00"
   },
   {
+   "id": "486efbf76d6f",
+   "source": "SEBI",
+   "title": "Corrigendum to the settlement order in the matter of 3One4 Capital Continuum IE",
+   "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/corrigendum-to-the-settlement-order-in-the-matter-of-3one4-capital-continuum-ie_105232.html",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "47ada6c3e0d2",
+   "source": "SEBI",
+   "title": "Appeal No. 7102 of 2026 filed by Mohan Lal",
+   "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7102-of-2026-filed-by-mohan-lal_105186.html",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
    "id": "3a63f791fbe9",
    "source": "NSE",
    "title": "Consolidation of Equity Shares - AvenuesAI Limited",
@@ -842,6 +1601,39 @@
    "category": "Listing",
    "ref": "CML76849",
    "first_seen": "2026-10-12T12:00:18+00:00"
+  },
+  {
+   "id": "304ea7ba8357",
+   "source": "SEBI",
+   "title": "Appeal No. 7106 of 2026 filed by Amith Narayana",
+   "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7106-of-2026-filed-by-amith-narayana_105189.html",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "173835ce5cc9",
+   "source": "SEBI",
+   "title": "Appeal No. 7101 of 2026 filed by Santosh",
+   "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7101-of-2026-filed-by-santosh_105185.html",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-10-13T19:52:21+00:00"
+  },
+  {
+   "id": "14e59937569e",
+   "source": "SEBI",
+   "title": "Appeal No. 7103 of 2026 filed by Ashok Kumar Saini",
+   "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7103-of-2026-filed-by-ashok-kumar-saini_105188.html",
+   "date": "2026-10-12",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-10-13T19:52:21+00:00"
   },
   {
    "id": "11bee6c56cae",
