@@ -1,34 +1,78 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-10-14T18:01:18+00:00",
+ "generated_at": "2026-10-15T09:09:16+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-10-14T18:01:18+00:00",
+   "last_success": "2026-10-15T09:09:16+00:00",
    "last_count": 30,
-   "last_new": 8,
+   "last_new": 1,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-10-14T18:01:18+00:00",
+   "last_success": "2026-10-15T09:09:16+00:00",
    "last_count": 20,
-   "last_new": 19,
+   "last_new": 0,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-10-14T18:01:18+00:00",
-   "last_count": 46,
-   "last_new": 27,
+   "last_success": "2026-10-15T09:09:16+00:00",
+   "last_count": 4,
+   "last_new": 4,
    "error": null
   }
  },
- "count": 2416,
+ "count": 2421,
  "items": [
+  {
+   "id": "6fa8deee2ebf",
+   "source": "BSE",
+   "title": "Listing of new Treasury Bills (T-Bills)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261015-4/20261015-4.pdf",
+   "date": "2026-10-15",
+   "time": "13:28",
+   "category": "Listing",
+   "ref": "20261015-4",
+   "first_seen": "2026-10-15T09:09:16+00:00"
+  },
+  {
+   "id": "49934396eb86",
+   "source": "BSE",
+   "title": "Demat Auction 735",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261015-3/20261015-3.pdf",
+   "date": "2026-10-15",
+   "time": "13:28",
+   "category": "Clearing & Settlement",
+   "ref": "20261015-3",
+   "first_seen": "2026-10-15T09:09:16+00:00"
+  },
+  {
+   "id": "aac04c88f056",
+   "source": "BSE",
+   "title": "Part Redemption of Debentures of the Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261015-2/20261015-2.pdf",
+   "date": "2026-10-15",
+   "time": "13:17",
+   "category": "Debt",
+   "ref": "20261015-2",
+   "first_seen": "2026-10-15T09:09:16+00:00"
+  },
+  {
+   "id": "b478bbd31235",
+   "source": "BSE",
+   "title": "Listing of New Securities of Continental Securities Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261015-1/20261015-1.pdf",
+   "date": "2026-10-15",
+   "time": "12:16",
+   "category": "Listing",
+   "ref": "20261015-1",
+   "first_seen": "2026-10-15T09:09:16+00:00"
+  },
   {
    "id": "49fab6c2a519",
    "source": "BSE",
@@ -556,6 +600,17 @@
    "category": "COMP",
    "ref": "COMP76906",
    "first_seen": "2026-10-14T18:01:18+00:00"
+  },
+  {
+   "id": "f1c713ffb440",
+   "source": "SEBI",
+   "title": "Release of attachment on immovable property under RC No. 3965 of 2021-Ram Kishore Taparia (PAN – ABJPT1453C) in the matter of Cosboard Industries Ltd",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/release-of-attachment-on-immovable-property-under-rc-no-3965-of-2021-ram-kishore-taparia-pan-abjpt1453c-in-the-matter-of-cosboard-industries-ltd_105270.html",
+   "date": "2026-10-14",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-10-15T09:09:16+00:00"
   },
   {
    "id": "e8ba05af586e",
