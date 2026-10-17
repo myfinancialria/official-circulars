@@ -1,34 +1,45 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-10-16T17:25:52+00:00",
+ "generated_at": "2026-10-17T08:34:02+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-10-16T17:25:52+00:00",
+   "last_success": "2026-10-17T08:34:02+00:00",
    "last_count": 30,
-   "last_new": 6,
+   "last_new": 5,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-10-16T17:25:52+00:00",
+   "last_success": "2026-10-17T08:34:02+00:00",
    "last_count": 58,
-   "last_new": 24,
+   "last_new": 0,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-10-16T17:25:52+00:00",
-   "last_count": 51,
-   "last_new": 36,
+   "last_success": "2026-10-17T08:34:02+00:00",
+   "last_count": 52,
+   "last_new": 1,
    "error": null
   }
  },
- "count": 2595,
+ "count": 2601,
  "items": [
+  {
+   "id": "7375349055f5",
+   "source": "BSE",
+   "title": "Offer to Buy – Acquisition Window (Takeover) for AAR SHYAM INDIA INVESTMENT COMPANY LIMITED – Live Activities Schedule",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261016-52/20261016-52.pdf",
+   "date": "2026-10-16",
+   "time": "23:29",
+   "category": "Notice",
+   "ref": "20261016-52",
+   "first_seen": "2026-10-17T08:34:02+00:00"
+  },
   {
    "id": "b3605679220e",
    "source": "BSE",
@@ -800,6 +811,17 @@
    "first_seen": "2026-10-16T09:02:09+00:00"
   },
   {
+   "id": "af43e7321fd1",
+   "source": "SEBI",
+   "title": "Appeal No. 7112 of 2026 filed by Ranjeet Kumar Swain",
+   "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7112-of-2026-filed-by-ranjeet-kumar-swain_105317.html",
+   "date": "2026-10-16",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-10-17T08:34:02+00:00"
+  },
+  {
    "id": "ac7e5d80714b",
    "source": "NSE",
    "title": "Temporary Suspension of fresh subscription in certain schemes under Bandhan Mutual Fund on NSE MF Invest Platform",
@@ -943,6 +965,17 @@
    "first_seen": "2026-10-16T09:02:09+00:00"
   },
   {
+   "id": "8154ca6de545",
+   "source": "SEBI",
+   "title": "Appeal No. 7115 of 2026 filed by Prem Kumar Gurusamy",
+   "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7115-of-2026-filed-by-prem-kumar-gurusamy_105311.html",
+   "date": "2026-10-16",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-10-17T08:34:02+00:00"
+  },
+  {
    "id": "7fb285a282df",
    "source": "NSE",
    "title": "Temporary Suspension of fresh subscription in certain schemes under LIC Mutual Fund on NSE MF Invest Platform",
@@ -987,6 +1020,17 @@
    "first_seen": "2026-10-16T09:02:09+00:00"
   },
   {
+   "id": "781e7858f13a",
+   "source": "SEBI",
+   "title": "Appeal No. 7105 of 2026 filed by Bharat Bhushan Singh",
+   "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7105-of-2026-filed-by-bharat-bhushan-singh_105306.html",
+   "date": "2026-10-16",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-10-17T08:34:02+00:00"
+  },
+  {
    "id": "77ee3b6fc702",
    "source": "SEBI",
    "title": "Appeal No. 7099 of 2026 filed by Vikram Aggarwal",
@@ -1020,6 +1064,17 @@
    "first_seen": "2026-10-16T09:02:09+00:00"
   },
   {
+   "id": "71c77a183d4c",
+   "source": "SEBI",
+   "title": "Appeal No. 7114 of 2026 filed by A. Balamurugan",
+   "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7114-of-2026-filed-by-a-balamurugan_105319.html",
+   "date": "2026-10-16",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-10-17T08:34:02+00:00"
+  },
+  {
    "id": "6bd4e1821321",
    "source": "SEBI",
    "title": "Appeal No. 7104 of 2026 filed by Sunil Kumar",
@@ -1029,6 +1084,17 @@
    "category": "Order",
    "ref": null,
    "first_seen": "2026-10-16T17:25:52+00:00"
+  },
+  {
+   "id": "6703c031a8cb",
+   "source": "SEBI",
+   "title": "Appeal No. 7107 of 2026 filed by Deepali Singhal",
+   "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/appeal-no-7107-of-2026-filed-by-deepali-singhal_105321.html",
+   "date": "2026-10-16",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-10-17T08:34:02+00:00"
   },
   {
    "id": "66dafef3934f",
