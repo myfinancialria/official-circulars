@@ -1,11 +1,11 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-10-18T08:51:35+00:00",
+ "generated_at": "2026-10-18T16:33:08+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-10-18T08:51:35+00:00",
+   "last_success": "2026-10-18T16:33:08+00:00",
    "last_count": 30,
    "last_new": 0,
    "error": null
@@ -13,7 +13,7 @@
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-10-18T08:51:35+00:00",
+   "last_success": "2026-10-18T16:33:08+00:00",
    "last_count": 58,
    "last_new": 0,
    "error": null
@@ -21,14 +21,36 @@
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-10-18T08:51:35+00:00",
-   "last_count": 52,
-   "last_new": 0,
+   "last_success": "2026-10-18T16:33:08+00:00",
+   "last_count": 2,
+   "last_new": 2,
    "error": null
   }
  },
- "count": 2601,
+ "count": 2603,
  "items": [
+  {
+   "id": "8a4160d910df",
+   "source": "BSE",
+   "title": "Non-Competitive Bidding Facility for Auction of Treasury Bills (T-Bills) on October 21, 2026",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261018-2/20261018-2.pdf",
+   "date": "2026-10-18",
+   "time": "16:09",
+   "category": "Clearing & Settlement",
+   "ref": "20261018-2",
+   "first_seen": "2026-10-18T16:33:08+00:00"
+  },
+  {
+   "id": "82e7353890a2",
+   "source": "BSE",
+   "title": "Non-Competitive Bidding for Auction of State Government Securities (SDL) on October 19, 2026",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261018-1/20261018-1.pdf",
+   "date": "2026-10-18",
+   "time": "15:45",
+   "category": "Clearing & Settlement",
+   "ref": "20261018-1",
+   "first_seen": "2026-10-18T16:33:08+00:00"
+  },
   {
    "id": "7375349055f5",
    "source": "BSE",
