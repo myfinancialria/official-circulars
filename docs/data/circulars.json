@@ -1,34 +1,133 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-10-18T16:33:08+00:00",
+ "generated_at": "2026-10-19T09:54:45+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-10-18T16:33:08+00:00",
+   "last_success": "2026-10-19T09:54:45+00:00",
    "last_count": 30,
-   "last_new": 0,
+   "last_new": 4,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-10-18T16:33:08+00:00",
-   "last_count": 58,
-   "last_new": 0,
+   "last_success": "2026-10-19T09:54:45+00:00",
+   "last_count": 1,
+   "last_new": 1,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-10-18T16:33:08+00:00",
-   "last_count": 2,
-   "last_new": 2,
+   "last_success": "2026-10-19T09:54:45+00:00",
+   "last_count": 8,
+   "last_new": 8,
    "error": null
   }
  },
- "count": 2603,
+ "count": 2616,
  "items": [
+  {
+   "id": "6a72af9dff02",
+   "source": "BSE",
+   "title": "Update Regarding debt securities of Kanakadurga Finance Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261019-8/20261019-8.pdf",
+   "date": "2026-10-19",
+   "time": "14:53",
+   "category": "Debt",
+   "ref": "20261019-8",
+   "first_seen": "2026-10-19T09:54:45+00:00"
+  },
+  {
+   "id": "24b043668369",
+   "source": "BSE",
+   "title": "Demat Auction 737",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261019-7/20261019-7.pdf",
+   "date": "2026-10-19",
+   "time": "13:30",
+   "category": "Clearing & Settlement",
+   "ref": "20261019-7",
+   "first_seen": "2026-10-19T09:54:45+00:00"
+  },
+  {
+   "id": "f779b64dc4dd",
+   "source": "BSE",
+   "title": "Sub-Division of Equity Shares of Chandni Machines Ltd (Scrip Code: 542627).",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261019-6/20261019-6.pdf",
+   "date": "2026-10-19",
+   "time": "13:06",
+   "category": "Corporate Action",
+   "ref": "20261019-6",
+   "first_seen": "2026-10-19T09:54:45+00:00"
+  },
+  {
+   "id": "d2da8e352dac",
+   "source": "BSE",
+   "title": "Suspension of Trading in T-bills/Government Securities",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261019-5/20261019-5.pdf",
+   "date": "2026-10-19",
+   "time": "13:03",
+   "category": "Trading",
+   "ref": "20261019-5",
+   "first_seen": "2026-10-19T09:54:45+00:00"
+  },
+  {
+   "id": "d53e185a0b93",
+   "source": "BSE",
+   "title": "Suspension of trading in Commercial Paper",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261019-4/20261019-4.pdf",
+   "date": "2026-10-19",
+   "time": "12:59",
+   "category": "Debt",
+   "ref": "20261019-4",
+   "first_seen": "2026-10-19T09:54:45+00:00"
+  },
+  {
+   "id": "1a4a2574a8a3",
+   "source": "BSE",
+   "title": "Introduction of YUVA SIP facility under certain schemes of BARODA BNP PARIBAS Mutual Fund on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261019-3/20261019-3.pdf",
+   "date": "2026-10-19",
+   "time": "12:30",
+   "category": "Mutual Funds",
+   "ref": "20261019-3",
+   "first_seen": "2026-10-19T09:54:45+00:00"
+  },
+  {
+   "id": "e21d9e919820",
+   "source": "BSE",
+   "title": "Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for THE SOUTH INDIA PAPER MILLS LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261019-2/20261019-2.pdf",
+   "date": "2026-10-19",
+   "time": "10:36",
+   "category": "Clearing & Settlement",
+   "ref": "20261019-2",
+   "first_seen": "2026-10-19T09:54:45+00:00"
+  },
+  {
+   "id": "d6aab5714e76",
+   "source": "BSE",
+   "title": "Revised Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for PASUPATI FINCAP LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261019-1/20261019-1.pdf",
+   "date": "2026-10-19",
+   "time": "10:35",
+   "category": "Clearing & Settlement",
+   "ref": "20261019-1",
+   "first_seen": "2026-10-19T09:54:45+00:00"
+  },
+  {
+   "id": "90a5a46dbb00",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of HD Fire Protect Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML76992.pdf",
+   "date": "2026-10-19",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML76992",
+   "first_seen": "2026-10-19T09:54:45+00:00"
+  },
   {
    "id": "8a4160d910df",
    "source": "BSE",
@@ -1856,6 +1955,17 @@
    "first_seen": "2026-10-15T17:46:56+00:00"
   },
   {
+   "id": "91ec96c79e7f",
+   "source": "SEBI",
+   "title": "Securities and Exchange Board of India (Alternative Investment Funds) (Third Amendment) Regulations, 2026",
+   "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-alternative-investment-funds-third-amendment-regulations-2026_105331.html",
+   "date": "2026-10-15",
+   "time": null,
+   "category": "Regulation",
+   "ref": null,
+   "first_seen": "2026-10-19T09:54:45+00:00"
+  },
+  {
    "id": "9078ca1b6cde",
    "source": "NSE",
    "title": "Launch of Carnelian Small Cap Fund NFO under Specialized Investment Fund (SIF) on NSE MF Invest Platform",
@@ -1898,6 +2008,17 @@
    "category": "Surveillance",
    "ref": "SURV76923",
    "first_seen": "2026-10-15T17:46:56+00:00"
+  },
+  {
+   "id": "7c488ef4b29f",
+   "source": "SEBI",
+   "title": "Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) (Third Amendment) Regulations, 2026",
+   "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-listing-obligations-and-disclosure-requirements-third-amendment-regulations-2026_105330.html",
+   "date": "2026-10-15",
+   "time": null,
+   "category": "Regulation",
+   "ref": null,
+   "first_seen": "2026-10-19T09:54:45+00:00"
   },
   {
    "id": "76ba71a94e23",
@@ -1986,6 +2107,28 @@
    "category": "Mutual Funds",
    "ref": "NMF76929",
    "first_seen": "2026-10-15T17:46:56+00:00"
+  },
+  {
+   "id": "3d76dd23bb69",
+   "source": "SEBI",
+   "title": "Securities and Exchange Board of India (Infrastructure Investment Trusts) (Second Amendment) Regulations, 2026",
+   "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-infrastructure-investment-trusts-second-amendment-regulations-2026_105323.html",
+   "date": "2026-10-15",
+   "time": null,
+   "category": "Regulation",
+   "ref": null,
+   "first_seen": "2026-10-19T09:54:45+00:00"
+  },
+  {
+   "id": "3b40905328d5",
+   "source": "SEBI",
+   "title": "Securities and Exchange Board of India (Real Estate Investment Trusts) (Second Amendment) Regulations, 2026",
+   "url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-real-estate-investment-trusts-second-amendment-regulations-2026_105329.html",
+   "date": "2026-10-15",
+   "time": null,
+   "category": "Regulation",
+   "ref": null,
+   "first_seen": "2026-10-19T09:54:45+00:00"
   },
   {
    "id": "30cc80801bfa",
