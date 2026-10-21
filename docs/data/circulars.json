@@ -1,11 +1,11 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-10-20T17:59:27+00:00",
+ "generated_at": "2026-10-21T09:22:25+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-10-20T17:59:27+00:00",
+   "last_success": "2026-10-21T09:22:25+00:00",
    "last_count": 30,
    "last_new": 0,
    "error": null
@@ -13,22 +13,110 @@
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-10-20T17:59:27+00:00",
-   "last_count": 25,
-   "last_new": 0,
+   "last_success": "2026-10-21T09:22:25+00:00",
+   "last_count": 1,
+   "last_new": 1,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-10-20T17:59:27+00:00",
-   "last_count": 1,
-   "last_new": 0,
+   "last_success": "2026-10-21T09:22:25+00:00",
+   "last_count": 7,
+   "last_new": 7,
    "error": null
   }
  },
- "count": 2684,
+ "count": 2692,
  "items": [
+  {
+   "id": "b8fd24571284",
+   "source": "BSE",
+   "title": "New ISIN Number on Stock Split of Azad India Mobility Ltd (Scrip Code:504731)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261021-7/20261021-7.pdf",
+   "date": "2026-10-21",
+   "time": "14:44",
+   "category": "Corporate Action",
+   "ref": "20261021-7",
+   "first_seen": "2026-10-21T09:22:25+00:00"
+  },
+  {
+   "id": "7a23e523a2b2",
+   "source": "BSE",
+   "title": "Group Change",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261021-6/20261021-6.pdf",
+   "date": "2026-10-21",
+   "time": "13:45",
+   "category": "Notice",
+   "ref": "20261021-6",
+   "first_seen": "2026-10-21T09:22:25+00:00"
+  },
+  {
+   "id": "e955996e392a",
+   "source": "BSE",
+   "title": "Suspension of Trading in Commercial Paper",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261021-5/20261021-5.pdf",
+   "date": "2026-10-21",
+   "time": "13:42",
+   "category": "Debt",
+   "ref": "20261021-5",
+   "first_seen": "2026-10-21T09:22:25+00:00"
+  },
+  {
+   "id": "74de2ee87101",
+   "source": "BSE",
+   "title": "Demat Auction 738",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261021-4/20261021-4.pdf",
+   "date": "2026-10-21",
+   "time": "13:37",
+   "category": "Clearing & Settlement",
+   "ref": "20261021-4",
+   "first_seen": "2026-10-21T09:22:25+00:00"
+  },
+  {
+   "id": "5d93b613d086",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of FUSION CX LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261021-3/20261021-3.pdf",
+   "date": "2026-10-21",
+   "time": "12:49",
+   "category": "Listing",
+   "ref": "20261021-3",
+   "first_seen": "2026-10-21T09:22:25+00:00"
+  },
+  {
+   "id": "3c57bc05cde1",
+   "source": "BSE",
+   "title": "Collateral Related Tiimings for Muhurat Trading",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261021-2/20261021-2.pdf",
+   "date": "2026-10-21",
+   "time": "12:35",
+   "category": "Clearing & Settlement",
+   "ref": "20261021-2",
+   "first_seen": "2026-10-21T09:22:25+00:00"
+  },
+  {
+   "id": "6e4aec2ae540",
+   "source": "BSE",
+   "title": "Non-Competitive Bidding for Auction of GoI dated Securities (G-secs) on October 23, 2026",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261021-1/20261021-1.pdf",
+   "date": "2026-10-21",
+   "time": "07:33",
+   "category": "Clearing & Settlement",
+   "ref": "20261021-1",
+   "first_seen": "2026-10-21T09:22:25+00:00"
+  },
+  {
+   "id": "5f84140bf3cb",
+   "source": "NSE",
+   "title": "CBRICS - Settlement Calendar for November 2026",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT77017.pdf",
+   "date": "2026-10-21",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT77017",
+   "first_seen": "2026-10-21T09:22:25+00:00"
+  },
   {
    "id": "a17e8963444e",
    "source": "BSE",
