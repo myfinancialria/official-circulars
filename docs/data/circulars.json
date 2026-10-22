@@ -1,34 +1,177 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-10-21T18:04:23+00:00",
+ "generated_at": "2026-10-22T09:25:02+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-10-21T18:04:23+00:00",
+   "last_success": "2026-10-22T09:25:02+00:00",
    "last_count": 30,
-   "last_new": 2,
+   "last_new": 0,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-10-21T18:04:23+00:00",
-   "last_count": 31,
-   "last_new": 30,
+   "last_success": "2026-10-22T09:25:02+00:00",
+   "last_count": 1,
+   "last_new": 1,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-10-21T18:04:23+00:00",
-   "last_count": 38,
-   "last_new": 31,
+   "last_success": "2026-10-22T09:25:02+00:00",
+   "last_count": 12,
+   "last_new": 12,
    "error": null
   }
  },
- "count": 2755,
+ "count": 2768,
  "items": [
+  {
+   "id": "ba3fde16bae6",
+   "source": "BSE",
+   "title": "Suspension of Trading in Debentures of Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261022-11/20261022-11.pdf",
+   "date": "2026-10-22",
+   "time": "14:19",
+   "category": "Debt",
+   "ref": "20261022-11",
+   "first_seen": "2026-10-22T09:25:02+00:00"
+  },
+  {
+   "id": "826e1c852155",
+   "source": "BSE",
+   "title": "Right Issue of Equity shares of MAGNUS STEEL AND INFRA LIMITED (Scrip Code- 517320)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261022-12/20261022-12.pdf",
+   "date": "2026-10-22",
+   "time": "14:19",
+   "category": "Notice",
+   "ref": "20261022-12",
+   "first_seen": "2026-10-22T09:25:02+00:00"
+  },
+  {
+   "id": "5a666ae6a03c",
+   "source": "BSE",
+   "title": "Suspension of Trading in Commercial Paper",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261022-10/20261022-10.pdf",
+   "date": "2026-10-22",
+   "time": "14:18",
+   "category": "Debt",
+   "ref": "20261022-10",
+   "first_seen": "2026-10-22T09:25:02+00:00"
+  },
+  {
+   "id": "cdac6de75c4e",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Bonfiglioli Transmissions Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261022-9/20261022-9.pdf",
+   "date": "2026-10-22",
+   "time": "13:42",
+   "category": "Listing",
+   "ref": "20261022-9",
+   "first_seen": "2026-10-22T09:25:02+00:00"
+  },
+  {
+   "id": "ccde44c4399b",
+   "source": "BSE",
+   "title": "Demat Auction 739",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261022-8/20261022-8.pdf",
+   "date": "2026-10-22",
+   "time": "13:28",
+   "category": "Clearing & Settlement",
+   "ref": "20261022-8",
+   "first_seen": "2026-10-22T09:25:02+00:00"
+  },
+  {
+   "id": "0c890b25929b",
+   "source": "BSE",
+   "title": "Part Redemption of Debentures SI CREVA CAPITAL SERVICES PRIVATE LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261022-7/20261022-7.pdf",
+   "date": "2026-10-22",
+   "time": "13:16",
+   "category": "Debt",
+   "ref": "20261022-7",
+   "first_seen": "2026-10-22T09:25:02+00:00"
+  },
+  {
+   "id": "8240656017a4",
+   "source": "BSE",
+   "title": "Part-Redemption of PTCs of TRINITY TRUST SEP 2025",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261022-6/20261022-6.pdf",
+   "date": "2026-10-22",
+   "time": "13:06",
+   "category": "Notice",
+   "ref": "20261022-6",
+   "first_seen": "2026-10-22T09:25:02+00:00"
+  },
+  {
+   "id": "be4ca30af427",
+   "source": "BSE",
+   "title": "Suspension of Trading in Debt Securities of LOKHANDWALA KATARIA CONSTRUCTION PVT LTD",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261022-5/20261022-5.pdf",
+   "date": "2026-10-22",
+   "time": "13:05",
+   "category": "Debt",
+   "ref": "20261022-5",
+   "first_seen": "2026-10-22T09:25:02+00:00"
+  },
+  {
+   "id": "287b9fe9cfd5",
+   "source": "BSE",
+   "title": "TRADING AND SETTLEMENT PROGRAMME FOR EGR SEGMENT FOR THE PERIOD FROM 01.11.2026 TO 30.11.2026.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261022-4/20261022-4.pdf",
+   "date": "2026-10-22",
+   "time": "12:52",
+   "category": "Clearing & Settlement",
+   "ref": "20261022-4",
+   "first_seen": "2026-10-22T09:25:02+00:00"
+  },
+  {
+   "id": "c4fa6086c77f",
+   "source": "BSE",
+   "title": "Change in Minimum Investment amount for Systematic Investment Plan (SIP) in certain scheme of Union MUTUAL FUND",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261022-3/20261022-3.pdf",
+   "date": "2026-10-22",
+   "time": "10:41",
+   "category": "Mutual Funds",
+   "ref": "20261022-3",
+   "first_seen": "2026-10-22T09:25:02+00:00"
+  },
+  {
+   "id": "069f05370db3",
+   "source": "BSE",
+   "title": "Resumption of Subscriptions in ICICI PRUDENTIAL AGGRESSIVE HYBRID FUND on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261022-2/20261022-2.pdf",
+   "date": "2026-10-22",
+   "time": "10:39",
+   "category": "Mutual Funds",
+   "ref": "20261022-2",
+   "first_seen": "2026-10-22T09:25:02+00:00"
+  },
+  {
+   "id": "b0fcb455d0fa",
+   "source": "BSE",
+   "title": "Change In Underlying Asset Name & Symbol In Equity Derivative",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261022-1/20261022-1.pdf",
+   "date": "2026-10-22",
+   "time": "10:18",
+   "category": "Derivatives",
+   "ref": "20261022-1",
+   "first_seen": "2026-10-22T09:25:02+00:00"
+  },
+  {
+   "id": "88da984bbf80",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Bonfiglioli Transmissions Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77046.pdf",
+   "date": "2026-10-22",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77046",
+   "first_seen": "2026-10-22T09:25:02+00:00"
+  },
   {
    "id": "4e1b55053077",
    "source": "BSE",
