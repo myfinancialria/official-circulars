@@ -1,11 +1,11 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-10-25T17:03:49+00:00",
+ "generated_at": "2026-10-26T10:08:27+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-10-25T17:03:49+00:00",
+   "last_success": "2026-10-26T10:08:27+00:00",
    "last_count": 30,
    "last_new": 0,
    "error": null
@@ -13,22 +13,176 @@
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-10-25T17:03:49+00:00",
-   "last_count": 20,
-   "last_new": 0,
+   "last_success": "2026-10-26T10:08:27+00:00",
+   "last_count": 1,
+   "last_new": 1,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-10-25T17:03:49+00:00",
-   "last_count": 48,
-   "last_new": 0,
+   "last_success": "2026-10-26T10:08:27+00:00",
+   "last_count": 13,
+   "last_new": 13,
    "error": null
   }
  },
- "count": 2936,
+ "count": 2950,
  "items": [
+  {
+   "id": "d679f9ec0f62",
+   "source": "BSE",
+   "title": "Surrender of Trading Membership – Reimagine Securities Private Limited (Member no. 6941)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261026-13/20261026-13.pdf",
+   "date": "2026-10-26",
+   "time": "15:12",
+   "category": "Trading",
+   "ref": "20261026-13",
+   "first_seen": "2026-10-26T10:08:27+00:00"
+  },
+  {
+   "id": "a6a0696acc73",
+   "source": "BSE",
+   "title": "Change in Name of Company- Shashank Traders Ltd",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261026-11/20261026-11.pdf",
+   "date": "2026-10-26",
+   "time": "14:32",
+   "category": "Notice",
+   "ref": "20261026-11",
+   "first_seen": "2026-10-26T10:08:27+00:00"
+  },
+  {
+   "id": "2f6329f2fe6f",
+   "source": "BSE",
+   "title": "Tender Offer (Buyback) of Equity Shares AUTOMOBILE CORPN. OF GOA LTD.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261026-12/20261026-12.pdf",
+   "date": "2026-10-26",
+   "time": "14:32",
+   "category": "Corporate Action",
+   "ref": "20261026-12",
+   "first_seen": "2026-10-26T10:08:27+00:00"
+  },
+  {
+   "id": "1803f4194fa6",
+   "source": "BSE",
+   "title": "Migration of Equity Shares of Sudarshan Pharma Industries Limited from BSE SME Platform to BSE Mainboard Platform.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261026-10/20261026-10.pdf",
+   "date": "2026-10-26",
+   "time": "13:45",
+   "category": "Notice",
+   "ref": "20261026-10",
+   "first_seen": "2026-10-26T10:08:27+00:00"
+  },
+  {
+   "id": "b2ef1f1e0e14",
+   "source": "BSE",
+   "title": "Demat Auction 741",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261026-9/20261026-9.pdf",
+   "date": "2026-10-26",
+   "time": "13:07",
+   "category": "Clearing & Settlement",
+   "ref": "20261026-9",
+   "first_seen": "2026-10-26T10:08:27+00:00"
+  },
+  {
+   "id": "638ade6957b2",
+   "source": "BSE",
+   "title": "Listing of Units Of Aditya Birla Sun Life BSE Total Market ETF a scheme under Aditya Birla Sun Life Mutual Fund",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261026-8/20261026-8.pdf",
+   "date": "2026-10-26",
+   "time": "12:47",
+   "category": "Listing",
+   "ref": "20261026-8",
+   "first_seen": "2026-10-26T10:08:27+00:00"
+  },
+  {
+   "id": "afca9df5310c",
+   "source": "BSE",
+   "title": "Suspension of Trading in Commercial Paper",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261026-7/20261026-7.pdf",
+   "date": "2026-10-26",
+   "time": "12:35",
+   "category": "Debt",
+   "ref": "20261026-7",
+   "first_seen": "2026-10-26T10:08:27+00:00"
+  },
+  {
+   "id": "e4b498fb016b",
+   "source": "BSE",
+   "title": "New ISIN Number on Stock Split of Chandni Machines Ltd (Scrip Code:542627)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261026-6/20261026-6.pdf",
+   "date": "2026-10-26",
+   "time": "12:31",
+   "category": "Corporate Action",
+   "ref": "20261026-6",
+   "first_seen": "2026-10-26T10:08:27+00:00"
+  },
+  {
+   "id": "47768570f7d4",
+   "source": "BSE",
+   "title": "Opening of Offer to Buy – Acquisition Window (Buyback) For VRL LOGISTICS LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261026-5/20261026-5.pdf",
+   "date": "2026-10-26",
+   "time": "12:23",
+   "category": "Corporate Action",
+   "ref": "20261026-5",
+   "first_seen": "2026-10-26T10:08:27+00:00"
+  },
+  {
+   "id": "0a2f65128d07",
+   "source": "BSE",
+   "title": "Suspension of Trading in T-bills/Government Securities",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261026-4/20261026-4.pdf",
+   "date": "2026-10-26",
+   "time": "12:21",
+   "category": "Trading",
+   "ref": "20261026-4",
+   "first_seen": "2026-10-26T10:08:27+00:00"
+  },
+  {
+   "id": "c2d0df2c1242",
+   "source": "BSE",
+   "title": "Migration of Equity Shares of Khazanchi Jewellers Limited from BSE SME Platform to BSE Mainboard Platform.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261026-3/20261026-3.pdf",
+   "date": "2026-10-26",
+   "time": "11:25",
+   "category": "Notice",
+   "ref": "20261026-3",
+   "first_seen": "2026-10-26T10:08:27+00:00"
+  },
+  {
+   "id": "e25cc8ed141c",
+   "source": "BSE",
+   "title": "Non-Competitive Bidding for Auction of State Government Securities (SDL) on October 27, 2026",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261026-1/20261026-1.pdf",
+   "date": "2026-10-26",
+   "time": "08:21",
+   "category": "Clearing & Settlement",
+   "ref": "20261026-1",
+   "first_seen": "2026-10-26T10:08:27+00:00"
+  },
+  {
+   "id": "3b28d2c2608a",
+   "source": "BSE",
+   "title": "Non-Competitive Bidding Facility for Auction of Treasury Bills (T-Bills) on October 28, 2026",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261026-2/20261026-2.pdf",
+   "date": "2026-10-26",
+   "time": "08:21",
+   "category": "Clearing & Settlement",
+   "ref": "20261026-2",
+   "first_seen": "2026-10-26T10:08:27+00:00"
+  },
+  {
+   "id": "fa4fadf32ad0",
+   "source": "NSE",
+   "title": "Muhurat Trading Session on Account of Diwali",
+   "url": "https://nsearchives.nseindia.com/content/circulars/ISC77098.pdf",
+   "date": "2026-10-26",
+   "time": null,
+   "category": "ISC",
+   "ref": "ISC77098",
+   "first_seen": "2026-10-26T10:08:27+00:00"
+  },
   {
    "id": "1cd30272185e",
    "source": "BSE",
