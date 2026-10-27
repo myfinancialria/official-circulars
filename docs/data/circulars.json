@@ -1,34 +1,45 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-10-27T09:49:17+00:00",
+ "generated_at": "2026-10-27T18:42:29+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-10-27T09:49:17+00:00",
+   "last_success": "2026-10-27T18:42:29+00:00",
    "last_count": 30,
-   "last_new": 0,
+   "last_new": 2,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-10-27T09:49:17+00:00",
-   "last_count": 4,
-   "last_new": 4,
+   "last_success": "2026-10-27T18:42:29+00:00",
+   "last_count": 17,
+   "last_new": 13,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-10-27T09:49:17+00:00",
-   "last_count": 12,
-   "last_new": 12,
+   "last_success": "2026-10-27T18:42:29+00:00",
+   "last_count": 1,
+   "last_new": 1,
    "error": null
   }
  },
- "count": 3016,
+ "count": 3032,
  "items": [
+  {
+   "id": "2d8fc49048ff",
+   "source": "BSE",
+   "title": "Market Wide Position Limits for newly introduced Scrips in Equity Derivatives Segment",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261028-1/20261028-1.pdf",
+   "date": "2026-10-28",
+   "time": "00:08",
+   "category": "Derivatives",
+   "ref": "20261028-1",
+   "first_seen": "2026-10-27T18:42:29+00:00"
+  },
   {
    "id": "e35fcd7b313c",
    "source": "BSE",
@@ -162,6 +173,28 @@
    "first_seen": "2026-10-27T09:49:17+00:00"
   },
   {
+   "id": "dfe4abc05647",
+   "source": "NSE",
+   "title": "Extension for submission of Annual Returns for Financial Year 2025-26",
+   "url": "https://nsearchives.nseindia.com/content/circulars/COMP77122.zip",
+   "date": "2026-10-27",
+   "time": null,
+   "category": "COMP",
+   "ref": "COMP77122",
+   "first_seen": "2026-10-27T18:42:29+00:00"
+  },
+  {
+   "id": "dfa0e5eccd04",
+   "source": "NSE",
+   "title": "Listing of Partly Paid up Equity Shares allotted on Rights Basis of Century Extrusions Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77138.pdf",
+   "date": "2026-10-27",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77138",
+   "first_seen": "2026-10-27T18:42:29+00:00"
+  },
+  {
    "id": "dcfa35e886f3",
    "source": "NSE",
    "title": "Listing of Equity Shares of Jio Platforms Limited (IPO)",
@@ -171,6 +204,28 @@
    "category": "Listing",
    "ref": "CML77109",
    "first_seen": "2026-10-27T09:49:17+00:00"
+  },
+  {
+   "id": "c94ef4e8c455",
+   "source": "NSE",
+   "title": "Applicability of Short-Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV77135.zip",
+   "date": "2026-10-27",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV77135",
+   "first_seen": "2026-10-27T18:42:29+00:00"
+  },
+  {
+   "id": "b74f69ddb340",
+   "source": "NSE",
+   "title": "Face Value Split - Knowledge Marine & Engineering Works Limited (KMEW)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77126.pdf",
+   "date": "2026-10-27",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77126",
+   "first_seen": "2026-10-27T18:42:29+00:00"
   },
   {
    "id": "af6ecca4814c",
@@ -184,6 +239,28 @@
    "first_seen": "2026-10-27T09:49:17+00:00"
   },
   {
+   "id": "a987cc2be7ba",
+   "source": "SEBI",
+   "title": "Extension of timeline for compliance with terms and conditions by Debenture Trustees (DTs) for carrying out activities outside the purview of SEBI",
+   "url": "https://www.sebi.gov.in/legal/circulars/oct-2026/extension-of-timeline-for-compliance-with-terms-and-conditions-by-debenture-trustees-dts-for-carrying-out-activities-outside-the-purview-of-sebi_105454.html",
+   "date": "2026-10-27",
+   "time": null,
+   "category": "Circular",
+   "ref": null,
+   "first_seen": "2026-10-27T18:42:29+00:00"
+  },
+  {
+   "id": "a8a7d4c3ee7c",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Paras Healthcare Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77136.zip",
+   "date": "2026-10-27",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77136",
+   "first_seen": "2026-10-27T18:42:29+00:00"
+  },
+  {
    "id": "9cd02cf9f90a",
    "source": "NSE",
    "title": "Listing of Equity Shares of Paras Healthcare Limited (IPO)",
@@ -195,6 +272,39 @@
    "first_seen": "2026-10-27T09:49:17+00:00"
   },
   {
+   "id": "9c3a0eeb5e48",
+   "source": "NSE",
+   "title": "Applicable MWPL, TM, FII/FPI & MF limits for Introduction of 6 Individual Securities",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT77139.pdf",
+   "date": "2026-10-27",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT77139",
+   "first_seen": "2026-10-27T18:42:29+00:00"
+  },
+  {
+   "id": "9b555aace195",
+   "source": "NSE",
+   "title": "Listing of privately placed securities on the debt market segment of the Exchange",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77132.pdf",
+   "date": "2026-10-27",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77132",
+   "first_seen": "2026-10-27T18:42:29+00:00"
+  },
+  {
+   "id": "963b93b31968",
+   "source": "NSE",
+   "title": "Applicability of Additional Surveillance Measure (ASM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV77134.zip",
+   "date": "2026-10-27",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV77134",
+   "first_seen": "2026-10-27T18:42:29+00:00"
+  },
+  {
    "id": "7b6c7b12b9b6",
    "source": "NSE",
    "title": "Listing of equity shares of Bondada Engineering Limited pursuant to Migration from SME Platform of BSE to Capital Market Segment (Main Board) of National Stock Exchange of India Limited",
@@ -204,6 +314,72 @@
    "category": "Listing",
    "ref": "CML77119",
    "first_seen": "2026-10-27T09:49:17+00:00"
+  },
+  {
+   "id": "512f49c92551",
+   "source": "SEBI",
+   "title": "Adjudication Order in the matter of Taurian MPS Ltd.",
+   "url": "https://www.sebi.gov.in/enforcement/orders/oct-2026/adjudication-order-in-the-matter-of-taurian-mps-ltd-_105452.html",
+   "date": "2026-10-27",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-10-27T18:42:29+00:00"
+  },
+  {
+   "id": "3b32c27b8bc0",
+   "source": "NSE",
+   "title": "Listing of units issued by ICICI Prudential Asset Management Company Limited (ICICI Prudential Nifty Pharma ETF)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77128.pdf",
+   "date": "2026-10-27",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77128",
+   "first_seen": "2026-10-27T18:42:29+00:00"
+  },
+  {
+   "id": "3aafb36284a3",
+   "source": "NSE",
+   "title": "Change in name and symbol of A B Cotspin India Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77131.pdf",
+   "date": "2026-10-27",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77131",
+   "first_seen": "2026-10-27T18:42:29+00:00"
+  },
+  {
+   "id": "37a32162d009",
+   "source": "NSE",
+   "title": "Listing of further issues of securities",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77137.pdf",
+   "date": "2026-10-27",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77137",
+   "first_seen": "2026-10-27T18:42:29+00:00"
+  },
+  {
+   "id": "2568f7158d7d",
+   "source": "NSE",
+   "title": "Introduction of Futures and Options Contracts on Six Individual Securities",
+   "url": "https://nsearchives.nseindia.com/content/circulars/FAOP77133.zip",
+   "date": "2026-10-27",
+   "time": null,
+   "category": "Futures & Options",
+   "ref": "FAOP77133",
+   "first_seen": "2026-10-27T18:42:29+00:00"
+  },
+  {
+   "id": "245649f3fd4a",
+   "source": "NSE",
+   "title": "Applicability of Enhanced Surveillance Measure (ESM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV77129.zip",
+   "date": "2026-10-27",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV77129",
+   "first_seen": "2026-10-27T18:42:29+00:00"
   },
   {
    "id": "5b9886d2185c",
