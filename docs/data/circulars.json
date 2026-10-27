@@ -1,34 +1,210 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-10-26T19:20:44+00:00",
+ "generated_at": "2026-10-27T09:49:17+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-10-26T19:20:44+00:00",
+   "last_success": "2026-10-27T09:49:17+00:00",
    "last_count": 30,
-   "last_new": 4,
+   "last_new": 0,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-10-26T19:20:44+00:00",
-   "last_count": 18,
-   "last_new": 17,
+   "last_success": "2026-10-27T09:49:17+00:00",
+   "last_count": 4,
+   "last_new": 4,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-10-26T19:20:44+00:00",
-   "last_count": 42,
-   "last_new": 29,
+   "last_success": "2026-10-27T09:49:17+00:00",
+   "last_count": 12,
+   "last_new": 12,
    "error": null
   }
  },
- "count": 3000,
+ "count": 3016,
  "items": [
+  {
+   "id": "e35fcd7b313c",
+   "source": "BSE",
+   "title": "Suspension of Trading in T-bills/Government Securities",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261027-12/20261027-12.pdf",
+   "date": "2026-10-27",
+   "time": "15:11",
+   "category": "Trading",
+   "ref": "20261027-12",
+   "first_seen": "2026-10-27T09:49:17+00:00"
+  },
+  {
+   "id": "4213d196ecd0",
+   "source": "BSE",
+   "title": "Listing of Units of ICICI Prudential Nifty Pharma ETF a scheme under ICICI Prudential Mutual Fund",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261027-10/20261027-10.pdf",
+   "date": "2026-10-27",
+   "time": "15:05",
+   "category": "Listing",
+   "ref": "20261027-10",
+   "first_seen": "2026-10-27T09:49:17+00:00"
+  },
+  {
+   "id": "39ffdcea08c5",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Paras Healthcare Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261027-11/20261027-11.pdf",
+   "date": "2026-10-27",
+   "time": "15:05",
+   "category": "Listing",
+   "ref": "20261027-11",
+   "first_seen": "2026-10-27T09:49:17+00:00"
+  },
+  {
+   "id": "a1ad5212fa4c",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Jio Platforms Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261027-9/20261027-9.pdf",
+   "date": "2026-10-27",
+   "time": "14:23",
+   "category": "Listing",
+   "ref": "20261027-9",
+   "first_seen": "2026-10-27T09:49:17+00:00"
+  },
+  {
+   "id": "f32ae30f55bd",
+   "source": "BSE",
+   "title": "Half-Yearly Submission of details of Associate/Subsidiary Entities",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261027-8/20261027-8.pdf",
+   "date": "2026-10-27",
+   "time": "13:53",
+   "category": "Notice",
+   "ref": "20261027-8",
+   "first_seen": "2026-10-27T09:49:17+00:00"
+  },
+  {
+   "id": "a15aae5c2db5",
+   "source": "BSE",
+   "title": "Demat Auction 742",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261027-7/20261027-7.pdf",
+   "date": "2026-10-27",
+   "time": "12:56",
+   "category": "Clearing & Settlement",
+   "ref": "20261027-7",
+   "first_seen": "2026-10-27T09:49:17+00:00"
+  },
+  {
+   "id": "dbfc0d4b2f19",
+   "source": "BSE",
+   "title": "Update Regarding debt securities of Green Gold Animation Private Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261027-6/20261027-6.pdf",
+   "date": "2026-10-27",
+   "time": "12:36",
+   "category": "Debt",
+   "ref": "20261027-6",
+   "first_seen": "2026-10-27T09:49:17+00:00"
+  },
+  {
+   "id": "4038847bcfa2",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Jio Platforms Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261027-5/20261027-5.pdf",
+   "date": "2026-10-27",
+   "time": "12:04",
+   "category": "Listing",
+   "ref": "20261027-5",
+   "first_seen": "2026-10-27T09:49:17+00:00"
+  },
+  {
+   "id": "525cf7a20327",
+   "source": "BSE",
+   "title": "Submission of Half Yearly Internal Audit Report by Clearing Members",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261027-4/20261027-4.pdf",
+   "date": "2026-10-27",
+   "time": "11:48",
+   "category": "Membership",
+   "ref": "20261027-4",
+   "first_seen": "2026-10-27T09:49:17+00:00"
+  },
+  {
+   "id": "4e9f7edc4ee9",
+   "source": "BSE",
+   "title": "Opening Of Offer to Buy – Acquisition Window (Takeover) for KUBER UDYOG LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261027-3/20261027-3.pdf",
+   "date": "2026-10-27",
+   "time": "11:40",
+   "category": "Notice",
+   "ref": "20261027-3",
+   "first_seen": "2026-10-27T09:49:17+00:00"
+  },
+  {
+   "id": "1081a11428d3",
+   "source": "BSE",
+   "title": "Opening Of Offer to Buy – Acquisition Window (Takeover) for INDIA CEMENTS CAPITAL LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261027-2/20261027-2.pdf",
+   "date": "2026-10-27",
+   "time": "11:39",
+   "category": "Notice",
+   "ref": "20261027-2",
+   "first_seen": "2026-10-27T09:49:17+00:00"
+  },
+  {
+   "id": "4d5a8751e2c6",
+   "source": "BSE",
+   "title": "Non-Competitive Bidding for Auction of GoI dated Securities (G-secs) on October 30, 2026",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261027-1/20261027-1.pdf",
+   "date": "2026-10-27",
+   "time": "10:56",
+   "category": "Clearing & Settlement",
+   "ref": "20261027-1",
+   "first_seen": "2026-10-27T09:49:17+00:00"
+  },
+  {
+   "id": "dcfa35e886f3",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Jio Platforms Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77109.pdf",
+   "date": "2026-10-27",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77109",
+   "first_seen": "2026-10-27T09:49:17+00:00"
+  },
+  {
+   "id": "af6ecca4814c",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Jio Platforms Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77117.zip",
+   "date": "2026-10-27",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77117",
+   "first_seen": "2026-10-27T09:49:17+00:00"
+  },
+  {
+   "id": "9cd02cf9f90a",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Paras Healthcare Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77121.pdf",
+   "date": "2026-10-27",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77121",
+   "first_seen": "2026-10-27T09:49:17+00:00"
+  },
+  {
+   "id": "7b6c7b12b9b6",
+   "source": "NSE",
+   "title": "Listing of equity shares of Bondada Engineering Limited pursuant to Migration from SME Platform of BSE to Capital Market Segment (Main Board) of National Stock Exchange of India Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77119.zip",
+   "date": "2026-10-27",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77119",
+   "first_seen": "2026-10-27T09:49:17+00:00"
+  },
   {
    "id": "5b9886d2185c",
    "source": "BSE",
