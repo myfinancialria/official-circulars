@@ -1,34 +1,122 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-10-27T18:42:29+00:00",
+ "generated_at": "2026-10-28T10:35:27+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-10-27T18:42:29+00:00",
+   "last_success": "2026-10-28T10:35:27+00:00",
    "last_count": 30,
-   "last_new": 2,
+   "last_new": 0,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-10-27T18:42:29+00:00",
-   "last_count": 17,
-   "last_new": 13,
+   "last_success": "2026-10-28T10:35:27+00:00",
+   "last_count": 3,
+   "last_new": 3,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-10-27T18:42:29+00:00",
-   "last_count": 1,
-   "last_new": 1,
+   "last_success": "2026-10-28T10:35:27+00:00",
+   "last_count": 9,
+   "last_new": 8,
    "error": null
   }
  },
- "count": 3032,
+ "count": 3043,
  "items": [
+  {
+   "id": "8cdb3b8c33f9",
+   "source": "BSE",
+   "title": "Migration of Equity Shares of Bondada Engineering Limited from BSE SME Platform to BSE Mainboard Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261028-9/20261028-9.pdf",
+   "date": "2026-10-28",
+   "time": "15:21",
+   "category": "Notice",
+   "ref": "20261028-9",
+   "first_seen": "2026-10-28T10:35:27+00:00"
+  },
+  {
+   "id": "80fdb001eed0",
+   "source": "BSE",
+   "title": "Listing of Zero Coupon Zero Principal instrument (“ZCZP”) of Lighthouse Communities Foundation.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261028-8/20261028-8.pdf",
+   "date": "2026-10-28",
+   "time": "14:10",
+   "category": "Listing",
+   "ref": "20261028-8",
+   "first_seen": "2026-10-28T10:35:27+00:00"
+  },
+  {
+   "id": "e1afa06d92fe",
+   "source": "BSE",
+   "title": "Rights Issue of Equity Shares of VEER GLOBAL INFRACONSTRUCTION LIMITED (Scrip Code- 543241)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261028-7/20261028-7.pdf",
+   "date": "2026-10-28",
+   "time": "14:01",
+   "category": "Listing",
+   "ref": "20261028-7",
+   "first_seen": "2026-10-28T10:35:27+00:00"
+  },
+  {
+   "id": "978025757e6e",
+   "source": "BSE",
+   "title": "Tender Offer (Buyback) of Equity Shares Genus Power Infrastructures Ltd",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261028-6/20261028-6.pdf",
+   "date": "2026-10-28",
+   "time": "13:56",
+   "category": "Corporate Action",
+   "ref": "20261028-6",
+   "first_seen": "2026-10-28T10:35:27+00:00"
+  },
+  {
+   "id": "8b09684edfc6",
+   "source": "BSE",
+   "title": "Change in Name of Company - Virat Industries Ltd",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261028-5/20261028-5.pdf",
+   "date": "2026-10-28",
+   "time": "13:52",
+   "category": "Notice",
+   "ref": "20261028-5",
+   "first_seen": "2026-10-28T10:35:27+00:00"
+  },
+  {
+   "id": "81cd35cb04c7",
+   "source": "BSE",
+   "title": "Rights Issue of Equity Shares of FRESITA PROTEINS LIMITED (Scrip Code-519242)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261028-4/20261028-4.pdf",
+   "date": "2026-10-28",
+   "time": "13:50",
+   "category": "Listing",
+   "ref": "20261028-4",
+   "first_seen": "2026-10-28T10:35:27+00:00"
+  },
+  {
+   "id": "8aaa08b50808",
+   "source": "BSE",
+   "title": "Demat Auction 743",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261028-3/20261028-3.pdf",
+   "date": "2026-10-28",
+   "time": "13:40",
+   "category": "Clearing & Settlement",
+   "ref": "20261028-3",
+   "first_seen": "2026-10-28T10:35:27+00:00"
+  },
+  {
+   "id": "7c5b9b9233b0",
+   "source": "BSE",
+   "title": "Extension for submission of Annual Returns for Financial Year 2025-26",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261028-2/20261028-2.pdf",
+   "date": "2026-10-28",
+   "time": "12:21",
+   "category": "Notice",
+   "ref": "20261028-2",
+   "first_seen": "2026-10-28T10:35:27+00:00"
+  },
   {
    "id": "2d8fc49048ff",
    "source": "BSE",
@@ -39,6 +127,39 @@
    "category": "Derivatives",
    "ref": "20261028-1",
    "first_seen": "2026-10-27T18:42:29+00:00"
+  },
+  {
+   "id": "d006a00ddde5",
+   "source": "NSE",
+   "title": "Extension for submission of Annual Returns for Financial Year 2025-2026",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPL77125.zip",
+   "date": "2026-10-28",
+   "time": null,
+   "category": "CMPL",
+   "ref": "CMPL77125",
+   "first_seen": "2026-10-28T10:35:27+00:00"
+  },
+  {
+   "id": "c62a5838e1fb",
+   "source": "NSE",
+   "title": "Common violations/deficiencies observed by the Exchange during the inspections of Trading Members and Authorised Persons",
+   "url": "https://nsearchives.nseindia.com/content/circulars/INSP77149.pdf",
+   "date": "2026-10-28",
+   "time": null,
+   "category": "Inspection",
+   "ref": "INSP77149",
+   "first_seen": "2026-10-28T10:35:27+00:00"
+  },
+  {
+   "id": "394f062de558",
+   "source": "NSE",
+   "title": "Delisting Offer under Tender Offer scheme by Jindal Photo Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77148.pdf",
+   "date": "2026-10-28",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77148",
+   "first_seen": "2026-10-28T10:35:27+00:00"
   },
   {
    "id": "e35fcd7b313c",
