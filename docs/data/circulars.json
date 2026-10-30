@@ -1,34 +1,232 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-10-29T18:58:03+00:00",
+ "generated_at": "2026-10-30T10:52:12+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-10-29T18:58:03+00:00",
+   "last_success": "2026-10-30T10:52:12+00:00",
    "last_count": 30,
-   "last_new": 4,
+   "last_new": 0,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-10-29T18:58:03+00:00",
-   "last_count": 16,
-   "last_new": 15,
+   "last_success": "2026-10-30T10:52:12+00:00",
+   "last_count": 2,
+   "last_new": 2,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-10-29T18:58:03+00:00",
-   "last_count": 43,
-   "last_new": 34,
+   "last_success": "2026-10-30T10:52:12+00:00",
+   "last_count": 16,
+   "last_new": 16,
    "error": null
   }
  },
- "count": 3167,
+ "count": 3185,
  "items": [
+  {
+   "id": "e028671bfd62",
+   "source": "BSE",
+   "title": "Client margin reporting schedule for November 2026 Equity Derivatives Segment",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261030-16/20261030-16.pdf",
+   "date": "2026-10-30",
+   "time": "15:41",
+   "category": "Derivatives",
+   "ref": "20261030-16",
+   "first_seen": "2026-10-30T10:52:12+00:00"
+  },
+  {
+   "id": "d9f1fb78c5b6",
+   "source": "BSE",
+   "title": "Client margin reporting schedule for November 2026 Currency Derivatives Segment",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261030-15/20261030-15.pdf",
+   "date": "2026-10-30",
+   "time": "15:41",
+   "category": "Derivatives",
+   "ref": "20261030-15",
+   "first_seen": "2026-10-30T10:52:12+00:00"
+  },
+  {
+   "id": "d531f9bb9213",
+   "source": "BSE",
+   "title": "Client margin reporting schedule for November 2026 Electronic Gold Receipts Segment",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261030-13/20261030-13.pdf",
+   "date": "2026-10-30",
+   "time": "15:41",
+   "category": "Clearing & Settlement",
+   "ref": "20261030-13",
+   "first_seen": "2026-10-30T10:52:12+00:00"
+  },
+  {
+   "id": "24bbf4b6ba6c",
+   "source": "BSE",
+   "title": "Client margin reporting schedule for November 2026 for Commodity Derivatives Segment",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261030-14/20261030-14.pdf",
+   "date": "2026-10-30",
+   "time": "15:41",
+   "category": "Derivatives",
+   "ref": "20261030-14",
+   "first_seen": "2026-10-30T10:52:12+00:00"
+  },
+  {
+   "id": "20c765bb9117",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of EAAA India Alternatives Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261030-12/20261030-12.pdf",
+   "date": "2026-10-30",
+   "time": "14:27",
+   "category": "Listing",
+   "ref": "20261030-12",
+   "first_seen": "2026-10-30T10:52:12+00:00"
+  },
+  {
+   "id": "0b3d33ffb5a2",
+   "source": "BSE",
+   "title": "Demat Auction 745",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261030-11/20261030-11.pdf",
+   "date": "2026-10-30",
+   "time": "13:14",
+   "category": "Clearing & Settlement",
+   "ref": "20261030-11",
+   "first_seen": "2026-10-30T10:52:12+00:00"
+  },
+  {
+   "id": "c41676b9e8c5",
+   "source": "BSE",
+   "title": "Offer to Buy – Acquisition Window (Delisting) for JINDAL PHOTO LIMITED – Live Activities Schedule",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261030-10/20261030-10.pdf",
+   "date": "2026-10-30",
+   "time": "12:36",
+   "category": "Listing",
+   "ref": "20261030-10",
+   "first_seen": "2026-10-30T10:52:12+00:00"
+  },
+  {
+   "id": "cd8a2b1fa3c9",
+   "source": "BSE",
+   "title": "Mock Trading on Saturday, October 31, 2026, for Electronic Gold Receipts segment",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261030-9/20261030-9.pdf",
+   "date": "2026-10-30",
+   "time": "12:14",
+   "category": "Trading",
+   "ref": "20261030-9",
+   "first_seen": "2026-10-30T10:52:12+00:00"
+  },
+  {
+   "id": "b39d394968c4",
+   "source": "BSE",
+   "title": "Mock Trading on Saturday, October 31, 2026, for Equity segment",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261030-5/20261030-5.pdf",
+   "date": "2026-10-30",
+   "time": "12:14",
+   "category": "Trading",
+   "ref": "20261030-5",
+   "first_seen": "2026-10-30T10:52:12+00:00"
+  },
+  {
+   "id": "ae48ac65d729",
+   "source": "BSE",
+   "title": "Mock Trading on Saturday, October 31, 2026, for Currency Derivatives segment",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261030-7/20261030-7.pdf",
+   "date": "2026-10-30",
+   "time": "12:14",
+   "category": "Derivatives",
+   "ref": "20261030-7",
+   "first_seen": "2026-10-30T10:52:12+00:00"
+  },
+  {
+   "id": "4ded0632f5cb",
+   "source": "BSE",
+   "title": "Mock Trading on Saturday, October 31, 2026, for Equity Derivatives segment",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261030-6/20261030-6.pdf",
+   "date": "2026-10-30",
+   "time": "12:14",
+   "category": "Derivatives",
+   "ref": "20261030-6",
+   "first_seen": "2026-10-30T10:52:12+00:00"
+  },
+  {
+   "id": "210130a31040",
+   "source": "BSE",
+   "title": "Mock Trading on Saturday, October 31, 2026, for Commodity Derivatives segment",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261030-8/20261030-8.pdf",
+   "date": "2026-10-30",
+   "time": "12:14",
+   "category": "Derivatives",
+   "ref": "20261030-8",
+   "first_seen": "2026-10-30T10:52:12+00:00"
+  },
+  {
+   "id": "005bf296c59c",
+   "source": "BSE",
+   "title": "Visit of Registrar & Transfer Agents at BSE Ltd. for November 2026",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261030-4/20261030-4.pdf",
+   "date": "2026-10-30",
+   "time": "11:48",
+   "category": "Notice",
+   "ref": "20261030-4",
+   "first_seen": "2026-10-30T10:52:12+00:00"
+  },
+  {
+   "id": "917283721e62",
+   "source": "BSE",
+   "title": "Non-Business Day for certain schemes of Mutual Fund on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261030-3/20261030-3.pdf",
+   "date": "2026-10-30",
+   "time": "11:26",
+   "category": "Mutual Funds",
+   "ref": "20261030-3",
+   "first_seen": "2026-10-30T10:52:12+00:00"
+  },
+  {
+   "id": "eebfaf1c7aac",
+   "source": "BSE",
+   "title": "Implementation of Section 51A of UAPA, 1967: Updates to UNSC’s 1267/ 1989 ISIL (Da'esh) & Al-Qaida Sanctions List: Removal of 03 Entries and Amendment of 03 Entries",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261030-2/20261030-2.pdf",
+   "date": "2026-10-30",
+   "time": "11:08",
+   "category": "Notice",
+   "ref": "20261030-2",
+   "first_seen": "2026-10-30T10:52:12+00:00"
+  },
+  {
+   "id": "63029d1ece1c",
+   "source": "BSE",
+   "title": "Payment of SEBI Turnover Fees across segments including applicable GST.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261030-1/20261030-1.pdf",
+   "date": "2026-10-30",
+   "time": "10:34",
+   "category": "Notice",
+   "ref": "20261030-1",
+   "first_seen": "2026-10-30T10:52:12+00:00"
+  },
+  {
+   "id": "b05413f35287",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of EAAA India Alternatives Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77179.pdf",
+   "date": "2026-10-30",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77179",
+   "first_seen": "2026-10-30T10:52:12+00:00"
+  },
+  {
+   "id": "309959f66ee1",
+   "source": "NSE",
+   "title": "Listing of privately placed securities on the debt market segment of the Exchange",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77181.pdf",
+   "date": "2026-10-30",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77181",
+   "first_seen": "2026-10-30T10:52:12+00:00"
+  },
   {
    "id": "13416ec615d3",
    "source": "BSE",
