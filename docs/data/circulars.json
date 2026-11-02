@@ -1,34 +1,331 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-11-02T12:25:51+00:00",
+ "generated_at": "2026-11-02T22:19:59+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-11-02T12:25:51+00:00",
+   "last_success": "2026-11-02T22:19:59+00:00",
    "last_count": 30,
-   "last_new": 0,
+   "last_new": 19,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-11-02T12:25:51+00:00",
-   "last_count": 10,
-   "last_new": 10,
+   "last_success": "2026-11-02T22:19:59+00:00",
+   "last_count": 28,
+   "last_new": 18,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-11-02T12:25:51+00:00",
-   "last_count": 23,
-   "last_new": 23,
+   "last_success": "2026-11-02T22:19:59+00:00",
+   "last_count": 50,
+   "last_new": 27,
    "error": null
   }
  },
- "count": 3318,
+ "count": 3382,
  "items": [
+  {
+   "id": "965f8aa747e5",
+   "source": "BSE",
+   "title": "Daily Bulletin",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261102-50/20261102-50.pdf",
+   "date": "2026-11-02",
+   "time": "23:40",
+   "category": "Notice",
+   "ref": "20261102-50",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "6d349ceb4442",
+   "source": "BSE",
+   "title": "New ISIN Number on Stock Split of Gujarat Natural Resources Ltd (Scrip Code:513536)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261102-49/20261102-49.pdf",
+   "date": "2026-11-02",
+   "time": "23:39",
+   "category": "Corporate Action",
+   "ref": "20261102-49",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "8e959a90d630",
+   "source": "BSE",
+   "title": "Consolidation of Equity Shares of OTCO International Ltd (Scrip Code 523151).",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261102-48/20261102-48.pdf",
+   "date": "2026-11-02",
+   "time": "23:37",
+   "category": "Notice",
+   "ref": "20261102-48",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "d831fabd0485",
+   "source": "BSE",
+   "title": "Suspension of Trading in Commercial Paper of Paisalo Digital Ltd (Scrip Code: 731624)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261102-47/20261102-47.pdf",
+   "date": "2026-11-02",
+   "time": "23:36",
+   "category": "Debt",
+   "ref": "20261102-47",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "e39e72d367f5",
+   "source": "BSE",
+   "title": "Opening of Offer for Sale for SRI LOTUS DEVELOPERS AND REALTY LTD Live Activities Schedule",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261102-46/20261102-46.pdf",
+   "date": "2026-11-02",
+   "time": "22:55",
+   "category": "Notice",
+   "ref": "20261102-46",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "75877c38a050",
+   "source": "BSE",
+   "title": "Offer to Buy – Acquisition Window (Buyback) for AUTOMOBILE CORPORATION OF GOA LTD – Live Activities Schedule",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261102-45/20261102-45.pdf",
+   "date": "2026-11-02",
+   "time": "22:28",
+   "category": "Corporate Action",
+   "ref": "20261102-45",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "d6c43609f37c",
+   "source": "BSE",
+   "title": "Listing of equity shares of Ennature Bio Pharma Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261102-43/20261102-43.pdf",
+   "date": "2026-11-02",
+   "time": "21:08",
+   "category": "Listing",
+   "ref": "20261102-43",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "d618b97ee078",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Melstar Information Technologies Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261102-42/20261102-42.pdf",
+   "date": "2026-11-02",
+   "time": "21:08",
+   "category": "Listing",
+   "ref": "20261102-42",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "825e2ebcf6ed",
+   "source": "BSE",
+   "title": "Listing of equity shares of IGL Spirits Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261102-44/20261102-44.pdf",
+   "date": "2026-11-02",
+   "time": "21:08",
+   "category": "Listing",
+   "ref": "20261102-44",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "199bb8e07b68",
+   "source": "BSE",
+   "title": "Release of BOLT Pro TWS Version 13.75",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261102-41/20261102-41.pdf",
+   "date": "2026-11-02",
+   "time": "19:45",
+   "category": "Notice",
+   "ref": "20261102-41",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "2c6e180f5817",
+   "source": "BSE",
+   "title": "Introduction of All Day SIP in Certain Schemes of Tata Mutual Fund on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261102-40/20261102-40.pdf",
+   "date": "2026-11-02",
+   "time": "19:41",
+   "category": "Mutual Funds",
+   "ref": "20261102-40",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "f678a0b4b897",
+   "source": "BSE",
+   "title": "Enhanced Surveillance Measure (ESM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261102-39/20261102-39.pdf",
+   "date": "2026-11-02",
+   "time": "19:38",
+   "category": "Surveillance",
+   "ref": "20261102-39",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "de00e999e97d",
+   "source": "BSE",
+   "title": "Applicability of Long Term Additional Surveillance Measure (LT-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261102-38/20261102-38.pdf",
+   "date": "2026-11-02",
+   "time": "19:38",
+   "category": "Surveillance",
+   "ref": "20261102-38",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "dd32cbdfcc45",
+   "source": "BSE",
+   "title": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261102-35/20261102-35.pdf",
+   "date": "2026-11-02",
+   "time": "19:38",
+   "category": "Surveillance",
+   "ref": "20261102-35",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "5c632e3cbbb9",
+   "source": "BSE",
+   "title": "Graded Surveillance Measure (GSM) - List of securities moving into their respective GSM Stages",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261102-33/20261102-33.pdf",
+   "date": "2026-11-02",
+   "time": "19:38",
+   "category": "Surveillance",
+   "ref": "20261102-33",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "4f4b6e6aaacf",
+   "source": "BSE",
+   "title": "Add-on Price Band Framework - Updated List",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261102-36/20261102-36.pdf",
+   "date": "2026-11-02",
+   "time": "19:38",
+   "category": "Surveillance",
+   "ref": "20261102-36",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "2b468a4bdf9c",
+   "source": "BSE",
+   "title": "CHANGES IN PRICE BAND",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261102-34/20261102-34.pdf",
+   "date": "2026-11-02",
+   "time": "19:38",
+   "category": "Surveillance",
+   "ref": "20261102-34",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "149c958fdde1",
+   "source": "BSE",
+   "title": "REVISION OF SCRIPS IN TRADE-TO-TRADE SEGMENT",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261102-37/20261102-37.pdf",
+   "date": "2026-11-02",
+   "time": "19:38",
+   "category": "Trading",
+   "ref": "20261102-37",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "8960e924bf7d",
+   "source": "BSE",
+   "title": "Non-Business Day for Certain Schemes of NIPPON INDIA Mutual Fund",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261102-32/20261102-32.pdf",
+   "date": "2026-11-02",
+   "time": "19:27",
+   "category": "Mutual Funds",
+   "ref": "20261102-32",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "ba3b3b7a3f04",
+   "source": "BSE",
+   "title": "Change to the Minimum Investment Amount and Minimum Number of Installments under the Systematic Investment Plan (SIP) Facility for Certain Schemes of HDFC MUTUAL FUND",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261102-31/20261102-31.pdf",
+   "date": "2026-11-02",
+   "time": "19:26",
+   "category": "Mutual Funds",
+   "ref": "20261102-31",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "7835dd71ae81",
+   "source": "BSE",
+   "title": "Opening of Offer to Buy – Acquisition Window (Buyback) For GENUS POWER INFRASTRUCTURES LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261102-30/20261102-30.pdf",
+   "date": "2026-11-02",
+   "time": "19:16",
+   "category": "Corporate Action",
+   "ref": "20261102-30",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "045c3f2c98cb",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of WISCON INDUSTRIES LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261102-29/20261102-29.pdf",
+   "date": "2026-11-02",
+   "time": "19:07",
+   "category": "Listing",
+   "ref": "20261102-29",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "9c3fab100fa4",
+   "source": "BSE",
+   "title": "Settlement Schedule Offer to Buy – Acquisition Window (Buyback) for AUTOMOBILE CORPORATION OF GOA LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261102-28/20261102-28.pdf",
+   "date": "2026-11-02",
+   "time": "19:02",
+   "category": "Corporate Action",
+   "ref": "20261102-28",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "ec84871d45ce",
+   "source": "BSE",
+   "title": "Buyback of the Shares of DCW LIMITED from Open Market through Stock Exchange",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261102-27/20261102-27.pdf",
+   "date": "2026-11-02",
+   "time": "19:01",
+   "category": "Corporate Action",
+   "ref": "20261102-27",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "8376ee081b36",
+   "source": "BSE",
+   "title": "Clarification Received from the Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261102-26/20261102-26.pdf",
+   "date": "2026-11-02",
+   "time": "18:59",
+   "category": "Notice",
+   "ref": "20261102-26",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "b5cc3dc5588c",
+   "source": "BSE",
+   "title": "Clarification Received from the Companies on News Articles",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261102-25/20261102-25.pdf",
+   "date": "2026-11-02",
+   "time": "18:50",
+   "category": "Notice",
+   "ref": "20261102-25",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "7b3fd7235215",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of BLS Polymers Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261102-24/20261102-24.pdf",
+   "date": "2026-11-02",
+   "time": "18:01",
+   "category": "Listing",
+   "ref": "20261102-24",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
   {
    "id": "aa7f45266ee9",
    "source": "BSE",
@@ -283,6 +580,28 @@
    "first_seen": "2026-11-02T12:25:51+00:00"
   },
   {
+   "id": "ffc82e9c0368",
+   "source": "SEBI",
+   "title": "Framework for Issuance of Depository Receipts on Units of REITs​",
+   "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/framework-for-issuance-of-depository-receipts-on-units-of-reits-_105558.html",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Circular",
+   "ref": null,
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "e4d5c21a9b10",
+   "source": "SEBI",
+   "title": "Appeal No. 7131 of 2026 filed by Ramapati Kuar",
+   "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7131-of-2026-filed-by-ramapati-kuar_105556.html",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
    "id": "e425039dd9b9",
    "source": "NSE",
    "title": "Listing of units issued by Mirae Asset Investment Managers (India) Private Limited (Mirae Asset Fixed Maturity Plan - Series VI - 3 to 6 Months)",
@@ -292,6 +611,28 @@
    "category": "Listing",
    "ref": "CML77235",
    "first_seen": "2026-11-02T12:25:51+00:00"
+  },
+  {
+   "id": "e3b4a5ee78a5",
+   "source": "SEBI",
+   "title": "Appeal No. 7125 of 2026 filed by Kamal Naini Sharma",
+   "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7125-of-2026-filed-by-kamal-naini-sharma_105545.html",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "e2239c44e86e",
+   "source": "SEBI",
+   "title": "Framework for Issuance of Depository Receipts on Units of InvITs​",
+   "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/framework-for-issuance-of-depository-receipts-on-units-of-invits-_105557.html",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Circular",
+   "ref": null,
+   "first_seen": "2026-11-02T22:19:59+00:00"
   },
   {
    "id": "da3ebb3ba6f5",
@@ -305,6 +646,50 @@
    "first_seen": "2026-11-02T12:25:51+00:00"
   },
   {
+   "id": "d96484e7dae1",
+   "source": "NSE",
+   "title": "Algo Provider Empanelment for Providing Algorithmic Trading Solutions",
+   "url": "https://nsearchives.nseindia.com/content/circulars/INVG77241.pdf",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Investigation",
+   "ref": "INVG77241",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "c43b1092a313",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of IGL Spirits Limited pursuant to the Scheme of Arrangement",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77246.zip",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77246",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "c189e0b62950",
+   "source": "SEBI",
+   "title": "Appeal No. 7129 of 2026 filed by Nikul Prajapati",
+   "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7129-of-2026-filed-by-nikul-prajapati_105552.html",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "b382fdd387a3",
+   "source": "SEBI",
+   "title": "Appeal No. 7130 of 2026 filed by Mohammad Akbar",
+   "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7130-of-2026-filed-by-mohammad-akbar_105554.html",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
    "id": "adc55c2b320d",
    "source": "NSE",
    "title": "Due Date Rates (DDR) - Monthly Electricity Futures in Commodity Derivatives Segment",
@@ -314,6 +699,28 @@
    "category": "Commodity Derivatives",
    "ref": "COM77228",
    "first_seen": "2026-11-02T12:25:51+00:00"
+  },
+  {
+   "id": "abf2c4425e99",
+   "source": "SEBI",
+   "title": "Notice of Demand dated November 02, 2026 issued under RC No. 9315 of 2026 drawn against Jalaj Agarwal (PAN: AUDPA0226H) in the matter of stock recommendation tips in the scrip of Unison Metals Limited",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-november-02-2026-issued-under-rc-no-9315-of-2026-drawn-against-jalaj-agarwal-pan-audpa0226h-in-the-matter-of-stock-recommendation-tips-in-the-scrip-of-unison-metals-limite-_105548.html",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "a89bc9a1650b",
+   "source": "SEBI",
+   "title": "Appeal No. 7122 of 2026 filed by Amit Vilas Jadhav",
+   "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7122-of-2026-filed-by-amit-vilas-jadhav_105542.html",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-11-02T22:19:59+00:00"
   },
   {
    "id": "a6bd88003054",
@@ -327,6 +734,39 @@
    "first_seen": "2026-11-02T12:25:51+00:00"
   },
   {
+   "id": "9d96f22497f3",
+   "source": "NSE",
+   "title": "Listing of further issues of securities",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77245.pdf",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77245",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "94d86cb4fe06",
+   "source": "SEBI",
+   "title": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 9226 of 2026 against Jigar Bhailalbhai Khalash (PAN: ESZPK4415E) in the matter of Trading activity in the scrip of ANI Integrated Services Limited.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-9226-of-2026-against-jigar-bhailalbhai-khalash-pan-eszpk4415e-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-_105560.html",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "946a9bafb365",
+   "source": "NSE",
+   "title": "Adjustment of Futures and Options contracts in the security COAL INDIA LIMITED (COALINDIA)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT77230.pdf",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT77230",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
    "id": "8bc3926db55f",
    "source": "NSE",
    "title": "Listing of privately placed securities on capital market segment",
@@ -336,6 +776,39 @@
    "category": "Listing",
    "ref": "CML77234",
    "first_seen": "2026-11-02T12:25:51+00:00"
+  },
+  {
+   "id": "88f3429dd8f1",
+   "source": "SEBI",
+   "title": "Appeal No. 7126 of 2026 filed by Suriyanarayanan Ramachandran",
+   "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7126-of-2026-filed-by-suriyanarayanan-ramachandran_105546.html",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "88e6c93f7895",
+   "source": "NSE",
+   "title": "Change in ISIN - Knowledge Marine & Engineering Works Limited (KMEW)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77236.pdf",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77236",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "844fea80b5ac",
+   "source": "SEBI",
+   "title": "Appeal No. 7121 of 2026 filed by Kshipra Sawant",
+   "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7121-of-2026-filed-by-kshipra-sawant_105541.html",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-11-02T22:19:59+00:00"
   },
   {
    "id": "7f7f3a290840",
@@ -349,6 +822,116 @@
    "first_seen": "2026-11-02T12:25:51+00:00"
   },
   {
+   "id": "7c5e4e53c331",
+   "source": "NSE",
+   "title": "Trading of Rights Entitlements pursuant to Rights Issue of Urban Enviro Waste Management Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77243.pdf",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77243",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "7798d42dadd7",
+   "source": "NSE",
+   "title": "Applicability of Short-Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV77233.zip",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV77233",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "722b6c4ce97a",
+   "source": "NSE",
+   "title": "Settlement Calendar for Offer for Sale of shares of Sri Lotus Developers and Realty Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT77247.pdf",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT77247",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "6f2afea48d50",
+   "source": "SEBI",
+   "title": "Cooling off period for offer for sale by Private listed InvITs",
+   "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/cooling-off-period-for-offer-for-sale-by-private-listed-invits_105539.html",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Circular",
+   "ref": null,
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "6d6697342c42",
+   "source": "NSE",
+   "title": "Recommencement of trading in Equity Shares of Melstar Information Technologies Limited post capital reduction pursuant to Resolution Plan approved by Hon'ble National Company Law Tribunal vide order dated November 1, 2023, June 25, 2024 and August 9, 2024",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77250.zip",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77250",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "683e9200ba25",
+   "source": "SEBI",
+   "title": "Appeal No. 7127 of 2026 filed by Himanshu Soni",
+   "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7127-of-2026-filed-by-himanshu-soni_105549.html",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "63217448f5ce",
+   "source": "SEBI",
+   "title": "Appeal No. 7128 of 2026 filed by P. Sachithanantham",
+   "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7128-of-2026-filed-by-p-sachithanantham_105550.html",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "624f1c7619b4",
+   "source": "NSE",
+   "title": "Settlement Calendar for Offer for Sale of shares of shreeji shipping Global limited.",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT77249.pdf",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT77249",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "60b37056024a",
+   "source": "SEBI",
+   "title": "Appeal No. 7123 of 2026 filed by Bhupinder Singh",
+   "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7123-of-2026-filed-by-bhupinder-singh_105543.html",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "58eece7d4ce5",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of BLS Polymers Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77238.zip",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77238",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
    "id": "56a896b4cd05",
    "source": "NSE",
    "title": "Suspension of trading in Non- Convertible Securities (Pivately Placed)",
@@ -358,6 +941,17 @@
    "category": "Listing",
    "ref": "CML77229",
    "first_seen": "2026-11-02T12:25:51+00:00"
+  },
+  {
+   "id": "50ba248cadf7",
+   "source": "NSE",
+   "title": "Proposed Offer for Sale of Shreeji Shipping Global Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77242.zip",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77242",
+   "first_seen": "2026-11-02T22:19:59+00:00"
   },
   {
    "id": "501e3c3b5087",
@@ -371,6 +965,17 @@
    "first_seen": "2026-11-02T12:25:51+00:00"
   },
   {
+   "id": "48a3139d109e",
+   "source": "NSE",
+   "title": "Listing & Trading of Equity Shares pursuant to Bonus Issue of Concord Biotech Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77248.pdf",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77248",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
    "id": "32f038b359c3",
    "source": "NSE",
    "title": "Listing of Equity Shares of BLS Polymers Limited (IPO)",
@@ -382,6 +987,50 @@
    "first_seen": "2026-11-02T12:25:51+00:00"
   },
   {
+   "id": "31bb3b62645f",
+   "source": "NSE",
+   "title": "DIVIDEND: Adjustment of Futures and Options contracts in the security INFY",
+   "url": "https://nsearchives.nseindia.com/content/circulars/FAOP77239.pdf",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Futures & Options",
+   "ref": "FAOP77239",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "2465538ae4aa",
+   "source": "NSE",
+   "title": "Revision in formats for registration of Non - Neat Frontend (NNF) software documents and other important updates",
+   "url": "https://nsearchives.nseindia.com/content/circulars/INVG77237.zip",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Investigation",
+   "ref": "INVG77237",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "1adcb83fe6cd",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of SFC Environmental Technologies Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77225.zip",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77225",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "167beca2d844",
+   "source": "NSE",
+   "title": "Proposed Offer for Sale of Sri Lotus Developers and Realty Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77240.zip",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77240",
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
    "id": "1418ff375f58",
    "source": "NSE",
    "title": "Adjustment of Futures and Options contracts in the security INFOSYS LIMITED (INFY)",
@@ -391,6 +1040,50 @@
    "category": "Clearing & Settlement",
    "ref": "CMPT77224",
    "first_seen": "2026-11-02T12:25:51+00:00"
+  },
+  {
+   "id": "0fd80683ce01",
+   "source": "SEBI",
+   "title": "Appeal No. 7124 of 2026 filed by Bhupinder Singh",
+   "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/appeal-no-7124-of-2026-filed-by-bhupinder-singh_105544.html",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "0b31e6e11e34",
+   "source": "SEBI",
+   "title": "Adjudication Order in the matter of Praveg Limited -formerly known as Praveg Communications India Limited",
+   "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-praveg-limited-formerly-known-as-praveg-communications-india-limited_105536.html",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "08f9fbe5da1d",
+   "source": "SEBI",
+   "title": "Completion Order dated November 02, 2026, against Subair P (PAN: BDBPP7195N) in the matter of M/s Inditrade Capital Limited (formerly known as M/s JRG Securities Ltd.) under RC No. 9306 of 2026",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-order-dated-november-02-2026-against-subair-p-pan-bdbpp7195n-in-the-matter-of-m-s-inditrade-capital-limited-formerly-known-as-m-s-jrg-securities-ltd-under-rc-no-9306-of-2026_105534.html",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-02T22:19:59+00:00"
+  },
+  {
+   "id": "04c399724de8",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Ennature Bio Pharma Limited pursuant to the Scheme of Arrangement",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77244.zip",
+   "date": "2026-11-02",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77244",
+   "first_seen": "2026-11-02T22:19:59+00:00"
   },
   {
    "id": "8da98a4d782f",
@@ -1282,6 +1975,17 @@
    "category": "Listing",
    "ref": "CML77213",
    "first_seen": "2026-10-30T18:38:09+00:00"
+  },
+  {
+   "id": "a020104c7445",
+   "source": "SEBI",
+   "title": "Notices of Attachment of Bank and Post Office accounts and Demat Accounts and mutual Fund Folios with AP Nos. 15863 and 15864 of 2026 dated October 30, 2026 against Jalaj Agrawal (PAN: AUDPA0226H) in the matter of market manipulation using social media in the scrip of Moksh Ornaments Limited under RC No. 9304 of 2026",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/oct-2026/notices-of-attachment-of-bank-and-post-office-accounts-and-demat-accounts-and-mutual-fund-folios-with-ap-nos-15863-and-15864-of-2026-dated-october-30-2026-against-jalaj-agrawal-pan-audpa0226h-in-_105538.html",
+   "date": "2026-10-30",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-02T22:19:59+00:00"
   },
   {
    "id": "9f8f15f88b9c",
