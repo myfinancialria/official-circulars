@@ -1,34 +1,254 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-11-03T11:56:12+00:00",
+ "generated_at": "2026-11-03T20:07:21+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-11-03T11:56:12+00:00",
+   "last_success": "2026-11-03T20:07:21+00:00",
    "last_count": 30,
-   "last_new": 1,
+   "last_new": 4,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-11-03T11:56:12+00:00",
-   "last_count": 5,
-   "last_new": 5,
+   "last_success": "2026-11-03T20:07:21+00:00",
+   "last_count": 20,
+   "last_new": 15,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-11-03T11:56:12+00:00",
-   "last_count": 23,
-   "last_new": 23,
+   "last_success": "2026-11-03T20:07:21+00:00",
+   "last_count": 43,
+   "last_new": 20,
    "error": null
   }
  },
- "count": 3411,
+ "count": 3450,
  "items": [
+  {
+   "id": "7b456abcb90b",
+   "source": "BSE",
+   "title": "Daily Bulletin",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261103-43/20261103-43.pdf",
+   "date": "2026-11-03",
+   "time": "23:46",
+   "category": "Notice",
+   "ref": "20261103-43",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "e577c991e362",
+   "source": "BSE",
+   "title": "Tender Offer (Buyback) of Equity Shares of Medi Assist Healthcare Services Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261103-42/20261103-42.pdf",
+   "date": "2026-11-03",
+   "time": "23:44",
+   "category": "Corporate Action",
+   "ref": "20261103-42",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "934a67cdbd31",
+   "source": "BSE",
+   "title": "Part Redemption of Debentures / PTCs of Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261103-41/20261103-41.pdf",
+   "date": "2026-11-03",
+   "time": "23:43",
+   "category": "Debt",
+   "ref": "20261103-41",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "377e67525170",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of M. K. SONS FINE JEWELS LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261103-40/20261103-40.pdf",
+   "date": "2026-11-03",
+   "time": "20:09",
+   "category": "Listing",
+   "ref": "20261103-40",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "89d3634b66b3",
+   "source": "BSE",
+   "title": "Applicability of Long Term Additional Surveillance Measure (LT-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261103-39/20261103-39.pdf",
+   "date": "2026-11-03",
+   "time": "19:46",
+   "category": "Surveillance",
+   "ref": "20261103-39",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "3d53837c5121",
+   "source": "BSE",
+   "title": "CHANGES IN PRICE BAND",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261103-37/20261103-37.pdf",
+   "date": "2026-11-03",
+   "time": "19:46",
+   "category": "Surveillance",
+   "ref": "20261103-37",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "01507acd2db1",
+   "source": "BSE",
+   "title": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261103-38/20261103-38.pdf",
+   "date": "2026-11-03",
+   "time": "19:46",
+   "category": "Surveillance",
+   "ref": "20261103-38",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "af2fd5500e98",
+   "source": "BSE",
+   "title": "Enhanced Surveillance Measure (ESM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261103-35/20261103-35.pdf",
+   "date": "2026-11-03",
+   "time": "19:45",
+   "category": "Surveillance",
+   "ref": "20261103-35",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "62d7eac8aade",
+   "source": "BSE",
+   "title": "Graded Surveillance Measure (GSM) - List of securities moving into their respective GSM Stages",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261103-36/20261103-36.pdf",
+   "date": "2026-11-03",
+   "time": "19:45",
+   "category": "Surveillance",
+   "ref": "20261103-36",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "3db88b86ed9e",
+   "source": "BSE",
+   "title": "Surveillance measure in respect of companies with high promoter pledge",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261103-34/20261103-34.pdf",
+   "date": "2026-11-03",
+   "time": "19:45",
+   "category": "Surveillance",
+   "ref": "20261103-34",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "cee0ddbd9c5f",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Ajwa Projects Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261103-33/20261103-33.pdf",
+   "date": "2026-11-03",
+   "time": "19:14",
+   "category": "Listing",
+   "ref": "20261103-33",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "e30c90dd6926",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of CARVER ROBOWELD LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261103-32/20261103-32.pdf",
+   "date": "2026-11-03",
+   "time": "19:08",
+   "category": "Listing",
+   "ref": "20261103-32",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "9968a1771014",
+   "source": "BSE",
+   "title": "Opening of Offer for Sale for Sri Lotus Developers and Realty Limited (Oversubscription Notice)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261103-31/20261103-31.pdf",
+   "date": "2026-11-03",
+   "time": "18:48",
+   "category": "Notice",
+   "ref": "20261103-31",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "731e4989dff6",
+   "source": "BSE",
+   "title": "Action against the Defaulting Companies for non-payment of Annual Listing Fees (ALF)– Equity Segment",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261103-30/20261103-30.pdf",
+   "date": "2026-11-03",
+   "time": "18:29",
+   "category": "Listing",
+   "ref": "20261103-30",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "58c10b8da3a6",
+   "source": "BSE",
+   "title": "Launch of New Fund Offer with SIP facility of QUANT MUTUAL FUND on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261103-29/20261103-29.pdf",
+   "date": "2026-11-03",
+   "time": "18:23",
+   "category": "Mutual Funds",
+   "ref": "20261103-29",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "ca998c9166dd",
+   "source": "BSE",
+   "title": "Temporary Suspension of Subscriptions in Certain Schemes of INVESCO Mutual Fund on the BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261103-28/20261103-28.pdf",
+   "date": "2026-11-03",
+   "time": "18:22",
+   "category": "Mutual Funds",
+   "ref": "20261103-28",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "00c4ee6e4c01",
+   "source": "BSE",
+   "title": "Clarification Received from the Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261103-27/20261103-27.pdf",
+   "date": "2026-11-03",
+   "time": "18:03",
+   "category": "Notice",
+   "ref": "20261103-27",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "6bc218e34550",
+   "source": "BSE",
+   "title": "Listing of New Securities of Cholamandalam Investment and Finance Company Ltd.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261103-26/20261103-26.pdf",
+   "date": "2026-11-03",
+   "time": "18:01",
+   "category": "Listing",
+   "ref": "20261103-26",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "81bde05c057e",
+   "source": "BSE",
+   "title": "Clarification Received from the Company on News Article",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261103-25/20261103-25.pdf",
+   "date": "2026-11-03",
+   "time": "17:54",
+   "category": "Notice",
+   "ref": "20261103-25",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "a7f420f9018d",
+   "source": "BSE",
+   "title": "Listing of New Securities of Prabha Energy Ltd.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261103-24/20261103-24.pdf",
+   "date": "2026-11-03",
+   "time": "17:30",
+   "category": "Listing",
+   "ref": "20261103-24",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
   {
    "id": "c1fc7e419d14",
    "source": "BSE",
@@ -283,6 +503,61 @@
    "first_seen": "2026-11-03T11:56:12+00:00"
   },
   {
+   "id": "fa40a51ab5ae",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of M. K. Sons Fine Jewels Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77257.zip",
+   "date": "2026-11-03",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77257",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "f7c4be85e46c",
+   "source": "NSE",
+   "title": "Applicability of Surveillance Measure in respect of companies with high 'Encumbrance' as per Reg. 28(3) of SEBI (SAST) Regulation 2011",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV77256.zip",
+   "date": "2026-11-03",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV77256",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "e9c74984900d",
+   "source": "NSE",
+   "title": "Face Value Split and Change in ISIN - Gujarat Natural Resources Limited (GNRL)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77267.pdf",
+   "date": "2026-11-03",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77267",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "dfc898c06b8d",
+   "source": "NSE",
+   "title": "DIVIDEND: Adjustment of Futures and Options contracts in the security COALINDIA",
+   "url": "https://nsearchives.nseindia.com/content/circulars/FAOP77264.pdf",
+   "date": "2026-11-03",
+   "time": null,
+   "category": "Futures & Options",
+   "ref": "FAOP77264",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "df1fc430edef",
+   "source": "SEBI",
+   "title": "Completion of Recovery Certificate No. 9303 of 2026 dated October 13, 2026, issued to Mr. Aviral Saxena (PAN: KVYPS1652D) in the matter of market manipulation using social media in the scrip of Moksh Ornaments Limited.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-no-9303-of-2026-dated-october-13-2026-issued-to-mr-aviral-saxena-pan-kvyps1652d-in-the-matter-of-market-manipulation-using-social-media-in-the-scrip-of-moksh-_105572.html",
+   "date": "2026-11-03",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
    "id": "d99d17d1f663",
    "source": "NSE",
    "title": "Launch of quant Silver ETF FOF NFO on NSE MF Invest Platform",
@@ -292,6 +567,72 @@
    "category": "Mutual Funds",
    "ref": "NMF77252",
    "first_seen": "2026-11-03T11:56:12+00:00"
+  },
+  {
+   "id": "d0984c844c07",
+   "source": "NSE",
+   "title": "Suspension of Trading in Non- Convertible Securities (Privately Placed)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77253.pdf",
+   "date": "2026-11-03",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77253",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "c7880412c662",
+   "source": "SEBI",
+   "title": "Exemption Order in the matter of Emmbi Industries Limited",
+   "url": "https://www.sebi.gov.in/https://www.sebi.gov.in/sebi_data/attachdocs/nov-2026/exemption_order_embil.pdf",
+   "date": "2026-11-03",
+   "time": null,
+   "category": "Update",
+   "ref": null,
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "bc7e698283ee",
+   "source": "NSE",
+   "title": "Listing of privately placed securities on the debt market segment of the Exchange",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77265.pdf",
+   "date": "2026-11-03",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77265",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "b3e809866c58",
+   "source": "NSE",
+   "title": "DIVIDEND: Adjustment of Futures and Options contracts in the security PETRONET",
+   "url": "https://nsearchives.nseindia.com/content/circulars/FAOP77263.pdf",
+   "date": "2026-11-03",
+   "time": null,
+   "category": "Futures & Options",
+   "ref": "FAOP77263",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "a69cabe3e488",
+   "source": "NSE",
+   "title": "Listing of further issues of securities",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77270.pdf",
+   "date": "2026-11-03",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77270",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "9f226ca826b6",
+   "source": "NSE",
+   "title": "Reversal of action initiated against BKM Industries Limited (Symbol-BKMINDST) on account of payment of Annual Listing Fees (\"ALF\") for Financial Year ended 2023-24",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77260.pdf",
+   "date": "2026-11-03",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77260",
+   "first_seen": "2026-11-03T20:07:21+00:00"
   },
   {
    "id": "8eaee5c44c5b",
@@ -305,6 +646,17 @@
    "first_seen": "2026-11-03T11:56:12+00:00"
   },
   {
+   "id": "8b58ae820c12",
+   "source": "NSE",
+   "title": "Applicability of Enhanced Surveillance Measure (ESM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV77268.zip",
+   "date": "2026-11-03",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV77268",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
    "id": "8999d7754b82",
    "source": "NSE",
    "title": "Temporary Suspension of fresh subscription in certain schemes under Invesco Mutual Fund on NSE MF Invest Platform",
@@ -314,6 +666,28 @@
    "category": "Mutual Funds",
    "ref": "NMF77261",
    "first_seen": "2026-11-03T11:56:12+00:00"
+  },
+  {
+   "id": "8238cb62661a",
+   "source": "SEBI",
+   "title": "Adjudication Order in the matter of front running of the trades of Axis Mutual Fund",
+   "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-front-running-of-the-trades-of-axis-mutual-fund_105574.html",
+   "date": "2026-11-03",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "77dfddbb4a1a",
+   "source": "NSE",
+   "title": "Settlement Calendar for Buyback Offer under Tender Offer scheme by Genus Power Infrastructures Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT77266.pdf",
+   "date": "2026-11-03",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT77266",
+   "first_seen": "2026-11-03T20:07:21+00:00"
   },
   {
    "id": "76d02d0bc96e",
@@ -327,6 +701,39 @@
    "first_seen": "2026-11-03T11:56:12+00:00"
   },
   {
+   "id": "72af543d7640",
+   "source": "NSE",
+   "title": "Applicability of Short-Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV77259.zip",
+   "date": "2026-11-03",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV77259",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "6b765e5e76fd",
+   "source": "NSE",
+   "title": "Listing of further issue of Prabha Energy Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77269.pdf",
+   "date": "2026-11-03",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77269",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "62ea000d1aa5",
+   "source": "SEBI",
+   "title": "Memorandum of Understanding between Securities and Exchange Board of India (SEBI) and Digital India BHASHINI Division (DIBD)",
+   "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/memorandum-of-understanding-between-securities-and-exchange-board-of-india-sebi-and-digital-india-bhashini-division-dibd-_105575.html",
+   "date": "2026-11-03",
+   "time": null,
+   "category": "Press Release",
+   "ref": null,
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
    "id": "62ddc53a3577",
    "source": "NSE",
    "title": "Listing of Equity Shares of M. K. Sons Fine Jewels Limited (IPO)",
@@ -336,6 +743,28 @@
    "category": "Listing",
    "ref": "CML77254",
    "first_seen": "2026-11-03T11:56:12+00:00"
+  },
+  {
+   "id": "423dfe7392e4",
+   "source": "NSE",
+   "title": "Applicability of Additional Surveillance Measure (ASM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV77258.zip",
+   "date": "2026-11-03",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV77258",
+   "first_seen": "2026-11-03T20:07:21+00:00"
+  },
+  {
+   "id": "0a12aeab8a8f",
+   "source": "NSE",
+   "title": "SLBS - Settlement Calendar for December 2026",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT77271.pdf",
+   "date": "2026-11-03",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT77271",
+   "first_seen": "2026-11-03T20:07:21+00:00"
   },
   {
    "id": "965f8aa747e5",
