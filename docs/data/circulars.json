@@ -1,34 +1,276 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-11-04T12:09:25+00:00",
+ "generated_at": "2026-11-04T20:26:02+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-11-04T12:09:25+00:00",
+   "last_success": "2026-11-04T20:26:02+00:00",
    "last_count": 30,
-   "last_new": 0,
+   "last_new": 8,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-11-04T12:09:25+00:00",
-   "last_count": 18,
-   "last_new": 18,
+   "last_success": "2026-11-04T20:26:02+00:00",
+   "last_count": 34,
+   "last_new": 16,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-11-04T12:09:25+00:00",
-   "last_count": 19,
-   "last_new": 19,
+   "last_success": "2026-11-04T20:26:02+00:00",
+   "last_count": 41,
+   "last_new": 22,
    "error": null
   }
  },
- "count": 3487,
+ "count": 3533,
  "items": [
+  {
+   "id": "ccf3e07b5df2",
+   "source": "BSE",
+   "title": "Daily Bulletin",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261104-41/20261104-41.pdf",
+   "date": "2026-11-04",
+   "time": "23:52",
+   "category": "Notice",
+   "ref": "20261104-41",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "4123b929aeca",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of BOMBAY COATED AND SPECIAL STEELS LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261104-40/20261104-40.pdf",
+   "date": "2026-11-04",
+   "time": "20:22",
+   "category": "Listing",
+   "ref": "20261104-40",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "8cc71376ab95",
+   "source": "BSE",
+   "title": "Availability of SUMMIT EQUITY LONG-SHORT FUND of MIRAE ASSET MUTUAL FUND for ongoing transactions on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261104-39/20261104-39.pdf",
+   "date": "2026-11-04",
+   "time": "19:50",
+   "category": "Mutual Funds",
+   "ref": "20261104-39",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "c6343da3bc86",
+   "source": "BSE",
+   "title": "Graded Surveillance Measure (GSM) - List of securities moving into their respective GSM Stages",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261104-37/20261104-37.pdf",
+   "date": "2026-11-04",
+   "time": "19:46",
+   "category": "Surveillance",
+   "ref": "20261104-37",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "a7ca21456acf",
+   "source": "BSE",
+   "title": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261104-36/20261104-36.pdf",
+   "date": "2026-11-04",
+   "time": "19:46",
+   "category": "Surveillance",
+   "ref": "20261104-36",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "170c82404017",
+   "source": "BSE",
+   "title": "CHANGES IN PRICE BAND",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261104-38/20261104-38.pdf",
+   "date": "2026-11-04",
+   "time": "19:46",
+   "category": "Surveillance",
+   "ref": "20261104-38",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "9de676f1e358",
+   "source": "BSE",
+   "title": "Applicability of Long Term Additional Surveillance Measure (LT-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261104-34/20261104-34.pdf",
+   "date": "2026-11-04",
+   "time": "19:45",
+   "category": "Surveillance",
+   "ref": "20261104-34",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "8e7063adde4a",
+   "source": "BSE",
+   "title": "Enhanced Surveillance Measure (ESM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261104-35/20261104-35.pdf",
+   "date": "2026-11-04",
+   "time": "19:45",
+   "category": "Surveillance",
+   "ref": "20261104-35",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "7066c6d55c37",
+   "source": "BSE",
+   "title": "Listing of privately placed securities on the debt market segment of the Exchange",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261104-33/20261104-33.pdf",
+   "date": "2026-11-04",
+   "time": "19:12",
+   "category": "Listing",
+   "ref": "20261104-33",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "bb38914c5ee7",
+   "source": "BSE",
+   "title": "Launch of New Fund Offer (NFO) of ADITYA BIRLA SUN LIFE Mutual Fund on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261104-32/20261104-32.pdf",
+   "date": "2026-11-04",
+   "time": "19:05",
+   "category": "Mutual Funds",
+   "ref": "20261104-32",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "c4c55f140013",
+   "source": "BSE",
+   "title": "Listing of New Securities of Nazara Technologies Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261104-31/20261104-31.pdf",
+   "date": "2026-11-04",
+   "time": "18:36",
+   "category": "Listing",
+   "ref": "20261104-31",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "e17580bf22a1",
+   "source": "BSE",
+   "title": "Listing of New Securities of Grasim Industries Ltd.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261104-30/20261104-30.pdf",
+   "date": "2026-11-04",
+   "time": "18:20",
+   "category": "Listing",
+   "ref": "20261104-30",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "ca704a52ee25",
+   "source": "BSE",
+   "title": "Change in Group of Equity Shares of Ennature Bio Pharma Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261104-29/20261104-29.pdf",
+   "date": "2026-11-04",
+   "time": "18:16",
+   "category": "Notice",
+   "ref": "20261104-29",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "bdea65bf44d3",
+   "source": "BSE",
+   "title": "Change in Group of Equity Shares of IGL Spirits Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261104-28/20261104-28.pdf",
+   "date": "2026-11-04",
+   "time": "18:15",
+   "category": "Notice",
+   "ref": "20261104-28",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "4db3774e55e5",
+   "source": "BSE",
+   "title": "Reduction of Equity share Capital of Starlite Components Ltd. (Scrip code:-517548)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261104-27/20261104-27.pdf",
+   "date": "2026-11-04",
+   "time": "18:05",
+   "category": "Notice",
+   "ref": "20261104-27",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "85d9d30e7b9f",
+   "source": "BSE",
+   "title": "Suspension of Trading in Debt Securities of Tyger Capital Private Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261104-26/20261104-26.pdf",
+   "date": "2026-11-04",
+   "time": "17:57",
+   "category": "Debt",
+   "ref": "20261104-26",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "91b838ce8089",
+   "source": "BSE",
+   "title": "Clarification Received from the Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261104-25/20261104-25.pdf",
+   "date": "2026-11-04",
+   "time": "17:56",
+   "category": "Notice",
+   "ref": "20261104-25",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "98c3d0518c85",
+   "source": "BSE",
+   "title": "Part Redemption of Debentures ADANI AIRPORT HOLDINGS LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261104-24/20261104-24.pdf",
+   "date": "2026-11-04",
+   "time": "17:55",
+   "category": "Debt",
+   "ref": "20261104-24",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "90350d1c19bd",
+   "source": "BSE",
+   "title": "Listing of new Securities of Pune E - Stock Broking Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261104-23/20261104-23.pdf",
+   "date": "2026-11-04",
+   "time": "17:49",
+   "category": "Listing",
+   "ref": "20261104-23",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "2f1bf6acc884",
+   "source": "BSE",
+   "title": "Suspension of Trading in Mutual Fund Schemes of SBI Mutual Fund",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261104-22/20261104-22.pdf",
+   "date": "2026-11-04",
+   "time": "17:49",
+   "category": "Mutual Funds",
+   "ref": "20261104-22",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "4c704077ffd5",
+   "source": "BSE",
+   "title": "Part Redemption of Debentures of BAMBOO HOTEL AND GLOBAL CENTRE (DELHI) PRIVATE LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261104-21/20261104-21.pdf",
+   "date": "2026-11-04",
+   "time": "17:48",
+   "category": "Debt",
+   "ref": "20261104-21",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "485880dfbae6",
+   "source": "BSE",
+   "title": "Listing of New Securities of Continental Controls Ltd.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261104-20/20261104-20.pdf",
+   "date": "2026-11-04",
+   "time": "17:47",
+   "category": "Listing",
+   "ref": "20261104-20",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
   {
    "id": "28cf17520520",
    "source": "BSE",
@@ -250,6 +492,28 @@
    "first_seen": "2026-11-04T12:09:25+00:00"
   },
   {
+   "id": "e996ee7cc435",
+   "source": "SEBI",
+   "title": "Adjudication Order in the matter of Swastika Investmart Limited",
+   "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-swastika-investmart-limited_105600.html",
+   "date": "2026-11-04",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "e5ff970a4b61",
+   "source": "SEBI",
+   "title": "SEBI Order for Compliance - Completion Order for Recovery Certificate No. 7413 of 2023 Yadunath Singh Thakur Proprietor of the Apex Global – in the matter of The Apex Global.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-completion-order-for-recovery-certificate-no-7413-of-2023-yadunath-singh-thakur-proprietor-of-the-apex-global-in-the-matter-of-the-apex-global-_105605.html",
+   "date": "2026-11-04",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
    "id": "d9f5d16db28d",
    "source": "NSE",
    "title": "Additional Short allocation Reports for collaterals",
@@ -259,6 +523,72 @@
    "category": "Clearing & Settlement",
    "ref": "CMPT77292",
    "first_seen": "2026-11-04T12:09:25+00:00"
+  },
+  {
+   "id": "d6b817c07c1a",
+   "source": "NSE",
+   "title": "Trade for Trade - Ennature Bio Pharma Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77300.pdf",
+   "date": "2026-11-04",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77300",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "d54dc86d4080",
+   "source": "NSE",
+   "title": "Listing of Treasury Bills (T-bills) and State Development Loans (SDLs) on capital market segment",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77295.pdf",
+   "date": "2026-11-04",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77295",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "d13a50f32e05",
+   "source": "SEBI",
+   "title": "SEBI Constitutes Working Group to Review the Innovators Growth Platform Framework",
+   "url": "https://www.sebi.gov.in/media-and-notifications/press-releases/nov-2026/sebi-constitutes-working-group-to-review-the-innovators-growth-platform-framework_105610.html",
+   "date": "2026-11-04",
+   "time": null,
+   "category": "Press Release",
+   "ref": null,
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "bf954707b001",
+   "source": "SEBI",
+   "title": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 6147 of 2022 The Apex Global, Proprietor – Yadunath Singh Thakur in the matter of Covidh Technologies Limited.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-6147-of-2022-the-apex-global-proprietor-yadunath-singh-thakur-in-the-matter-of-covidh-technologies-limited-_105607.html",
+   "date": "2026-11-04",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "b732e53ea397",
+   "source": "NSE",
+   "title": "Listing of privately placed securities on the debt market segment of the Exchange",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77297.pdf",
+   "date": "2026-11-04",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77297",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "b5d5706c7bdb",
+   "source": "NSE",
+   "title": "Listing of privately placed securities on capital market segment",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77296.pdf",
+   "date": "2026-11-04",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77296",
+   "first_seen": "2026-11-04T20:26:02+00:00"
   },
   {
    "id": "b45d0f19783d",
@@ -272,6 +602,17 @@
    "first_seen": "2026-11-04T12:09:25+00:00"
   },
   {
+   "id": "b319274a8355",
+   "source": "NSE",
+   "title": "MFSS- Settlement Calendar for December 2026",
+   "url": "https://nsearchives.nseindia.com/content/circulars/MFSS77278.zip",
+   "date": "2026-11-04",
+   "time": null,
+   "category": "Mutual Funds",
+   "ref": "MFSS77278",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
    "id": "b266745dd0f4",
    "source": "NSE",
    "title": "Settlement calendar for December 2026 - Debt Segment",
@@ -281,6 +622,17 @@
    "category": "DS",
    "ref": "DS77280",
    "first_seen": "2026-11-04T12:09:25+00:00"
+  },
+  {
+   "id": "a9b72aef17e2",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Bombay Coated and Special Steels Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77305.zip",
+   "date": "2026-11-04",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77305",
+   "first_seen": "2026-11-04T20:26:02+00:00"
   },
   {
    "id": "a1d6f2da7982",
@@ -305,6 +657,61 @@
    "first_seen": "2026-11-04T12:09:25+00:00"
   },
   {
+   "id": "9af5a839cf4b",
+   "source": "SEBI",
+   "title": "Order in the matter of certain Investment Advisers",
+   "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/order-in-the-matter-of-certain-investment-advisers_105587.html",
+   "date": "2026-11-04",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "925450ed106b",
+   "source": "NSE",
+   "title": "Availability of UTI financial Services Debt Fund for ongoing transactions on NSE MF Invest Platform",
+   "url": "https://nsearchives.nseindia.com/content/circulars/NMF77277.pdf",
+   "date": "2026-11-04",
+   "time": null,
+   "category": "Mutual Funds",
+   "ref": "NMF77277",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "91af5909cf6f",
+   "source": "NSE",
+   "title": "Listing of further issues of securities",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77304.pdf",
+   "date": "2026-11-04",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77304",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "85e716864391",
+   "source": "SEBI",
+   "title": "SEBI Order for Compliance - Release Order for Recovery Certificate No. 7413 of 2023 Yadunath Singh Thakur Proprietor of the Apex Global – in the matter of The Apex Global.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-for-compliance-release-order-for-recovery-certificate-no-7413-of-2023-yadunath-singh-thakur-proprietor-of-the-apex-global-in-the-matter-of-the-apex-global-_105609.html",
+   "date": "2026-11-04",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "7fe36d2dc31e",
+   "source": "NSE",
+   "title": "Revised MWPL, Participant, Institutional and Non-Institutional Client Limits for CONCORDBIO",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT77298.pdf",
+   "date": "2026-11-04",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT77298",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
    "id": "7c83c71af85b",
    "source": "NSE",
    "title": "Adjustment of Futures and Options contracts in the security PETRONET LNG LIMITED(PETRONET)",
@@ -327,6 +734,17 @@
    "first_seen": "2026-11-04T12:09:25+00:00"
   },
   {
+   "id": "6bca3ade56db",
+   "source": "NSE",
+   "title": "Listing of further issues of securities",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77301.pdf",
+   "date": "2026-11-04",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77301",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
    "id": "69d997f80c20",
    "source": "NSE",
    "title": "Settlement of Request for Quote (RFQ) Transactions on Muhurat Trading",
@@ -336,6 +754,28 @@
    "category": "Clearing & Settlement",
    "ref": "CMPT77285",
    "first_seen": "2026-11-04T12:09:25+00:00"
+  },
+  {
+   "id": "6848440f7a6a",
+   "source": "NSE",
+   "title": "Listing of units issued by Invesco Asset Management (India) Private Limited (Summit Active Asset Allocator Long-Short Fund)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77294.pdf",
+   "date": "2026-11-04",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77294",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "66f430d380a3",
+   "source": "NSE",
+   "title": "Applicability of Enhanced Surveillance Measure (ESM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV77286.zip",
+   "date": "2026-11-04",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV77286",
+   "first_seen": "2026-11-04T20:26:02+00:00"
   },
   {
    "id": "648a3e315e96",
@@ -358,6 +798,50 @@
    "category": "Commodity Derivatives",
    "ref": "COM77275",
    "first_seen": "2026-11-04T12:09:25+00:00"
+  },
+  {
+   "id": "5d2cff3da41a",
+   "source": "SEBI",
+   "title": "Review of Know Your Client process for individual Person Resident Outside India clients",
+   "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/review-of-know-your-client-process-for-individual-person-resident-outside-india-clients_105603.html",
+   "date": "2026-11-04",
+   "time": null,
+   "category": "Circular",
+   "ref": null,
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "583665cb566e",
+   "source": "NSE",
+   "title": "Listing of further issue of Grasim Industries Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77303.pdf",
+   "date": "2026-11-04",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77303",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "4200a53fde12",
+   "source": "NSE",
+   "title": "Trade for Trade - IGL Spirits Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77299.pdf",
+   "date": "2026-11-04",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77299",
+   "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "3ec71118288e",
+   "source": "SEBI",
+   "title": "Adjudication Order in the matter of Som Distilleries and Breweries Ltd",
+   "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/adjudication-order-in-the-matter-of-som-distilleries-and-breweries-ltd_105598.html",
+   "date": "2026-11-04",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-11-04T20:26:02+00:00"
   },
   {
    "id": "32a9b57d1a6c",
@@ -391,6 +875,17 @@
    "category": "Listing",
    "ref": "CML77272",
    "first_seen": "2026-11-04T12:09:25+00:00"
+  },
+  {
+   "id": "21c9b7191484",
+   "source": "NSE",
+   "title": "Availability of Motilal Oswal Nifty Midcap150 Plus 8-13 yr G-Sec 70:30 Index Fund for ongoing transactions on NSE MF Invest Platform",
+   "url": "https://nsearchives.nseindia.com/content/circulars/NMF77276.pdf",
+   "date": "2026-11-04",
+   "time": null,
+   "category": "Mutual Funds",
+   "ref": "NMF77276",
+   "first_seen": "2026-11-04T20:26:02+00:00"
   },
   {
    "id": "1b71be4e847e",
@@ -435,6 +930,17 @@
    "category": "Surveillance",
    "ref": "SURV77287",
    "first_seen": "2026-11-04T12:09:25+00:00"
+  },
+  {
+   "id": "00d32e62e1c2",
+   "source": "NSE",
+   "title": "Launch of Aditya Birla Sun Life Fixed Maturity Plan-Series VC (114 days) on NSE MF Invest Platform",
+   "url": "https://nsearchives.nseindia.com/content/circulars/NMF77290.pdf",
+   "date": "2026-11-04",
+   "time": null,
+   "category": "Mutual Funds",
+   "ref": "NMF77290",
+   "first_seen": "2026-11-04T20:26:02+00:00"
   },
   {
    "id": "7b456abcb90b",
