@@ -1,34 +1,232 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-11-05T12:22:37+00:00",
+ "generated_at": "2026-11-05T20:40:53+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-11-05T12:22:37+00:00",
+   "last_success": "2026-11-05T20:40:53+00:00",
    "last_count": 30,
-   "last_new": 0,
+   "last_new": 7,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-11-05T12:22:37+00:00",
-   "last_count": 7,
-   "last_new": 7,
+   "last_success": "2026-11-05T20:40:53+00:00",
+   "last_count": 20,
+   "last_new": 13,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-11-05T12:22:37+00:00",
-   "last_count": 19,
-   "last_new": 19,
+   "last_success": "2026-11-05T20:40:53+00:00",
+   "last_count": 37,
+   "last_new": 18,
    "error": null
   }
  },
- "count": 3559,
+ "count": 3597,
  "items": [
+  {
+   "id": "75f9f649bef1",
+   "source": "BSE",
+   "title": "Daily Bulletin",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261105-37/20261105-37.pdf",
+   "date": "2026-11-05",
+   "time": "23:51",
+   "category": "Notice",
+   "ref": "20261105-37",
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
+   "id": "aa1b456369bf",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Vectras Enprocon Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261105-36/20261105-36.pdf",
+   "date": "2026-11-05",
+   "time": "20:44",
+   "category": "Listing",
+   "ref": "20261105-36",
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
+   "id": "2e7da2f22573",
+   "source": "BSE",
+   "title": "Surveillance Measure for securities under IBC",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261105-34/20261105-34.pdf",
+   "date": "2026-11-05",
+   "time": "20:02",
+   "category": "Surveillance",
+   "ref": "20261105-34",
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
+   "id": "0f8a0b57a810",
+   "source": "BSE",
+   "title": "Applicability of Long Term Additional Surveillance Measure (LT-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261105-35/20261105-35.pdf",
+   "date": "2026-11-05",
+   "time": "20:02",
+   "category": "Surveillance",
+   "ref": "20261105-35",
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
+   "id": "960a961a8cce",
+   "source": "BSE",
+   "title": "CHANGES IN PRICE BAND",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261105-31/20261105-31.pdf",
+   "date": "2026-11-05",
+   "time": "20:01",
+   "category": "Surveillance",
+   "ref": "20261105-31",
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
+   "id": "91afc9725684",
+   "source": "BSE",
+   "title": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261105-32/20261105-32.pdf",
+   "date": "2026-11-05",
+   "time": "20:01",
+   "category": "Surveillance",
+   "ref": "20261105-32",
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
+   "id": "865ef34b60d5",
+   "source": "BSE",
+   "title": "Enhanced Surveillance Measure (ESM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261105-33/20261105-33.pdf",
+   "date": "2026-11-05",
+   "time": "20:01",
+   "category": "Surveillance",
+   "ref": "20261105-33",
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
+   "id": "3f585d238943",
+   "source": "BSE",
+   "title": "Graded Surveillance Measure (GSM) - List of securities moving into their respective GSM Stages",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261105-30/20261105-30.pdf",
+   "date": "2026-11-05",
+   "time": "20:01",
+   "category": "Surveillance",
+   "ref": "20261105-30",
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
+   "id": "04a12a78bdf8",
+   "source": "BSE",
+   "title": "Addition to the BSE IPO Index",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261105-29/20261105-29.pdf",
+   "date": "2026-11-05",
+   "time": "19:41",
+   "category": "Listing",
+   "ref": "20261105-29",
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
+   "id": "3c8d5a542089",
+   "source": "BSE",
+   "title": "Settlement Schedule Offer to Buy – Acquisition Window (Takeover) for KRONOX LAB SCIENCES LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261105-28/20261105-28.pdf",
+   "date": "2026-11-05",
+   "time": "19:17",
+   "category": "Clearing & Settlement",
+   "ref": "20261105-28",
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
+   "id": "fed6011e89e6",
+   "source": "BSE",
+   "title": "Listing of privately placed securities on the debt market segment of the Exchange",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261105-27/20261105-27.pdf",
+   "date": "2026-11-05",
+   "time": "19:00",
+   "category": "Listing",
+   "ref": "20261105-27",
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
+   "id": "64eedf1f208e",
+   "source": "BSE",
+   "title": "Clarification Received from the Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261105-26/20261105-26.pdf",
+   "date": "2026-11-05",
+   "time": "18:56",
+   "category": "Notice",
+   "ref": "20261105-26",
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
+   "id": "cdd573657b31",
+   "source": "BSE",
+   "title": "Availability NAVI MULTI ASSET OMNI FOF for ongoing transactions on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261105-25/20261105-25.pdf",
+   "date": "2026-11-05",
+   "time": "18:54",
+   "category": "Mutual Funds",
+   "ref": "20261105-25",
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
+   "id": "fce2813c6dae",
+   "source": "BSE",
+   "title": "Availability of CHOICE LARGE & MID CAP FUND for ongoing transactions on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261105-24/20261105-24.pdf",
+   "date": "2026-11-05",
+   "time": "18:53",
+   "category": "Mutual Funds",
+   "ref": "20261105-24",
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
+   "id": "0778c652f441",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Johnsoncab Electricals Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261105-23/20261105-23.pdf",
+   "date": "2026-11-05",
+   "time": "18:52",
+   "category": "Listing",
+   "ref": "20261105-23",
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
+   "id": "58e00a395dbe",
+   "source": "BSE",
+   "title": "Schedule for Reporting of Holding Statement on account of Diwali - Muhurat Trading Session on Sunday, November 08, 2026",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261105-22/20261105-22.pdf",
+   "date": "2026-11-05",
+   "time": "18:48",
+   "category": "Trading",
+   "ref": "20261105-22",
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
+   "id": "a81c753cc0db",
+   "source": "BSE",
+   "title": "Muhurat Trading Session on account of Diwali Laxmi Pujan",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261105-21/20261105-21.pdf",
+   "date": "2026-11-05",
+   "time": "18:20",
+   "category": "Trading",
+   "ref": "20261105-21",
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
+   "id": "543122c2a44c",
+   "source": "BSE",
+   "title": "Listing of Units Of quant Silver ETF a scheme under Quant Mutual Fund",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261105-20/20261105-20.pdf",
+   "date": "2026-11-05",
+   "time": "18:04",
+   "category": "Listing",
+   "ref": "20261105-20",
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
   {
    "id": "c0b3eb7ab28a",
    "source": "BSE",
@@ -239,6 +437,17 @@
    "first_seen": "2026-11-05T12:22:37+00:00"
   },
   {
+   "id": "f60561167623",
+   "source": "SEBI",
+   "title": "Notice of Demand under Recovery Certificate number 9317 of 2026 dated November 05, 2026, issued to Manish Mishra (PAN: AMPPM6823L), Anshu Mishra (PAN: BMIPS3480H), Dipak Dwiwedi (PAN: ATDPD4055C), Vivek Chauhan (PAN: AHPPC9620A), Ankur Sharma (PAN: BMIPS3640D), Abhay Dwivedi (PAN: CWYPD8949K), Neetu Dwivedi (PAN: CTTPD8770N), Pallavi (PAN: BRTPP3401M), and Amrit Pal Singh (PAN: DTMPS0895B), [Defaulters], jointly and severally, in the matter of Decillion Finance Limited: under Recovery Certificate No. 9317 of 2026.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-under-recovery-certificate-number-9317-of-2026-dated-november-05-2026-issued-to-manish-mishra-pan-amppm6823l-anshu-mishra-pan-bmips3480h-dipak-dwiwedi-pan-atdpd4055c-viv-_105625.html",
+   "date": "2026-11-05",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
    "id": "f011d2405474",
    "source": "NSE",
    "title": "Early Pay-in of Securities for Knowledge Marine & Engineering Works Limited (KMEW)",
@@ -248,6 +457,17 @@
    "category": "Clearing & Settlement",
    "ref": "CMPT77251",
    "first_seen": "2026-11-05T12:22:37+00:00"
+  },
+  {
+   "id": "ea657fb18861",
+   "source": "SEBI",
+   "title": "Revision of limits relating to requirement of underlying exposure for currency derivatives contracts",
+   "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/revision-of-limits-relating-to-requirement-of-underlying-exposure-for-currency-derivatives-contracts_105614.html",
+   "date": "2026-11-05",
+   "time": null,
+   "category": "Circular",
+   "ref": null,
+   "first_seen": "2026-11-05T20:40:53+00:00"
   },
   {
    "id": "d19485ccf84f",
@@ -261,6 +481,28 @@
    "first_seen": "2026-11-05T12:22:37+00:00"
   },
   {
+   "id": "ccfe6affa985",
+   "source": "NSE",
+   "title": "Applicability of Enhanced Surveillance Measure (ESM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV77313.zip",
+   "date": "2026-11-05",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV77313",
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
+   "id": "be662d4693e0",
+   "source": "NSE",
+   "title": "Applicability of Additional Surveillance Measure (ASM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV77311.zip",
+   "date": "2026-11-05",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV77311",
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
    "id": "ba58ee5f331b",
    "source": "NSE",
    "title": "EGR - Settlement calendar for December 2026",
@@ -270,6 +512,61 @@
    "category": "Electronic Gold Receipts",
    "ref": "EGR77309",
    "first_seen": "2026-11-05T12:22:37+00:00"
+  },
+  {
+   "id": "ae354e5f2243",
+   "source": "NSE",
+   "title": "Guidelines on Interoperability among Clearing Corporations for Tender Offer (OTB).",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT77316.zip",
+   "date": "2026-11-05",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT77316",
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
+   "id": "9bde54142421",
+   "source": "SEBI",
+   "title": "Framework for net settlement of funds for transactions undertaken by mutual fund schemes in cash market",
+   "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/framework-for-net-settlement-of-funds-for-transactions-undertaken-by-mutual-fund-schemes-in-cash-market_105616.html",
+   "date": "2026-11-05",
+   "time": null,
+   "category": "Circular",
+   "ref": null,
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
+   "id": "93749bc8d5cd",
+   "source": "NSE",
+   "title": "Trade for Trade - Bombay Coated and Special Steels Limited (IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77321.pdf",
+   "date": "2026-11-05",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77321",
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
+   "id": "7e13b71dc390",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Maxwell Engineering Solutions Limited (SME IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77323.zip",
+   "date": "2026-11-05",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77323",
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
+   "id": "7e119c711f2c",
+   "source": "NSE",
+   "title": "Listing of privately placed securities on the debt market segment of the Exchange",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77317.pdf",
+   "date": "2026-11-05",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77317",
+   "first_seen": "2026-11-05T20:40:53+00:00"
   },
   {
    "id": "73d0e5e35bbd",
@@ -283,6 +580,83 @@
    "first_seen": "2026-11-05T12:22:37+00:00"
   },
   {
+   "id": "73cc8d00e7bf",
+   "source": "SEBI",
+   "title": "Notice of Demand under Recovery Certificate number 9316 of 2026 dated November 05, 2026, issued to Manish Mishra (PAN:AMPPM6823L), Dipak Dwiwedi (PAN:ATDPD4055C), Vivek Chauhan (PAN:AHPPC9620A), Ankur Sharma (PAN:BMIPS3640D) and Neetu Dwivedi (PAN:CTTPD8770N) [Defaulters], jointly and severally, in the matter of Investigation in the trading activities of certain entities in the scrip of Decillion Finance Limited: under Recovery Certificate No. 9316 of 2026.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-under-recovery-certificate-number-9316-of-2026-dated-november-05-2026-issued-to-manish-mishra-pan-amppm6823l-dipak-dwiwedi-pan-atdpd4055c-vivek-chauhan-pan-ahppc9620a-ankur-_105623.html",
+   "date": "2026-11-05",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
+   "id": "5f8c767ec6d9",
+   "source": "SEBI",
+   "title": "Notice of Demand under Recovery Certificate number 9318 of 2026 dated November 05, 2026, issued to Priyanka Jain (PAN: BAZPJ9596E) [Defaulter], in the matter of Vedic Ayurveda Ltd (formerly known as KD Leisures Ltd.): under Recovery Certificate No. 9318 of 2026.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-under-recovery-certificate-number-9318-of-2026-dated-november-05-2026-issued-to-priyanka-jain-pan-bazpj9596e-defaulter-in-the-matter-of-vedic-ayurveda-ltd-formerly-known-as-k-_105626.html",
+   "date": "2026-11-05",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
+   "id": "5f2ea3f85d43",
+   "source": "NSE",
+   "title": "Applicability of Additional Surveillance Measure under IBC",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV77315.zip",
+   "date": "2026-11-05",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV77315",
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
+   "id": "5ce9c241e405",
+   "source": "NSE",
+   "title": "Listing of further issues of securities",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77318.pdf",
+   "date": "2026-11-05",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77318",
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
+   "id": "519a25d7b746",
+   "source": "NSE",
+   "title": "DIVIDEND: Adjustment of Futures and Options contracts in the security PETRONET",
+   "url": "https://nsearchives.nseindia.com/content/circulars/FAOP77319.pdf",
+   "date": "2026-11-05",
+   "time": null,
+   "category": "Futures & Options",
+   "ref": "FAOP77319",
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
+   "id": "478823dfb832",
+   "source": "NSE",
+   "title": "Settlement Calendar for Takeover Offer under Tender Offer scheme by Kronox Lab Sciences Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT77322.pdf",
+   "date": "2026-11-05",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT77322",
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
+   "id": "379889c7efec",
+   "source": "NSE",
+   "title": "Applicability of Short-Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV77314.zip",
+   "date": "2026-11-05",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV77314",
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
    "id": "330f5531880b",
    "source": "NSE",
    "title": "Takeover Offer under Tender Offer scheme of Kronox Lab Sciences Limited",
@@ -292,6 +666,28 @@
    "category": "Listing",
    "ref": "CML77308",
    "first_seen": "2026-11-05T12:22:37+00:00"
+  },
+  {
+   "id": "300fc777a052",
+   "source": "NSE",
+   "title": "Availability of Choice Large & Mid Cap Fund on NSE MF Invest Platform",
+   "url": "https://nsearchives.nseindia.com/content/circulars/NMF77307.pdf",
+   "date": "2026-11-05",
+   "time": null,
+   "category": "Mutual Funds",
+   "ref": "NMF77307",
+   "first_seen": "2026-11-05T20:40:53+00:00"
+  },
+  {
+   "id": "2f860922e5ee",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of HGS (India) Limited (SME IPO)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77320.zip",
+   "date": "2026-11-05",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77320",
+   "first_seen": "2026-11-05T20:40:53+00:00"
   },
   {
    "id": "2dc50ce60bda",
@@ -314,6 +710,17 @@
    "category": "Listing",
    "ref": "CML77312",
    "first_seen": "2026-11-05T12:22:37+00:00"
+  },
+  {
+   "id": "1077eb09be19",
+   "source": "SEBI",
+   "title": "Review of the framework for Accredited Investors",
+   "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/review-of-the-framework-for-accredited-investors_105618.html",
+   "date": "2026-11-05",
+   "time": null,
+   "category": "Circular",
+   "ref": null,
+   "first_seen": "2026-11-05T20:40:53+00:00"
   },
   {
    "id": "ccf3e07b5df2",
@@ -798,6 +1205,17 @@
    "category": "Enforcement",
    "ref": null,
    "first_seen": "2026-11-04T20:26:02+00:00"
+  },
+  {
+   "id": "e0730e52d94f",
+   "source": "SEBI",
+   "title": "Release Order - Kamalnayan Harakchand (AAHPK8406D) dated November 04, 2026 issued for RC Nos. 002, 003, 004, 005 of 2013 in the matter of Pyramid Saimira Theater Ltd.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-kamalnayan-harakchand-aahpk8406d-dated-november-04-2026-issued-for-rc-nos-002-003-004-005-of-2013-in-the-matter-of-pyramid-saimira-theater-ltd-_105612.html",
+   "date": "2026-11-04",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-05T20:40:53+00:00"
   },
   {
    "id": "d9f5d16db28d",
