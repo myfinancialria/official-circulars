@@ -1,29 +1,29 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-11-06T19:57:33+00:00",
+ "generated_at": "2026-11-07T11:04:44+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-11-06T19:57:33+00:00",
+   "last_success": "2026-11-07T11:04:44+00:00",
    "last_count": 30,
-   "last_new": 30,
+   "last_new": 0,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-11-06T19:57:33+00:00",
+   "last_success": "2026-11-07T11:04:44+00:00",
    "last_count": 29,
-   "last_new": 15,
+   "last_new": 0,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-11-06T19:57:33+00:00",
+   "last_success": "2026-11-07T11:04:44+00:00",
    "last_count": 36,
-   "last_new": 22,
+   "last_new": 0,
    "error": null
   }
  },
