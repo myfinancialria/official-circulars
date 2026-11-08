@@ -1,11 +1,11 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-11-08T11:17:12+00:00",
+ "generated_at": "2026-11-08T18:22:13+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-11-08T11:17:12+00:00",
+   "last_success": "2026-11-08T18:22:13+00:00",
    "last_count": 30,
    "last_new": 0,
    "error": null
@@ -13,22 +13,33 @@
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-11-08T11:17:12+00:00",
-   "last_count": 31,
-   "last_new": 2,
+   "last_success": "2026-11-08T18:22:13+00:00",
+   "last_count": 1,
+   "last_new": 1,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-11-08T11:17:12+00:00",
-   "last_count": 1,
+   "last_success": "2026-11-08T18:22:13+00:00",
+   "last_count": 2,
    "last_new": 1,
    "error": null
   }
  },
- "count": 3695,
+ "count": 3697,
  "items": [
+  {
+   "id": "d7f31ea4b095",
+   "source": "BSE",
+   "title": "CHANGES IN PRICE BAND",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261108-2/20261108-2.pdf",
+   "date": "2026-11-08",
+   "time": "18:06",
+   "category": "Surveillance",
+   "ref": "20261108-2",
+   "first_seen": "2026-11-08T18:22:13+00:00"
+  },
   {
    "id": "e095a378590e",
    "source": "BSE",
@@ -39,6 +50,17 @@
    "category": "Notice",
    "ref": "20261108-1",
    "first_seen": "2026-11-08T11:17:12+00:00"
+  },
+  {
+   "id": "87f8a25fa824",
+   "source": "NSE",
+   "title": "DIVIDEND: Adjustment of Futures and Options contracts in the security ONGC",
+   "url": "https://nsearchives.nseindia.com/content/circulars/FAOP77325.pdf",
+   "date": "2026-11-08",
+   "time": null,
+   "category": "Futures & Options",
+   "ref": "FAOP77325",
+   "first_seen": "2026-11-08T18:22:13+00:00"
   },
   {
    "id": "292a98b3b2d9",
