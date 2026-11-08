@@ -1,11 +1,11 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-11-07T18:03:12+00:00",
+ "generated_at": "2026-11-08T11:17:12+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-11-07T18:03:12+00:00",
+   "last_success": "2026-11-08T11:17:12+00:00",
    "last_count": 30,
    "last_new": 0,
    "error": null
@@ -13,22 +13,33 @@
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-11-07T18:03:12+00:00",
-   "last_count": 29,
-   "last_new": 0,
+   "last_success": "2026-11-08T11:17:12+00:00",
+   "last_count": 31,
+   "last_new": 2,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-11-07T18:03:12+00:00",
-   "last_count": 36,
-   "last_new": 0,
+   "last_success": "2026-11-08T11:17:12+00:00",
+   "last_count": 1,
+   "last_new": 1,
    "error": null
   }
  },
- "count": 3692,
+ "count": 3695,
  "items": [
+  {
+   "id": "e095a378590e",
+   "source": "BSE",
+   "title": "Clarification Received from the Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261108-1/20261108-1.pdf",
+   "date": "2026-11-08",
+   "time": "16:45",
+   "category": "Notice",
+   "ref": "20261108-1",
+   "first_seen": "2026-11-08T11:17:12+00:00"
+  },
   {
    "id": "292a98b3b2d9",
    "source": "BSE",
@@ -690,6 +701,17 @@
    "first_seen": "2026-11-06T19:57:33+00:00"
   },
   {
+   "id": "8c575dfeb834",
+   "source": "NSE",
+   "title": "Revised Operational guideline and Trading modalities of Closing Auction Session (CAS) in the Equity Cash segment",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMTR77355.zip",
+   "date": "2026-11-06",
+   "time": null,
+   "category": "Trading",
+   "ref": "CMTR77355",
+   "first_seen": "2026-11-08T11:17:12+00:00"
+  },
+  {
    "id": "88be15bacab2",
    "source": "SEBI",
    "title": "Appeal No. 7142 of 2026 filed by Yatendra Sharma",
@@ -710,6 +732,17 @@
    "category": "Order",
    "ref": null,
    "first_seen": "2026-11-06T19:57:33+00:00"
+  },
+  {
+   "id": "84d51bacb15e",
+   "source": "NSE",
+   "title": "Changes in operational guidelines and trading modalities in the Equity Derivatives segment on account of review of certain aspects for Closing Auction Session (CAS) in equity cash segment",
+   "url": "https://nsearchives.nseindia.com/content/circulars/FAOP77356.zip",
+   "date": "2026-11-06",
+   "time": null,
+   "category": "Futures & Options",
+   "ref": "FAOP77356",
+   "first_seen": "2026-11-08T11:17:12+00:00"
   },
   {
    "id": "809e75f2aa5b",
