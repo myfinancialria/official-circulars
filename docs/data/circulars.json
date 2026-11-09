@@ -1,34 +1,243 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-11-09T12:53:36+00:00",
+ "generated_at": "2026-11-09T22:59:24+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-11-09T12:53:36+00:00",
+   "last_success": "2026-11-09T22:59:24+00:00",
    "last_count": 30,
-   "last_new": 2,
+   "last_new": 0,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-11-09T12:53:36+00:00",
-   "last_count": 17,
-   "last_new": 17,
+   "last_success": "2026-11-09T22:59:24+00:00",
+   "last_count": 24,
+   "last_new": 7,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-11-09T12:53:36+00:00",
-   "last_count": 21,
-   "last_new": 21,
+   "last_success": "2026-11-09T22:59:24+00:00",
+   "last_count": 40,
+   "last_new": 19,
    "error": null
   }
  },
- "count": 3737,
+ "count": 3763,
  "items": [
+  {
+   "id": "12a31cc10098",
+   "source": "BSE",
+   "title": "Daily Bulletin",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261109-40/20261109-40.pdf",
+   "date": "2026-11-09",
+   "time": "22:25",
+   "category": "Notice",
+   "ref": "20261109-40",
+   "first_seen": "2026-11-09T22:59:24+00:00"
+  },
+  {
+   "id": "50a5b50f72f6",
+   "source": "BSE",
+   "title": "Bonus Issue of Equity Shares of DHARTI PROTEINS LIMITED (Scrip Code- 531171)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261109-39/20261109-39.pdf",
+   "date": "2026-11-09",
+   "time": "22:21",
+   "category": "Listing",
+   "ref": "20261109-39",
+   "first_seen": "2026-11-09T22:59:24+00:00"
+  },
+  {
+   "id": "9a44944886af",
+   "source": "BSE",
+   "title": "Demat Auction 752",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261109-38/20261109-38.pdf",
+   "date": "2026-11-09",
+   "time": "21:32",
+   "category": "Clearing & Settlement",
+   "ref": "20261109-38",
+   "first_seen": "2026-11-09T22:59:24+00:00"
+  },
+  {
+   "id": "6c373e402d8b",
+   "source": "BSE",
+   "title": "REVISION OF SCRIPS IN TRADE TO TRADE SEGMENT",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261109-36/20261109-36.pdf",
+   "date": "2026-11-09",
+   "time": "20:20",
+   "category": "Trading",
+   "ref": "20261109-36",
+   "first_seen": "2026-11-09T22:59:24+00:00"
+  },
+  {
+   "id": "2705d6d5bb69",
+   "source": "BSE",
+   "title": "Applicability of Long Term Additional Surveillance Measure (LT-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261109-37/20261109-37.pdf",
+   "date": "2026-11-09",
+   "time": "20:20",
+   "category": "Surveillance",
+   "ref": "20261109-37",
+   "first_seen": "2026-11-09T22:59:24+00:00"
+  },
+  {
+   "id": "f6468181b777",
+   "source": "BSE",
+   "title": "CHANGES IN PRICE BAND",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261109-34/20261109-34.pdf",
+   "date": "2026-11-09",
+   "time": "20:19",
+   "category": "Surveillance",
+   "ref": "20261109-34",
+   "first_seen": "2026-11-09T22:59:24+00:00"
+  },
+  {
+   "id": "51bd8e4efcf6",
+   "source": "BSE",
+   "title": "Enhanced Surveillance Measure (ESM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261109-33/20261109-33.pdf",
+   "date": "2026-11-09",
+   "time": "20:19",
+   "category": "Surveillance",
+   "ref": "20261109-33",
+   "first_seen": "2026-11-09T22:59:24+00:00"
+  },
+  {
+   "id": "0bfeb6c5fefe",
+   "source": "BSE",
+   "title": "Graded Surveillance Measure (GSM) - List of securities moving into their respective GSM Stages",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261109-35/20261109-35.pdf",
+   "date": "2026-11-09",
+   "time": "20:19",
+   "category": "Surveillance",
+   "ref": "20261109-35",
+   "first_seen": "2026-11-09T22:59:24+00:00"
+  },
+  {
+   "id": "41384b1e50b9",
+   "source": "BSE",
+   "title": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261109-32/20261109-32.pdf",
+   "date": "2026-11-09",
+   "time": "20:13",
+   "category": "Surveillance",
+   "ref": "20261109-32",
+   "first_seen": "2026-11-09T22:59:24+00:00"
+  },
+  {
+   "id": "aa68cebb61f5",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Antala Industries Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261109-31/20261109-31.pdf",
+   "date": "2026-11-09",
+   "time": "19:50",
+   "category": "Listing",
+   "ref": "20261109-31",
+   "first_seen": "2026-11-09T22:59:24+00:00"
+  },
+  {
+   "id": "b2c712d84ffe",
+   "source": "BSE",
+   "title": "Listing of Secured Redeemable Non-Convertible Debentures of Muthoot Fincorp Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261109-30/20261109-30.pdf",
+   "date": "2026-11-09",
+   "time": "19:22",
+   "category": "Listing",
+   "ref": "20261109-30",
+   "first_seen": "2026-11-09T22:59:24+00:00"
+  },
+  {
+   "id": "e27b2dd2458c",
+   "source": "BSE",
+   "title": "Availability of SAMCO EQUITY SAVINGS FUND FUND for ongoing transactions on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261109-29/20261109-29.pdf",
+   "date": "2026-11-09",
+   "time": "19:11",
+   "category": "Mutual Funds",
+   "ref": "20261109-29",
+   "first_seen": "2026-11-09T22:59:24+00:00"
+  },
+  {
+   "id": "e405efde7523",
+   "source": "BSE",
+   "title": "Guidelines in pursuance of amendment to SEBI KYC (Know Your Client) Registration Agency (KRA) Regulations, 2011",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261109-28/20261109-28.pdf",
+   "date": "2026-11-09",
+   "time": "19:00",
+   "category": "Compliance",
+   "ref": "20261109-28",
+   "first_seen": "2026-11-09T22:59:24+00:00"
+  },
+  {
+   "id": "d4135ab43dd6",
+   "source": "BSE",
+   "title": "Adjustment of Futures and Options contracts in the security Oil and Natural Gas Corporation Ltd in Equity Derivative Segment",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261109-27/20261109-27.pdf",
+   "date": "2026-11-09",
+   "time": "18:59",
+   "category": "Derivatives",
+   "ref": "20261109-27",
+   "first_seen": "2026-11-09T22:59:24+00:00"
+  },
+  {
+   "id": "9430a93ff8b0",
+   "source": "BSE",
+   "title": "Introduction of All Day SIP in Certain Schemes of Tata Mutual Fund on BSE StAR MF Platform - Update",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261109-26/20261109-26.pdf",
+   "date": "2026-11-09",
+   "time": "18:53",
+   "category": "Mutual Funds",
+   "ref": "20261109-26",
+   "first_seen": "2026-11-09T22:59:24+00:00"
+  },
+  {
+   "id": "f99d6f755d19",
+   "source": "BSE",
+   "title": "Availability SELECT EQUITY EX-TOP 100 LONG-SHORT FUND for ongoing transactions on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261109-25/20261109-25.pdf",
+   "date": "2026-11-09",
+   "time": "18:50",
+   "category": "Mutual Funds",
+   "ref": "20261109-25",
+   "first_seen": "2026-11-09T22:59:24+00:00"
+  },
+  {
+   "id": "f2ea936c7513",
+   "source": "BSE",
+   "title": "Listing of privately placed securities on the debt market segment of the Exchange",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261109-24/20261109-24.pdf",
+   "date": "2026-11-09",
+   "time": "18:46",
+   "category": "Listing",
+   "ref": "20261109-24",
+   "first_seen": "2026-11-09T22:59:24+00:00"
+  },
+  {
+   "id": "06e81aa86056",
+   "source": "BSE",
+   "title": "Clarification Received from the Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261109-23/20261109-23.pdf",
+   "date": "2026-11-09",
+   "time": "18:34",
+   "category": "Notice",
+   "ref": "20261109-23",
+   "first_seen": "2026-11-09T22:59:24+00:00"
+  },
+  {
+   "id": "78526ef8cf37",
+   "source": "BSE",
+   "title": "List of Investment Companies (ICs) and Investment Holding Companies (IHCs) eligible for Special Call-Auctions",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261109-22/20261109-22.pdf",
+   "date": "2026-11-09",
+   "time": "18:30",
+   "category": "Notice",
+   "ref": "20261109-22",
+   "first_seen": "2026-11-09T22:59:24+00:00"
+  },
   {
    "id": "330d4271b282",
    "source": "BSE",
@@ -261,6 +470,17 @@
    "first_seen": "2026-11-09T12:53:36+00:00"
   },
   {
+   "id": "fbdeec942186",
+   "source": "NSE",
+   "title": "Settlement Calendar for Exit Offer to the Dissenting Unitholders of Oriental InfraTrust (InvIT)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT77379.pdf",
+   "date": "2026-11-09",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT77379",
+   "first_seen": "2026-11-09T22:59:24+00:00"
+  },
+  {
    "id": "ef37f62c0b97",
    "source": "NSE",
    "title": "Listing of privately placed securities on the debt market segment of the Exchange",
@@ -316,6 +536,17 @@
    "first_seen": "2026-11-09T12:53:36+00:00"
   },
   {
+   "id": "8bd0d4f612fd",
+   "source": "NSE",
+   "title": "Reversal of action initiated against SPEL Semiconductor Limited (Symbol - SPELS) on account of payment of Annual Listing Fees (\"ALF\") for the Financial Year ended 2025-26",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77377.pdf",
+   "date": "2026-11-09",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77377",
+   "first_seen": "2026-11-09T22:59:24+00:00"
+  },
+  {
    "id": "844b4f132533",
    "source": "NSE",
    "title": "Listing of further issues of securities",
@@ -325,6 +556,28 @@
    "category": "Listing",
    "ref": "CML77359",
    "first_seen": "2026-11-09T12:53:36+00:00"
+  },
+  {
+   "id": "83adf8499405",
+   "source": "NSE",
+   "title": "Applicability of Additional Surveillance Measure (ASM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV77373.zip",
+   "date": "2026-11-09",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV77373",
+   "first_seen": "2026-11-09T22:59:24+00:00"
+  },
+  {
+   "id": "7f91dc5842bb",
+   "source": "NSE",
+   "title": "Suspension of trading in securities",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77365.pdf",
+   "date": "2026-11-09",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77365",
+   "first_seen": "2026-11-09T22:59:24+00:00"
   },
   {
    "id": "75db63a03c33",
@@ -338,6 +591,17 @@
    "first_seen": "2026-11-09T12:53:36+00:00"
   },
   {
+   "id": "70f98f304d00",
+   "source": "NSE",
+   "title": "Applicability of Short-Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV77374.zip",
+   "date": "2026-11-09",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV77374",
+   "first_seen": "2026-11-09T22:59:24+00:00"
+  },
+  {
    "id": "621cff96042d",
    "source": "NSE",
    "title": "Adjustment of Futures and Options contracts in the security OIL & NATURAL GAS CORPORATION LIMITED (ONGC)",
@@ -347,6 +611,17 @@
    "category": "Clearing & Settlement",
    "ref": "CMPT77348",
    "first_seen": "2026-11-09T12:53:36+00:00"
+  },
+  {
+   "id": "3b729f8a6249",
+   "source": "NSE",
+   "title": "Listing of further issues of securities",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77378.pdf",
+   "date": "2026-11-09",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77378",
+   "first_seen": "2026-11-09T22:59:24+00:00"
   },
   {
    "id": "3b29669306b1",
@@ -424,6 +699,17 @@
    "category": "Clearing & Settlement",
    "ref": "CMPT77358",
    "first_seen": "2026-11-09T12:53:36+00:00"
+  },
+  {
+   "id": "042140d5d6e9",
+   "source": "NSE",
+   "title": "Algo Provider Empanelment for Providing Algorithmic Trading Solutions",
+   "url": "https://nsearchives.nseindia.com/content/circulars/INVG77376.pdf",
+   "date": "2026-11-09",
+   "time": null,
+   "category": "Investigation",
+   "ref": "INVG77376",
+   "first_seen": "2026-11-09T22:59:24+00:00"
   },
   {
    "id": "030326face2d",
