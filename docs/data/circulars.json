@@ -1,11 +1,11 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-11-10T12:39:59+00:00",
+ "generated_at": "2026-11-10T20:28:22+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-11-10T12:39:59+00:00",
+   "last_success": "2026-11-10T20:28:22+00:00",
    "last_count": 30,
    "last_new": 3,
    "error": null
@@ -13,7 +13,7 @@
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-11-10T12:39:59+00:00",
+   "last_success": "2026-11-10T20:28:22+00:00",
    "last_count": 24,
    "last_new": 0,
    "error": null
@@ -21,14 +21,36 @@
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-11-10T12:39:59+00:00",
+   "last_success": "2026-11-10T20:28:22+00:00",
    "last_count": 40,
    "last_new": 0,
    "error": null
   }
  },
- "count": 3766,
+ "count": 3769,
  "items": [
+  {
+   "id": "f7f64194f030",
+   "source": "SEBI",
+   "title": "Notice of attachment dated November 10, 2026 issued against First Futures and Stocks Private Limited under RC No.7469 of 2023 in the matter of First Futures and Stocks Private Limited",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-attachment-dated-november-10-2026-issued-against-first-futures-and-stocks-private-limited-under-rc-no-7469-of-2023-in-the-matter-of-first-futures-and-stocks-private-limited_105694.html",
+   "date": "2026-11-10",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-10T20:28:22+00:00"
+  },
+  {
+   "id": "a9dcc4471191",
+   "source": "SEBI",
+   "title": "Notice of attachment dated November 10, 2026 issued against Chennai Commodities under RC No.7470 of 2023 in the matter of First Futures and Stocks Private Limited",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-attachment-dated-november-10-2026-issued-against-chennai-commodities-under-rc-no-7470-of-2023-in-the-matter-of-first-futures-and-stocks-private-limited_105696.html",
+   "date": "2026-11-10",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-10T20:28:22+00:00"
+  },
   {
    "id": "9c1a5da6ccfb",
    "source": "SEBI",
@@ -39,6 +61,17 @@
    "category": "Enforcement",
    "ref": null,
    "first_seen": "2026-11-10T12:39:59+00:00"
+  },
+  {
+   "id": "90ac033f98aa",
+   "source": "SEBI",
+   "title": "Notice of attachment dated November 10, 2026 issued against Secunderabad Healthcare Limited under RC No.7734 of 2024 in the matter of Secunderabad Healthcare Limited",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-attachment-dated-november-10-2026-issued-against-secunderabad-healthcare-limited-under-rc-no-7734-of-2024-in-the-matter-of-secunderabad-healthcare-limited_105698.html",
+   "date": "2026-11-10",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-10T20:28:22+00:00"
   },
   {
    "id": "549099508553",
