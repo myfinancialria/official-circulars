@@ -1,34 +1,67 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-11-09T22:59:24+00:00",
+ "generated_at": "2026-11-10T12:39:59+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-11-09T22:59:24+00:00",
+   "last_success": "2026-11-10T12:39:59+00:00",
    "last_count": 30,
-   "last_new": 0,
+   "last_new": 3,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-11-09T22:59:24+00:00",
+   "last_success": "2026-11-10T12:39:59+00:00",
    "last_count": 24,
-   "last_new": 7,
+   "last_new": 0,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-11-09T22:59:24+00:00",
+   "last_success": "2026-11-10T12:39:59+00:00",
    "last_count": 40,
-   "last_new": 19,
+   "last_new": 0,
    "error": null
   }
  },
- "count": 3763,
+ "count": 3766,
  "items": [
+  {
+   "id": "9c1a5da6ccfb",
+   "source": "SEBI",
+   "title": "Prohibitory Order No. 1581 of 2026 issued against Dhiraj Kumar Jaiswal associated with RC 4391 of 2021 in the matter of CAT Technologies Ltd.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/prohibitory-order-no-1581-of-2026-issued-against-dhiraj-kumar-jaiswal-associated-with-rc-4391-of-2021-in-the-matter-of-cat-technologies-ltd-_105689.html",
+   "date": "2026-11-10",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-10T12:39:59+00:00"
+  },
+  {
+   "id": "549099508553",
+   "source": "SEBI",
+   "title": "Prohibitory Order No. 1583 of 2026 issued against CAT Technologies Limited associated with RC 4398 of 2021 in the matter of CAT Technologies Ltd.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/prohibitory-order-no-1583-of-2026-issued-against-cat-technologies-limited-associated-with-rc-4398-of-2021-in-the-matter-of-cat-technologies-ltd-_105693.html",
+   "date": "2026-11-10",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-10T12:39:59+00:00"
+  },
+  {
+   "id": "2ee52eb83e44",
+   "source": "SEBI",
+   "title": "Prohibitory Order No. 1582 of 2026 issued against Dinesh Kumar Jaiswal associated with RC 4395 of 2021 in the matter of CAT Technologies Ltd.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/prohibitory-order-no-1582-of-2026-issued-against-dinesh-kumar-jaiswal-associated-with-rc-4395-of-2021-in-the-matter-of-cat-technologies-ltd-_105691.html",
+   "date": "2026-11-10",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-10T12:39:59+00:00"
+  },
   {
    "id": "12a31cc10098",
    "source": "BSE",
