@@ -1,34 +1,177 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-11-11T11:53:05+00:00",
+ "generated_at": "2026-11-11T20:12:31+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-11-11T11:53:05+00:00",
+   "last_success": "2026-11-11T20:12:31+00:00",
    "last_count": 30,
-   "last_new": 0,
+   "last_new": 7,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-11-11T11:53:05+00:00",
-   "last_count": 9,
-   "last_new": 9,
+   "last_success": "2026-11-11T20:12:31+00:00",
+   "last_count": 19,
+   "last_new": 10,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-11-11T11:53:05+00:00",
-   "last_count": 17,
-   "last_new": 17,
+   "last_success": "2026-11-11T20:12:31+00:00",
+   "last_count": 30,
+   "last_new": 13,
    "error": null
   }
  },
- "count": 3795,
+ "count": 3825,
  "items": [
+  {
+   "id": "ccd23081b94f",
+   "source": "BSE",
+   "title": "Daily Bulletin",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261111-30/20261111-30.pdf",
+   "date": "2026-11-11",
+   "time": "21:55",
+   "category": "Notice",
+   "ref": "20261111-30",
+   "first_seen": "2026-11-11T20:12:31+00:00"
+  },
+  {
+   "id": "fb20cb46e2e6",
+   "source": "BSE",
+   "title": "CHANGES IN PRICE BAND",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261111-29/20261111-29.pdf",
+   "date": "2026-11-11",
+   "time": "18:57",
+   "category": "Surveillance",
+   "ref": "20261111-29",
+   "first_seen": "2026-11-11T20:12:31+00:00"
+  },
+  {
+   "id": "ccc28aef8ed2",
+   "source": "BSE",
+   "title": "Enhanced Surveillance Measure (ESM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261111-24/20261111-24.pdf",
+   "date": "2026-11-11",
+   "time": "18:57",
+   "category": "Surveillance",
+   "ref": "20261111-24",
+   "first_seen": "2026-11-11T20:12:31+00:00"
+  },
+  {
+   "id": "7277c589df4c",
+   "source": "BSE",
+   "title": "Graded Surveillance Measure (GSM) - List of securities moving into their respective GSM Stages",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261111-28/20261111-28.pdf",
+   "date": "2026-11-11",
+   "time": "18:57",
+   "category": "Surveillance",
+   "ref": "20261111-28",
+   "first_seen": "2026-11-11T20:12:31+00:00"
+  },
+  {
+   "id": "427412b64e73",
+   "source": "BSE",
+   "title": "Applicability of Long Term Additional Surveillance Measure (LT-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261111-25/20261111-25.pdf",
+   "date": "2026-11-11",
+   "time": "18:57",
+   "category": "Surveillance",
+   "ref": "20261111-25",
+   "first_seen": "2026-11-11T20:12:31+00:00"
+  },
+  {
+   "id": "3b84741e5e83",
+   "source": "BSE",
+   "title": "Surveillance Measure for securities under IBC",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261111-26/20261111-26.pdf",
+   "date": "2026-11-11",
+   "time": "18:57",
+   "category": "Surveillance",
+   "ref": "20261111-26",
+   "first_seen": "2026-11-11T20:12:31+00:00"
+  },
+  {
+   "id": "265c4429f5f0",
+   "source": "BSE",
+   "title": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261111-27/20261111-27.pdf",
+   "date": "2026-11-11",
+   "time": "18:57",
+   "category": "Surveillance",
+   "ref": "20261111-27",
+   "first_seen": "2026-11-11T20:12:31+00:00"
+  },
+  {
+   "id": "e6cceb286eb4",
+   "source": "BSE",
+   "title": "Clarification Received from the Company on News Article",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261111-22/20261111-22.pdf",
+   "date": "2026-11-11",
+   "time": "18:34",
+   "category": "Notice",
+   "ref": "20261111-22",
+   "first_seen": "2026-11-11T20:12:31+00:00"
+  },
+  {
+   "id": "5d414ee26bfa",
+   "source": "BSE",
+   "title": "Part Redemption of Debenture of Keystone Realtors Ltd",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261111-23/20261111-23.pdf",
+   "date": "2026-11-11",
+   "time": "18:34",
+   "category": "Debt",
+   "ref": "20261111-23",
+   "first_seen": "2026-11-11T20:12:31+00:00"
+  },
+  {
+   "id": "629d4b482935",
+   "source": "BSE",
+   "title": "Online submission of Change in compliance officer and KMP Details through IEFS",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261111-21/20261111-21.pdf",
+   "date": "2026-11-11",
+   "time": "18:24",
+   "category": "Compliance",
+   "ref": "20261111-21",
+   "first_seen": "2026-11-11T20:12:31+00:00"
+  },
+  {
+   "id": "1e399ef4d599",
+   "source": "BSE",
+   "title": "Rights Entitlements of Suvidhaa lnfoserve Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261111-20/20261111-20.pdf",
+   "date": "2026-11-11",
+   "time": "18:05",
+   "category": "Listing",
+   "ref": "20261111-20",
+   "first_seen": "2026-11-11T20:12:31+00:00"
+  },
+  {
+   "id": "2809480e1880",
+   "source": "BSE",
+   "title": "Clarification Received from the Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261111-19/20261111-19.pdf",
+   "date": "2026-11-11",
+   "time": "17:57",
+   "category": "Notice",
+   "ref": "20261111-19",
+   "first_seen": "2026-11-11T20:12:31+00:00"
+  },
+  {
+   "id": "f20cb3b85d91",
+   "source": "BSE",
+   "title": "Addition to the BSE SME IPO Index",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261111-18/20261111-18.pdf",
+   "date": "2026-11-11",
+   "time": "17:48",
+   "category": "Listing",
+   "ref": "20261111-18",
+   "first_seen": "2026-11-11T20:12:31+00:00"
+  },
   {
    "id": "dfeacdebdb7e",
    "source": "BSE",
@@ -217,6 +360,39 @@
    "first_seen": "2026-11-11T11:53:05+00:00"
   },
   {
+   "id": "e547fefbe61a",
+   "source": "SEBI",
+   "title": "Release Order dated November 11, 2026 issued under RC No. 9290 of 2026 drawn against Harsha Ishvarbhai Solanki (PAN: DCXPS3726R), Khushbu Arjunbhai Padhiyar (PAN: EBFPP6804K), Nitaben Babulal Khalas (PAN: BZVPK9515P), Nimeshkumar Baldevbhai Parmar (PAN: CDUPP7466C), Taraben Kirankumar Padhiyar (PAN: CXSPP4797A), Ravi Dipakbhai Barupal (PAN: AOBPB8419F), Rakeshbhai Kishanbhai Pandya (PAN: CUMPP3101K), Jayesh Ganpatlal Pansal (PAN: AWUPP5121F), Rajaniben Jayeshbhai Pansal (PAN: FPTPP7859P), Bhavika Prakash Rathod (PAN: BPDPR8645R), Rita Arvindbhai Rangi (PAN: DYHPR5253J), Badamilal Banshilal Garg (PAN: AWVPG2759F), Lataben Narotambhai Rangi (PAN: AYRPR7467F), Navin Shankarlal Tank (PAN: AFJPT4067J), Vishnu Shantibhai Parmar (PAN: CDHPP8536J), Komal Vaghaji Chauhan (PAN: BHYPC1780R), Dayaben Marvadi (PAN: DCEPM0246P), B B Commercial Ltd (PAN: AABCB4535B), Bhargaviben Shamalbhai Raval (PAN: ATEPR0799N), Prakash Chunilal Mudethiya (PAN: AUOPM4259K) and Ramnath Sharma (PAN: IBYPS8699E) jointly and severally in the matter of trading activity in the scrip of ANI Integrated Services Limited",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-dated-november-11-2026-issued-under-rc-no-9290-of-2026-drawn-against-harsha-ishvarbhai-solanki-pan-dcxps3726r-khushbu-arjunbhai-padhiyar-pan-ebfpp6804k-nitaben-babulal-khalas-_105710.html",
+   "date": "2026-11-11",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-11T20:12:31+00:00"
+  },
+  {
+   "id": "e53ce098f95d",
+   "source": "NSE",
+   "title": "Applicability of Enhanced Surveillance Measure (ESM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV77386.zip",
+   "date": "2026-11-11",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV77386",
+   "first_seen": "2026-11-11T20:12:31+00:00"
+  },
+  {
+   "id": "ddaea67aabfc",
+   "source": "NSE",
+   "title": "Trading of Rights Entitlements pursuant to Rights Issue of Suvidhaa Infoserve Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77385.pdf",
+   "date": "2026-11-11",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77385",
+   "first_seen": "2026-11-11T20:12:31+00:00"
+  },
+  {
    "id": "d6a0fb503fa6",
    "source": "NSE",
    "title": "Availability of Axis Nifty EV & New Age Automotive Index Fund on NSE MF Invest Platform",
@@ -226,6 +402,39 @@
    "category": "Mutual Funds",
    "ref": "NMF77381",
    "first_seen": "2026-11-11T11:53:05+00:00"
+  },
+  {
+   "id": "d24ca3966503",
+   "source": "NSE",
+   "title": "Listing of privately placed securities on capital market segment",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77397.pdf",
+   "date": "2026-11-11",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77397",
+   "first_seen": "2026-11-11T20:12:31+00:00"
+  },
+  {
+   "id": "c8e9be4deb95",
+   "source": "NSE",
+   "title": "List of Securities Moving to Stage IV of Graded Surveillance Measure (GSM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV77387.pdf",
+   "date": "2026-11-11",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV77387",
+   "first_seen": "2026-11-11T20:12:31+00:00"
+  },
+  {
+   "id": "b14df207e30a",
+   "source": "NSE",
+   "title": "Applicability of Additional Surveillance Measure (ASM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV77389.zip",
+   "date": "2026-11-11",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV77389",
+   "first_seen": "2026-11-11T20:12:31+00:00"
   },
   {
    "id": "a01dbc59d855",
@@ -250,6 +459,39 @@
    "first_seen": "2026-11-11T11:53:05+00:00"
   },
   {
+   "id": "7e57d27c5a6a",
+   "source": "SEBI",
+   "title": "Cancellation of Recovery Certificate No. 9228 of 2026 issued against Fulabhai Bhitor (PAN: DYLPB2813Q) in the matter of trading activity in the scrip of ANI Integrated Services Limited",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9228-of-2026-issued-against-fulabhai-bhitor-pan-dylpb2813q-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-services-limited_105708.html",
+   "date": "2026-11-11",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-11T20:12:31+00:00"
+  },
+  {
+   "id": "6f676baae129",
+   "source": "NSE",
+   "title": "Applicability of Short-Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV77390.zip",
+   "date": "2026-11-11",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV77390",
+   "first_seen": "2026-11-11T20:12:31+00:00"
+  },
+  {
+   "id": "62685b119785",
+   "source": "NSE",
+   "title": "Commodity Derivatives Settlement Calendar (Compulsory Delivery) & GST details reporting calendar for December 2026",
+   "url": "https://nsearchives.nseindia.com/content/circulars/COM77399.zip",
+   "date": "2026-11-11",
+   "time": null,
+   "category": "Commodity Derivatives",
+   "ref": "COM77399",
+   "first_seen": "2026-11-11T20:12:31+00:00"
+  },
+  {
    "id": "5ef1e0abb3e8",
    "source": "NSE",
    "title": "Listing of further issues of securities",
@@ -261,6 +503,39 @@
    "first_seen": "2026-11-11T11:53:05+00:00"
   },
   {
+   "id": "52fd12ff7f33",
+   "source": "NSE",
+   "title": "Listing of privately placed securities on the debt market segment of the Exchange",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77396.pdf",
+   "date": "2026-11-11",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77396",
+   "first_seen": "2026-11-11T20:12:31+00:00"
+  },
+  {
+   "id": "4f733b06ce27",
+   "source": "SEBI",
+   "title": "Release Order dated November 11, 2026 issued under RC No. 9228 of 2026 drawn against Fulabhai Bhitor (PAN: DYLPB2813Q) in the matter of trading activity in the scrip of ANI Integrated Services Limited",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-dated-november-11-2026-issued-under-rc-no-9228-of-2026-drawn-against-fulabhai-bhitor-pan-dylpb2813q-in-the-matter-of-trading-activity-in-the-scrip-of-ani-integrated-services-limited_105706.html",
+   "date": "2026-11-11",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-11T20:12:31+00:00"
+  },
+  {
+   "id": "3b0b53ded2cb",
+   "source": "SEBI",
+   "title": "Reporting requirement under Foreign Account Tax Compliance Act (FATCA) and Common Reporting Standard (CRS) revised through Income-Tax Act, 2025 read with Income-Tax Rules, 2026",
+   "url": "https://www.sebi.gov.in/legal/circulars/nov-2026/reporting-requirement-under-foreign-account-tax-compliance-act-fatca-and-common-reporting-standard-crs-revised-through-income-tax-act-2025-read-with-income-tax-rules-2026_105705.html",
+   "date": "2026-11-11",
+   "time": null,
+   "category": "Circular",
+   "ref": null,
+   "first_seen": "2026-11-11T20:12:31+00:00"
+  },
+  {
    "id": "373d6b191936",
    "source": "NSE",
    "title": "Listing of further issues of securities",
@@ -270,6 +545,17 @@
    "category": "Listing",
    "ref": "CML77395",
    "first_seen": "2026-11-11T11:53:05+00:00"
+  },
+  {
+   "id": "34aa220e9452",
+   "source": "SEBI",
+   "title": "Cancellation of Recovery Certificate No. 9290 of 2026 issued against Harsha Ishvarbhai Solanki (PAN: DCXPS3726R), Khushbu Arjunbhai Padhiyar (PAN: EBFPP6804K), Nitaben Babulal Khalas (PAN: BZVPK9515P), Nimeshkumar Baldevbhai Parmar (PAN: CDUPP7466C), Taraben Kirankumar Padhiyar (PAN: CXSPP4797A), Ravi Dipakbhai Barupal (PAN: AOBPB8419F), Rakeshbhai Kishanbhai Pandya (PAN: CUMPP3101K), Jayesh Ganpatlal Pansal (PAN: AWUPP5121F), Rajaniben Jayeshbhai Pansal (PAN: FPTPP7859P), Bhavika Prakash Rathod (PAN: BPDPR8645R), Rita Arvindbhai Rangi (PAN: DYHPR5253J), Badamilal Banshilal Garg (PAN: AWVPG2759F), Lataben Narotambhai Rangi (PAN: AYRPR7467F), Navin Shankarlal Tank (PAN: AFJPT4067J), Vishnu Shantibhai Parmar (PAN: CDHPP8536J), Komal Vaghaji Chauhan (PAN: BHYPC1780R), Dayaben Marvadi (PAN: DCEPM0246P), B B Commercial Ltd (PAN: AABCB4535B), Bhargaviben Shamalbhai Raval (PAN: ATEPR0799N), Prakash Chunilal Mudethiya (PAN: AUOPM4259K) and Ramnath Sharma (PAN: IBYPS8699E) jointly and severally in the matter of trading activity in the scrip of ANI Integrated Services Limited",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/cancellation-of-recovery-certificate-no-9290-of-2026-issued-against-harsha-ishvarbhai-solanki-pan-dcxps3726r-khushbu-arjunbhai-padhiyar-pan-ebfpp6804k-nitaben-babulal-khalas-pan-bzvpk9515p-_105712.html",
+   "date": "2026-11-11",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-11T20:12:31+00:00"
   },
   {
    "id": "33f48a1ea72d",
@@ -294,6 +580,17 @@
    "first_seen": "2026-11-11T11:53:05+00:00"
   },
   {
+   "id": "2536d6e7435b",
+   "source": "NSE",
+   "title": "DIVIDEND: Adjustment of Futures and Options contracts in the security ONGC",
+   "url": "https://nsearchives.nseindia.com/content/circulars/FAOP77398.pdf",
+   "date": "2026-11-11",
+   "time": null,
+   "category": "Futures & Options",
+   "ref": "FAOP77398",
+   "first_seen": "2026-11-11T20:12:31+00:00"
+  },
+  {
    "id": "0cb44fc7c3fe",
    "source": "NSE",
    "title": "Takeover Offer under Tender Offer scheme of G-Tec Jainx Education Limited",
@@ -314,6 +611,28 @@
    "category": "Listing",
    "ref": "CML77391",
    "first_seen": "2026-11-11T11:53:05+00:00"
+  },
+  {
+   "id": "0ae98ebaaa50",
+   "source": "NSE",
+   "title": "List of Securities Moving to Stage II of Graded Surveillance Measure (GSM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV77388.pdf",
+   "date": "2026-11-11",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV77388",
+   "first_seen": "2026-11-11T20:12:31+00:00"
+  },
+  {
+   "id": "0acd109e91dc",
+   "source": "SEBI",
+   "title": "Summary Settlement Order in the matte of Eight Innovate Fund II, scheme of Eight Innovate Investment Trust I",
+   "url": "https://www.sebi.gov.in/enforcement/orders/nov-2026/summary-settlement-order-in-the-matte-of-eight-innovate-fund-ii-scheme-of-eight-innovate-investment-trust-i_103642.html",
+   "date": "2026-11-11",
+   "time": null,
+   "category": "Order",
+   "ref": null,
+   "first_seen": "2026-11-11T20:12:31+00:00"
   },
   {
    "id": "f7f64194f030",
@@ -369,6 +688,17 @@
    "category": "Enforcement",
    "ref": null,
    "first_seen": "2026-11-10T12:39:59+00:00"
+  },
+  {
+   "id": "405e19aa8cbb",
+   "source": "SEBI",
+   "title": "Notice of attachment dated November 10, 2026 issued against R Ravichandran under RC No.6735 of 2023 in the matter of Teledata Technology Solutions Limited",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-attachment-dated-november-10-2026-issued-against-r-ravichandran-under-rc-no-6735-of-2023-in-the-matter-of-teledata-technology-solutions-limited_105700.html",
+   "date": "2026-11-10",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-11T20:12:31+00:00"
   },
   {
    "id": "2ee52eb83e44",
