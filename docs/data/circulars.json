@@ -1,34 +1,122 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-11-12T12:43:48+00:00",
+ "generated_at": "2026-11-12T20:50:10+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-11-12T12:43:48+00:00",
+   "last_success": "2026-11-12T20:50:10+00:00",
    "last_count": 30,
-   "last_new": 10,
+   "last_new": 0,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-11-12T12:43:48+00:00",
-   "last_count": 8,
-   "last_new": 8,
+   "last_success": "2026-11-12T20:50:10+00:00",
+   "last_count": 15,
+   "last_new": 7,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-11-12T12:43:48+00:00",
-   "last_count": 23,
-   "last_new": 23,
+   "last_success": "2026-11-12T20:50:10+00:00",
+   "last_count": 31,
+   "last_new": 8,
    "error": null
   }
  },
- "count": 3866,
+ "count": 3881,
  "items": [
+  {
+   "id": "83c56ef218b9",
+   "source": "BSE",
+   "title": "Daily Bulletin",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261112-31/20261112-31.pdf",
+   "date": "2026-11-12",
+   "time": "22:46",
+   "category": "Notice",
+   "ref": "20261112-31",
+   "first_seen": "2026-11-12T20:50:10+00:00"
+  },
+  {
+   "id": "583626ad638e",
+   "source": "BSE",
+   "title": "Part Redemption of Trading in Debentures and PTCs of Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261112-30/20261112-30.pdf",
+   "date": "2026-11-12",
+   "time": "22:43",
+   "category": "Debt",
+   "ref": "20261112-30",
+   "first_seen": "2026-11-12T20:50:10+00:00"
+  },
+  {
+   "id": "24cee178fb48",
+   "source": "BSE",
+   "title": "Applicability of Long-Term Additional Surveillance Measure (LT-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261112-27/20261112-27.pdf",
+   "date": "2026-11-12",
+   "time": "18:44",
+   "category": "Surveillance",
+   "ref": "20261112-27",
+   "first_seen": "2026-11-12T20:50:10+00:00"
+  },
+  {
+   "id": "1ed50b86399c",
+   "source": "BSE",
+   "title": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261112-29/20261112-29.pdf",
+   "date": "2026-11-12",
+   "time": "18:44",
+   "category": "Surveillance",
+   "ref": "20261112-29",
+   "first_seen": "2026-11-12T20:50:10+00:00"
+  },
+  {
+   "id": "16d36accd106",
+   "source": "BSE",
+   "title": "Enhanced Surveillance Measure (ESM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261112-28/20261112-28.pdf",
+   "date": "2026-11-12",
+   "time": "18:44",
+   "category": "Surveillance",
+   "ref": "20261112-28",
+   "first_seen": "2026-11-12T20:50:10+00:00"
+  },
+  {
+   "id": "85988f1e62bb",
+   "source": "BSE",
+   "title": "CHANGES IN PRICE BAND",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261112-25/20261112-25.pdf",
+   "date": "2026-11-12",
+   "time": "18:43",
+   "category": "Surveillance",
+   "ref": "20261112-25",
+   "first_seen": "2026-11-12T20:50:10+00:00"
+  },
+  {
+   "id": "2913c28f3b85",
+   "source": "BSE",
+   "title": "Graded Surveillance Measure (GSM) - List of securities moving into their respective GSM Stages",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261112-26/20261112-26.pdf",
+   "date": "2026-11-12",
+   "time": "18:43",
+   "category": "Surveillance",
+   "ref": "20261112-26",
+   "first_seen": "2026-11-12T20:50:10+00:00"
+  },
+  {
+   "id": "e91b11b2317e",
+   "source": "BSE",
+   "title": "Buyback of the Equity shares of MEDPLUS HEALTH SERVICES LIMITED from Open Market through Stock Exchanges",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261112-24/20261112-24.pdf",
+   "date": "2026-11-12",
+   "time": "18:36",
+   "category": "Corporate Action",
+   "ref": "20261112-24",
+   "first_seen": "2026-11-12T20:50:10+00:00"
+  },
   {
    "id": "8e909e805e64",
    "source": "BSE",
@@ -305,6 +393,28 @@
    "first_seen": "2026-11-12T12:43:48+00:00"
   },
   {
+   "id": "cd747e041c18",
+   "source": "NSE",
+   "title": "Listing of further issues of securities",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77413.pdf",
+   "date": "2026-11-12",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77413",
+   "first_seen": "2026-11-12T20:50:10+00:00"
+  },
+  {
+   "id": "c82870d9b9a2",
+   "source": "NSE",
+   "title": "Trading of Rights Entitlements pursuant to Rights Issue of Indian Emulsifiers Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77402.pdf",
+   "date": "2026-11-12",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77402",
+   "first_seen": "2026-11-12T20:50:10+00:00"
+  },
+  {
    "id": "c55f7e1eded1",
    "source": "SEBI",
    "title": "Appeal No. 7150 of 2026 filed by Nirvesh Devi",
@@ -347,6 +457,28 @@
    "category": "Surveillance",
    "ref": "SURV77404",
    "first_seen": "2026-11-12T12:43:48+00:00"
+  },
+  {
+   "id": "9d12b50ae883",
+   "source": "NSE",
+   "title": "Suspension of partly paid-up equity shares of Party Cruisers Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77406.pdf",
+   "date": "2026-11-12",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77406",
+   "first_seen": "2026-11-12T20:50:10+00:00"
+  },
+  {
+   "id": "8757bd4d6691",
+   "source": "NSE",
+   "title": "Launch of H-SIF Hybrid Long-Short Fund (SIF) on NSE MF Invest Platform",
+   "url": "https://nsearchives.nseindia.com/content/circulars/NMF77411.pdf",
+   "date": "2026-11-12",
+   "time": null,
+   "category": "Mutual Funds",
+   "ref": "NMF77411",
+   "first_seen": "2026-11-12T20:50:10+00:00"
   },
   {
    "id": "83e99b662e65",
@@ -415,6 +547,28 @@
    "first_seen": "2026-11-12T12:43:48+00:00"
   },
   {
+   "id": "2a491489db1e",
+   "source": "NSE",
+   "title": "Launch of DSP Fixed Maturity Plan (FMP) - Series 280 - 90 Days on NSE MF Invest Platform",
+   "url": "https://nsearchives.nseindia.com/content/circulars/NMF77409.pdf",
+   "date": "2026-11-12",
+   "time": null,
+   "category": "Mutual Funds",
+   "ref": "NMF77409",
+   "first_seen": "2026-11-12T20:50:10+00:00"
+  },
+  {
+   "id": "297bf2773055",
+   "source": "NSE",
+   "title": "Face Value Split and Change in ISIN - BN Agrochem Limited (BNAGROCHEM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77412.pdf",
+   "date": "2026-11-12",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77412",
+   "first_seen": "2026-11-12T20:50:10+00:00"
+  },
+  {
    "id": "2911d1882b2e",
    "source": "NSE",
    "title": "Suspension of trading in Non-Convertible Securities (Privately Placed)",
@@ -457,6 +611,17 @@
    "category": "Order",
    "ref": null,
    "first_seen": "2026-11-12T12:43:48+00:00"
+  },
+  {
+   "id": "0d52ae1e0ebe",
+   "source": "NSE",
+   "title": "Algo Provider Empanelment for Providing Algorithmic Trading Solutions",
+   "url": "https://nsearchives.nseindia.com/content/circulars/INVG77410.pdf",
+   "date": "2026-11-12",
+   "time": null,
+   "category": "Investigation",
+   "ref": "INVG77410",
+   "first_seen": "2026-11-12T20:50:10+00:00"
   },
   {
    "id": "094e65138490",
