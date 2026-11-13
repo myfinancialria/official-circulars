@@ -1,34 +1,199 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-11-13T12:14:02+00:00",
+ "generated_at": "2026-11-13T20:29:32+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-11-13T12:14:02+00:00",
+   "last_success": "2026-11-13T20:29:32+00:00",
    "last_count": 30,
-   "last_new": 0,
+   "last_new": 17,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-11-13T12:14:02+00:00",
-   "last_count": 17,
-   "last_new": 17,
+   "last_success": "2026-11-13T20:29:32+00:00",
+   "last_count": 25,
+   "last_new": 8,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-11-13T12:14:02+00:00",
-   "last_count": 11,
-   "last_new": 11,
+   "last_success": "2026-11-13T20:29:32+00:00",
+   "last_count": 26,
+   "last_new": 15,
    "error": null
   }
  },
- "count": 3909,
+ "count": 3949,
  "items": [
+  {
+   "id": "0083ec50b196",
+   "source": "BSE",
+   "title": "Daily Bulletin",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261113-26/20261113-26.pdf",
+   "date": "2026-11-13",
+   "time": "22:30",
+   "category": "Notice",
+   "ref": "20261113-26",
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
+   "id": "995dc19e2e08",
+   "source": "BSE",
+   "title": "Availability UTI NIFTY INDIA NEW AGE CONSUMPTION INDEX FUND for ongoing transactions on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261113-25/20261113-25.pdf",
+   "date": "2026-11-13",
+   "time": "21:33",
+   "category": "Mutual Funds",
+   "ref": "20261113-25",
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
+   "id": "6cbff3cd92fb",
+   "source": "BSE",
+   "title": "Launch of ETF NFO of INVESCO Mutual Fund on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261113-24/20261113-24.pdf",
+   "date": "2026-11-13",
+   "time": "21:30",
+   "category": "Mutual Funds",
+   "ref": "20261113-24",
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
+   "id": "d85cef316cc6",
+   "source": "BSE",
+   "title": "Reconstitution of BSE Indices",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261113-23/20261113-23.pdf",
+   "date": "2026-11-13",
+   "time": "21:27",
+   "category": "Notice",
+   "ref": "20261113-23",
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
+   "id": "baead27c0f8c",
+   "source": "BSE",
+   "title": "Launch of New Fund Offer (NFO) with SIP Facility of KOTAK MAHINDRA Mutual Fund on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261113-22/20261113-22.pdf",
+   "date": "2026-11-13",
+   "time": "21:24",
+   "category": "Mutual Funds",
+   "ref": "20261113-22",
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
+   "id": "52d709d9a44e",
+   "source": "BSE",
+   "title": "Launch of New Fund Offer with SIP Facility of SBI Mutual Fund on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261113-21/20261113-21.pdf",
+   "date": "2026-11-13",
+   "time": "21:23",
+   "category": "Mutual Funds",
+   "ref": "20261113-21",
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
+   "id": "226abbb46f9f",
+   "source": "BSE",
+   "title": "Applicability of Long Term Additional Surveillance Measure (LT-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261113-20/20261113-20.pdf",
+   "date": "2026-11-13",
+   "time": "19:50",
+   "category": "Surveillance",
+   "ref": "20261113-20",
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
+   "id": "f478e0bb09e7",
+   "source": "BSE",
+   "title": "Enhanced Surveillance Measure (ESM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261113-19/20261113-19.pdf",
+   "date": "2026-11-13",
+   "time": "19:46",
+   "category": "Surveillance",
+   "ref": "20261113-19",
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
+   "id": "fa2fefb5d738",
+   "source": "BSE",
+   "title": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261113-18/20261113-18.pdf",
+   "date": "2026-11-13",
+   "time": "19:45",
+   "category": "Surveillance",
+   "ref": "20261113-18",
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
+   "id": "e0fdd6daa099",
+   "source": "BSE",
+   "title": "CHANGES IN PRICE BAND",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261113-15/20261113-15.pdf",
+   "date": "2026-11-13",
+   "time": "19:45",
+   "category": "Surveillance",
+   "ref": "20261113-15",
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
+   "id": "89107f211652",
+   "source": "BSE",
+   "title": "Graded Surveillance Measure (GSM) - List of securities moving into their respective GSM Stages",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261113-17/20261113-17.pdf",
+   "date": "2026-11-13",
+   "time": "19:45",
+   "category": "Surveillance",
+   "ref": "20261113-17",
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
+   "id": "38589ccd0ccb",
+   "source": "BSE",
+   "title": "Additional Measure for securities witnessing unusual price movement",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261113-16/20261113-16.pdf",
+   "date": "2026-11-13",
+   "time": "19:45",
+   "category": "Notice",
+   "ref": "20261113-16",
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
+   "id": "6279e3b53665",
+   "source": "BSE",
+   "title": "Listing of New Securities of Centrum Capital Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261113-14/20261113-14.pdf",
+   "date": "2026-11-13",
+   "time": "18:42",
+   "category": "Listing",
+   "ref": "20261113-14",
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
+   "id": "b3fe0997f973",
+   "source": "BSE",
+   "title": "Clarification Received from the Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261113-13/20261113-13.pdf",
+   "date": "2026-11-13",
+   "time": "18:24",
+   "category": "Notice",
+   "ref": "20261113-13",
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
+   "id": "07c4ad796114",
+   "source": "BSE",
+   "title": "Listing of privately placed securities on the debt market segment of the Exchange",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261113-12/20261113-12.pdf",
+   "date": "2026-11-13",
+   "time": "18:20",
+   "category": "Listing",
+   "ref": "20261113-12",
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
   {
    "id": "c2d45186e147",
    "source": "BSE",
@@ -162,6 +327,28 @@
    "first_seen": "2026-11-13T12:14:02+00:00"
   },
   {
+   "id": "e4dedd273083",
+   "source": "SEBI",
+   "title": "General Remittance Order dated November 13, 2026 issued against K Manikandan under RC No. 7698 of 2024 in the matter of Arvind Remedies Ltd.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-order-dated-november-13-2026-issued-against-k-manikandan-under-rc-no-7698-of-2024-in-the-matter-of-arvind-remedies-ltd-_105757.html",
+   "date": "2026-11-13",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
+   "id": "dbe68a1ad4a3",
+   "source": "NSE",
+   "title": "Applicability of Short-Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV77435.zip",
+   "date": "2026-11-13",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV77435",
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
    "id": "d5abcfd50d96",
    "source": "NSE",
    "title": "Listing of privately placed securities on capital market segment",
@@ -182,6 +369,28 @@
    "category": "Mutual Funds",
    "ref": "NMF77428",
    "first_seen": "2026-11-13T12:14:02+00:00"
+  },
+  {
+   "id": "d4e4718a8c1d",
+   "source": "NSE",
+   "title": "Removal of Exclusively listed companies of De-recognized/Non-operational/Exited Stock Exchanges placed on the Dissemination Board (DB)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77431.pdf",
+   "date": "2026-11-13",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77431",
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
+   "id": "d4172eb851aa",
+   "source": "NSE",
+   "title": "Applicability of Additional Surveillance Measure (ASM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV77434.zip",
+   "date": "2026-11-13",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV77434",
+   "first_seen": "2026-11-13T20:29:32+00:00"
   },
   {
    "id": "d14df0752c33",
@@ -206,6 +415,72 @@
    "first_seen": "2026-11-13T12:14:02+00:00"
   },
   {
+   "id": "c6bb3436419f",
+   "source": "SEBI",
+   "title": "General Remittance Order dated November 13, 2026 issued against Varalakshmi P under RC No. 7695 of 2024 in the matter of Arvind Remedies Ltd.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-order-dated-november-13-2026-issued-against-varalakshmi-p-under-rc-no-7695-of-2024-in-the-matter-of-arvind-remedies-ltd-_105753.html",
+   "date": "2026-11-13",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
+   "id": "c138bc1fb927",
+   "source": "SEBI",
+   "title": "General Remittance Order dated November 13, 2026 issued against Subhalakshmi M S under RC No. 7712 of 2024 in the matter of Arvind Remedies Ltd.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-order-dated-november-13-2026-issued-against-subhalakshmi-m-s-under-rc-no-7712-of-2024-in-the-matter-of-arvind-remedies-ltd-_105772.html",
+   "date": "2026-11-13",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
+   "id": "bca8fdbaa3f4",
+   "source": "NSE",
+   "title": "Applicability of Enhanced Surveillance Measure (ESM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV77432.zip",
+   "date": "2026-11-13",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV77432",
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
+   "id": "b615e3a124b0",
+   "source": "SEBI",
+   "title": "General Remittance Order dated November 13, 2026 issued against M Sasikala under RC No.7699 of 2024 in the matter of Arvind Remedies Ltd.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-order-dated-november-13-2026-issued-against-m-sasikala-under-rc-no-7699-of-2024-in-the-matter-of-arvind-remedies-ltd-_105759.html",
+   "date": "2026-11-13",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
+   "id": "b4456ade5849",
+   "source": "SEBI",
+   "title": "General Remittance Order dated November 13, 2026 issued against Solomon Y under RC No. 7706 of 2024 in the matter of Arvind Remedies Ltd.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-order-dated-november-13-2026-issued-against-solomon-y-under-rc-no-7706-of-2024-in-the-matter-of-arvind-remedies-ltd-_105763.html",
+   "date": "2026-11-13",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
+   "id": "b063eaf7a872",
+   "source": "NSE",
+   "title": "Suspension of trading in equity shares - Dr Agarwals Eye Hospital Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77433.pdf",
+   "date": "2026-11-13",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77433",
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
    "id": "a973ce6bf7aa",
    "source": "NSE",
    "title": "Launch of SBI BSE India Defence ETF FOF on NSE MF Invest Platform",
@@ -228,6 +503,17 @@
    "first_seen": "2026-11-13T12:14:02+00:00"
   },
   {
+   "id": "951815aa97cb",
+   "source": "SEBI",
+   "title": "General Remittance Order dated November 13, 2026 issued against M Sethujanani under RC No. 7709 of 2024 in the matter of Arvind Remedies Ltd.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-order-dated-november-13-2026-issued-against-m-sethujanani-under-rc-no-7709-of-2024-in-the-matter-of-arvind-remedies-ltd-_105769.html",
+   "date": "2026-11-13",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
    "id": "93a81656fe52",
    "source": "NSE",
    "title": "Listing of privately placed securities on the debt market segment of the Exchange",
@@ -237,6 +523,28 @@
    "category": "Listing",
    "ref": "CML77429",
    "first_seen": "2026-11-13T12:14:02+00:00"
+  },
+  {
+   "id": "9127c766f021",
+   "source": "SEBI",
+   "title": "General Remittance Order dated November 13, 2026 issued against Murali Prakash Naidu under RC No. 7707 of 2024 in the matter of Arvind Remedies Ltd",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-order-dated-november-13-2026-issued-against-murali-prakash-naidu-under-rc-no-7707-of-2024-in-the-matter-of-arvind-remedies-ltd_105765.html",
+   "date": "2026-11-13",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
+   "id": "75b9e3e03990",
+   "source": "NSE",
+   "title": "Listing of further issues of securities",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77436.pdf",
+   "date": "2026-11-13",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77436",
+   "first_seen": "2026-11-13T20:29:32+00:00"
   },
   {
    "id": "685677ceaffd",
@@ -250,6 +558,39 @@
    "first_seen": "2026-11-13T12:14:02+00:00"
   },
   {
+   "id": "5b8499badab2",
+   "source": "SEBI",
+   "title": "General Remittance Order dated November 13, 2026 issued against Raja P under RC No. 7704 of 2024 in the matter of Arvind Remedies Ltd.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-order-dated-november-13-2026-issued-against-raja-p-under-rc-no-7704-of-2024-in-the-matter-of-arvind-remedies-ltd-_105761.html",
+   "date": "2026-11-13",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
+   "id": "5a54fe1f12e5",
+   "source": "NSE",
+   "title": "Listing of further issues of Z-Tech (India) Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77437.pdf",
+   "date": "2026-11-13",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77437",
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
+   "id": "5729e8da8de9",
+   "source": "SEBI",
+   "title": "General Remittance Order dated November 13, 2026 issued against S Sengolancy Beaula under RC No. 7711 of 2024 in the matter of Arvind Remedies Ltd.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-order-dated-november-13-2026-issued-against-s-sengolancy-beaula-under-rc-no-7711-of-2024-in-the-matter-of-arvind-remedies-ltd-_105770.html",
+   "date": "2026-11-13",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
    "id": "54ce9e5bbef3",
    "source": "NSE",
    "title": "Review of Volatility Scan Range (VSR) for Option Contracts in Commodity Derivatives Segment",
@@ -259,6 +600,17 @@
    "category": "Commodity Derivatives",
    "ref": "COM77420",
    "first_seen": "2026-11-13T12:14:02+00:00"
+  },
+  {
+   "id": "40d3813e2c91",
+   "source": "NSE",
+   "title": "Early Pay-in of Securities for BN Agrochem Limited (BNAGROCHEM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT77438.pdf",
+   "date": "2026-11-13",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT77438",
+   "first_seen": "2026-11-13T20:29:32+00:00"
   },
   {
    "id": "3cac0c971ca7",
@@ -305,6 +657,17 @@
    "first_seen": "2026-11-13T12:14:02+00:00"
   },
   {
+   "id": "2dd4f38d4490",
+   "source": "SEBI",
+   "title": "General Remittance Order dated November 13, 2026 issued against S Nagarajan under RC No. 7696 of 2024 in the matter of Arvind Remedies Ltd.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-order-dated-november-13-2026-issued-against-s-nagarajan-under-rc-no-7696-of-2024-in-the-matter-of-arvind-remedies-ltd-_105755.html",
+   "date": "2026-11-13",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
    "id": "109550172bbd",
    "source": "NSE",
    "title": "Launch of Invesco India Nifty Metal Index Fund & Invesco India BSE Top 10 Banks ETF on NSE MF Invest Platform",
@@ -316,6 +679,17 @@
    "first_seen": "2026-11-13T12:14:02+00:00"
   },
   {
+   "id": "0ece82171984",
+   "source": "SEBI",
+   "title": "General Remittance Order dated November 13, 2026 issued against Shreyanse Finance Ltd in the matter of Arvind Remedies Ltd. under Recovery Certificate No. 7568 of 2024",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-order-dated-november-13-2026-issued-against-shreyanse-finance-ltd-in-the-matter-of-arvind-remedies-ltd-under-recovery-certificate-no-7568-of-2024_105751.html",
+   "date": "2026-11-13",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
    "id": "0b7d0badd120",
    "source": "NSE",
    "title": "Mock bidding session on eOFS platform in Live environment",
@@ -325,6 +699,17 @@
    "category": "Trading",
    "ref": "CMTR77427",
    "first_seen": "2026-11-13T12:14:02+00:00"
+  },
+  {
+   "id": "06d47a6fab03",
+   "source": "SEBI",
+   "title": "General Remittance Order dated November 13, 2026 issued against Shreyanse Finance Ltd under RC No. 7708 of 2024 in the matter of Arvind Remedies Ltd.",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/general-remittance-order-dated-november-13-2026-issued-against-shreyanse-finance-ltd-under-rc-no-7708-of-2024-in-the-matter-of-arvind-remedies-ltd-_105767.html",
+   "date": "2026-11-13",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-13T20:29:32+00:00"
   },
   {
    "id": "011600a4b382",
@@ -701,6 +1086,28 @@
    "first_seen": "2026-11-12T12:43:48+00:00"
   },
   {
+   "id": "ddb82f31212f",
+   "source": "SEBI",
+   "title": "Notice of Demand dated 12.11.2026 in RC No. 9324 of 2026",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-12-11-2026-in-rc-no-9324-of-2026_105739.html",
+   "date": "2026-11-12",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
+   "id": "d39baa2aadfd",
+   "source": "SEBI",
+   "title": "Release Order dated 12.11.2026 issued in RC No. 9286 of 2026",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/release-order-dated-12-11-2026-issued-in-rc-no-9286-of-2026_105745.html",
+   "date": "2026-11-12",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
    "id": "cd747e041c18",
    "source": "NSE",
    "title": "Listing of further issues of securities",
@@ -732,6 +1139,17 @@
    "category": "Order",
    "ref": null,
    "first_seen": "2026-11-12T12:43:48+00:00"
+  },
+  {
+   "id": "c0508549c634",
+   "source": "SEBI",
+   "title": "Completion of Recovery Certificate dated 12.11.2026 issued in RC No. 9286 of 2026",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/completion-of-recovery-certificate-dated-12-11-2026-issued-in-rc-no-9286-of-2026_105737.html",
+   "date": "2026-11-12",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-13T20:29:32+00:00"
   },
   {
    "id": "be2b9e6d565f",
@@ -778,6 +1196,17 @@
    "first_seen": "2026-11-12T20:50:10+00:00"
   },
   {
+   "id": "8ba825ff5a10",
+   "source": "SEBI",
+   "title": "SEBI order dated November 12 2026 for Release of Attachment of Bank accounts / Lockers, Demat accounts & Mutual Fund folios in respect of Recovery Certificate No. 7251 of 2023",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/sebi-order-dated-november-12-2026-for-release-of-attachment-of-bank-accounts-lockers-demat-accounts-and-mutual-fund-folios-in-respect-of-recovery-certificate-no-7251-of-2023_105743.html",
+   "date": "2026-11-12",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-13T20:29:32+00:00"
+  },
+  {
    "id": "8757bd4d6691",
    "source": "NSE",
    "title": "Launch of H-SIF Hybrid Long-Short Fund (SIF) on NSE MF Invest Platform",
@@ -809,6 +1238,17 @@
    "category": "Order",
    "ref": null,
    "first_seen": "2026-11-12T12:43:48+00:00"
+  },
+  {
+   "id": "799c12301f48",
+   "source": "SEBI",
+   "title": "Notice of Demand dated 12.11.2026 in RC No. 9325 of 2026",
+   "url": "https://www.sebi.gov.in/enforcement/recovery-proceedings/nov-2026/notice-of-demand-dated-12-11-2026-in-rc-no-9325-of-2026_105741.html",
+   "date": "2026-11-12",
+   "time": null,
+   "category": "Enforcement",
+   "ref": null,
+   "first_seen": "2026-11-13T20:29:32+00:00"
   },
   {
    "id": "71ca25c8783f",
