@@ -1,11 +1,11 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-11-16T12:46:22+00:00",
+ "generated_at": "2026-11-16T22:53:57+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-11-16T12:46:22+00:00",
+   "last_success": "2026-11-16T22:53:57+00:00",
    "last_count": 0,
    "last_new": 0,
    "error": null
@@ -13,22 +13,330 @@
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-11-16T12:46:22+00:00",
-   "last_count": 13,
-   "last_new": 13,
+   "last_success": "2026-11-16T22:53:57+00:00",
+   "last_count": 16,
+   "last_new": 3,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-11-16T12:46:22+00:00",
-   "last_count": 26,
-   "last_new": 26,
+   "last_success": "2026-11-16T22:53:57+00:00",
+   "last_count": 54,
+   "last_new": 28,
    "error": null
   }
  },
- "count": 3988,
+ "count": 4019,
  "items": [
+  {
+   "id": "8ced723ce4ef",
+   "source": "BSE",
+   "title": "Daily Bulletin",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261116-54/20261116-54.pdf",
+   "date": "2026-11-16",
+   "time": "22:42",
+   "category": "Notice",
+   "ref": "20261116-54",
+   "first_seen": "2026-11-16T22:53:57+00:00"
+  },
+  {
+   "id": "93a815986efa",
+   "source": "BSE",
+   "title": "Part Redemption of Debentures and PTCs",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261116-53/20261116-53.pdf",
+   "date": "2026-11-16",
+   "time": "22:39",
+   "category": "Debt",
+   "ref": "20261116-53",
+   "first_seen": "2026-11-16T22:53:57+00:00"
+  },
+  {
+   "id": "42713a94cb4c",
+   "source": "BSE",
+   "title": "Rights Issue of Equity Shares of IRONWOOD EDUCATION LIMITED (Scrip code- 508918)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261116-52/20261116-52.pdf",
+   "date": "2026-11-16",
+   "time": "22:32",
+   "category": "Listing",
+   "ref": "20261116-52",
+   "first_seen": "2026-11-16T22:53:57+00:00"
+  },
+  {
+   "id": "0aa86feca2e1",
+   "source": "BSE",
+   "title": "Right Issue of Equity Shares of PRAXIS HOME RETAIL LIMITED (Scrip Code- 540901)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261116-51/20261116-51.pdf",
+   "date": "2026-11-16",
+   "time": "22:30",
+   "category": "Notice",
+   "ref": "20261116-51",
+   "first_seen": "2026-11-16T22:53:57+00:00"
+  },
+  {
+   "id": "c731189657d7",
+   "source": "BSE",
+   "title": "Change in Name of the Company - Shukra Pharmaceuticals Ltd",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261116-50/20261116-50.pdf",
+   "date": "2026-11-16",
+   "time": "22:29",
+   "category": "Notice",
+   "ref": "20261116-50",
+   "first_seen": "2026-11-16T22:53:57+00:00"
+  },
+  {
+   "id": "227792f3f0dd",
+   "source": "BSE",
+   "title": "Offer to Buy – Acquisition Window (Buyback) for JYOTHY LABS LIMITED – Live Activities Schedule",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261116-49/20261116-49.pdf",
+   "date": "2026-11-16",
+   "time": "20:55",
+   "category": "Corporate Action",
+   "ref": "20261116-49",
+   "first_seen": "2026-11-16T22:53:57+00:00"
+  },
+  {
+   "id": "f1edceb3c84d",
+   "source": "BSE",
+   "title": "TRADING AND SETTLEMENT PROGRAMME FOR CORPORATE DEBT SEGMENT FOR THE PERIOD FROM 01.12.2026 to 31.12.2026",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261116-44/20261116-44.pdf",
+   "date": "2026-11-16",
+   "time": "20:31",
+   "category": "Debt",
+   "ref": "20261116-44",
+   "first_seen": "2026-11-16T22:53:57+00:00"
+  },
+  {
+   "id": "eb3211ae5d26",
+   "source": "BSE",
+   "title": "Settlement Schedule Offer to Buy – Acquisition Window (Buyback) for JYOTHY LABS LTD",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261116-48/20261116-48.pdf",
+   "date": "2026-11-16",
+   "time": "20:31",
+   "category": "Corporate Action",
+   "ref": "20261116-48",
+   "first_seen": "2026-11-16T22:53:57+00:00"
+  },
+  {
+   "id": "d9c53cd283ed",
+   "source": "BSE",
+   "title": "SETTLEMENT PROGRAMME FOR THE F & O SEGMENT FOR THE PERIOD FROM 01.12.2026 TO 31.12.2026",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261116-45/20261116-45.pdf",
+   "date": "2026-11-16",
+   "time": "20:31",
+   "category": "Clearing & Settlement",
+   "ref": "20261116-45",
+   "first_seen": "2026-11-16T22:53:57+00:00"
+  },
+  {
+   "id": "a361a1e2a4c2",
+   "source": "BSE",
+   "title": "TRADING AND SETTLEMENT PROGRAMME FOR NEW DEBT SEGMENT (NDS) FOR PERIOD FROM 01.12.2026 TO 31.12.2026",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261116-42/20261116-42.pdf",
+   "date": "2026-11-16",
+   "time": "20:31",
+   "category": "Debt",
+   "ref": "20261116-42",
+   "first_seen": "2026-11-16T22:53:57+00:00"
+  },
+  {
+   "id": "848f555bc859",
+   "source": "BSE",
+   "title": "TRADING AND SETTLEMENT PROGRAMME FOR BASKET REPO & SPECIAL REPO SEGMENT FOR THE PERIOD FROM 01.12.2026 to 31.12.2026",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261116-41/20261116-41.pdf",
+   "date": "2026-11-16",
+   "time": "20:31",
+   "category": "Clearing & Settlement",
+   "ref": "20261116-41",
+   "first_seen": "2026-11-16T22:53:57+00:00"
+  },
+  {
+   "id": "7833f3c169aa",
+   "source": "BSE",
+   "title": "SETTLEMENT PROGRAMME FOR THE CURRENCY DERIVATIVES SEGMENT FOR THE PERIOD FROM 01.12.2026 TO 31.12.2026",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261116-46/20261116-46.pdf",
+   "date": "2026-11-16",
+   "time": "20:31",
+   "category": "Derivatives",
+   "ref": "20261116-46",
+   "first_seen": "2026-11-16T22:53:57+00:00"
+  },
+  {
+   "id": "600e84c82835",
+   "source": "BSE",
+   "title": "TRADING AND SETTLEMENT PROGRAMME FOR INSTITUTIONAL TRADING PLATFORM (ITP) - SME SEGMENT FOR PERIOD FROM 01.12.2026 TO 31.12.2026",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261116-43/20261116-43.pdf",
+   "date": "2026-11-16",
+   "time": "20:31",
+   "category": "Clearing & Settlement",
+   "ref": "20261116-43",
+   "first_seen": "2026-11-16T22:53:57+00:00"
+  },
+  {
+   "id": "1eb0ff282128",
+   "source": "BSE",
+   "title": "TRADING AND SETTLEMENT PROGRAMME FOR CASH SEGMENT FOR THE PERIOD FROM 01.12.2026 TO 31.12.2026 – T+1 & T+0 Settlement Cycle",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261116-47/20261116-47.pdf",
+   "date": "2026-11-16",
+   "time": "20:31",
+   "category": "Clearing & Settlement",
+   "ref": "20261116-47",
+   "first_seen": "2026-11-16T22:53:57+00:00"
+  },
+  {
+   "id": "0dbe1198a373",
+   "source": "BSE",
+   "title": "TRADING AND SETTLEMENT PROGRAMME FOR SLB SEGMENT FOR PERIOD FROM 01.12.2026 TO 31.12.2026",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261116-40/20261116-40.pdf",
+   "date": "2026-11-16",
+   "time": "20:31",
+   "category": "Clearing & Settlement",
+   "ref": "20261116-40",
+   "first_seen": "2026-11-16T22:53:57+00:00"
+  },
+  {
+   "id": "67eec2c56486",
+   "source": "BSE",
+   "title": "Launch of New Fund Offer for Specialized Investment Funds (SIF) of KOTAK MAHINDRA MUTUAL FUND on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261116-39/20261116-39.pdf",
+   "date": "2026-11-16",
+   "time": "19:24",
+   "category": "Mutual Funds",
+   "ref": "20261116-39",
+   "first_seen": "2026-11-16T22:53:57+00:00"
+  },
+  {
+   "id": "2a4b98320ce3",
+   "source": "BSE",
+   "title": "Change in Minimum Redemption Amount for certain schemes of NAVI Mutual Fund on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261116-38/20261116-38.pdf",
+   "date": "2026-11-16",
+   "time": "19:20",
+   "category": "Mutual Funds",
+   "ref": "20261116-38",
+   "first_seen": "2026-11-16T22:53:57+00:00"
+  },
+  {
+   "id": "cd9dad5c1f75",
+   "source": "BSE",
+   "title": "Measure in respect of companies with high Promoter as well as non- Promoter ‘Encumbrance’",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261116-37/20261116-37.pdf",
+   "date": "2026-11-16",
+   "time": "19:19",
+   "category": "Notice",
+   "ref": "20261116-37",
+   "first_seen": "2026-11-16T22:53:57+00:00"
+  },
+  {
+   "id": "6d23347cc3a5",
+   "source": "BSE",
+   "title": "Applicability of Long-Term Additional Surveillance Measure (LT-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261116-36/20261116-36.pdf",
+   "date": "2026-11-16",
+   "time": "19:18",
+   "category": "Surveillance",
+   "ref": "20261116-36",
+   "first_seen": "2026-11-16T22:53:57+00:00"
+  },
+  {
+   "id": "d3da587992f9",
+   "source": "BSE",
+   "title": "Enhanced Surveillance Measure (ESM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261116-34/20261116-34.pdf",
+   "date": "2026-11-16",
+   "time": "19:16",
+   "category": "Surveillance",
+   "ref": "20261116-34",
+   "first_seen": "2026-11-16T22:53:57+00:00"
+  },
+  {
+   "id": "92296180c4eb",
+   "source": "BSE",
+   "title": "Surveillance Action w.r.t dealing with unsolicited videos and messages circulated in social media platforms - Update",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261116-35/20261116-35.pdf",
+   "date": "2026-11-16",
+   "time": "19:16",
+   "category": "Surveillance",
+   "ref": "20261116-35",
+   "first_seen": "2026-11-16T22:53:57+00:00"
+  },
+  {
+   "id": "77b33bb19db2",
+   "source": "BSE",
+   "title": "Graded Surveillance Measure (GSM) - List of securities moving into their respective GSM Stages",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261116-31/20261116-31.pdf",
+   "date": "2026-11-16",
+   "time": "19:16",
+   "category": "Surveillance",
+   "ref": "20261116-31",
+   "first_seen": "2026-11-16T22:53:57+00:00"
+  },
+  {
+   "id": "30edf49ba317",
+   "source": "BSE",
+   "title": "CHANGES IN PRICE BAND",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261116-32/20261116-32.pdf",
+   "date": "2026-11-16",
+   "time": "19:16",
+   "category": "Surveillance",
+   "ref": "20261116-32",
+   "first_seen": "2026-11-16T22:53:57+00:00"
+  },
+  {
+   "id": "1e8f70dd968e",
+   "source": "BSE",
+   "title": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261116-33/20261116-33.pdf",
+   "date": "2026-11-16",
+   "time": "19:16",
+   "category": "Surveillance",
+   "ref": "20261116-33",
+   "first_seen": "2026-11-16T22:53:57+00:00"
+  },
+  {
+   "id": "a3d39989eede",
+   "source": "BSE",
+   "title": "Introduction of Futures & Options Contracts on 2 Individual Securities",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261116-30/20261116-30.pdf",
+   "date": "2026-11-16",
+   "time": "19:15",
+   "category": "Derivatives",
+   "ref": "20261116-30",
+   "first_seen": "2026-11-16T22:53:57+00:00"
+  },
+  {
+   "id": "0ca0b2a4d5cd",
+   "source": "BSE",
+   "title": "Non-Business Day for Certain Schemes of Mutual Fund on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261116-29/20261116-29.pdf",
+   "date": "2026-11-16",
+   "time": "19:14",
+   "category": "Mutual Funds",
+   "ref": "20261116-29",
+   "first_seen": "2026-11-16T22:53:57+00:00"
+  },
+  {
+   "id": "86aaac131f5e",
+   "source": "BSE",
+   "title": "Availability of MOTILAL OSWAL MULTI ASSET - OMNI FUND OF FUNDS for ongoing transactions on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261116-28/20261116-28.pdf",
+   "date": "2026-11-16",
+   "time": "19:11",
+   "category": "Mutual Funds",
+   "ref": "20261116-28",
+   "first_seen": "2026-11-16T22:53:57+00:00"
+  },
+  {
+   "id": "dddae540194c",
+   "source": "BSE",
+   "title": "Listing of privately placed securities on the debt market segment of the Exchange",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261116-27/20261116-27.pdf",
+   "date": "2026-11-16",
+   "time": "18:27",
+   "category": "Listing",
+   "ref": "20261116-27",
+   "first_seen": "2026-11-16T22:53:57+00:00"
+  },
   {
    "id": "9dd1b1d803ec",
    "source": "BSE",
@@ -371,6 +679,17 @@
    "first_seen": "2026-11-16T12:46:22+00:00"
   },
   {
+   "id": "cfdb1a3c7fed",
+   "source": "NSE",
+   "title": "Applicability of Short-Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV77448.zip",
+   "date": "2026-11-16",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV77448",
+   "first_seen": "2026-11-16T22:53:57+00:00"
+  },
+  {
    "id": "a12772c6011d",
    "source": "NSE",
    "title": "Introduction of API Facility in NMASS-Margins-SLB",
@@ -448,6 +767,17 @@
    "first_seen": "2026-11-16T12:46:22+00:00"
   },
   {
+   "id": "4bef4e53e47b",
+   "source": "NSE",
+   "title": "Applicability of Additional Surveillance Measure (ASM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV77447.zip",
+   "date": "2026-11-16",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV77447",
+   "first_seen": "2026-11-16T22:53:57+00:00"
+  },
+  {
    "id": "4730c2e424a7",
    "source": "NSE",
    "title": "Launch of Kotak Nifty Pharma Index Fund NFO on NSE MF Invest Platform",
@@ -457,6 +787,17 @@
    "category": "Mutual Funds",
    "ref": "NMF77440",
    "first_seen": "2026-11-16T12:46:22+00:00"
+  },
+  {
+   "id": "3cab4ccb913c",
+   "source": "NSE",
+   "title": "Listing of further issues of securities",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77455.pdf",
+   "date": "2026-11-16",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77455",
+   "first_seen": "2026-11-16T22:53:57+00:00"
   },
   {
    "id": "0083ec50b196",
