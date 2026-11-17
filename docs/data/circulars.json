@@ -1,11 +1,11 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-11-17T13:28:11+00:00",
+ "generated_at": "2026-11-17T21:46:26+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-11-17T13:28:11+00:00",
+   "last_success": "2026-11-17T21:46:26+00:00",
    "last_count": 0,
    "last_new": 0,
    "error": null
@@ -13,22 +13,242 @@
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-11-17T13:28:11+00:00",
-   "last_count": 13,
-   "last_new": 13,
+   "last_success": "2026-11-17T21:46:26+00:00",
+   "last_count": 19,
+   "last_new": 6,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-11-17T13:28:11+00:00",
-   "last_count": 27,
-   "last_new": 27,
+   "last_success": "2026-11-17T21:46:26+00:00",
+   "last_count": 47,
+   "last_new": 20,
    "error": null
   }
  },
- "count": 4059,
+ "count": 4085,
  "items": [
+  {
+   "id": "b8e93d9cfa51",
+   "source": "BSE",
+   "title": "Daily Bulletin",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261117-47/20261117-47.pdf",
+   "date": "2026-11-17",
+   "time": "22:05",
+   "category": "Notice",
+   "ref": "20261117-47",
+   "first_seen": "2026-11-17T21:46:26+00:00"
+  },
+  {
+   "id": "da02d5f57de4",
+   "source": "BSE",
+   "title": "Suspension of Trading in Commercial Paper",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261117-46/20261117-46.pdf",
+   "date": "2026-11-17",
+   "time": "22:03",
+   "category": "Debt",
+   "ref": "20261117-46",
+   "first_seen": "2026-11-17T21:46:26+00:00"
+  },
+  {
+   "id": "387b5ac91361",
+   "source": "BSE",
+   "title": "Suspension of Trading in Debentures of LODHA DEVELOPERS LIMITED (Scrip Code 976764)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261117-45/20261117-45.pdf",
+   "date": "2026-11-17",
+   "time": "22:02",
+   "category": "Debt",
+   "ref": "20261117-45",
+   "first_seen": "2026-11-17T21:46:26+00:00"
+  },
+  {
+   "id": "5665d64cf2ca",
+   "source": "BSE",
+   "title": "Right Issue of Equity Shares of SML MAHINDRA LIMITED (Scrip Code-505192)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261117-44/20261117-44.pdf",
+   "date": "2026-11-17",
+   "time": "22:00",
+   "category": "Notice",
+   "ref": "20261117-44",
+   "first_seen": "2026-11-17T21:46:26+00:00"
+  },
+  {
+   "id": "8ef89ae2999a",
+   "source": "BSE",
+   "title": "Right Issue of Equity Shares of OM METALLOGIC LIMITED (Scrip Code- 544559)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261117-43/20261117-43.pdf",
+   "date": "2026-11-17",
+   "time": "21:59",
+   "category": "Notice",
+   "ref": "20261117-43",
+   "first_seen": "2026-11-17T21:46:26+00:00"
+  },
+  {
+   "id": "2f0d3ef19761",
+   "source": "BSE",
+   "title": "Launch of New Fund Offer (NFO) of INVESCO MUTUAL FUND on BSE StAR MF Platform – Update",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261117-42/20261117-42.pdf",
+   "date": "2026-11-17",
+   "time": "20:01",
+   "category": "Mutual Funds",
+   "ref": "20261117-42",
+   "first_seen": "2026-11-17T21:46:26+00:00"
+  },
+  {
+   "id": "d755bfdef449",
+   "source": "BSE",
+   "title": "Launch of NFO with SIP facility of NIPPON INDIA MUTUAL FUND on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261117-41/20261117-41.pdf",
+   "date": "2026-11-17",
+   "time": "19:55",
+   "category": "Mutual Funds",
+   "ref": "20261117-41",
+   "first_seen": "2026-11-17T21:46:26+00:00"
+  },
+  {
+   "id": "3a845295f5a3",
+   "source": "BSE",
+   "title": "SAT Order in matter of Cash Cow Broking & Advisory Solutions, Cash Cow Broking and Advisory Solutions & Ors. (Appeal No. 145/2026)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261117-40/20261117-40.pdf",
+   "date": "2026-11-17",
+   "time": "19:49",
+   "category": "Notice",
+   "ref": "20261117-40",
+   "first_seen": "2026-11-17T21:46:26+00:00"
+  },
+  {
+   "id": "3f9fcad5de18",
+   "source": "BSE",
+   "title": "SAT Order in matter of Mauria Udyog Ltd. and 4 other scrips, Arvind Shantilal Shah & Ors (Appeal No. 275 of 2026) , Bhavin Arvind Shah (Appeal No. 276 of 2026), Yash Manish Mehta (Appeal No. 277 of 2026), Ramnaresh Dashadeen Nirmal (Appeal No. 271 of 2026)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261117-39/20261117-39.pdf",
+   "date": "2026-11-17",
+   "time": "19:48",
+   "category": "Notice",
+   "ref": "20261117-39",
+   "first_seen": "2026-11-17T21:46:26+00:00"
+  },
+  {
+   "id": "ee34a4cc202f",
+   "source": "BSE",
+   "title": "Change in Minimum Investment and Redemption Amounts for Certain Schemes of UTI Mutual Fund",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261117-38/20261117-38.pdf",
+   "date": "2026-11-17",
+   "time": "19:37",
+   "category": "Mutual Funds",
+   "ref": "20261117-38",
+   "first_seen": "2026-11-17T21:46:26+00:00"
+  },
+  {
+   "id": "1c342448d0c5",
+   "source": "BSE",
+   "title": "Change in Minimum application amount for certain schemes of 360 ONE Mutual Fund (SIF)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261117-37/20261117-37.pdf",
+   "date": "2026-11-17",
+   "time": "19:21",
+   "category": "Mutual Funds",
+   "ref": "20261117-37",
+   "first_seen": "2026-11-17T21:46:26+00:00"
+  },
+  {
+   "id": "f884d6da855a",
+   "source": "BSE",
+   "title": "Revised Operating Guidelines of Closing Auction Session in Equity Cash Segment",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261117-35/20261117-35.pdf",
+   "date": "2026-11-17",
+   "time": "19:18",
+   "category": "Clearing & Settlement",
+   "ref": "20261117-35",
+   "first_seen": "2026-11-17T21:46:26+00:00"
+  },
+  {
+   "id": "e15357f79dd6",
+   "source": "BSE",
+   "title": "Graded Surveillance Measure (GSM) - List of securities moving into their respective GSM Stages",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261117-34/20261117-34.pdf",
+   "date": "2026-11-17",
+   "time": "19:18",
+   "category": "Surveillance",
+   "ref": "20261117-34",
+   "first_seen": "2026-11-17T21:46:26+00:00"
+  },
+  {
+   "id": "af5772ef8be6",
+   "source": "BSE",
+   "title": "Enhanced Surveillance Measure (ESM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261117-36/20261117-36.pdf",
+   "date": "2026-11-17",
+   "time": "19:18",
+   "category": "Surveillance",
+   "ref": "20261117-36",
+   "first_seen": "2026-11-17T21:46:26+00:00"
+  },
+  {
+   "id": "1d39447a6df5",
+   "source": "BSE",
+   "title": "Surveillance Action w.r.t dealing with unsolicited videos and messages circulated in social media platforms - Update",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261117-33/20261117-33.pdf",
+   "date": "2026-11-17",
+   "time": "19:18",
+   "category": "Surveillance",
+   "ref": "20261117-33",
+   "first_seen": "2026-11-17T21:46:26+00:00"
+  },
+  {
+   "id": "98cd09399954",
+   "source": "BSE",
+   "title": "Applicability of Long-Term Additional Surveillance Measure (LT-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261117-31/20261117-31.pdf",
+   "date": "2026-11-17",
+   "time": "19:17",
+   "category": "Surveillance",
+   "ref": "20261117-31",
+   "first_seen": "2026-11-17T21:46:26+00:00"
+  },
+  {
+   "id": "25bbd85ddbe6",
+   "source": "BSE",
+   "title": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261117-32/20261117-32.pdf",
+   "date": "2026-11-17",
+   "time": "19:17",
+   "category": "Surveillance",
+   "ref": "20261117-32",
+   "first_seen": "2026-11-17T21:46:26+00:00"
+  },
+  {
+   "id": "13ba4939bae3",
+   "source": "BSE",
+   "title": "CHANGES IN PRICE BAND",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261117-30/20261117-30.pdf",
+   "date": "2026-11-17",
+   "time": "19:17",
+   "category": "Surveillance",
+   "ref": "20261117-30",
+   "first_seen": "2026-11-17T21:46:26+00:00"
+  },
+  {
+   "id": "b93509b17c45",
+   "source": "BSE",
+   "title": "Availability KOTAK NIFTY REALTY INDEX FUND for ongoing transactions on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261117-29/20261117-29.pdf",
+   "date": "2026-11-17",
+   "time": "19:12",
+   "category": "Mutual Funds",
+   "ref": "20261117-29",
+   "first_seen": "2026-11-17T21:46:26+00:00"
+  },
+  {
+   "id": "b42823e73a29",
+   "source": "BSE",
+   "title": "Public Issue of CRYSTAL CROP PROTECTION LIMITED - Allocation to Anchor Investor",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261117-28/20261117-28.pdf",
+   "date": "2026-11-17",
+   "time": "18:52",
+   "category": "Listing",
+   "ref": "20261117-28",
+   "first_seen": "2026-11-17T21:46:26+00:00"
+  },
   {
    "id": "0d30da639251",
    "source": "BSE",
@@ -327,6 +547,17 @@
    "first_seen": "2026-11-17T13:28:11+00:00"
   },
   {
+   "id": "fbc349fdbe43",
+   "source": "NSE",
+   "title": "SEBI direction pursuant to SAT Order in the matter of Cash Cow Broking and Solutions & Ors",
+   "url": "https://nsearchives.nseindia.com/content/circulars/INVG77473.zip",
+   "date": "2026-11-17",
+   "time": null,
+   "category": "Investigation",
+   "ref": "INVG77473",
+   "first_seen": "2026-11-17T21:46:26+00:00"
+  },
+  {
    "id": "f21753bc26c1",
    "source": "NSE",
    "title": "Suspension of trading in Non-Convertible Securities (Privately Placed)",
@@ -336,6 +567,17 @@
    "category": "Listing",
    "ref": "CML77457",
    "first_seen": "2026-11-17T13:28:11+00:00"
+  },
+  {
+   "id": "efb79e54eef2",
+   "source": "NSE",
+   "title": "Listing of further issues of securities",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77464.pdf",
+   "date": "2026-11-17",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77464",
+   "first_seen": "2026-11-17T21:46:26+00:00"
   },
   {
    "id": "e725ab72629c",
@@ -371,6 +613,17 @@
    "first_seen": "2026-11-17T13:28:11+00:00"
   },
   {
+   "id": "939d4fcdf3ac",
+   "source": "NSE",
+   "title": "Listing of further issues of securities",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77475.pdf",
+   "date": "2026-11-17",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77475",
+   "first_seen": "2026-11-17T21:46:26+00:00"
+  },
+  {
    "id": "8259bbe886d2",
    "source": "NSE",
    "title": "Listing of privately placed securities on the debt market segment of the Exchange",
@@ -393,6 +646,17 @@
    "first_seen": "2026-11-17T13:28:11+00:00"
   },
   {
+   "id": "7272a7c10da1",
+   "source": "NSE",
+   "title": "Reminder for Submission of System Audit Report for the period ending September 30, 2026",
+   "url": "https://nsearchives.nseindia.com/content/circulars/INSP77476.pdf",
+   "date": "2026-11-17",
+   "time": null,
+   "category": "Inspection",
+   "ref": "INSP77476",
+   "first_seen": "2026-11-17T21:46:26+00:00"
+  },
+  {
    "id": "6836c8b74950",
    "source": "NSE",
    "title": "Additional Exposure Margin on Securities under MWPL",
@@ -413,6 +677,17 @@
    "category": "Listing",
    "ref": "CML77456",
    "first_seen": "2026-11-17T13:28:11+00:00"
+  },
+  {
+   "id": "62845243c4f0",
+   "source": "NSE",
+   "title": "SEBI direction pursuant to SEBI order in the matter of Mauria Udyog Ltd",
+   "url": "https://nsearchives.nseindia.com/content/circulars/INVG77474.zip",
+   "date": "2026-11-17",
+   "time": null,
+   "category": "Investigation",
+   "ref": "INVG77474",
+   "first_seen": "2026-11-17T21:46:26+00:00"
   },
   {
    "id": "5139df38c3ca",
@@ -468,6 +743,17 @@
    "category": "Mutual Funds",
    "ref": "NMF77458",
    "first_seen": "2026-11-17T13:28:11+00:00"
+  },
+  {
+   "id": "0101720d3c39",
+   "source": "NSE",
+   "title": "Applicability of Enhanced Surveillance Measure (ESM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV77466.zip",
+   "date": "2026-11-17",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV77466",
+   "first_seen": "2026-11-17T21:46:26+00:00"
   },
   {
    "id": "8ced723ce4ef",
