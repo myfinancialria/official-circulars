@@ -1,11 +1,11 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-11-18T13:03:33+00:00",
+ "generated_at": "2026-11-18T21:26:21+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-11-18T13:03:33+00:00",
+   "last_success": "2026-11-18T21:26:21+00:00",
    "last_count": 0,
    "last_new": 0,
    "error": null
@@ -13,22 +13,154 @@
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-11-18T13:03:33+00:00",
-   "last_count": 15,
-   "last_new": 15,
+   "last_success": "2026-11-18T21:26:21+00:00",
+   "last_count": 24,
+   "last_new": 9,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-11-18T13:03:33+00:00",
-   "last_count": 20,
-   "last_new": 20,
+   "last_success": "2026-11-18T21:26:21+00:00",
+   "last_count": 32,
+   "last_new": 12,
    "error": null
   }
  },
- "count": 4120,
+ "count": 4141,
  "items": [
+  {
+   "id": "d51fe9f9889d",
+   "source": "BSE",
+   "title": "Public Issue of MAHANADI COALFIELDS LIMITED - Allocation to Anchor Investor",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261118-32/20261118-32.pdf",
+   "date": "2026-11-18",
+   "time": "22:05",
+   "category": "Listing",
+   "ref": "20261118-32",
+   "first_seen": "2026-11-18T21:26:21+00:00"
+  },
+  {
+   "id": "15d1d9002f98",
+   "source": "BSE",
+   "title": "Daily Bulletin",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261118-31/20261118-31.pdf",
+   "date": "2026-11-18",
+   "time": "22:03",
+   "category": "Notice",
+   "ref": "20261118-31",
+   "first_seen": "2026-11-18T21:26:21+00:00"
+  },
+  {
+   "id": "139c5195969b",
+   "source": "BSE",
+   "title": "Part Redemption of Debentures/PTC/Bonds of Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261118-30/20261118-30.pdf",
+   "date": "2026-11-18",
+   "time": "22:02",
+   "category": "Debt",
+   "ref": "20261118-30",
+   "first_seen": "2026-11-18T21:26:21+00:00"
+  },
+  {
+   "id": "7f5831e42eb7",
+   "source": "BSE",
+   "title": "SAT Order in matter of Mauria Udyog Ltd. and 4 other scrips, Sushila Ashokbhai Chiripal (Appeal No. 328 of 2026), Chirpal Suryansh Hari (Appeal No. 329 of 2026), Anil Dhanuka (Appeal No. 330 of 2026), Purple Entertainment Ltd. (Appeal No. 294 of 2026), Rajvi Naresh Shah (Appeal No. 295 of 2026), Jignesh Sudhirbhai Shah (Appeal No. 318 of 2026)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261118-29/20261118-29.pdf",
+   "date": "2026-11-18",
+   "time": "21:27",
+   "category": "Notice",
+   "ref": "20261118-29",
+   "first_seen": "2026-11-18T21:26:21+00:00"
+  },
+  {
+   "id": "dd51653c90f3",
+   "source": "BSE",
+   "title": "SAT Order in matter of M/s Veerkrupa Jewellers Limited, Vivid Mercantile Ltd. & Anr (Appeal No. 246 of 2026), Dharmesh Maldevbhai Godhania (Appeal No. 247 of 2026), Rakshit Mahendra Shah (Appeal No. 255 of 2026)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261118-28/20261118-28.pdf",
+   "date": "2026-11-18",
+   "time": "21:26",
+   "category": "Notice",
+   "ref": "20261118-28",
+   "first_seen": "2026-11-18T21:26:21+00:00"
+  },
+  {
+   "id": "a46dd7017907",
+   "source": "BSE",
+   "title": "Availability of INVESCO INDIA SILVER ETF FUND OF FUND for ongoing transactions on the BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261118-27/20261118-27.pdf",
+   "date": "2026-11-18",
+   "time": "19:24",
+   "category": "Mutual Funds",
+   "ref": "20261118-27",
+   "first_seen": "2026-11-18T21:26:21+00:00"
+  },
+  {
+   "id": "1fb2a09c454e",
+   "source": "BSE",
+   "title": "Merger of Scheme of TATA Mutual Fund on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261118-26/20261118-26.pdf",
+   "date": "2026-11-18",
+   "time": "19:21",
+   "category": "Mutual Funds",
+   "ref": "20261118-26",
+   "first_seen": "2026-11-18T21:26:21+00:00"
+  },
+  {
+   "id": "6452524a6cf9",
+   "source": "BSE",
+   "title": "Enhanced Surveillance Measure (ESM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261118-24/20261118-24.pdf",
+   "date": "2026-11-18",
+   "time": "19:02",
+   "category": "Surveillance",
+   "ref": "20261118-24",
+   "first_seen": "2026-11-18T21:26:21+00:00"
+  },
+  {
+   "id": "54d5cfd7c63a",
+   "source": "BSE",
+   "title": "Applicability of Long-Term Additional Surveillance Measure (LT-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261118-25/20261118-25.pdf",
+   "date": "2026-11-18",
+   "time": "19:02",
+   "category": "Surveillance",
+   "ref": "20261118-25",
+   "first_seen": "2026-11-18T21:26:21+00:00"
+  },
+  {
+   "id": "16a59789bf0d",
+   "source": "BSE",
+   "title": "Graded Surveillance Measure (GSM) - List of securities moving into their respective GSM Stages",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261118-23/20261118-23.pdf",
+   "date": "2026-11-18",
+   "time": "19:02",
+   "category": "Surveillance",
+   "ref": "20261118-23",
+   "first_seen": "2026-11-18T21:26:21+00:00"
+  },
+  {
+   "id": "126e344223ce",
+   "source": "BSE",
+   "title": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261118-22/20261118-22.pdf",
+   "date": "2026-11-18",
+   "time": "19:02",
+   "category": "Surveillance",
+   "ref": "20261118-22",
+   "first_seen": "2026-11-18T21:26:21+00:00"
+  },
+  {
+   "id": "6857aa6818a2",
+   "source": "BSE",
+   "title": "CHANGES IN PRICE BAND",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261118-21/20261118-21.pdf",
+   "date": "2026-11-18",
+   "time": "19:01",
+   "category": "Surveillance",
+   "ref": "20261118-21",
+   "first_seen": "2026-11-18T21:26:21+00:00"
+  },
   {
    "id": "61a4ab478ce9",
    "source": "BSE",
@@ -294,6 +426,50 @@
    "first_seen": "2026-11-18T13:03:33+00:00"
   },
   {
+   "id": "bbd879380ad3",
+   "source": "NSE",
+   "title": "Reminder for Submission of VAPT Action Taken Report for the FY 2025-26",
+   "url": "https://nsearchives.nseindia.com/content/circulars/INSP77487.pdf",
+   "date": "2026-11-18",
+   "time": null,
+   "category": "Inspection",
+   "ref": "INSP77487",
+   "first_seen": "2026-11-18T21:26:21+00:00"
+  },
+  {
+   "id": "ab8311a7c863",
+   "source": "NSE",
+   "title": "Listing of further issue of Spandana Sphoorty Financial Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77492.pdf",
+   "date": "2026-11-18",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77492",
+   "first_seen": "2026-11-18T21:26:21+00:00"
+  },
+  {
+   "id": "9c13e0441894",
+   "source": "NSE",
+   "title": "Algo Provider - Empanelment for providing Algorithmic Trading Solutions",
+   "url": "https://nsearchives.nseindia.com/content/circulars/INVG77497.pdf",
+   "date": "2026-11-18",
+   "time": null,
+   "category": "Investigation",
+   "ref": "INVG77497",
+   "first_seen": "2026-11-18T21:26:21+00:00"
+  },
+  {
+   "id": "9713f21f9357",
+   "source": "NSE",
+   "title": "Suspension of Zero Coupon Zero Principal (ZCZP) security - Matoshri Jayaben Himmatlal Shah Charitable Trust",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77494.pdf",
+   "date": "2026-11-18",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77494",
+   "first_seen": "2026-11-18T21:26:21+00:00"
+  },
+  {
    "id": "92fd7a8a8432",
    "source": "NSE",
    "title": "Applicability of Enhanced Surveillance Measure (ESM)",
@@ -303,6 +479,28 @@
    "category": "Surveillance",
    "ref": "SURV77481",
    "first_seen": "2026-11-18T13:03:33+00:00"
+  },
+  {
+   "id": "86f0b2208f1a",
+   "source": "NSE",
+   "title": "Final Empanelment of Algo Provider currently empanelled on a provisional basis with the exchange",
+   "url": "https://nsearchives.nseindia.com/content/circulars/INVG77498.pdf",
+   "date": "2026-11-18",
+   "time": null,
+   "category": "Investigation",
+   "ref": "INVG77498",
+   "first_seen": "2026-11-18T21:26:21+00:00"
+  },
+  {
+   "id": "7baa5f109b11",
+   "source": "NSE",
+   "title": "SEBI direction pursuant to SAT order in the matter of Mauria Udyog Ltd",
+   "url": "https://nsearchives.nseindia.com/content/circulars/INVG77496.zip",
+   "date": "2026-11-18",
+   "time": null,
+   "category": "Investigation",
+   "ref": "INVG77496",
+   "first_seen": "2026-11-18T21:26:21+00:00"
   },
   {
    "id": "74dbbc1dd9e4",
@@ -325,6 +523,28 @@
    "category": "Listing",
    "ref": "CML77482",
    "first_seen": "2026-11-18T13:03:33+00:00"
+  },
+  {
+   "id": "5d034d9336bb",
+   "source": "NSE",
+   "title": "Availability of Invesco India Silver ETF Fund of Fund on NSE MF Invest Platform",
+   "url": "https://nsearchives.nseindia.com/content/circulars/NMF77480.pdf",
+   "date": "2026-11-18",
+   "time": null,
+   "category": "Mutual Funds",
+   "ref": "NMF77480",
+   "first_seen": "2026-11-18T21:26:21+00:00"
+  },
+  {
+   "id": "5ceedc09980f",
+   "source": "NSE",
+   "title": "SEBI direction pursuant to SAT order in the matter of Veerkrupa Jewellery Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/INVG77495.zip",
+   "date": "2026-11-18",
+   "time": null,
+   "category": "Investigation",
+   "ref": "INVG77495",
+   "first_seen": "2026-11-18T21:26:21+00:00"
   },
   {
    "id": "54cf035f9c15",
@@ -358,6 +578,17 @@
    "category": "Surveillance",
    "ref": "SURV77484",
    "first_seen": "2026-11-18T13:03:33+00:00"
+  },
+  {
+   "id": "402002f58bfc",
+   "source": "NSE",
+   "title": "Listing of further issues of securities",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77493.pdf",
+   "date": "2026-11-18",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77493",
+   "first_seen": "2026-11-18T21:26:21+00:00"
   },
   {
    "id": "3b88eed2840e",
