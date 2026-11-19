@@ -1,11 +1,11 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-11-19T13:09:54+00:00",
+ "generated_at": "2026-11-19T21:37:13+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-11-19T13:09:54+00:00",
+   "last_success": "2026-11-19T21:37:13+00:00",
    "last_count": 0,
    "last_new": 0,
    "error": null
@@ -13,22 +13,286 @@
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-11-19T13:09:54+00:00",
-   "last_count": 21,
-   "last_new": 21,
+   "last_success": "2026-11-19T21:37:13+00:00",
+   "last_count": 25,
+   "last_new": 4,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-11-19T13:09:54+00:00",
-   "last_count": 23,
-   "last_new": 23,
+   "last_success": "2026-11-19T21:37:13+00:00",
+   "last_count": 47,
+   "last_new": 24,
    "error": null
   }
  },
- "count": 4185,
+ "count": 4213,
  "items": [
+  {
+   "id": "debe28c4afd7",
+   "source": "BSE",
+   "title": "Daily Bulletin",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261119-47/20261119-47.pdf",
+   "date": "2026-11-19",
+   "time": "21:33",
+   "category": "Notice",
+   "ref": "20261119-47",
+   "first_seen": "2026-11-19T21:37:13+00:00"
+  },
+  {
+   "id": "6223eae0815a",
+   "source": "BSE",
+   "title": "Suspension of Trading in Commercial Paper",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261119-46/20261119-46.pdf",
+   "date": "2026-11-19",
+   "time": "21:32",
+   "category": "Debt",
+   "ref": "20261119-46",
+   "first_seen": "2026-11-19T21:37:13+00:00"
+  },
+  {
+   "id": "bd388ce8b8db",
+   "source": "BSE",
+   "title": "Suspension of Trading in Bonds of PUNJAB NATIONAL BANK",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261119-45/20261119-45.pdf",
+   "date": "2026-11-19",
+   "time": "21:30",
+   "category": "Debt",
+   "ref": "20261119-45",
+   "first_seen": "2026-11-19T21:37:13+00:00"
+  },
+  {
+   "id": "257c842374ac",
+   "source": "BSE",
+   "title": "Suspension of Trading in Debentures",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261119-44/20261119-44.pdf",
+   "date": "2026-11-19",
+   "time": "21:29",
+   "category": "Debt",
+   "ref": "20261119-44",
+   "first_seen": "2026-11-19T21:37:13+00:00"
+  },
+  {
+   "id": "ec4ef0ee7bfe",
+   "source": "BSE",
+   "title": "SEBI Directions in the matter of Mauria Udyog Ltd in respect of Jignesh Sudhirbhai Shah (Appeal No. 318 of 2026).",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261119-43/20261119-43.pdf",
+   "date": "2026-11-19",
+   "time": "20:19",
+   "category": "Notice",
+   "ref": "20261119-43",
+   "first_seen": "2026-11-19T21:37:13+00:00"
+  },
+  {
+   "id": "ae2c4dfb43d9",
+   "source": "BSE",
+   "title": "Rights Entitlements of KANEL INDUSTRIES LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261119-42/20261119-42.pdf",
+   "date": "2026-11-19",
+   "time": "20:17",
+   "category": "Listing",
+   "ref": "20261119-42",
+   "first_seen": "2026-11-19T21:37:13+00:00"
+  },
+  {
+   "id": "51a3f88a1fb8",
+   "source": "BSE",
+   "title": "Introduction of Upgraded Trading System APIs - Update",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261119-41/20261119-41.pdf",
+   "date": "2026-11-19",
+   "time": "19:45",
+   "category": "Trading",
+   "ref": "20261119-41",
+   "first_seen": "2026-11-19T21:37:13+00:00"
+  },
+  {
+   "id": "dfe7b04371a0",
+   "source": "BSE",
+   "title": "Surveillance Measure for securities under IBC",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261119-40/20261119-40.pdf",
+   "date": "2026-11-19",
+   "time": "19:37",
+   "category": "Surveillance",
+   "ref": "20261119-40",
+   "first_seen": "2026-11-19T21:37:13+00:00"
+  },
+  {
+   "id": "056819d745d5",
+   "source": "BSE",
+   "title": "Listing of privately placed securities on the debt market segment of the Exchange",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261119-39/20261119-39.pdf",
+   "date": "2026-11-19",
+   "time": "19:22",
+   "category": "Listing",
+   "ref": "20261119-39",
+   "first_seen": "2026-11-19T21:37:13+00:00"
+  },
+  {
+   "id": "b4a931163d20",
+   "source": "BSE",
+   "title": "Cancellation of Suspension of trading in securities of companies for non-compliances with provisions of certain Regulations of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261119-38/20261119-38.pdf",
+   "date": "2026-11-19",
+   "time": "19:15",
+   "category": "Listing",
+   "ref": "20261119-38",
+   "first_seen": "2026-11-19T21:37:13+00:00"
+  },
+  {
+   "id": "5bde76cfb058",
+   "source": "BSE",
+   "title": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261119-35/20261119-35.pdf",
+   "date": "2026-11-19",
+   "time": "19:07",
+   "category": "Surveillance",
+   "ref": "20261119-35",
+   "first_seen": "2026-11-19T21:37:13+00:00"
+  },
+  {
+   "id": "523ef8c41477",
+   "source": "BSE",
+   "title": "Cancellation of Suspension of trading in securities of companies for non-compliances with provisions of certain Regulations of SEBI (Depositories & Participants) Regulations, 2018",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261119-37/20261119-37.pdf",
+   "date": "2026-11-19",
+   "time": "19:07",
+   "category": "Trading",
+   "ref": "20261119-37",
+   "first_seen": "2026-11-19T21:37:13+00:00"
+  },
+  {
+   "id": "4062ccbb0284",
+   "source": "BSE",
+   "title": "Applicability of Long-Term Additional Surveillance Measure (LT-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261119-36/20261119-36.pdf",
+   "date": "2026-11-19",
+   "time": "19:07",
+   "category": "Surveillance",
+   "ref": "20261119-36",
+   "first_seen": "2026-11-19T21:37:13+00:00"
+  },
+  {
+   "id": "ecb9b64f6be7",
+   "source": "BSE",
+   "title": "Graded Surveillance Measure (GSM) - List of securities moving into their respective GSM Stages",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261119-33/20261119-33.pdf",
+   "date": "2026-11-19",
+   "time": "19:06",
+   "category": "Surveillance",
+   "ref": "20261119-33",
+   "first_seen": "2026-11-19T21:37:13+00:00"
+  },
+  {
+   "id": "99bff52ca775",
+   "source": "BSE",
+   "title": "Enhanced Surveillance Measure (ESM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261119-32/20261119-32.pdf",
+   "date": "2026-11-19",
+   "time": "19:06",
+   "category": "Surveillance",
+   "ref": "20261119-32",
+   "first_seen": "2026-11-19T21:37:13+00:00"
+  },
+  {
+   "id": "6abae630e572",
+   "source": "BSE",
+   "title": "CHANGES IN PRICE BAND",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261119-34/20261119-34.pdf",
+   "date": "2026-11-19",
+   "time": "19:06",
+   "category": "Surveillance",
+   "ref": "20261119-34",
+   "first_seen": "2026-11-19T21:37:13+00:00"
+  },
+  {
+   "id": "b479827d7885",
+   "source": "BSE",
+   "title": "Discontinuation of fresh subscriptions under IDCW option of certain schemes of Axis Mutual Fund on BSE StAR MF Platform.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261119-31/20261119-31.pdf",
+   "date": "2026-11-19",
+   "time": "18:56",
+   "category": "Mutual Funds",
+   "ref": "20261119-31",
+   "first_seen": "2026-11-19T21:37:13+00:00"
+  },
+  {
+   "id": "fcb726c384ae",
+   "source": "BSE",
+   "title": "Mock Trading on Saturday, November 21, 2026, for Electronic Gold Receipts segment",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261119-29/20261119-29.pdf",
+   "date": "2026-11-19",
+   "time": "18:51",
+   "category": "Trading",
+   "ref": "20261119-29",
+   "first_seen": "2026-11-19T21:37:13+00:00"
+  },
+  {
+   "id": "ebad9928bec8",
+   "source": "BSE",
+   "title": "Mock Trading on Saturday, November 21, 2026, for Currency Derivatives segment",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261119-27/20261119-27.pdf",
+   "date": "2026-11-19",
+   "time": "18:51",
+   "category": "Derivatives",
+   "ref": "20261119-27",
+   "first_seen": "2026-11-19T21:37:13+00:00"
+  },
+  {
+   "id": "d1501f0155a8",
+   "source": "BSE",
+   "title": "Mock Trading on Saturday, November 21, 2026, for Equity segment",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261119-25/20261119-25.pdf",
+   "date": "2026-11-19",
+   "time": "18:51",
+   "category": "Trading",
+   "ref": "20261119-25",
+   "first_seen": "2026-11-19T21:37:13+00:00"
+  },
+  {
+   "id": "9f32d999463d",
+   "source": "BSE",
+   "title": "Mock Trading on Saturday, November 21, 2026, for Commodity Derivatives segment",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261119-28/20261119-28.pdf",
+   "date": "2026-11-19",
+   "time": "18:51",
+   "category": "Derivatives",
+   "ref": "20261119-28",
+   "first_seen": "2026-11-19T21:37:13+00:00"
+  },
+  {
+   "id": "87e853560b05",
+   "source": "BSE",
+   "title": "Mock Trading on Saturday, November 21, 2026, for Equity Derivatives segment",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261119-26/20261119-26.pdf",
+   "date": "2026-11-19",
+   "time": "18:51",
+   "category": "Derivatives",
+   "ref": "20261119-26",
+   "first_seen": "2026-11-19T21:37:13+00:00"
+  },
+  {
+   "id": "53df455fdf29",
+   "source": "BSE",
+   "title": "Launch of NFO with SIP facility of BAJAJ FINSERV MUTUAL FUND on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261119-30/20261119-30.pdf",
+   "date": "2026-11-19",
+   "time": "18:51",
+   "category": "Mutual Funds",
+   "ref": "20261119-30",
+   "first_seen": "2026-11-19T21:37:13+00:00"
+  },
+  {
+   "id": "c3962c4ed648",
+   "source": "BSE",
+   "title": "Listing of new securities of Dhruva Capital Services Ltd.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261119-24/20261119-24.pdf",
+   "date": "2026-11-19",
+   "time": "18:46",
+   "category": "Listing",
+   "ref": "20261119-24",
+   "first_seen": "2026-11-19T21:37:13+00:00"
+  },
   {
    "id": "4a116769ecd0",
    "source": "BSE",
@@ -263,7 +527,7 @@
   {
    "id": "4fc9111b6e16",
    "source": "BSE",
-   "title": "Revision in Minimum Application Amount and Introduction of Daily SIP Facility in UNIFI Mutual Fund",
+   "title": "Revision of Minimum Application Amount and Launch of Daily SIP & Weekly STP/SWP Facilities in UNIFI Mutual Fund",
    "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261119-2/20261119-2.pdf",
    "date": "2026-11-19",
    "time": "12:16",
@@ -325,6 +589,17 @@
    "category": "CMPL",
    "ref": "CMPL77520",
    "first_seen": "2026-11-19T13:09:54+00:00"
+  },
+  {
+   "id": "d69f5ad1e975",
+   "source": "NSE",
+   "title": "Suspension of trading in securities",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77500.pdf",
+   "date": "2026-11-19",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77500",
+   "first_seen": "2026-11-19T21:37:13+00:00"
   },
   {
    "id": "bc26b92d0e88",
@@ -415,6 +690,17 @@
    "first_seen": "2026-11-19T13:09:54+00:00"
   },
   {
+   "id": "6e7d216971c8",
+   "source": "NSE",
+   "title": "Securities of compulsory delisted companies made available on Dissemination Board of NSE",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77524.pdf",
+   "date": "2026-11-19",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77524",
+   "first_seen": "2026-11-19T21:37:13+00:00"
+  },
+  {
    "id": "6a6237e786f2",
    "source": "NSE",
    "title": "Listing of privately placed securities on the debt market segment of the Exchange",
@@ -435,6 +721,17 @@
    "category": "Listing",
    "ref": "CML77510",
    "first_seen": "2026-11-19T13:09:54+00:00"
+  },
+  {
+   "id": "5f434aec6ba4",
+   "source": "NSE",
+   "title": "SEBI direction in the matter of Mauria Udyog Ltd and 4 other scrips",
+   "url": "https://nsearchives.nseindia.com/content/circulars/INVG77522.zip",
+   "date": "2026-11-19",
+   "time": null,
+   "category": "Investigation",
+   "ref": "INVG77522",
+   "first_seen": "2026-11-19T21:37:13+00:00"
   },
   {
    "id": "5d97219ab0f6",
@@ -512,6 +809,17 @@
    "category": "Mutual Funds",
    "ref": "NMF77505",
    "first_seen": "2026-11-19T13:09:54+00:00"
+  },
+  {
+   "id": "0f8e989a7158",
+   "source": "NSE",
+   "title": "Listing of further issues of securities",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77523.pdf",
+   "date": "2026-11-19",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77523",
+   "first_seen": "2026-11-19T21:37:13+00:00"
   },
   {
    "id": "d51fe9f9889d",
