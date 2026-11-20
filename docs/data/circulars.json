@@ -1,11 +1,11 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-11-20T12:54:15+00:00",
+ "generated_at": "2026-11-20T21:07:25+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-11-20T12:54:15+00:00",
+   "last_success": "2026-11-20T21:07:25+00:00",
    "last_count": 0,
    "last_new": 0,
    "error": null
@@ -13,22 +13,187 @@
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-11-20T12:54:15+00:00",
-   "last_count": 16,
-   "last_new": 16,
+   "last_success": "2026-11-20T21:07:25+00:00",
+   "last_count": 35,
+   "last_new": 19,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-11-20T12:54:15+00:00",
-   "last_count": 33,
-   "last_new": 33,
+   "last_success": "2026-11-20T21:07:25+00:00",
+   "last_count": 48,
+   "last_new": 15,
    "error": null
   }
  },
- "count": 4262,
+ "count": 4296,
  "items": [
+  {
+   "id": "f96a6c3674d7",
+   "source": "BSE",
+   "title": "Daily Bulletin",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261120-48/20261120-48.pdf",
+   "date": "2026-11-20",
+   "time": "22:11",
+   "category": "Notice",
+   "ref": "20261120-48",
+   "first_seen": "2026-11-20T21:07:25+00:00"
+  },
+  {
+   "id": "4594f6da52f1",
+   "source": "BSE",
+   "title": "Right Issue of Equity Shares of VELLORA IMPACT LIMITED (Scrip Code- 531257)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261120-47/20261120-47.pdf",
+   "date": "2026-11-20",
+   "time": "21:18",
+   "category": "Notice",
+   "ref": "20261120-47",
+   "first_seen": "2026-11-20T21:07:25+00:00"
+  },
+  {
+   "id": "6289ab4109a1",
+   "source": "BSE",
+   "title": "Right Issue of Equity Shares of INDERGIRI FINANCE LTD. (Scrip Code- 531505)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261120-46/20261120-46.pdf",
+   "date": "2026-11-20",
+   "time": "21:12",
+   "category": "Notice",
+   "ref": "20261120-46",
+   "first_seen": "2026-11-20T21:07:25+00:00"
+  },
+  {
+   "id": "3b8d23017f5a",
+   "source": "BSE",
+   "title": "Right Issue of Equity Shares of BONLON INDUSTRIES LIMITED (Scrip Code- 543211)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261120-45/20261120-45.pdf",
+   "date": "2026-11-20",
+   "time": "21:08",
+   "category": "Notice",
+   "ref": "20261120-45",
+   "first_seen": "2026-11-20T21:07:25+00:00"
+  },
+  {
+   "id": "c5bc0c6e3539",
+   "source": "BSE",
+   "title": "Graded Surveillance Measure (GSM) - List of securities moving into their respective GSM Stages",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261120-44/20261120-44.pdf",
+   "date": "2026-11-20",
+   "time": "19:39",
+   "category": "Surveillance",
+   "ref": "20261120-44",
+   "first_seen": "2026-11-20T21:07:25+00:00"
+  },
+  {
+   "id": "fed80f5cd043",
+   "source": "BSE",
+   "title": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261120-41/20261120-41.pdf",
+   "date": "2026-11-20",
+   "time": "19:38",
+   "category": "Surveillance",
+   "ref": "20261120-41",
+   "first_seen": "2026-11-20T21:07:25+00:00"
+  },
+  {
+   "id": "c60b86bf6b29",
+   "source": "BSE",
+   "title": "CHANGES IN PRICE BAND",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261120-43/20261120-43.pdf",
+   "date": "2026-11-20",
+   "time": "19:38",
+   "category": "Surveillance",
+   "ref": "20261120-43",
+   "first_seen": "2026-11-20T21:07:25+00:00"
+  },
+  {
+   "id": "b7531e03a2ac",
+   "source": "BSE",
+   "title": "Applicability of Long Term Additional Surveillance Measure (LT-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261120-40/20261120-40.pdf",
+   "date": "2026-11-20",
+   "time": "19:38",
+   "category": "Surveillance",
+   "ref": "20261120-40",
+   "first_seen": "2026-11-20T21:07:25+00:00"
+  },
+  {
+   "id": "2d94a7b42ef8",
+   "source": "BSE",
+   "title": "Enhanced Surveillance Measure (ESM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261120-42/20261120-42.pdf",
+   "date": "2026-11-20",
+   "time": "19:38",
+   "category": "Surveillance",
+   "ref": "20261120-42",
+   "first_seen": "2026-11-20T21:07:25+00:00"
+  },
+  {
+   "id": "9360713f102c",
+   "source": "BSE",
+   "title": "Exclusion of Futures and Options contracts of Godfrey Phillips India Ltd from Equity Derivatives Segment.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261120-39/20261120-39.pdf",
+   "date": "2026-11-20",
+   "time": "19:31",
+   "category": "Derivatives",
+   "ref": "20261120-39",
+   "first_seen": "2026-11-20T21:07:25+00:00"
+  },
+  {
+   "id": "bae98664858b",
+   "source": "BSE",
+   "title": "Part Redemption of Debentures",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261120-38/20261120-38.pdf",
+   "date": "2026-11-20",
+   "time": "19:20",
+   "category": "Debt",
+   "ref": "20261120-38",
+   "first_seen": "2026-11-20T21:07:25+00:00"
+  },
+  {
+   "id": "7795253d658d",
+   "source": "BSE",
+   "title": "Tender Offer (Buyback) of Equity Shares of Zee Entertainment Enterprises Ltd.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261120-37/20261120-37.pdf",
+   "date": "2026-11-20",
+   "time": "19:15",
+   "category": "Corporate Action",
+   "ref": "20261120-37",
+   "first_seen": "2026-11-20T21:07:25+00:00"
+  },
+  {
+   "id": "c5ce20d9738c",
+   "source": "BSE",
+   "title": "Merger of Scheme of UNION Mutual Fund on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261120-36/20261120-36.pdf",
+   "date": "2026-11-20",
+   "time": "19:10",
+   "category": "Mutual Funds",
+   "ref": "20261120-36",
+   "first_seen": "2026-11-20T21:07:25+00:00"
+  },
+  {
+   "id": "57e95f25c546",
+   "source": "BSE",
+   "title": "Listing of privately placed securities on the debt market segment of the Exchange",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261120-35/20261120-35.pdf",
+   "date": "2026-11-20",
+   "time": "19:08",
+   "category": "Listing",
+   "ref": "20261120-35",
+   "first_seen": "2026-11-20T21:07:25+00:00"
+  },
+  {
+   "id": "ed99fa6a1e44",
+   "source": "BSE",
+   "title": "Action against the Defaulting Companies for non-payment of Annual Listing Fees (ALF)– Equity Segment",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261120-34/20261120-34.pdf",
+   "date": "2026-11-20",
+   "time": "18:40",
+   "category": "Listing",
+   "ref": "20261120-34",
+   "first_seen": "2026-11-20T21:07:25+00:00"
+  },
   {
    "id": "921899128680",
    "source": "BSE",
@@ -448,6 +613,17 @@
    "first_seen": "2026-11-20T12:54:15+00:00"
   },
   {
+   "id": "c4643044127a",
+   "source": "NSE",
+   "title": "Revised list of Approved Securities and Banks",
+   "url": "https://nsearchives.nseindia.com/content/circulars/COM77555.zip",
+   "date": "2026-11-20",
+   "time": null,
+   "category": "Commodity Derivatives",
+   "ref": "COM77555",
+   "first_seen": "2026-11-20T21:07:25+00:00"
+  },
+  {
    "id": "bf967e2017b6",
    "source": "NSE",
    "title": "Non-Business Day for certain schemes of Mutual Fund on NSE MF Invest Platform for November 2026",
@@ -457,6 +633,61 @@
    "category": "Mutual Funds",
    "ref": "NMF77531",
    "first_seen": "2026-11-20T12:54:15+00:00"
+  },
+  {
+   "id": "bd326826e77d",
+   "source": "NSE",
+   "title": "Revised list of Approved Securities and Banks",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT77554.zip",
+   "date": "2026-11-20",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT77554",
+   "first_seen": "2026-11-20T21:07:25+00:00"
+  },
+  {
+   "id": "a07b845dc6c1",
+   "source": "NSE",
+   "title": "Change in Collateral Timings",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT77548.pdf",
+   "date": "2026-11-20",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT77548",
+   "first_seen": "2026-11-20T21:07:25+00:00"
+  },
+  {
+   "id": "9dca8a247f3f",
+   "source": "NSE",
+   "title": "Reminder for submission of Risk Based Supervision data for the period April 01, 2026 - September 30, 2026",
+   "url": "https://nsearchives.nseindia.com/content/circulars/INSP77560.pdf",
+   "date": "2026-11-20",
+   "time": null,
+   "category": "Inspection",
+   "ref": "INSP77560",
+   "first_seen": "2026-11-20T21:07:25+00:00"
+  },
+  {
+   "id": "9bf88d9aa148",
+   "source": "NSE",
+   "title": "Change in Collateral Timings",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CD77546.pdf",
+   "date": "2026-11-20",
+   "time": null,
+   "category": "Currency Derivatives",
+   "ref": "CD77546",
+   "first_seen": "2026-11-20T21:07:25+00:00"
+  },
+  {
+   "id": "952a3b91e12e",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Blue Cloud Softech Solutions Limited (New Listing)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77544.zip",
+   "date": "2026-11-20",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77544",
+   "first_seen": "2026-11-20T21:07:25+00:00"
   },
   {
    "id": "94d4899af3dc",
@@ -470,6 +701,28 @@
    "first_seen": "2026-11-20T12:54:15+00:00"
   },
   {
+   "id": "93ee508016fd",
+   "source": "NSE",
+   "title": "Settlement Calendar for Buyback Offer under Tender Offer scheme by Global Education LImited.",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT77551.pdf",
+   "date": "2026-11-20",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT77551",
+   "first_seen": "2026-11-20T21:07:25+00:00"
+  },
+  {
+   "id": "93e96e833226",
+   "source": "NSE",
+   "title": "Revised list of Approved Securities and Banks",
+   "url": "https://nsearchives.nseindia.com/content/circulars/DS77556.zip",
+   "date": "2026-11-20",
+   "time": null,
+   "category": "DS",
+   "ref": "DS77556",
+   "first_seen": "2026-11-20T21:07:25+00:00"
+  },
+  {
    "id": "8fe97e53608f",
    "source": "NSE",
    "title": "Revised MWPL, Participant, Institutional & Non-Institutional Client Limits for SMLMAH",
@@ -479,6 +732,28 @@
    "category": "Clearing & Settlement",
    "ref": "CMPT77525",
    "first_seen": "2026-11-20T12:54:15+00:00"
+  },
+  {
+   "id": "8870b0b1fe85",
+   "source": "NSE",
+   "title": "Revised list of Approved Securities and Banks",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT77557.zip",
+   "date": "2026-11-20",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT77557",
+   "first_seen": "2026-11-20T21:07:25+00:00"
+  },
+  {
+   "id": "83cb3c137a45",
+   "source": "NSE",
+   "title": "Change in Collateral Timings",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT77550.pdf",
+   "date": "2026-11-20",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT77550",
+   "first_seen": "2026-11-20T21:07:25+00:00"
   },
   {
    "id": "8253f75f5aa6",
@@ -536,6 +811,61 @@
    "first_seen": "2026-11-20T12:54:15+00:00"
   },
   {
+   "id": "5f7e51924240",
+   "source": "NSE",
+   "title": "Reminder for Submission of Half Yearly Networth Certificate as on September 30, 2026",
+   "url": "https://nsearchives.nseindia.com/content/circulars/COMP77532.pdf",
+   "date": "2026-11-20",
+   "time": null,
+   "category": "COMP",
+   "ref": "COMP77532",
+   "first_seen": "2026-11-20T21:07:25+00:00"
+  },
+  {
+   "id": "5bd5b066e27d",
+   "source": "NSE",
+   "title": "Change in Collateral Timings",
+   "url": "https://nsearchives.nseindia.com/content/circulars/EGR77552.pdf",
+   "date": "2026-11-20",
+   "time": null,
+   "category": "Electronic Gold Receipts",
+   "ref": "EGR77552",
+   "first_seen": "2026-11-20T21:07:25+00:00"
+  },
+  {
+   "id": "4244dccc8a44",
+   "source": "NSE",
+   "title": "Applicability of Enhanced Surveillance Measure (ESM)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/SURV77534.zip",
+   "date": "2026-11-20",
+   "time": null,
+   "category": "Surveillance",
+   "ref": "SURV77534",
+   "first_seen": "2026-11-20T21:07:25+00:00"
+  },
+  {
+   "id": "418f7e83462a",
+   "source": "NSE",
+   "title": "Change in Collateral Timings",
+   "url": "https://nsearchives.nseindia.com/content/circulars/COM77547.pdf",
+   "date": "2026-11-20",
+   "time": null,
+   "category": "Commodity Derivatives",
+   "ref": "COM77547",
+   "first_seen": "2026-11-20T21:07:25+00:00"
+  },
+  {
+   "id": "365046f250d9",
+   "source": "NSE",
+   "title": "Compliance with the guidelines on 'Safer participation of Retail Investors in Algorithmic trading' issued by SEBI and Exchanges - Tech-savvy Retail Investors",
+   "url": "https://nsearchives.nseindia.com/content/circulars/INSP77559.pdf",
+   "date": "2026-11-20",
+   "time": null,
+   "category": "Inspection",
+   "ref": "INSP77559",
+   "first_seen": "2026-11-20T21:07:25+00:00"
+  },
+  {
    "id": "2c2e67d7cce0",
    "source": "NSE",
    "title": "Member Interface Testing of Two-way portability across Clearing Corporations- Software as a Service (SaaS) Model",
@@ -567,6 +897,50 @@
    "category": "Futures & Options",
    "ref": "FAOP77541",
    "first_seen": "2026-11-20T12:54:15+00:00"
+  },
+  {
+   "id": "1622d8bac6bf",
+   "source": "NSE",
+   "title": "Listing of further issues of securities",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77545.pdf",
+   "date": "2026-11-20",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77545",
+   "first_seen": "2026-11-20T21:07:25+00:00"
+  },
+  {
+   "id": "13b720488fcc",
+   "source": "NSE",
+   "title": "Revised list of Approved Securities and Banks",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT77558.zip",
+   "date": "2026-11-20",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT77558",
+   "first_seen": "2026-11-20T21:07:25+00:00"
+  },
+  {
+   "id": "139ee075d5d0",
+   "source": "NSE",
+   "title": "Revised list of Approved Securities and Banks",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CD77553.zip",
+   "date": "2026-11-20",
+   "time": null,
+   "category": "Currency Derivatives",
+   "ref": "CD77553",
+   "first_seen": "2026-11-20T21:07:25+00:00"
+  },
+  {
+   "id": "084e44ed41f3",
+   "source": "NSE",
+   "title": "Change in Collateral Timings",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT77543.pdf",
+   "date": "2026-11-20",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT77543",
+   "first_seen": "2026-11-20T21:07:25+00:00"
   },
   {
    "id": "debe28c4afd7",
