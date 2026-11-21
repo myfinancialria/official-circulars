@@ -1,11 +1,11 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-11-20T21:07:25+00:00",
+ "generated_at": "2026-11-21T12:40:15+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-11-20T21:07:25+00:00",
+   "last_success": "2026-11-21T12:40:15+00:00",
    "last_count": 0,
    "last_new": 0,
    "error": null
@@ -13,22 +13,33 @@
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-11-20T21:07:25+00:00",
+   "last_success": "2026-11-21T12:40:15+00:00",
    "last_count": 35,
-   "last_new": 19,
+   "last_new": 0,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-11-20T21:07:25+00:00",
-   "last_count": 48,
-   "last_new": 15,
+   "last_success": "2026-11-21T12:40:15+00:00",
+   "last_count": 1,
+   "last_new": 1,
    "error": null
   }
  },
- "count": 4296,
+ "count": 4297,
  "items": [
+  {
+   "id": "f719c0bcb51a",
+   "source": "BSE",
+   "title": "Release of new version of Market data API in Equity Derivatives Segment",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261121-1/20261121-1.pdf",
+   "date": "2026-11-21",
+   "time": "13:17",
+   "category": "Derivatives",
+   "ref": "20261121-1",
+   "first_seen": "2026-11-21T12:40:15+00:00"
+  },
   {
    "id": "f96a6c3674d7",
    "source": "BSE",
