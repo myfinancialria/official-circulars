@@ -1,11 +1,11 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-11-23T14:40:28+00:00",
+ "generated_at": "2026-11-24T00:53:47+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-11-23T14:40:28+00:00",
+   "last_success": "2026-11-24T00:53:47+00:00",
    "last_count": 0,
    "last_new": 0,
    "error": null
@@ -13,22 +13,165 @@
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-11-23T14:40:28+00:00",
-   "last_count": 19,
-   "last_new": 19,
+   "last_success": "2026-11-24T00:53:47+00:00",
+   "last_count": 20,
+   "last_new": 1,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-11-23T14:40:28+00:00",
-   "last_count": 21,
-   "last_new": 21,
+   "last_success": "2026-11-24T00:53:47+00:00",
+   "last_count": 34,
+   "last_new": 13,
    "error": null
   }
  },
- "count": 4337,
+ "count": 4351,
  "items": [
+  {
+   "id": "5c34c88d0dec",
+   "source": "BSE",
+   "title": "Daily Bulletin",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261123-34/20261123-34.pdf",
+   "date": "2026-11-23",
+   "time": "22:40",
+   "category": "Notice",
+   "ref": "20261123-34",
+   "first_seen": "2026-11-24T00:53:47+00:00"
+  },
+  {
+   "id": "d7580e36bf7a",
+   "source": "BSE",
+   "title": "Part Redemption of Debentures/ Bonds/ PTCs of Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261123-33/20261123-33.pdf",
+   "date": "2026-11-23",
+   "time": "22:39",
+   "category": "Debt",
+   "ref": "20261123-33",
+   "first_seen": "2026-11-24T00:53:47+00:00"
+  },
+  {
+   "id": "dd0bb8ae94a4",
+   "source": "BSE",
+   "title": "Change In Name of Company - GSB Finance Ltd (Scrip Code: 511543)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261123-32/20261123-32.pdf",
+   "date": "2026-11-23",
+   "time": "22:37",
+   "category": "Notice",
+   "ref": "20261123-32",
+   "first_seen": "2026-11-24T00:53:47+00:00"
+  },
+  {
+   "id": "ad3ddf9e9f25",
+   "source": "BSE",
+   "title": "Change in Scrip ID of Max Earth Resources Ltd (Scrip Code: 534563)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261123-31/20261123-31.pdf",
+   "date": "2026-11-23",
+   "time": "22:35",
+   "category": "Notice",
+   "ref": "20261123-31",
+   "first_seen": "2026-11-24T00:53:47+00:00"
+  },
+  {
+   "id": "72a076306984",
+   "source": "BSE",
+   "title": "Resumption of Trading in the Equity Shares of OTCO International Ltd (Scrip Code 523151)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261123-30/20261123-30.pdf",
+   "date": "2026-11-23",
+   "time": "22:30",
+   "category": "Trading",
+   "ref": "20261123-30",
+   "first_seen": "2026-11-24T00:53:47+00:00"
+  },
+  {
+   "id": "191540390e24",
+   "source": "BSE",
+   "title": "Rights Issue of Equity Shares of JTL DEFENCE LIMITED (Scrip Code- 537254)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261123-29/20261123-29.pdf",
+   "date": "2026-11-23",
+   "time": "22:29",
+   "category": "Listing",
+   "ref": "20261123-29",
+   "first_seen": "2026-11-24T00:53:47+00:00"
+  },
+  {
+   "id": "7273a010096c",
+   "source": "BSE",
+   "title": "Market Wide Position Limits for newly introduced Scrips in Equity Derivatives Segment",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261123-28/20261123-28.pdf",
+   "date": "2026-11-23",
+   "time": "21:42",
+   "category": "Derivatives",
+   "ref": "20261123-28",
+   "first_seen": "2026-11-24T00:53:47+00:00"
+  },
+  {
+   "id": "fce34c6449e0",
+   "source": "BSE",
+   "title": "Applicability of Long-Term Additional Surveillance Measure (LT-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261123-27/20261123-27.pdf",
+   "date": "2026-11-23",
+   "time": "20:22",
+   "category": "Surveillance",
+   "ref": "20261123-27",
+   "first_seen": "2026-11-24T00:53:47+00:00"
+  },
+  {
+   "id": "842030408f91",
+   "source": "BSE",
+   "title": "Enhanced Surveillance Measure (ESM).",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261123-26/20261123-26.pdf",
+   "date": "2026-11-23",
+   "time": "20:22",
+   "category": "Surveillance",
+   "ref": "20261123-26",
+   "first_seen": "2026-11-24T00:53:47+00:00"
+  },
+  {
+   "id": "e40d4a29742b",
+   "source": "BSE",
+   "title": "REVISION OF SCRIPS IN TRADE TO TRADE SEGMENT",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261123-25/20261123-25.pdf",
+   "date": "2026-11-23",
+   "time": "20:21",
+   "category": "Trading",
+   "ref": "20261123-25",
+   "first_seen": "2026-11-24T00:53:47+00:00"
+  },
+  {
+   "id": "50bdb84c0312",
+   "source": "BSE",
+   "title": "Graded Surveillance Measure (GSM) - List of securities moving into their respective GSM Stages",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261123-24/20261123-24.pdf",
+   "date": "2026-11-23",
+   "time": "20:21",
+   "category": "Surveillance",
+   "ref": "20261123-24",
+   "first_seen": "2026-11-24T00:53:47+00:00"
+  },
+  {
+   "id": "d9b5e7a41d79",
+   "source": "BSE",
+   "title": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261123-22/20261123-22.pdf",
+   "date": "2026-11-23",
+   "time": "20:20",
+   "category": "Surveillance",
+   "ref": "20261123-22",
+   "first_seen": "2026-11-24T00:53:47+00:00"
+  },
+  {
+   "id": "cd10a5e49229",
+   "source": "BSE",
+   "title": "CHANGES IN PRICE BAND",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261123-23/20261123-23.pdf",
+   "date": "2026-11-23",
+   "time": "20:20",
+   "category": "Surveillance",
+   "ref": "20261123-23",
+   "first_seen": "2026-11-24T00:53:47+00:00"
+  },
   {
    "id": "814fa7ad5980",
    "source": "BSE",
@@ -292,6 +435,17 @@
    "category": "Listing",
    "ref": "CML77561",
    "first_seen": "2026-11-23T14:40:28+00:00"
+  },
+  {
+   "id": "9ddb0fe1d7a0",
+   "source": "NSE",
+   "title": "Revised list of Cross Margin Eligible Exchange Traded Funds (ETFs)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT77579.pdf",
+   "date": "2026-11-23",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT77579",
+   "first_seen": "2026-11-24T00:53:47+00:00"
   },
   {
    "id": "916f3d27b37d",
