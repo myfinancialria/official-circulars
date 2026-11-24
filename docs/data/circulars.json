@@ -1,11 +1,11 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-11-24T00:53:47+00:00",
+ "generated_at": "2026-11-24T14:52:52+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-11-24T00:53:47+00:00",
+   "last_success": "2026-11-24T14:52:52+00:00",
    "last_count": 0,
    "last_new": 0,
    "error": null
@@ -13,22 +13,33 @@
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-11-24T00:53:47+00:00",
-   "last_count": 20,
+   "last_success": "2026-11-24T14:52:52+00:00",
+   "last_count": 1,
    "last_new": 1,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-11-24T00:53:47+00:00",
+   "last_success": "2026-11-24T14:52:52+00:00",
    "last_count": 34,
-   "last_new": 13,
+   "last_new": 0,
    "error": null
   }
  },
- "count": 4351,
+ "count": 4352,
  "items": [
+  {
+   "id": "d70f3fdd029a",
+   "source": "NSE",
+   "title": "Streamlining EOD information dissemination related to Bhavcopy - Update",
+   "url": "https://nsearchives.nseindia.com/content/circulars/MSD77581.pdf",
+   "date": "2026-11-24",
+   "time": null,
+   "category": "MSD",
+   "ref": "MSD77581",
+   "first_seen": "2026-11-24T14:52:52+00:00"
+  },
   {
    "id": "5c34c88d0dec",
    "source": "BSE",
