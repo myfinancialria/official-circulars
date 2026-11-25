@@ -1,11 +1,11 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-11-25T14:23:43+00:00",
+ "generated_at": "2026-11-25T22:34:05+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-11-25T14:23:43+00:00",
+   "last_success": "2026-11-25T22:34:05+00:00",
    "last_count": 0,
    "last_new": 0,
    "error": null
@@ -13,22 +13,77 @@
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-11-25T14:23:43+00:00",
-   "last_count": 29,
-   "last_new": 29,
+   "last_success": "2026-11-25T22:34:05+00:00",
+   "last_count": 31,
+   "last_new": 2,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-11-25T14:23:43+00:00",
-   "last_count": 33,
-   "last_new": 33,
+   "last_success": "2026-11-25T22:34:05+00:00",
+   "last_count": 38,
+   "last_new": 5,
    "error": null
   }
  },
- "count": 4414,
+ "count": 4421,
  "items": [
+  {
+   "id": "6e3c6ac86b35",
+   "source": "BSE",
+   "title": "Daily Bulletin",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261125-38/20261125-38.pdf",
+   "date": "2026-11-25",
+   "time": "22:06",
+   "category": "Notice",
+   "ref": "20261125-38",
+   "first_seen": "2026-11-25T22:34:05+00:00"
+  },
+  {
+   "id": "c20867130a24",
+   "source": "BSE",
+   "title": "Part Redemption of Debentures /Bonds/ PTCs of Companies",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261125-37/20261125-37.pdf",
+   "date": "2026-11-25",
+   "time": "22:04",
+   "category": "Debt",
+   "ref": "20261125-37",
+   "first_seen": "2026-11-25T22:34:05+00:00"
+  },
+  {
+   "id": "ac76d04c6302",
+   "source": "BSE",
+   "title": "Sub-Division of the Equity Shares of S.P. Apparels Ltd (Scrip Code:540048)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261125-36/20261125-36.pdf",
+   "date": "2026-11-25",
+   "time": "21:59",
+   "category": "Corporate Action",
+   "ref": "20261125-36",
+   "first_seen": "2026-11-25T22:34:05+00:00"
+  },
+  {
+   "id": "7412bf68c59b",
+   "source": "BSE",
+   "title": "New ISIN Number on Stock Split of Varvee Global Ltd (Scrip Code:514274)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261125-35/20261125-35.pdf",
+   "date": "2026-11-25",
+   "time": "21:57",
+   "category": "Corporate Action",
+   "ref": "20261125-35",
+   "first_seen": "2026-11-25T22:34:05+00:00"
+  },
+  {
+   "id": "4f969fd6fd47",
+   "source": "BSE",
+   "title": "Listing of Equity Shares of Crystal Crop Protection Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261125-34/20261125-34.pdf",
+   "date": "2026-11-25",
+   "time": "20:03",
+   "category": "Listing",
+   "ref": "20261125-34",
+   "first_seen": "2026-11-25T22:34:05+00:00"
+  },
   {
    "id": "22077364de8f",
    "source": "BSE",
@@ -602,6 +657,17 @@
    "first_seen": "2026-11-25T14:23:43+00:00"
   },
   {
+   "id": "4308ce9d8bfb",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of HEG Limited (formerly known as HEG Graphite Limited) pursuant to the Scheme of Arrangement",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77613.zip",
+   "date": "2026-11-25",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77613",
+   "first_seen": "2026-11-25T22:34:05+00:00"
+  },
+  {
    "id": "3f2698ed2a22",
    "source": "NSE",
    "title": "Listing of units issued by Motilal Oswal Asset Management Company Limited (Motilal Oswal Nifty PSU Bank ETF, Motilal Oswal Nifty500 Growth 50 ETF, Motilal Oswal Nifty Private Bank ETF, Motilal Oswal Nifty REITs & Realty ETF and Motilal Oswal Nifty 10 yr Benchmark G-Sec ETF)",
@@ -666,6 +732,17 @@
    "category": "COMP",
    "ref": "COMP77604",
    "first_seen": "2026-11-25T14:23:43+00:00"
+  },
+  {
+   "id": "23eb1cadbf08",
+   "source": "NSE",
+   "title": "Listing of further issues of securities",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77614.pdf",
+   "date": "2026-11-25",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77614",
+   "first_seen": "2026-11-25T22:34:05+00:00"
   },
   {
    "id": "1f00e65296bc",
