@@ -1,34 +1,155 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-11-26T13:54:37+00:00",
+ "generated_at": "2026-11-26T22:22:01+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
    "ok": true,
-   "last_success": "2026-11-26T13:54:37+00:00",
+   "last_success": "2026-11-26T22:22:01+00:00",
    "last_count": 30,
-   "last_new": 30,
+   "last_new": 0,
    "error": null
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-11-26T13:54:37+00:00",
-   "last_count": 15,
-   "last_new": 15,
+   "last_success": "2026-11-26T22:22:01+00:00",
+   "last_count": 18,
+   "last_new": 3,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-11-26T13:54:37+00:00",
-   "last_count": 36,
-   "last_new": 36,
+   "last_success": "2026-11-26T22:22:01+00:00",
+   "last_count": 47,
+   "last_new": 11,
    "error": null
   }
  },
- "count": 4502,
+ "count": 4516,
  "items": [
+  {
+   "id": "6daf35f770e2",
+   "source": "BSE",
+   "title": "Daily Bulletin",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261126-47/20261126-47.pdf",
+   "date": "2026-11-26",
+   "time": "22:07",
+   "category": "Notice",
+   "ref": "20261126-47",
+   "first_seen": "2026-11-26T22:22:01+00:00"
+  },
+  {
+   "id": "b35fb334edb5",
+   "source": "BSE",
+   "title": "Reduction of Equity Share Capital of BEEYU OVERSEAS LTD. (Scrip code:-532645)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261126-46/20261126-46.pdf",
+   "date": "2026-11-26",
+   "time": "22:06",
+   "category": "Notice",
+   "ref": "20261126-46",
+   "first_seen": "2026-11-26T22:22:01+00:00"
+  },
+  {
+   "id": "c59a8400c39a",
+   "source": "BSE",
+   "title": "Applicability of Long-Term Additional Surveillance Measure (LT-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261126-45/20261126-45.pdf",
+   "date": "2026-11-26",
+   "time": "20:06",
+   "category": "Surveillance",
+   "ref": "20261126-45",
+   "first_seen": "2026-11-26T22:22:01+00:00"
+  },
+  {
+   "id": "a2e10be01e4f",
+   "source": "BSE",
+   "title": "Enhanced Surveillance Measure (ESM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261126-43/20261126-43.pdf",
+   "date": "2026-11-26",
+   "time": "20:06",
+   "category": "Surveillance",
+   "ref": "20261126-43",
+   "first_seen": "2026-11-26T22:22:01+00:00"
+  },
+  {
+   "id": "3d5beef710ec",
+   "source": "BSE",
+   "title": "Graded Surveillance Measure (GSM) - List of securities moving into their respective GSM Stages",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261126-41/20261126-41.pdf",
+   "date": "2026-11-26",
+   "time": "20:06",
+   "category": "Surveillance",
+   "ref": "20261126-41",
+   "first_seen": "2026-11-26T22:22:01+00:00"
+  },
+  {
+   "id": "2ea523ce3b21",
+   "source": "BSE",
+   "title": "CHANGES IN PRICE BAND",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261126-42/20261126-42.pdf",
+   "date": "2026-11-26",
+   "time": "20:06",
+   "category": "Surveillance",
+   "ref": "20261126-42",
+   "first_seen": "2026-11-26T22:22:01+00:00"
+  },
+  {
+   "id": "114f04e9be91",
+   "source": "BSE",
+   "title": "Applicability of Short Term Additional Surveillance Measure (ST-ASM)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261126-44/20261126-44.pdf",
+   "date": "2026-11-26",
+   "time": "20:06",
+   "category": "Surveillance",
+   "ref": "20261126-44",
+   "first_seen": "2026-11-26T22:22:01+00:00"
+  },
+  {
+   "id": "3d125b839389",
+   "source": "BSE",
+   "title": "Ex-Parte Interim Order in the matter of Le Lavoir Limited (referred to as “LLL/Company”) and Others",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261126-40/20261126-40.pdf",
+   "date": "2026-11-26",
+   "time": "19:50",
+   "category": "Notice",
+   "ref": "20261126-40",
+   "first_seen": "2026-11-26T22:22:01+00:00"
+  },
+  {
+   "id": "2bde245f0780",
+   "source": "BSE",
+   "title": "Opening of Offer to Buy – Acquisition Window (Takeover) for TUSALDAH LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261126-39/20261126-39.pdf",
+   "date": "2026-11-26",
+   "time": "19:29",
+   "category": "Notice",
+   "ref": "20261126-39",
+   "first_seen": "2026-11-26T22:22:01+00:00"
+  },
+  {
+   "id": "8e741e494aa9",
+   "source": "BSE",
+   "title": "Opening of Offer to Buy – Acquisition Window (Takeover) for ACI INFOCOM LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261126-38/20261126-38.pdf",
+   "date": "2026-11-26",
+   "time": "19:28",
+   "category": "Notice",
+   "ref": "20261126-38",
+   "first_seen": "2026-11-26T22:22:01+00:00"
+  },
+  {
+   "id": "8660bb561269",
+   "source": "BSE",
+   "title": "Opening Of Offer to Buy – Acquisition Window (Takeover) for MAYUR LEATHER PRODUCTS LIMITED",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261126-37/20261126-37.pdf",
+   "date": "2026-11-26",
+   "time": "19:28",
+   "category": "Notice",
+   "ref": "20261126-37",
+   "first_seen": "2026-11-26T22:22:01+00:00"
+  },
   {
    "id": "07268f858bb0",
    "source": "BSE",
@@ -569,6 +690,17 @@
    "first_seen": "2026-11-26T13:54:37+00:00"
   },
   {
+   "id": "4cccca36ebcf",
+   "source": "NSE",
+   "title": "Suspension of trading in T-Bills, State Government Bonds, Government Securities and Sovereign Gold Bonds - On account of redemption",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77623.pdf",
+   "date": "2026-11-26",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77623",
+   "first_seen": "2026-11-26T22:22:01+00:00"
+  },
+  {
    "id": "471a08bd77a2",
    "source": "NSE",
    "title": "Listing of Equity Shares of Mahanadi Coalfields Limited (IPO)",
@@ -580,6 +712,17 @@
    "first_seen": "2026-11-26T13:54:37+00:00"
   },
   {
+   "id": "467b8ad21cc8",
+   "source": "NSE",
+   "title": "Listing of Equity Shares of Mafatlal Industries Limited (New Listing)",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77634.zip",
+   "date": "2026-11-26",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77634",
+   "first_seen": "2026-11-26T22:22:01+00:00"
+  },
+  {
    "id": "3ee5346e1daa",
    "source": "SEBI",
    "title": "Ex-Parte Interim Order in the matter of Le Lavoir Limited and Others",
@@ -589,6 +732,17 @@
    "category": "Order",
    "ref": null,
    "first_seen": "2026-11-26T13:54:37+00:00"
+  },
+  {
+   "id": "39bfc38d4397",
+   "source": "NSE",
+   "title": "Listing of further issue of Aurum PropTech Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77624.pdf",
+   "date": "2026-11-26",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77624",
+   "first_seen": "2026-11-26T22:22:01+00:00"
   },
   {
    "id": "287d35ff8f26",
