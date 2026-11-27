@@ -1,34 +1,156 @@
 {
  "site": "myfinancial · Official Circulars",
- "generated_at": "2026-11-27T13:52:38+00:00",
+ "generated_at": "2026-11-27T21:58:24+00:00",
  "sources": {
   "SEBI": {
    "feed": "https://www.sebi.gov.in/sebirss.xml",
-   "ok": true,
+   "ok": false,
    "last_success": "2026-11-27T13:52:38+00:00",
    "last_count": 30,
    "last_new": 11,
-   "error": null
+   "error": "URLError: <urlopen error [Errno -3] Temporary failure in name resolution>",
+   "last_attempt": "2026-11-27T21:58:24+00:00"
   },
   "NSE": {
    "feed": "https://nsearchives.nseindia.com/content/RSS/Circulars.xml",
    "ok": true,
-   "last_success": "2026-11-27T13:52:38+00:00",
-   "last_count": 23,
-   "last_new": 23,
+   "last_success": "2026-11-27T21:58:24+00:00",
+   "last_count": 26,
+   "last_new": 3,
    "error": null
   },
   "BSE": {
    "feed": "https://www.bseindia.com/data/xml/notices.xml",
    "ok": true,
-   "last_success": "2026-11-27T13:52:38+00:00",
-   "last_count": 31,
-   "last_new": 31,
+   "last_success": "2026-11-27T21:58:24+00:00",
+   "last_count": 42,
+   "last_new": 11,
    "error": null
   }
  },
- "count": 4581,
+ "count": 4595,
  "items": [
+  {
+   "id": "b6661439d75f",
+   "source": "BSE",
+   "title": "Offer to Buy – Acquisition Window (Takeover) for ACI INFOCOM LTD– Live Activities Schedule",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261127-42/20261127-42.pdf",
+   "date": "2026-11-27",
+   "time": "22:57",
+   "category": "Notice",
+   "ref": "20261127-42",
+   "first_seen": "2026-11-27T21:58:24+00:00"
+  },
+  {
+   "id": "b1d29f9c0ec4",
+   "source": "BSE",
+   "title": "Daily Bulletin",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261127-41/20261127-41.pdf",
+   "date": "2026-11-27",
+   "time": "22:44",
+   "category": "Notice",
+   "ref": "20261127-41",
+   "first_seen": "2026-11-27T21:58:24+00:00"
+  },
+  {
+   "id": "ce4d5a3d4c97",
+   "source": "BSE",
+   "title": "Part Redemption of Debentures and PTC's",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261127-40/20261127-40.pdf",
+   "date": "2026-11-27",
+   "time": "21:49",
+   "category": "Debt",
+   "ref": "20261127-40",
+   "first_seen": "2026-11-27T21:58:24+00:00"
+  },
+  {
+   "id": "5e6703a87758",
+   "source": "BSE",
+   "title": "Revised MWPL Position Limits for Tech Mahindra Ltd.",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261127-39/20261127-39.pdf",
+   "date": "2026-11-27",
+   "time": "21:48",
+   "category": "Notice",
+   "ref": "20261127-39",
+   "first_seen": "2026-11-27T21:58:24+00:00"
+  },
+  {
+   "id": "49d185e13fea",
+   "source": "BSE",
+   "title": "Bonus Issue of Equity Shares of Indus Finance Limited (Scrip Code-531841)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261127-38/20261127-38.pdf",
+   "date": "2026-11-27",
+   "time": "21:47",
+   "category": "Listing",
+   "ref": "20261127-38",
+   "first_seen": "2026-11-27T21:58:24+00:00"
+  },
+  {
+   "id": "6111677a3174",
+   "source": "BSE",
+   "title": "Change In Name of Company - Icodex Publishing Solutions Ltd (Scrip Code: 544483)",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261127-37/20261127-37.pdf",
+   "date": "2026-11-27",
+   "time": "21:43",
+   "category": "Notice",
+   "ref": "20261127-37",
+   "first_seen": "2026-11-27T21:58:24+00:00"
+  },
+  {
+   "id": "5908bbc654bf",
+   "source": "BSE",
+   "title": "Introduction of Weekly IDCW option in PGIM INDIA MUTUAL FUND on BSE StAR MF platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261127-35/20261127-35.pdf",
+   "date": "2026-11-27",
+   "time": "19:50",
+   "category": "Mutual Funds",
+   "ref": "20261127-35",
+   "first_seen": "2026-11-27T21:58:24+00:00"
+  },
+  {
+   "id": "4a3efd04e1f9",
+   "source": "BSE",
+   "title": "Launch of New Fund Offer (NFO) with SIP Facility of CANARA ROBECO MUTUAL FUND on BSE StAR MF Platform",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261127-36/20261127-36.pdf",
+   "date": "2026-11-27",
+   "time": "19:50",
+   "category": "Mutual Funds",
+   "ref": "20261127-36",
+   "first_seen": "2026-11-27T21:58:24+00:00"
+  },
+  {
+   "id": "98283dc57f8f",
+   "source": "BSE",
+   "title": "SEBI order in respect of Raj Kumar Yadav in the matter of M/s Real Sunshine Corp Limited",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261127-34/20261127-34.pdf",
+   "date": "2026-11-27",
+   "time": "19:43",
+   "category": "Notice",
+   "ref": "20261127-34",
+   "first_seen": "2026-11-27T21:58:24+00:00"
+  },
+  {
+   "id": "bd5bff13e552",
+   "source": "BSE",
+   "title": "Discontinuation of Fresh Subscriptions and Systematic Registrations in Certain Schemes of Aditya Birla Sun Life Mutual Fund",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261127-33/20261127-33.pdf",
+   "date": "2026-11-27",
+   "time": "19:42",
+   "category": "Mutual Funds",
+   "ref": "20261127-33",
+   "first_seen": "2026-11-27T21:58:24+00:00"
+  },
+  {
+   "id": "c31e9561d3d6",
+   "source": "BSE",
+   "title": "Discontinuation of Fresh Subscriptions and Systematic Registrations in Certain Schemes of Franklin Templeton Mutual Fund Mutual Fund",
+   "url": "https://www.bseindia.com/downloads/UploadDocs/Notices/20261127-32/20261127-32.pdf",
+   "date": "2026-11-27",
+   "time": "19:37",
+   "category": "Mutual Funds",
+   "ref": "20261127-32",
+   "first_seen": "2026-11-27T21:58:24+00:00"
+  },
   {
    "id": "e3a6c94ad79f",
    "source": "BSE",
@@ -459,6 +581,17 @@
    "first_seen": "2026-11-27T13:52:38+00:00"
   },
   {
+   "id": "cbfe0d3145c1",
+   "source": "NSE",
+   "title": "Discontinuation of weekly trading in Securities",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CML77654.pdf",
+   "date": "2026-11-27",
+   "time": null,
+   "category": "Listing",
+   "ref": "CML77654",
+   "first_seen": "2026-11-27T21:58:24+00:00"
+  },
+  {
    "id": "c577d5a1b5a2",
    "source": "NSE",
    "title": "Mock trading on Saturday, November 28, 2026 - No new version release",
@@ -600,6 +733,28 @@
    "category": "Listing",
    "ref": "CML77655",
    "first_seen": "2026-11-27T13:52:38+00:00"
+  },
+  {
+   "id": "67b43328161c",
+   "source": "NSE",
+   "title": "Revised MWPL, TM, FII/FPI & MF limits for TECH MAHINDRA LIMITED",
+   "url": "https://nsearchives.nseindia.com/content/circulars/CMPT77661.pdf",
+   "date": "2026-11-27",
+   "time": null,
+   "category": "Clearing & Settlement",
+   "ref": "CMPT77661",
+   "first_seen": "2026-11-27T21:58:24+00:00"
+  },
+  {
+   "id": "62f61f4e05cd",
+   "source": "NSE",
+   "title": "Order in respect of Raj Kumar Yadav in the matter of M/s Real Sunshine Corp Limited",
+   "url": "https://nsearchives.nseindia.com/content/circulars/INVG77660.zip",
+   "date": "2026-11-27",
+   "time": null,
+   "category": "Investigation",
+   "ref": "INVG77660",
+   "first_seen": "2026-11-27T21:58:24+00:00"
   },
   {
    "id": "5caf8eb14801",
